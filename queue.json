@@ -1,1 +1,18 @@
-{"version":1,"updated_at":"2026-03-14T00:00:00Z","submissions":[]}
+{
+  "version": 1,
+  "updated_at": "2026-03-14T23:30:08.342Z",
+  "submissions": [
+    {
+      "id": "ds-req-hljr0",
+      "prompt": "What about personal finance app",
+      "app_type": "finance",
+      "credit": "Rakis",
+      "submitted_at": "2026-03-14T23:24:59.117Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hljr0",
+      "app_name": "WHAT",
+      "archetype": "finance",
+      "published_at": "2026-03-14T23:30:07.861Z"
+    }
+  ]
+}
