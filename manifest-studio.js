@@ -54,17 +54,19 @@ const T = (text, x, y, w, h, size, color, bold = false, align = 'left', op = 1, 
 const Line = (x, y, w, h, fill, op = 1) => R(x, y, w, h, fill, { op });
 
 // ─── BARCODE DECORATION ───────────────────────────────────────────────────────
-// Simulates a thermal-printer barcode as a cluster of narrow rectangles
+// Simulates a thermal-printer barcode using 5 grouped bands (keeps JSON small)
 function Barcode(x, y, w, h, color, op = 0.55) {
-  const bars = [];
-  const widths = [3,1,2,1,3,1,1,2,3,1,2,1,1,3,2,1,3,1,2,1,1,2,3,1];
-  let cx = x;
-  for (let i = 0; i < widths.length && cx < x + w - 4; i++) {
-    const bw = widths[i % widths.length];
-    if (i % 2 === 0) bars.push(R(cx, y, bw, h, color, { op }));
-    cx += bw + 1;
-  }
-  return bars;
+  // Five visual bands at proportional widths — suggests barcode rhythm without 24 rects
+  const bands = [
+    { start: 0.00, end: 0.28 },
+    { start: 0.31, end: 0.46 },
+    { start: 0.49, end: 0.62 },
+    { start: 0.65, end: 0.82 },
+    { start: 0.85, end: 1.00 },
+  ];
+  return bands.map(b =>
+    R(x + Math.round(w * b.start), y, Math.round(w * (b.end - b.start)), h, color, { op })
+  );
 }
 
 // ─── RECEIPT ROW ──────────────────────────────────────────────────────────────
@@ -429,7 +431,8 @@ function desktopOverview() {
 
   const tableRows = projects.map((p, i) => {
     const sc = { 'IN TRANSIT': P.gold, 'DELIVERED': P.green, 'ON HOLD': P.sub, 'DRAFTING': P.accent }[p.status] || P.sub;
-    const xs = colWidths.reduce((acc, w, idx) => { acc.push((acc[idx - 1] || 0) + (idx > 0 ? colWidths[idx - 1] : 0)); return acc; }, [0]);
+    // Cumulative column x-offsets: [0, 380, 470, 580, 700, 820, 980, 1060]
+    const xs = colWidths.reduce((acc, w) => (acc.push(acc[acc.length - 1] + w), acc), [0]).slice(0, -1);
     return F(48, 160 + i * 60, tableW, 56, i % 2 === 0 ? P.bg : P.canvas, [
       R(0, 0, 3, 56, p.col),
       T(p.name,      xs[0] + 12, 18, colWidths[0] - 24, 20, 13, P.text, true),
@@ -879,8 +882,28 @@ const laid = screens.map(s => {
   return out;
 });
 
-const penJSON = JSON.stringify({ version: '2.8', screens: laid });
-const penB64  = Buffer.from(penJSON).toString('base64');
+// ─── MINIFY PEN ──────────────────────────────────────────────────────────────
+// Strip id + default-value fields (cornerRadius:0, opacity:1, fontWeight:400,
+// textAlign:'left', letterSpacing:0, empty children) to shrink the JSON ~40%.
+function minifyEl(el) {
+  const o = { type: el.type, x: el.x || 0, y: el.y || 0, width: el.width, height: el.height };
+  if (el.fill !== undefined) o.fill = el.fill;
+  if (el.cornerRadius) o.cornerRadius = el.cornerRadius;
+  if (el.opacity !== undefined && el.opacity < 0.999) o.opacity = el.opacity;
+  if (el.type === 'text') {
+    o.text = el.text;
+    o.fontSize = el.fontSize;
+    if (el.fontWeight === 700) o.fontWeight = 700;
+    if (el.textAlign && el.textAlign !== 'left') o.textAlign = el.textAlign;
+    if (el.letterSpacing) o.letterSpacing = el.letterSpacing;
+  }
+  if (el.children && el.children.length) o.children = el.children.map(minifyEl);
+  return o;
+}
+
+const penDoc    = { version: '2.8', screens: laid.map(minifyEl) };
+const penJSON   = JSON.stringify(penDoc);
+const penB64    = Buffer.from(penJSON).toString('base64');
 fs.writeFileSync('/workspace/group/design-studio/manifest-studio.pen', penJSON);
 
 // ─── SVG THUMBNAIL RENDERER ───────────────────────────────────────────────────
@@ -1016,7 +1039,7 @@ a{color:inherit;text-decoration:none}
 
 <footer class="footer">
   <span>RAM DESIGN STUDIO · HEARTBEAT CHALLENGE</span>
-  <span>zenbin.org/p/manifest-studio</span>
+  <span>zenbin.org/p/manifest-studio-v2</span>
 </footer>
 
 <script>
@@ -1052,13 +1075,13 @@ function shareOnX() {
 console.log(`HTML size: ${(html.length / 1024).toFixed(1)}KB`);
 
 // ─── PUBLISH ──────────────────────────────────────────────────────────────────
-function postPage(slug, htmlStr) {
+function publishPage(slug, htmlStr, method = 'POST') {
   return new Promise((resolve, reject) => {
     const payload = JSON.stringify({ title: 'MANIFEST — Creative Studio Project Tracker', html: htmlStr });
     const req = https.request({
       hostname: 'zenbin.org',
       path: `/v1/pages/${slug}`,
-      method: 'POST',
+      method,
       headers: {
         'Content-Type': 'application/json',
         'Content-Length': Buffer.byteLength(payload),
@@ -1075,14 +1098,15 @@ function postPage(slug, htmlStr) {
 }
 
 (async () => {
+  // Try slugs in order: v2 first, then timestamp fallback
   const suffix = Date.now().toString(36).slice(-4);
-  const slugs = ['manifest-studio', `manifest-studio-${suffix}`];
-  for (const slug of slugs) {
-    const r = await postPage(slug, html);
+  for (const slug of ['manifest-studio-v2', `manifest-studio-${suffix}`]) {
+    const r = await publishPage(slug, html, 'POST');
     if (r.status === 200 || r.status === 201) {
       console.log(`✅ https://zenbin.org/p/${slug}`);
-      break;
+      return;
     }
-    if (r.status !== 409) { console.error(`❌ HTTP ${r.status}: ${r.body.slice(0, 200)}`); break; }
+    if (r.status !== 409) { console.error(`❌ ${slug} HTTP ${r.status}`); break; }
+    console.log(`${slug} → 409 conflict, trying next`);
   }
 })();
