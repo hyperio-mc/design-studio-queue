@@ -667,7 +667,7 @@ const laid = screens.map(s => {
   return out;
 });
 
-const penJSON = JSON.stringify({ version: '2.8', screens: laid });
+const penJSON = JSON.stringify({ version: '2.8', children: laid });
 const penB64  = Buffer.from(penJSON).toString('base64');
 fs.writeFileSync('/workspace/group/design-studio/prism-awards.pen', penJSON);
 
