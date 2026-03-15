@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-15T17:35:56.655Z",
+  "updated_at": "2026-03-15T21:02:25.911Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -61,6 +61,18 @@
       "app_name": "Finance",
       "archetype": "finance",
       "published_at": "2026-03-15T17:35:56.284Z"
+    },
+    {
+      "id": "ds-req-hlkqu",
+      "prompt": "A logistics platform to keep track of shipments and deliveries. Ultra modern and minimalistic",
+      "app_type": "auto",
+      "credit": "Anonymous",
+      "submitted_at": "2026-03-15T20:54:24.282Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hlkqu",
+      "app_name": "Logistics",
+      "archetype": "music",
+      "published_at": "2026-03-15T21:02:25.502Z"
     }
   ]
 }
