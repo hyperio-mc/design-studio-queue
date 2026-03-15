@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-15T15:50:08.420Z",
+  "updated_at": "2026-03-15T17:13:01.414Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -37,6 +37,18 @@
       "app_name": "FINANCE",
       "archetype": "finance",
       "published_at": "2026-03-15T15:45:58.945Z"
+    },
+    {
+      "id": "ds-req-hlkkl",
+      "prompt": "A finance monitoring that handles the reporting of financial metrics across an organization. Design should be modern and simple like Robinhood",
+      "app_type": "auto",
+      "credit": "Rakis friend",
+      "submitted_at": "2026-03-15T17:09:40.476Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hlkkl",
+      "app_name": "Finance",
+      "archetype": "finance",
+      "published_at": "2026-03-15T17:13:00.986Z"
     }
   ]
 }
