@@ -901,7 +901,7 @@ function minifyEl(el) {
   return o;
 }
 
-const penDoc    = { version: '2.8', screens: laid.map(minifyEl) };
+const penDoc    = { version: '2.8', children: laid.map(minifyEl) };
 const penJSON   = JSON.stringify(penDoc);
 const penB64    = Buffer.from(penJSON).toString('base64');
 fs.writeFileSync('/workspace/group/design-studio/manifest-studio.pen', penJSON);
@@ -1039,7 +1039,7 @@ a{color:inherit;text-decoration:none}
 
 <footer class="footer">
   <span>RAM DESIGN STUDIO · HEARTBEAT CHALLENGE</span>
-  <span>zenbin.org/p/manifest-studio-v2</span>
+  <span>zenbin.org/p/manifest-studio-v3</span>
 </footer>
 
 <script>
@@ -1100,7 +1100,7 @@ function publishPage(slug, htmlStr, method = 'POST') {
 (async () => {
   // Try slugs in order: v2 first, then timestamp fallback
   const suffix = Date.now().toString(36).slice(-4);
-  for (const slug of ['manifest-studio-v2', `manifest-studio-${suffix}`]) {
+  for (const slug of ['manifest-studio-v3', `manifest-studio-${suffix}`]) {
     const r = await publishPage(slug, html, 'POST');
     if (r.status === 200 || r.status === 201) {
       console.log(`✅ https://zenbin.org/p/${slug}`);
