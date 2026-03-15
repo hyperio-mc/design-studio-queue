@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-15T00:17:13.278Z",
+  "updated_at": "2026-03-15T15:45:59.554Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -25,6 +25,18 @@
       "app_name": "SCOUTCLA",
       "archetype": "social",
       "published_at": "2026-03-15T00:17:12.585Z"
+    },
+    {
+      "id": "ds-req-hlki9",
+      "prompt": "A finance monitoring that handles the reporting of financial metrics across an organization. Design should be modern and simple like Robinhood",
+      "app_type": "auto",
+      "credit": "Anonymous",
+      "submitted_at": "2026-03-15T15:45:13.905Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hlki9",
+      "app_name": "FINANCE",
+      "archetype": "finance",
+      "published_at": "2026-03-15T15:45:58.945Z"
     }
   ]
 }
