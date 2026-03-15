@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-14T23:30:08.342Z",
+  "updated_at": "2026-03-15T00:17:13.278Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -13,6 +13,18 @@
       "app_name": "WHAT",
       "archetype": "finance",
       "published_at": "2026-03-14T23:30:07.861Z"
+    },
+    {
+      "id": "ds-req-hljs7",
+      "prompt": "ScoutClaw Telegram Bridge lets anyone spin up a personal AI agent in under a minute — just create a scoutos.com account, paste your API key into Telegram, and your ScoutClaw is hatched and ready to chat. No dashboards, no config files, no friction. Your agent lives where you already are.",
+      "app_type": "productivity",
+      "credit": "Rakis",
+      "submitted_at": "2026-03-15T00:07:29.452Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hljs7",
+      "app_name": "SCOUTCLA",
+      "archetype": "social",
+      "published_at": "2026-03-15T00:17:12.585Z"
     }
   ]
 }
