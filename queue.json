@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-16T17:01:24.264Z",
+  "updated_at": "2026-03-16T22:00:00.000Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -16,7 +16,7 @@
     },
     {
       "id": "ds-req-hljs7",
-      "prompt": "ScoutClaw Telegram Bridge lets anyone spin up a personal AI agent in under a minute — just create a scoutos.com account, paste your API key into Telegram, and your ScoutClaw is hatched and ready to chat. No dashboards, no config files, no friction. Your agent lives where you already are.",
+      "prompt": "ScoutClaw Telegram Bridge lets anyone spin up a personal AI agent in under a minute \u2014 just create a scoutos.com account, paste your API key into Telegram, and your ScoutClaw is hatched and ready to chat. No dashboards, no config files, no friction. Your agent lives where you already are.",
       "app_type": "productivity",
       "credit": "Rakis",
       "submitted_at": "2026-03-15T00:07:29.452Z",
@@ -48,7 +48,7 @@
       "design_url": "https://zenbin.org/p/community-ds-req-hlkkl",
       "app_name": "Finance",
       "archetype": "finance",
-      "published_at": "2026-03-15T17:13:00.986Z"
+      "published_at": "2026-03-15T17:13:00.836Z"
     },
     {
       "id": "ds-req-hlkl8",
@@ -88,7 +88,7 @@
     },
     {
       "id": "ds-req-hllo4",
-      "prompt": "Create a customer support agent tracking board. This board will allow you to visualize:\n- incoming support requests\n- the agents that have started the conversations\n- the actions that they took\nYou can see the whole dashboard of agents and then drill into each detail. For each customer and support, it will need to tie in to a CRM via Scout agent, and it will need to be multi-tenant with Google Auth login.",
+      "prompt": "Create a customer support agent tracking board. This board will allow you to visualize incoming support requests, the agents that have started the conversations, the actions that they took. You can see the whole dashboard of agents and then drill into each detail.",
       "app_type": "productivity",
       "credit": "Anonymous",
       "submitted_at": "2026-03-16T16:52:20.231Z",
@@ -97,6 +97,84 @@
       "app_name": "Create",
       "archetype": "music",
       "published_at": "2026-03-16T17:01:23.704Z"
+    },
+    {
+      "id": "studio-terroir",
+      "prompt": "Premium wine tech platform for sommeliers and collectors \u2014 cellar management, vintage analytics, tasting notes, auction valuations, and provenance tracking.",
+      "app_type": "studio",
+      "credit": "RAM Studio",
+      "source": "studio",
+      "submitted_at": "2026-03-16T08:00:00.000Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/terroir",
+      "app_name": "TERROIR",
+      "archetype": "food",
+      "published_at": "2026-03-16T08:30:00.000Z"
+    },
+    {
+      "id": "studio-museum-money",
+      "prompt": "A financial education museum \u2014 interactive exhibits on market history, economic crises, investment vehicles, and personal finance literacy.",
+      "app_type": "studio",
+      "credit": "RAM Studio",
+      "source": "studio",
+      "submitted_at": "2026-03-16T09:00:00.000Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/museum-money",
+      "app_name": "MUSEUM",
+      "archetype": "finance",
+      "published_at": "2026-03-16T09:30:00.000Z"
+    },
+    {
+      "id": "studio-prism-awards",
+      "prompt": "An awards discovery and submission platform \u2014 browse live awards programs, track deadlines, submit entries, and manage your recognition portfolio.",
+      "app_type": "studio",
+      "credit": "RAM Studio",
+      "source": "studio",
+      "submitted_at": "2026-03-16T10:00:00.000Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/prism-awards",
+      "app_name": "PRISM",
+      "archetype": "creative",
+      "published_at": "2026-03-16T10:30:00.000Z"
+    },
+    {
+      "id": "studio-manifest",
+      "prompt": "A creative studio OS \u2014 client projects, mood boards, deliverable tracking, invoice management, and creative brief builder for independent studios.",
+      "app_type": "studio",
+      "credit": "RAM Studio",
+      "source": "studio",
+      "submitted_at": "2026-03-16T11:00:00.000Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/manifest-studio-v3",
+      "app_name": "MANIFEST",
+      "archetype": "creative",
+      "published_at": "2026-03-16T11:30:00.000Z"
+    },
+    {
+      "id": "studio-vantage",
+      "prompt": "Contact center supervisor command \u2014 live fleet table with human + AI agents unified, SLA 80/20 gauge, HITL authorization tray, Monitor/Whisper/Barge inline controls, wallboard mode.",
+      "app_type": "studio",
+      "credit": "RAM Studio",
+      "source": "studio",
+      "submitted_at": "2026-03-16T14:00:00.000Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/vantage-cmd",
+      "app_name": "VANTAGE",
+      "archetype": "productivity",
+      "published_at": "2026-03-16T14:30:00.000Z"
+    },
+    {
+      "id": "studio-fortis",
+      "prompt": "Funded trader challenge platform \u2014 risk gauges (max drawdown, daily loss, profit target), P&L calendar heatmap, equity curve, trade journal, and challenge phase stepper.",
+      "app_type": "studio",
+      "credit": "RAM Studio",
+      "source": "studio",
+      "submitted_at": "2026-03-16T18:00:00.000Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/fortis-tr2",
+      "app_name": "FORTIS",
+      "archetype": "finance",
+      "published_at": "2026-03-16T18:30:00.000Z"
     }
   ]
 }
