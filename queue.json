@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-15T21:02:25.911Z",
+  "updated_at": "2026-03-16T13:01:02.980Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -73,6 +73,18 @@
       "app_name": "Logistics",
       "archetype": "music",
       "published_at": "2026-03-15T21:02:25.502Z"
+    },
+    {
+      "id": "ds-req-hllh7",
+      "prompt": "Running app that fat shames you",
+      "app_type": "auto",
+      "credit": "Anonymous",
+      "submitted_at": "2026-03-16T12:43:04.347Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hllh7",
+      "app_name": "Running",
+      "archetype": "productivity",
+      "published_at": "2026-03-16T13:01:02.288Z"
     }
   ]
 }
