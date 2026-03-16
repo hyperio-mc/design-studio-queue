@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-16T22:32:39.083Z",
+  "updated_at": "2026-03-16T22:32:43.434Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -187,6 +187,18 @@
       "app_name": "Able",
       "archetype": "productivity",
       "published_at": "2026-03-16T22:32:38.523Z"
+    },
+    {
+      "id": "ds-req-hllx6",
+      "prompt": "Lead Research Agent\nTakes over lead stages require reps to research the\ncompany website, find the lead on LinkedIn, identify industry/category, estimate company size,\nand assess fit. Rep pastes in a company name, website URL, and any initial notes. The\nagent returns a structured research brief including: company overview, industry/category,\nestimated employee count, likely buyer persona match, best sales strategy, ideal lines to use/emails.",
+      "app_type": "auto",
+      "credit": "Abby Call Experts",
+      "submitted_at": "2026-03-16T22:18:36.960Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hllx6",
+      "app_name": "Lead",
+      "archetype": "commerce",
+      "published_at": "2026-03-16T22:32:42.955Z"
     }
   ]
 }
