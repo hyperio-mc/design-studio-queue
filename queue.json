@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-16T22:00:00.000Z",
+  "updated_at": "2026-03-16T22:30:00.000Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -158,7 +158,7 @@
       "source": "studio",
       "submitted_at": "2026-03-16T14:00:00.000Z",
       "status": "done",
-      "design_url": "https://zenbin.org/p/vantage-cmd",
+      "design_url": "https://zenbin.org/p/vantage-cc1",
       "app_name": "VANTAGE",
       "archetype": "productivity",
       "published_at": "2026-03-16T14:30:00.000Z"
