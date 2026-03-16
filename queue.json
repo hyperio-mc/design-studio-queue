@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-16T13:01:02.980Z",
+  "updated_at": "2026-03-16T17:01:24.264Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -85,6 +85,18 @@
       "app_name": "Running",
       "archetype": "productivity",
       "published_at": "2026-03-16T13:01:02.288Z"
+    },
+    {
+      "id": "ds-req-hllo4",
+      "prompt": "Create a customer support agent tracking board. This board will allow you to visualize:\n- incoming support requests\n- the agents that have started the conversations\n- the actions that they took\nYou can see the whole dashboard of agents and then drill into each detail. For each customer and support, it will need to tie in to a CRM via Scout agent, and it will need to be multi-tenant with Google Auth login.",
+      "app_type": "productivity",
+      "credit": "Anonymous",
+      "submitted_at": "2026-03-16T16:52:20.231Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hllo4",
+      "app_name": "Create",
+      "archetype": "music",
+      "published_at": "2026-03-16T17:01:23.704Z"
     }
   ]
 }
