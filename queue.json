@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-16T22:32:43.434Z",
+  "updated_at": "2026-03-16T22:32:47.449Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -199,6 +199,18 @@
       "app_name": "Lead",
       "archetype": "commerce",
       "published_at": "2026-03-16T22:32:42.955Z"
+    },
+    {
+      "id": "ds-req-hllx9",
+      "prompt": "An app to match you if you want to have a play date for your child. You can choose and connect with approved play date people. You have time slots that you can pick You can put a number of children that can be involved and other criteria like distance and whatever.",
+      "app_type": "auto",
+      "credit": "Abby and Becca",
+      "submitted_at": "2026-03-16T22:21:09.693Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hllx9",
+      "app_name": "Match",
+      "archetype": "productivity",
+      "published_at": "2026-03-16T22:32:47.048Z"
     }
   ]
 }
