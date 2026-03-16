@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-16T22:30:00.000Z",
+  "updated_at": "2026-03-16T22:32:39.083Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -16,7 +16,7 @@
     },
     {
       "id": "ds-req-hljs7",
-      "prompt": "ScoutClaw Telegram Bridge lets anyone spin up a personal AI agent in under a minute \u2014 just create a scoutos.com account, paste your API key into Telegram, and your ScoutClaw is hatched and ready to chat. No dashboards, no config files, no friction. Your agent lives where you already are.",
+      "prompt": "ScoutClaw Telegram Bridge lets anyone spin up a personal AI agent in under a minute — just create a scoutos.com account, paste your API key into Telegram, and your ScoutClaw is hatched and ready to chat. No dashboards, no config files, no friction. Your agent lives where you already are.",
       "app_type": "productivity",
       "credit": "Rakis",
       "submitted_at": "2026-03-15T00:07:29.452Z",
@@ -100,7 +100,7 @@
     },
     {
       "id": "studio-terroir",
-      "prompt": "Premium wine tech platform for sommeliers and collectors \u2014 cellar management, vintage analytics, tasting notes, auction valuations, and provenance tracking.",
+      "prompt": "Premium wine tech platform for sommeliers and collectors — cellar management, vintage analytics, tasting notes, auction valuations, and provenance tracking.",
       "app_type": "studio",
       "credit": "RAM Studio",
       "source": "studio",
@@ -113,7 +113,7 @@
     },
     {
       "id": "studio-museum-money",
-      "prompt": "A financial education museum \u2014 interactive exhibits on market history, economic crises, investment vehicles, and personal finance literacy.",
+      "prompt": "A financial education museum — interactive exhibits on market history, economic crises, investment vehicles, and personal finance literacy.",
       "app_type": "studio",
       "credit": "RAM Studio",
       "source": "studio",
@@ -126,7 +126,7 @@
     },
     {
       "id": "studio-prism-awards",
-      "prompt": "An awards discovery and submission platform \u2014 browse live awards programs, track deadlines, submit entries, and manage your recognition portfolio.",
+      "prompt": "An awards discovery and submission platform — browse live awards programs, track deadlines, submit entries, and manage your recognition portfolio.",
       "app_type": "studio",
       "credit": "RAM Studio",
       "source": "studio",
@@ -139,7 +139,7 @@
     },
     {
       "id": "studio-manifest",
-      "prompt": "A creative studio OS \u2014 client projects, mood boards, deliverable tracking, invoice management, and creative brief builder for independent studios.",
+      "prompt": "A creative studio OS — client projects, mood boards, deliverable tracking, invoice management, and creative brief builder for independent studios.",
       "app_type": "studio",
       "credit": "RAM Studio",
       "source": "studio",
@@ -152,7 +152,7 @@
     },
     {
       "id": "studio-vantage",
-      "prompt": "Contact center supervisor command \u2014 live fleet table with human + AI agents unified, SLA 80/20 gauge, HITL authorization tray, Monitor/Whisper/Barge inline controls, wallboard mode.",
+      "prompt": "Contact center supervisor command — live fleet table with human + AI agents unified, SLA 80/20 gauge, HITL authorization tray, Monitor/Whisper/Barge inline controls, wallboard mode.",
       "app_type": "studio",
       "credit": "RAM Studio",
       "source": "studio",
@@ -165,7 +165,7 @@
     },
     {
       "id": "studio-fortis",
-      "prompt": "Funded trader challenge platform \u2014 risk gauges (max drawdown, daily loss, profit target), P&L calendar heatmap, equity curve, trade journal, and challenge phase stepper.",
+      "prompt": "Funded trader challenge platform — risk gauges (max drawdown, daily loss, profit target), P&L calendar heatmap, equity curve, trade journal, and challenge phase stepper.",
       "app_type": "studio",
       "credit": "RAM Studio",
       "source": "studio",
@@ -175,6 +175,18 @@
       "app_name": "FORTIS",
       "archetype": "finance",
       "published_at": "2026-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "ds-req-hllx3",
+      "prompt": "Be able to screen and identify the best asset strategy for donors. For use by a non profit fundraiser. Philatelic and financial advisors could use it.",
+      "app_type": "auto",
+      "credit": "Anonymous",
+      "submitted_at": "2026-03-16T22:15:56.559Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hllx3",
+      "app_name": "Able",
+      "archetype": "productivity",
+      "published_at": "2026-03-16T22:32:38.523Z"
     }
   ]
 }
