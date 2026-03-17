@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-17T20:11:26.495Z",
+  "updated_at": "2026-03-17T23:35:00.000Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -242,10 +242,16 @@
       "id": "hb-grove-1773778286495",
       "type": "heartbeat",
       "name": "GROVE",
+      "app_name": "GROVE",
+      "archetype": "finance",
+      "source": "studio",
       "description": "Gen Z personal finance app — forest green + neon lime palette (MoMoney-inspired)",
-      "design_url": "https://zenbin.org/p/grove-01",
+      "prompt": "Gen Z personal finance app — forest green + neon lime, inspired by MoMoney Awwwards SOTD.",
+      "design_url": "https://ram.zenbin.org/grove",
       "created_at": "2026-03-17T20:11:26.495Z",
+      "published_at": "2026-03-17T23:30:00.000Z",
       "status": "done",
+      "credit": "RAM Studio",
       "inspiration": "MoMoney by Jordan Gilroy — Awwwards SOTD March 2026",
       "skills_used": [
         "linearGradient",
