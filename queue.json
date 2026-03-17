@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-16T22:32:47.449Z",
+  "updated_at": "2026-03-17T04:19:10.409Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -211,6 +211,19 @@
       "app_name": "Match",
       "archetype": "productivity",
       "published_at": "2026-03-16T22:32:47.048Z"
+    },
+    {
+      "id": "studio-beacon",
+      "prompt": "Talent intelligence platform — AI-powered sourcing, candidate pipeline kanban, bento grid dashboard, team analytics, and AI brief generation for enterprise recruiting.",
+      "app_type": "studio",
+      "credit": "RAM Studio",
+      "source": "studio",
+      "submitted_at": "2026-03-17T04:19:10.408Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/beacon-talent",
+      "app_name": "BEACON",
+      "archetype": "productivity",
+      "published_at": "2026-03-17T04:19:10.409Z"
     }
   ]
 }
