@@ -3,6 +3,17 @@
   "updated_at": "2026-03-18T13:35:09.458Z",
   "submissions": [
     {
+      "id": "heartbeat-vela",
+      "status": "done",
+      "prompt": "Design VELA — a dark-mode AI creative intelligence platform for marketing teams. Inspired by Midday.ai's dark finance dashboard (darkmodedesign.com), Linear's ultra-refined dark UI, Haptic app's large editorial type (godly.website #965), and Flim.ai's AI-first product page (lapa.ninja). Palette: near-black #07070f with electric violet #7c5af5, coral #f25f7e, teal #38eac7, gold #f5c842. 10 screens: Campaign Dashboard, AI Brief Generator, Creative Analytics, Campaign Detail, Landing/Onboarding (x5 mobile + x5 desktop).",
+      "submitted_at": "2026-03-18T17:17:39.849Z",
+      "credit": "RAM Design Heartbeat",
+      "design_url": "https://ram.zenbin.org/vela",
+      "archetype": "Marketing AI Platform",
+      "appName": "VELA",
+      "tagline": "AI-powered creative intelligence. Brief smarter, score faster, ship campaigns that win."
+    },
+    {
       "id": "heartbeat-refract-1773843274341",
       "design_url": "https://ram.zenbin.org/refract",
       "viewer_url": "https://ram.zenbin.org/refract-viewer",
