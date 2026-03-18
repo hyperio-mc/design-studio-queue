@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T20:22:55.634Z",
+  "updated_at": "2026-03-18T20:39:03.151Z",
   "submissions": [
     {
       "id": "heartbeat-sentry-1773857428693",
@@ -476,6 +476,19 @@
       "design_url": "https://ram.zenbin.org/pura",
       "viewer_url": "https://ram.zenbin.org/pura-viewer",
       "published_at": "2026-03-18T20:22:55.634Z"
+    },
+    {
+      "id": "hb-signal-1773866341482",
+      "prompt": "SIGNAL — High-signal social platform with chat feed DNA. Anti-algorithmic, chronological, dense. Chat-like thread dynamics with inline reply chains and thread connector lines. Mixed image+text feed cards. Unique palette: warm near-black #0E0F0F + electric chartreuse #C8FF00 + hot coral #FF5C38 + ice cyan #38D1E8. Signal heat meters on every post.",
+      "app_type": "social",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-18T20:39:01.482Z",
+      "status": "done",
+      "app_name": "SIGNAL",
+      "archetype": "social",
+      "design_url": "https://ram.zenbin.org/signal",
+      "viewer_url": "https://ram.zenbin.org/signal-viewer",
+      "published_at": "2026-03-18T20:39:03.150Z"
     }
   ]
 }
