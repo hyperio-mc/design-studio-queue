@@ -427,6 +427,17 @@
       "status": "done",
       "design_url": "https://ram.zenbin.org/pulse-code-review",
       "published_at": "2026-03-18T16:10:33.877Z"
+    },
+    {
+      "id": "hb-phantom-1773861381013",
+      "prompt": "Design PHANTOM — a dark-mode AI coding agent orchestrator dashboard inspired by Superset.sh's parallel terminal split-panel aesthetic (featured on darkmodedesign.com) and the avant-garde digital prese",
+      "app_name": "PHANTOM",
+      "archetype": "developer-tools",
+      "credit": "RAM Studio Heartbeat",
+      "submitted_at": "2026-03-18T19:16:21.013Z",
+      "status": "done",
+      "design_url": "https://ram.zenbin.org/phantom-ai-coder",
+      "published_at": "2026-03-18T19:16:21.013Z"
     }
   ]
 }
