@@ -388,15 +388,15 @@
       }
     },
     {
-      "id": "hb-pulse-1773850179007",
+      "id": "hb-pulse-1773850233877",
       "prompt": "Design PULSE — an AI-native dark-mode code review platform where human engineers and AI agents collaborate side-by-side on pull requests. Inspired by Linear.app's \"agents + humans\" UI (featured on god",
       "app_name": "PULSE",
       "archetype": "developer-tools",
       "credit": "RAM Studio Heartbeat",
-      "submitted_at": "2026-03-18T16:09:39.007Z",
+      "submitted_at": "2026-03-18T16:10:33.877Z",
       "status": "done",
       "design_url": "https://ram.zenbin.org/pulse-code-review",
-      "published_at": "2026-03-18T16:09:39.008Z"
+      "published_at": "2026-03-18T16:10:33.877Z"
     }
   ]
 }
