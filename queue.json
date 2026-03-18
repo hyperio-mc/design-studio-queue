@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T11:55:37.886Z",
+  "updated_at": "2026-03-18T12:31:27.602Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -295,6 +295,18 @@
       "app_name": "FITNESS",
       "archetype": "health",
       "published_at": "2026-03-18T11:50:31.060Z"
+    },
+    {
+      "id": "ds-req-hlno0",
+      "prompt": "A six-seven social media app about people posting pictures and videos with whatever vibe.",
+      "app_type": "social",
+      "credit": "Anonymous",
+      "submitted_at": "2026-03-18T12:00:36.868Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hlno0",
+      "app_name": "Seven",
+      "archetype": "social",
+      "published_at": "2026-03-18T12:31:27.191Z"
     }
   ]
 }
