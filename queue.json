@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T20:39:03.151Z",
+  "updated_at": "2026-03-18T21:10:15.998Z",
   "submissions": [
     {
       "id": "heartbeat-sentry-1773857428693",
@@ -489,6 +489,17 @@
       "design_url": "https://ram.zenbin.org/signal",
       "viewer_url": "https://ram.zenbin.org/signal-viewer",
       "published_at": "2026-03-18T20:39:03.150Z"
+    },
+    {
+      "id": "hb-cipher-1742299200000",
+      "prompt": "Design a dark-mode developer secrets & API key management SaaS — inspired by Evervault (godly.website #960) for the void-navy aesthetic and pill navigation, Linear (darkmodedesign.com) for cinematic dark surfaces, and the bento grid layouts trending on godly.website. 5 screens: Landing/Hero, Dashboard (bento grid), Secrets List, Key Detail (rotation timeline), Desktop Command Center (3-column split).",
+      "app_type": "developer-tools",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-18T21:10:14.603Z",
+      "status": "done",
+      "design_url": "https://ram.zenbin.org/cipher",
+      "app_name": "CIPHER",
+      "archetype": "developer-tools"
     }
   ]
 }
