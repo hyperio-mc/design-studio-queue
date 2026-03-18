@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T13:02:17.722Z",
+  "updated_at": "2026-03-18T13:35:09.458Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -315,7 +315,7 @@
       "app_name": "GRID",
       "archetype": "finance",
       "source": "studio",
-      "description": "Generational wealth / family office platform — retro pixel-grid CRT aesthetic",
+      "description": "Generational wealth / family office platform — pixel CRT aesthetic. Full hero page with brand spec, CSS tokens, PRD.",
       "prompt": "Generational wealth platform with pixel/retro CRT identity inspired by Yamauchi No.10 Family Office. Charcoal bg, phosphor green CRT frames, scattered pixel dot squares (R/G/B/Y), 4 mobile + 2 desktop screens.",
       "design_url": "https://ram.zenbin.org/grid",
       "created_at": "2026-03-18T14:00:00.000Z",
@@ -329,7 +329,8 @@
         "assetBar",
         "pixel sparkline",
         "pen-utils.js"
-      ]
+      ],
+      "viewer_url": "https://ram.zenbin.org/grid-viewer"
     }
   ]
 }
