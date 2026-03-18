@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T13:35:09.458Z",
+  "updated_at": "2026-03-18T19:40:26.569Z",
   "submissions": [
     {
       "id": "heartbeat-sentry-1773857428693",
@@ -438,6 +438,18 @@
       "status": "done",
       "design_url": "https://ram.zenbin.org/phantom-ai-coder",
       "published_at": "2026-03-18T19:16:21.013Z"
+    },
+    {
+      "id": "ds-req-hlo0k",
+      "prompt": "Twitter clone app with Arweave permanence blockchain features. We can leverage AO and the new HyperBEAM.",
+      "app_type": "social",
+      "credit": "Anonymous",
+      "submitted_at": "2026-03-18T19:32:58.268Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hlo0k",
+      "app_name": "Twitter",
+      "archetype": "social",
+      "published_at": "2026-03-18T19:40:25.876Z"
     }
   ]
 }
