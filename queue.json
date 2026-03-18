@@ -3,6 +3,25 @@
   "updated_at": "2026-03-18T13:35:09.458Z",
   "submissions": [
     {
+      "id": "heartbeat-sentry-1773857428693",
+      "design_url": "https://ram.zenbin.org/sentry",
+      "viewer_url": "https://ram.zenbin.org/sentry-viewer",
+      "title": "SENTRY — AI Agent Ops Platform",
+      "description": "AI agent ops & security monitoring. Watch every agent. Catch every anomaly.",
+      "archetype": "Enterprise SaaS",
+      "palette": {
+        "bg": "#08090A",
+        "surface": "#0F1117",
+        "fg": "#DFE1F4",
+        "accent": "#7170FF",
+        "accent2": "#FFB547"
+      },
+      "screens": 6,
+      "submitted_at": "2026-03-18T18:10:28.693Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "heartbeat-vela",
       "status": "done",
       "prompt": "Design VELA — a dark-mode AI creative intelligence platform for marketing teams. Inspired by Midday.ai's dark finance dashboard (darkmodedesign.com), Linear's ultra-refined dark UI, Haptic app's large editorial type (godly.website #965), and Flim.ai's AI-first product page (lapa.ninja). Palette: near-black #07070f with electric violet #7c5af5, coral #f25f7e, teal #38eac7, gold #f5c842. 10 screens: Campaign Dashboard, AI Brief Generator, Creative Analytics, Campaign Detail, Landing/Onboarding (x5 mobile + x5 desktop).",
