@@ -3,6 +3,24 @@
   "updated_at": "2026-03-18T13:35:09.458Z",
   "submissions": [
     {
+      "id": "heartbeat-refract-1773843216768",
+      "design_url": "https://ram.zenbin.org/refract",
+      "viewer_url": "https://ram.zenbin.org/refract-viewer",
+      "title": "REFRACT — AI Code Refactoring",
+      "description": "AI-powered code refactoring. Write better code, ship faster.",
+      "archetype": "Developer Tool",
+      "palette": {
+        "bg": "#070708",
+        "fg": "#EEEEF0",
+        "accent": "#5EFFC3",
+        "accent2": "#FFE566"
+      },
+      "screens": 10,
+      "submitted_at": "2026-03-18T14:13:36.768Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "ds-req-hljr0",
       "prompt": "What about personal finance app",
       "app_type": "finance",
