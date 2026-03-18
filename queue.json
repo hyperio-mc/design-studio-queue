@@ -3,6 +3,25 @@
   "updated_at": "2026-03-18T22:09:22.088Z",
   "submissions": [
     {
+      "id": "heartbeat-axis-1773875451404",
+      "design_url": "https://ram.zenbin.org/axis",
+      "viewer_url": "https://ram.zenbin.org/axis-viewer",
+      "title": "AXIS — AI Agent Operations Dashboard",
+      "description": "One dashboard for every AI coding agent. Monitor, queue, review.",
+      "archetype": "Developer Tool",
+      "palette": {
+        "bg": "#08090C",
+        "fg": "#F0F0F2",
+        "accent": "#6C5CE7",
+        "accent2": "#BAFF39",
+        "amber": "#FF9F43"
+      },
+      "screens": 10,
+      "submitted_at": "2026-03-18T23:10:51.404Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "heartbeat-sentry-1773857428693",
       "design_url": "https://ram.zenbin.org/sentry",
       "viewer_url": "https://ram.zenbin.org/sentry-viewer",
