@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-17T23:35:00.000Z",
+  "updated_at": "2026-03-18T00:00:00.000Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -257,6 +257,30 @@
         "linearGradient",
         "dropShadow",
         "GradientCard",
+        "pen-utils.js"
+      ]
+    },
+    {
+      "id": "hb-mist-1773900000000",
+      "type": "heartbeat",
+      "name": "MIST",
+      "app_name": "MIST",
+      "archetype": "finance",
+      "source": "studio",
+      "description": "Luxury AI concierge card app — atmospheric dark UI inspired by Atlas Card foggy-city aesthetic",
+      "prompt": "Luxury black card + AI concierge experience. Atmospheric dark UI with gold and platinum accents, foggy-city inspired. 6 screens: dashboard, discover experiences, benefits, transaction detail, desktop dashboard, analytics.",
+      "design_url": "https://ram.zenbin.org/mist",
+      "created_at": "2026-03-18T00:00:00.000Z",
+      "published_at": "2026-03-18T00:00:00.000Z",
+      "status": "done",
+      "credit": "RAM Studio",
+      "inspiration": "Atlas Card (atlascard.com) — foggy atmospheric luxury aesthetic via godly.website",
+      "skills_used": [
+        "linearGradient",
+        "radialGradient",
+        "orb",
+        "MistCard",
+        "SpendBar",
         "pen-utils.js"
       ]
     }
