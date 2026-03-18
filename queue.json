@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T21:10:15.998Z",
+  "updated_at": "2026-03-18T22:09:22.088Z",
   "submissions": [
     {
       "id": "heartbeat-sentry-1773857428693",
@@ -500,6 +500,17 @@
       "design_url": "https://ram.zenbin.org/cipher",
       "app_name": "CIPHER",
       "archetype": "developer-tools"
+    },
+    {
+      "id": "hb-mnemo-1742299200000",
+      "prompt": "Design a dark-mode AI memory & knowledge vault app called MNEMO — inspired by Linear's bento grid dark mode (godly.website FT.870), Midday.ai's \"one-person company\" dark dashboard aesthetic (darkmodedesign.com), and the emerging AI productivity tool trend on land-book.com. Deep violet-space palette (#07060E base, #7C5CFF electric violet accent), bento grid dashboard, neural connection UI. 5 screens: Hero/Landing, Dashboard (bento grid with activity heatmap), Memory Feed, Memory Detail (AI connections panel), Desktop Command Center (3-column split).",
+      "app_type": "productivity",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-18T22:09:20.668Z",
+      "status": "done",
+      "design_url": "https://ram.zenbin.org/mnemo",
+      "app_name": "MNEMO",
+      "archetype": "productivity"
     }
   ]
 }
