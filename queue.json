@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T19:40:26.569Z",
+  "updated_at": "2026-03-18T20:22:55.634Z",
   "submissions": [
     {
       "id": "heartbeat-sentry-1773857428693",
@@ -463,6 +463,19 @@
       "tagline": "AI arbitrage intelligence for marketplace flippers.",
       "archetype": "dark-mobile-finance",
       "screens": 5
+    },
+    {
+      "id": "hb-pura-1773970000000",
+      "prompt": "A skincare ritual tracker and ingredient analyser — warm off-white editorial aesthetic inspired by Aevi Skincare. Track daily routines (morning + evening), log skin condition, analyse ingredient conflicts, and chart 28-day skin progress. Clean, ultra-light typography, hairline borders, botanical colour accents.",
+      "app_type": "health",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-18T20:22:54.065Z",
+      "status": "done",
+      "app_name": "PURA",
+      "archetype": "health",
+      "design_url": "https://ram.zenbin.org/pura",
+      "viewer_url": "https://ram.zenbin.org/pura-viewer",
+      "published_at": "2026-03-18T20:22:55.634Z"
     }
   ]
 }
