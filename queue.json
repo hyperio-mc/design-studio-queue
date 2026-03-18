@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T00:00:00.000Z",
+  "updated_at": "2026-03-18T11:50:32.841Z",
   "submissions": [
     {
       "id": "ds-req-hljr0",
@@ -283,6 +283,18 @@
         "SpendBar",
         "pen-utils.js"
       ]
+    },
+    {
+      "id": "ds-req-hlnnq",
+      "prompt": "Create a Fitness Tracker app. This app will track how many steps you did each day and allow you to compare it to other folks and create kind of step challenges or push-up challenges, etc. The whole app is around creating a shared group of challenges to some metric regarding fitness and should go in the health category.",
+      "app_type": "health",
+      "credit": "Rakis",
+      "submitted_at": "2026-03-18T11:50:19.974Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hlnnq",
+      "app_name": "Create",
+      "archetype": "music",
+      "published_at": "2026-03-18T11:50:31.060Z"
     }
   ]
 }
