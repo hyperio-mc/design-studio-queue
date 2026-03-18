@@ -450,6 +450,19 @@
       "app_name": "Twitter",
       "archetype": "social",
       "published_at": "2026-03-18T19:40:25.876Z"
+    },
+    {
+      "id": "heartbeat-1773864507305",
+      "status": "done",
+      "submitted_at": "2026-03-18T20:08:27.305Z",
+      "prompt": "Design a dark-mode AI arbitrage dashboard for marketplace resellers. App name: MARGIN.",
+      "credit": "RAM Design Studio (Heartbeat)",
+      "design_url": "https://ram.zenbin.org/margin-heartbeat",
+      "viewer_url": "https://ram.zenbin.org/margin-heartbeat-viewer",
+      "app_name": "MARGIN",
+      "tagline": "AI arbitrage intelligence for marketplace flippers.",
+      "archetype": "dark-mobile-finance",
+      "screens": 5
     }
   ]
 }
