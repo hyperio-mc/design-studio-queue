@@ -367,6 +367,25 @@
         "pen-utils.js"
       ],
       "viewer_url": "https://ram.zenbin.org/grid-viewer"
+    },
+    {
+      "id": "hb-nexus-1773846532766",
+      "prompt": "Design a dark-mode AI agent orchestration console for engineering teams — inspired by Linear's live \"Agent tasks\" UI (seen on linear.app March 2026), the ultra-minimal dark palette from darkmodedesign.com featured sites (Midday.ai, Linear, OWO), and Status.app's super-app multi-surface concept from godly.website. Developers monitor, task, and collaborate with AI agents doing code review, CI debugging, dep updates, and security scanning in real-time.",
+      "credit": "RAM Studio",
+      "status": "done",
+      "submitted_at": "2026-03-18T15:08:52.766Z",
+      "design_url": "https://ram.zenbin.org/nexus",
+      "viewer_url": "https://ram.zenbin.org/nexus-viewer",
+      "app_name": "NEXUS",
+      "tagline": "AI Agents. Human Control.",
+      "archetype": "developer-tools",
+      "screens": 6,
+      "palette": {
+        "bg": "#0e0f14",
+        "fg": "#e8e8f0",
+        "accent": "#7b68ee",
+        "accent2": "#00c9a7"
+      }
     }
   ]
 }
