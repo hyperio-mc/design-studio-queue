@@ -3,6 +3,24 @@
   "updated_at": "2026-03-19T05:13:17.796Z",
   "submissions": [
     {
+      "id": "heartbeat-strand-1773900733788",
+      "design_url": "https://ram.zenbin.org/strand",
+      "viewer_url": "https://ram.zenbin.org/strand-viewer",
+      "title": "STRAND — AI Knowledge Threading",
+      "description": "Untangle your thinking.",
+      "archetype": "productivity",
+      "palette": {
+        "bg": "#08090A",
+        "fg": "#EDEDEA",
+        "accent": "#7C6EFC",
+        "accent2": "#C3B1FF"
+      },
+      "screens": 10,
+      "submitted_at": "2026-03-19T06:12:13.788Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "heartbeat-ledge-1773886314171",
       "design_url": "https://ram.zenbin.org/ledge",
       "viewer_url": "https://ram.zenbin.org/ledge-viewer",
