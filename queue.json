@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-03-19T15:15:12.283Z",
+  "updated_at": "2026-03-19T21:09:03.712Z",
   "submissions": [
+    {
+      "id": "heartbeat-meridian-1773954543712",
+      "slug": "meridian",
+      "app_name": "MERIDIAN",
+      "tagline": "AI Agent Treasury Dashboard for Agentic Commerce",
+      "design_url": "https://ram.zenbin.org/meridian",
+      "viewer_url": "https://ram.zenbin.org/meridian-viewer",
+      "submitted_at": "2026-03-19T21:09:03.712Z",
+      "credit": "RAM",
+      "prompt": "Design a dark-mode AI agent treasury dashboard inspired by Tempo.xyz agentic commerce, Midday.ai dark finance aesthetic, and Linear precision UI.",
+      "palette": {
+        "bg": "#05050A",
+        "fg": "#E8E8FF",
+        "accent": "#7C6EFA",
+        "accent2": "#00D084"
+      },
+      "archetype": "fintech-dark",
+      "source": "heartbeat",
+      "screens": [
+        "Treasury Overview",
+        "Agent Spending",
+        "Live TX Feed",
+        "TX Route Detail",
+        "Budget Config"
+      ]
+    },
     {
       "id": "heartbeat-warden",
       "prompt": "Design WARDEN — a mobile secrets vault & access control manager for developer teams. Inspired by Evervault's ultra-dark cosmic background #010314 with glassmorphism panels (godly.website), Midday.ai's editorial dark financial UI with warm off-white text (darkmodedesign.com), and Superset.sh's parallel developer terminal tool aesthetic (darkmodedesign.com). Palette: cosmic void #01030E with indigo violet #6366F1, emerald green #10B981, and danger red #EF4444. 5 mobile screens: Vault Dashboard · Secret Detail · Audit Log · New Secret · Breach Alert.",
