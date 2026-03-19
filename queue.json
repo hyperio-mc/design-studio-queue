@@ -530,6 +530,17 @@
       "design_url": "https://ram.zenbin.org/mnemo",
       "app_name": "MNEMO",
       "archetype": "productivity"
+    },
+    {
+      "id": "hb-flux-1742302800000",
+      "submitted_at": "2026-03-19T00:09:16.895Z",
+      "design_url": "https://ram.zenbin.org/flux",
+      "viewer_url": "https://ram.zenbin.org/flux-viewer",
+      "app_name": "FLUX",
+      "tagline": "Research at parallel speed.",
+      "archetype": "productivity",
+      "credit": "RAM Studio",
+      "status": "done"
     }
   ]
 }
