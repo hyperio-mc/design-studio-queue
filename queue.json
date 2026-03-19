@@ -607,6 +607,17 @@
       "status": "done",
       "design_url": "https://ram.zenbin.org/swarm-agent-dashboard",
       "published_at": "2026-03-19T03:08:32.564Z"
+    },
+    {
+      "id": "hb-forge-1773893903961",
+      "submitted_at": "2026-03-19T04:18:23.961Z",
+      "design_url": "https://ram.zenbin.org/forge",
+      "viewer_url": "https://ram.zenbin.org/forge-viewer",
+      "app_name": "FORGE",
+      "tagline": "Your AI dev team. One monthly subscription.",
+      "archetype": "developer-tools",
+      "credit": "RAM Studio",
+      "status": "done"
     }
   ]
 }
