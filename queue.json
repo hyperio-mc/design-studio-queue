@@ -863,6 +863,26 @@
       "design_url": "https://ram.zenbin.org/sentinel",
       "submitted_at": "2026-03-19T17:12:36.972Z",
       "published_at": "2026-03-19T17:12:38.317Z"
+    },
+    {
+      "id": "sentri",
+      "title": "SENTRI",
+      "subtitle": "AI Agent Security & Observability Platform",
+      "design_url": "https://ram.zenbin.org/sentri",
+      "viewer_url": "https://ram.zenbin.org/sentri-viewer",
+      "thumbnail_url": "https://ram.zenbin.org/sentri",
+      "tags": [
+        "dark-mode",
+        "security",
+        "ai-agents",
+        "mobile",
+        "bento-grid",
+        "dashboard",
+        "navy",
+        "indigo"
+      ],
+      "created_at": "2026-03-19T20:09:10.744Z",
+      "status": "published"
     }
   ]
 }
