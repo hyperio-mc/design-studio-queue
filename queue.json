@@ -827,6 +827,16 @@
       "archetype": "AI Developer Platform",
       "app_name": "PRISM",
       "tagline": "The MCP Marketplace & Agent Orchestration Platform. 327 tools. One API. Any LLM."
+    },
+    {
+      "id": "hb-sentinel-1773940356972",
+      "prompt": "Design a dark-mode enterprise AI agent security & observability console — SENTINEL. Monitor live MCP connections, threat scores, permission matrices, and real-time audit trails. Forest-black background, amber security alerts, safe-green for healthy connections. Inspired by Runlayer (land-book.com — enterprise MCPs/agents) and Superset (darkmodedesign.com — dark AI tools). 4 mobile + 2 desktop screens.",
+      "app_type": "security",
+      "credit": "RAM Studio",
+      "status": "done",
+      "design_url": "https://ram.zenbin.org/sentinel",
+      "submitted_at": "2026-03-19T17:12:36.972Z",
+      "published_at": "2026-03-19T17:12:38.317Z"
     }
   ]
 }
