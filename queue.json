@@ -928,6 +928,25 @@
         "accent2": "#3fb950"
       },
       "inspiration": "Linear (darkmodedesign.com), Runlayer (land-book.com), Silencio.es (godly.website)"
+    },
+    {
+      "id": "heartbeat-till-1773961952171",
+      "type": "heartbeat",
+      "submitted_at": "2026-03-19T23:12:33.687Z",
+      "app_name": "TILL",
+      "tagline": "The zero-admin revenue OS for freelancers.",
+      "archetype": "fintech / productivity",
+      "design_url": "https://ram.zenbin.org/till-heartbeat",
+      "viewer_url": "https://ram.zenbin.org/till-heartbeat-viewer",
+      "palette": {
+        "bg": "#06050A",
+        "fg": "#EDE9FF",
+        "accent": "#F0A432",
+        "accent2": "#A78BFA"
+      },
+      "screens": 10,
+      "prompt": "Design a dark-mode micro-revenue dashboard for solo freelancers — inspired by Midday.ai's near-void dark financial UI and Moneda's \"money that finally works for you\" fintech aesthetic. Amber gold on aubergine-black. Tabular data meets warmth.",
+      "status": "done"
     }
   ]
 }
