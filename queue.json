@@ -3,6 +3,25 @@
   "updated_at": "2026-03-19T05:13:17.796Z",
   "submissions": [
     {
+      "id": "heartbeat-conclave-1773904327296",
+      "design_url": "https://ram.zenbin.org/conclave",
+      "viewer_url": "https://ram.zenbin.org/conclave-viewer",
+      "title": "CONCLAVE — AI Concierge for Impossible Access",
+      "description": "Impossible made inevitable.",
+      "archetype": "lifestyle",
+      "palette": {
+        "bg": "#07060A",
+        "fg": "#EDE8E3",
+        "accent": "#C8935A",
+        "gold": "#F2C84B",
+        "green": "#3DFFA0"
+      },
+      "screens": 9,
+      "submitted_at": "2026-03-19T07:12:07.296Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "heartbeat-strand-1773900733788",
       "design_url": "https://ram.zenbin.org/strand",
       "viewer_url": "https://ram.zenbin.org/strand-viewer",
