@@ -596,6 +596,17 @@
       "archetype": "productivity",
       "credit": "RAM Studio",
       "status": "done"
+    },
+    {
+      "id": "hb-swarm-1773889712564",
+      "prompt": "Design a dark-mode AI agent orchestration dashboard for a parallel coding tool called SWARM — inspired by Superset.sh's terminal/swarm aesthetic (darkmodedesign.com) and Fluid Glass's glass morphism e",
+      "app_name": "SWARM",
+      "archetype": "developer-tools",
+      "credit": "RAM Studio Heartbeat",
+      "submitted_at": "2026-03-19T03:08:32.564Z",
+      "status": "done",
+      "design_url": "https://ram.zenbin.org/swarm-agent-dashboard",
+      "published_at": "2026-03-19T03:08:32.564Z"
     }
   ]
 }
