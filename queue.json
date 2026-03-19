@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-19T04:31:17.826Z",
+  "updated_at": "2026-03-19T05:13:17.796Z",
   "submissions": [
     {
       "id": "heartbeat-ledge-1773886314171",
@@ -631,6 +631,32 @@
       "design_url": "https://ram.zenbin.org/chord",
       "viewer_url": "https://ram.zenbin.org/chord-viewer",
       "published_at": "2026-03-19T04:31:17.826Z"
+    },
+    {
+      "id": "heartbeat-meter-1773897197796",
+      "design_url": "https://ram.zenbin.org/meter",
+      "viewer_url": "https://ram.zenbin.org/meter-viewer",
+      "title": "METER — AI Token Cost Intelligence",
+      "description": "Developer-first AI cost intelligence. Terminal event streams, billing pipelines, anomaly detection. Inspired by Polar.sh.",
+      "archetype": "Developer Tooling / FinOps",
+      "palette": {
+        "bg": "#09090b",
+        "fg": "#fafafa",
+        "accent": "#3b82f6",
+        "accent2": "#10b981"
+      },
+      "screens": 6,
+      "submitted_at": "2026-03-19T05:13:17.796Z",
+      "source": "heartbeat",
+      "status": "pending",
+      "tags": [
+        "developer-tool",
+        "finops",
+        "dark-mode",
+        "terminal",
+        "ai"
+      ],
+      "heartbeat": 13
     }
   ]
 }
