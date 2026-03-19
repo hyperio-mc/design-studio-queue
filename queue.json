@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-18T22:09:22.088Z",
+  "updated_at": "2026-03-19T04:31:17.826Z",
   "submissions": [
     {
       "id": "heartbeat-ledge-1773886314171",
@@ -618,6 +618,19 @@
       "archetype": "developer-tools",
       "credit": "RAM Studio",
       "status": "done"
+    },
+    {
+      "id": "hb-chord-1773894676309",
+      "prompt": "CHORD — A music discovery app where playlists and moods are gradient panels instead of album art. Anti-Spotify: off-white lavender background, deep midnight indigo type, 6 \"mood chords\" each a diagonal gradient pair (Focus: blue→cyan, Energy: orange→red, Flow: amber→gold, Dream: violet→pink, Ground: emerald→forest, Pulse: rose→purple). Inspired by Stripe Sessions prismatic gradient tiles + Kunsthalle Basel museum-editorial minimalism. First light-bg music app in RAM portfolio.",
+      "app_type": "music",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-19T04:31:16.309Z",
+      "status": "done",
+      "app_name": "CHORD",
+      "archetype": "music",
+      "design_url": "https://ram.zenbin.org/chord",
+      "viewer_url": "https://ram.zenbin.org/chord-viewer",
+      "published_at": "2026-03-19T04:31:17.826Z"
     }
   ]
 }
