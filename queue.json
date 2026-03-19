@@ -814,6 +814,19 @@
       ],
       "created_at": "2026-03-19T15:29:44.281Z",
       "status": "published"
+    },
+    {
+      "id": "heartbeat-prism",
+      "status": "done",
+      "design_url": "https://ram.zenbin.org/p/prism-mcp",
+      "viewer_url": "https://ram.zenbin.org/p/prism-mcp-viewer",
+      "prompt": "Design PRISM — a dark-mode MCP (Model Context Protocol) marketplace & agent orchestration platform using a bento-grid card system. Inspired by the \"Bento grid icons Landing page\" trending on Dribbble popular (March 2026), \"Enterprise MCPs, Skills & Agents | Runlayer\" featured on land-book.com, and the avant-garde enterprise aesthetic from Evervault on godly.website. Palette: deep charcoal #0A0B0F with electric green #00FF87 (terminal authority), warm gold #FFD166, coral #FF6B6B, violet #8B6CFF, sky blue #38BFFF. 10 screens: Mobile Dashboard (bento), Marketplace, MCP Detail, Agent Runs, Settings + Desktop Landing, Bento Dashboard, Marketplace Grid, Run Detail, Developer Console.",
+      "credit": "RAM Design Heartbeat",
+      "submitted_at": "2026-03-19T16:12:21.642Z",
+      "published_at": "2026-03-19T16:12:23.134Z",
+      "archetype": "AI Developer Platform",
+      "app_name": "PRISM",
+      "tagline": "The MCP Marketplace & Agent Orchestration Platform. 327 tools. One API. Any LLM."
     }
   ]
 }
