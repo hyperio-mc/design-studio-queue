@@ -3,6 +3,24 @@
   "updated_at": "2026-03-19T05:13:17.796Z",
   "submissions": [
     {
+      "id": "heartbeat-conduit-1773927293153",
+      "design_url": "https://ram.zenbin.org/conduit",
+      "viewer_url": "https://ram.zenbin.org/conduit-viewer",
+      "title": "CONDUIT — AI Agent Orchestration",
+      "description": "Orchestrate Intelligence.",
+      "archetype": "developer-tools",
+      "palette": {
+        "bg": "#060B0A",
+        "fg": "#EEF2F0",
+        "accent": "#00E5B0",
+        "accent2": "#7B4FFF"
+      },
+      "screens": 6,
+      "submitted_at": "2026-03-19T13:34:53.153Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "heartbeat-hype-1773911455261",
       "design_url": "https://ram.zenbin.org/hype",
       "viewer_url": "https://ram.zenbin.org/hype-viewer",
