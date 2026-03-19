@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-19T05:13:17.796Z",
+  "updated_at": "2026-03-19T15:08:39.499Z",
   "submissions": [
     {
       "id": "heartbeat-conduit-1773927293153",
@@ -743,6 +743,19 @@
         "ai"
       ],
       "heartbeat": 13
+    },
+    {
+      "id": "hb-deck-1773932917807",
+      "prompt": "DECK — A DJ controller app where the entire UI is hardware. Skeuomorphic vinyl platters, LED VU meters, rotary knobs, channel faders, crossfader, FX rack units. Near-black chassis (#0A0B0C) + steel gray hardware + amber LED active (#F97316) + cyan waveform (#00D4FF). Anti-flat: tactile, physical, engineered. Inspired by Subframe.com hardware command pill (skeuomorphic bevel in flat context), Pioneer CDJ-3000 and DJM-900NXS2. 9 screens.",
+      "app_type": "tool",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-19T15:08:37.807Z",
+      "status": "done",
+      "app_name": "DECK",
+      "archetype": "tool",
+      "design_url": "https://ram.zenbin.org/deck",
+      "viewer_url": "https://ram.zenbin.org/deck-viewer",
+      "published_at": "2026-03-19T15:08:39.499Z"
     }
   ]
 }
