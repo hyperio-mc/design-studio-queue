@@ -3,6 +3,26 @@
   "updated_at": "2026-03-19T05:13:17.796Z",
   "submissions": [
     {
+      "id": "heartbeat-hype-1773911455261",
+      "design_url": "https://ram.zenbin.org/hype",
+      "viewer_url": "https://ram.zenbin.org/hype-viewer",
+      "title": "HYPE — Gen Z Peer-to-Peer Payment App",
+      "description": "Peer-to-peer payments for the bold generation. Send money like you text.",
+      "archetype": "Fintech App",
+      "palette": {
+        "bg": "#FAF0D0",
+        "surface": "#FFF8E8",
+        "fg": "#15000C",
+        "accent": "#FF0099",
+        "accent2": "#FFE500",
+        "green": "#00C47A"
+      },
+      "screens": 6,
+      "submitted_at": "2026-03-19T09:10:55.261Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "heartbeat-grove",
       "status": "done",
       "prompt": "Design GROVE — a light-mode sustainability intelligence platform for mid-market B2B companies. Inspired by \"The First The Last\" (Awwwards SOTD, thefirstthelast.agency) for bold editorial typography and asymmetric layout, Amie (godly.website #992) for colorful bento-grid dashboards and GSAP data visualization, and Midday.ai (darkmodedesign.com) for solopreneur-focused financial data UX. Palette: warm cream #faf9f4, forest green #1c3a1c, amber #d97b2a, sage #6a9e6a, terracotta #c45a3a. 6 screens: Landing Page (desktop editorial hero), Dashboard Bento Grid (desktop), Supplier Detail (desktop), Mobile Home, Mobile Report, Mobile Onboarding.",
