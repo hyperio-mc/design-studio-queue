@@ -3,6 +3,24 @@
   "updated_at": "2026-03-18T22:09:22.088Z",
   "submissions": [
     {
+      "id": "heartbeat-ledge-1773886268903",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "viewer_url": "https://ram.zenbin.org/ledge-viewer",
+      "title": "LEDGE — Financial Clarity for Solo Creators",
+      "description": "Financial clarity for solo creators.",
+      "archetype": "Finance / Fintech",
+      "palette": {
+        "bg": "#07090E",
+        "fg": "#E4EDF8",
+        "accent": "#5B8AEF",
+        "accent2": "#3ECBA7"
+      },
+      "screens": 10,
+      "submitted_at": "2026-03-19T02:11:08.903Z",
+      "source": "heartbeat",
+      "status": "done"
+    },
+    {
       "id": "heartbeat-axis-1773882473702",
       "design_url": "https://ram.zenbin.org/axis",
       "viewer_url": "https://ram.zenbin.org/axis-viewer",
