@@ -795,6 +795,25 @@
       "design_url": "https://ram.zenbin.org/deck",
       "viewer_url": "https://ram.zenbin.org/deck-viewer",
       "published_at": "2026-03-19T15:15:12.283Z"
+    },
+    {
+      "id": "daedalus-pipeline-builder",
+      "title": "DAEDALUS",
+      "subtitle": "Visual AI pipeline architect for orchestrating multi-agent workflows.",
+      "design_url": "https://ram.zenbin.org/daedalus-pipeline-builder",
+      "viewer_url": "https://ram.zenbin.org/daedalus-pipeline-builder-viewer",
+      "thumbnail_url": "https://ram.zenbin.org/daedalus-pipeline-builder",
+      "tags": [
+        "dark-mode",
+        "ai",
+        "pipeline",
+        "dashboard",
+        "desktop",
+        "bento-grid",
+        "node-graph"
+      ],
+      "created_at": "2026-03-19T15:25:52.369Z",
+      "status": "published"
     }
   ]
 }
