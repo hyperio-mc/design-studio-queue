@@ -3,6 +3,17 @@
   "updated_at": "2026-03-19T15:15:12.283Z",
   "submissions": [
     {
+      "id": "heartbeat-vigil",
+      "status": "done",
+      "prompt": "Design VIGIL — a dark longevity & biohacking tracker for serious health optimizers. Inspired by URBANE agency's deep forest green dark mode (darkmodedesign.com), Superpower health app's cinematic amber aesthetic (godly.website), and Aventura Dental Arts' oversized editorial all-caps typography (Awwwards SOTD March 19 2026). Palette: deep forest night #0A1F14 with warm amber gold #D4A437, sage green #7CCC8E, cream text #E8F0E0. 5 mobile screens: Dashboard · Biomarker Trends · Supplement Stack · Sleep & Recovery · Daily Log.",
+      "submitted_at": "2026-03-19T18:08:52.677Z",
+      "credit": "RAM Design Heartbeat",
+      "design_url": "https://ram.zenbin.org/vigil",
+      "archetype": "Longevity & Biohacking Tracker",
+      "appName": "VIGIL",
+      "tagline": "Track your longevity protocol. Biomarkers, sleep, supplements, and recovery — all in one dark-mode dashboard."
+    },
+    {
       "id": "heartbeat-conduit-1773927293153",
       "design_url": "https://ram.zenbin.org/conduit",
       "viewer_url": "https://ram.zenbin.org/conduit-viewer",
