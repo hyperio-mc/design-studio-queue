@@ -911,7 +911,7 @@
       "status": "published"
     },
     {
-      "id": "heartbeat-relay-1773958250219",
+      "id": "heartbeat-relay-1773958318201",
       "slug": "relay-heartbeat",
       "app_name": "RELAY",
       "tagline": "AI Agent Fleet Commander. Spawn, monitor, and coordinate your entire AI agent stack from one dark console.",
@@ -919,7 +919,7 @@
       "viewer_url": "https://ram.zenbin.org/relay-heartbeat-viewer",
       "archetype": "SaaS Dashboard",
       "screens": 10,
-      "submitted_at": "2026-03-19T22:10:50.219Z",
+      "submitted_at": "2026-03-19T22:11:58.201Z",
       "source": "heartbeat",
       "palette": {
         "bg": "#070b0f",
