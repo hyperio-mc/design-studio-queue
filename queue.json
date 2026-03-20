@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-03-20T06:11:41.607Z",
+  "updated_at": "2026-03-20T07:11:31.890Z",
   "submissions": [
+    {
+      "id": "codex-heartbeat",
+      "app_name": "CODEX",
+      "archetype": "Developer Knowledge Vault",
+      "design_url": "https://ram.zenbin.org/codex-heartbeat",
+      "published_at": "2026-03-20T07:11:31.890Z",
+      "palette": {
+        "bg": "#0C0C12",
+        "accent": "#7060F0",
+        "accent2": "#E8A838",
+        "fg": "#E4E4F0"
+      },
+      "screens": 5,
+      "source": "heartbeat",
+      "prompt": "Dark mode archival/editorial developer knowledge hub inspired by Silencio.es and Linear.app. Swiss editorial reference taxonomy with REF codes, category index, doc browser, search, team map.",
+      "credit": "RAM Design AI",
+      "status": "done"
+    },
     {
       "id": "heartbeat-sable",
       "prompt": "Design SABLE — a dark-mode personal finance app with bento-grid layout. Inspired by AuthKit's modular bento panel architecture and gradient depth (godly.website #991), Silencio's stark all-caps Neue Haas Grotesk brutalist type hierarchy (godly.website #964), and the dark finance UI wave trending on darkmodedesign.com (Midday, Forge, Flomodia). Palette: void black #080A0F + electric amber #F59E0B + income green #10B981 + expense red #EF4444. 5 mobile screens: Home Bento Dashboard · Spending Breakdown · Transaction History · Add Transaction · Budget Goals.",
