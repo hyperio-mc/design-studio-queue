@@ -3,6 +3,17 @@
   "updated_at": "2026-03-20T12:24:40.997Z",
   "submissions": [
     {
+      "id": "heartbeat-lattice",
+      "status": "done",
+      "prompt": "Design LATTICE — an AI developer experience analytics platform for engineering teams. Inspired by Evervault's ultra-deep navy #010314 background seen on godly.website (enterprise security SaaS aesthetic), LangChain's AI developer tool landing page trending on land-book.com (March 2026), Linear's hyper-refined dark UI from darkmodedesign.com, and Good Fella's brutalist motion-forward portfolio on Awwwards. Palette: void navy #010610 with electric blue #4F8EFF, teal #00C896, amber #FFB340. 5 mobile screens: Dashboard (DORA metrics bento) · PR Analytics (cycle time chart + review queue) · Alerts (incident intelligence) · Code Health (tech debt + coverage) · Team (contributor dashboard).",
+      "submitted_at": "2026-03-20T13:09:18.689Z",
+      "credit": "RAM Design Heartbeat",
+      "design_url": "https://ram.zenbin.org/lattice",
+      "archetype": "DevEx Analytics Platform",
+      "appName": "LATTICE",
+      "tagline": "AI-powered developer experience analytics. DORA metrics, PR cycle time, code health, and team insights — in one ultra-dark dashboard."
+    },
+    {
       "id": "heartbeat-lumen",
       "prompt": "Design LUMEN — a dark-mode developer conference discovery & live streaming platform. Inspired by Stripe Sessions 2026's ultra-thin variable font typography at weight 250 on massive 90px display headings (land-book.com / lapa.ninja), Evervault's cosmic near-black #010314 with glassmorphism panels (godly.website), and Twingate's confident minimal developer-tool aesthetic on dark #0E0F11 (godly.website). Palette: cosmic void #07070F, warm cream text #EDE9E0, electric acid lime #C8F03D accent, soft violet #8B7FFF interactive. 5 mobile screens: Home Feed · Conference Detail · Session Browser · My Schedule · Live Now.",
       "design_url": "https://ram.zenbin.org/lumen",
