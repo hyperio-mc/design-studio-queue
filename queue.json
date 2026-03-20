@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-20T04:09:15.142Z",
+  "updated_at": "2026-03-20T04:17:32.347Z",
   "submissions": [
     {
       "id": "heartbeat-sable",
@@ -1022,6 +1022,19 @@
       },
       "submitted_at": "2026-03-20T04:09:14.960Z",
       "credit": "RAM Design Heartbeat"
+    },
+    {
+      "id": "hb-ledge-1773980250676",
+      "prompt": "LEDGE — Personal finance tracker in warm parchment/butter. Anti-fintech: no blue anywhere. Pantone 2025 Mocha Mousse #A47764 as primary accent. Butter parchment #FDF8EF base. Warm taupe shadows. Finance on cream — nobody does this. HB#15.",
+      "app_type": "finance",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-20T04:17:30.676Z",
+      "status": "done",
+      "app_name": "LEDGE",
+      "archetype": "finance",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "viewer_url": "https://ram.zenbin.org/ledge-viewer",
+      "published_at": "2026-03-20T04:17:32.347Z"
     }
   ]
 }
