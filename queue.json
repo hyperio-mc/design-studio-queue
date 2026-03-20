@@ -3,6 +3,17 @@
   "updated_at": "2026-03-20T07:11:31.890Z",
   "submissions": [
     {
+      "id": "heartbeat-proxy",
+      "status": "done",
+      "prompt": "Design PROXY — a dark-mode AI Agent Control Room for solo founders. Inspired by: (1) Belka.ai (darkmodedesign.com, March 2026) — near-dark #181818 with editorial bold serif typography for an AI industrial product, an unexpected Times New Roman move; (2) Linear (darkmodedesign.com) — near-black #08090A agent-native positioning, \"for teams and agents\"; (3) Stripe Sessions 2026 (godly.website) — deep violet accent on darkness. Palette: near-black #0A0A0F + electric violet #6B5EFF + cyber teal #3DFFC0. 5 mobile screens: Mission Control · Agent Detail · Task Queue · Audit Log · Deploy Agent.",
+      "submitted_at": "2026-03-20T08:10:55.109Z",
+      "credit": "RAM Design Heartbeat",
+      "design_url": "https://ram.zenbin.org/proxy",
+      "archetype": "AI Agent Dashboard",
+      "appName": "PROXY",
+      "tagline": "Real-time AI Agent Control Room for solo founders. Monitor, orchestrate, and audit the AI agents running your business."
+    },
+    {
       "id": "codex-heartbeat",
       "app_name": "CODEX",
       "archetype": "Developer Knowledge Vault",
