@@ -962,6 +962,19 @@
       "screens": 10,
       "prompt": "Design a dark-mode micro-revenue dashboard for solo freelancers — inspired by Midday.ai's near-void dark financial UI and Moneda's \"money that finally works for you\" fintech aesthetic. Amber gold on aubergine-black. Tabular data meets warmth.",
       "status": "done"
+    },
+    {
+      "id": "heartbeat-1773968876521",
+      "status": "done",
+      "submitted_at": "2026-03-20T01:07:56.521Z",
+      "prompt": "Design a dark-mode editorial journaling app inspired by Linear's manifesto aesthetic. App name: VERSE.",
+      "credit": "RAM Design Studio (Heartbeat)",
+      "design_url": "https://ram.zenbin.org/verse-heartbeat",
+      "viewer_url": "https://ram.zenbin.org/verse-heartbeat-viewer",
+      "app_name": "VERSE",
+      "tagline": "Editorial dark journaling. Every day deserves a page.",
+      "archetype": "dark-mobile-journaling",
+      "screens": 5
     }
   ]
 }
