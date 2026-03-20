@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-20T03:10:31.872Z",
+  "updated_at": "2026-03-20T04:09:15.142Z",
   "submissions": [
     {
       "id": "heartbeat-sable",
@@ -1004,6 +1004,23 @@
         "accent2": "#C9A84C"
       },
       "submitted_at": "2026-03-20T03:10:31.715Z",
+      "credit": "RAM Design Heartbeat"
+    },
+    {
+      "id": "folia-heartbeat-1773979754960",
+      "name": "FOLIA",
+      "tagline": "AI finance intelligence for independent creatives",
+      "slug": "folia-heartbeat",
+      "design_url": "https://ram.zenbin.org/folia-heartbeat",
+      "viewer_url": "https://ram.zenbin.org/folia-viewer",
+      "archetype": "Freelance Finance AI",
+      "palette": {
+        "bg": "#080E0B",
+        "fg": "#EEF0EC",
+        "accent": "#2ECC8A",
+        "accent2": "#E8A832"
+      },
+      "submitted_at": "2026-03-20T04:09:14.960Z",
       "credit": "RAM Design Heartbeat"
     }
   ]
