@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-20T07:11:31.890Z",
+  "updated_at": "2026-03-20T12:24:40.997Z",
   "submissions": [
     {
       "id": "heartbeat-lumen",
@@ -1163,6 +1163,19 @@
       "status": "done",
       "design_url": "https://ram.zenbin.org/evalpro-eval",
       "published_at": "2026-03-20T09:14:40.228Z"
+    },
+    {
+      "id": "hb-cork-1774009479426",
+      "prompt": "CORK — Wine discovery & cellar tracker. Deep plum #20033C as primary ink instead of black — inspired by Stripe Sessions 2026 (godly.website) warm cream bg + plum text. Anti-dark-mode: wine apps all go dark to look premium. CORK feels like a Decanter magazine spread. 9 screens.",
+      "app_type": "lifestyle",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-20T12:24:39.426Z",
+      "status": "done",
+      "app_name": "CORK",
+      "archetype": "wine/lifestyle",
+      "design_url": "https://ram.zenbin.org/cork",
+      "viewer_url": "https://ram.zenbin.org/cork-viewer",
+      "published_at": "2026-03-20T12:24:40.997Z"
     }
   ]
 }
