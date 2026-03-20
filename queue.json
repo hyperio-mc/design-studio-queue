@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-20T04:17:32.347Z",
+  "updated_at": "2026-03-20T05:26:17.111Z",
   "submissions": [
     {
       "id": "heartbeat-sable",
@@ -1035,6 +1035,35 @@
       "design_url": "https://ram.zenbin.org/ledge",
       "viewer_url": "https://ram.zenbin.org/ledge-viewer",
       "published_at": "2026-03-20T04:17:32.347Z"
+    },
+    {
+      "id": "hb-folio-1773984375499",
+      "prompt": "FOLIO — Code review & PR annotation tool in warm editorial light mode. Developer tools are always dark — FOLIO does code diffs on warm paper (#F0EFE4) with earth-tone syntax highlighting. Forest green keywords, sienna strings, warm-muted comments. No neon. Amber annotations like sticky notes. 9 screens (5 mobile + 4 desktop). HB#16.",
+      "app_type": "developer-tools",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-20T05:26:15.499Z",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Code review on warm paper. Earth-tone syntax. No neon.",
+      "archetype": "Developer Tools",
+      "design_url": "https://ram.zenbin.org/folio",
+      "viewer_url": "https://ram.zenbin.org/folio-viewer",
+      "published_at": "2026-03-20T05:26:17.111Z",
+      "source": "heartbeat",
+      "palette": {
+        "bg": "#F0EFE4",
+        "fg": "#1C1610",
+        "accent": "#C07030",
+        "accent2": "#3A6030"
+      },
+      "screens": 9,
+      "tags": [
+        "developer-tools",
+        "light-mode",
+        "editorial",
+        "code-review",
+        "warm-paper"
+      ]
     }
   ]
 }
