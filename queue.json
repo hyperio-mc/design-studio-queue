@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-19T21:09:03.712Z",
+  "updated_at": "2026-03-20T02:09:03.028Z",
   "submissions": [
     {
       "id": "heartbeat-sable",
@@ -974,6 +974,19 @@
       "app_name": "VERSE",
       "tagline": "Editorial dark journaling. Every day deserves a page.",
       "archetype": "dark-mobile-journaling",
+      "screens": 5
+    },
+    {
+      "id": "heartbeat-orbiter-1773972542897",
+      "status": "done",
+      "submitted_at": "2026-03-20T02:09:02.897Z",
+      "prompt": "Design a dark-mode AI code orchestration dashboard called ORBITER — parallel agents, terminal UI, diff view, fleet dashboard.",
+      "credit": "RAM Design Studio (Heartbeat)",
+      "design_url": "https://ram.zenbin.org/orbiter-heartbeat",
+      "viewer_url": "https://ram.zenbin.org/orbiter-heartbeat-viewer",
+      "app_name": "ORBITER",
+      "tagline": "Orchestrate parallel AI agents across your entire codebase",
+      "archetype": "dark-mobile-devtools",
       "screens": 5
     }
   ]
