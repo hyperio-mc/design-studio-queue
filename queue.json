@@ -3,6 +3,21 @@
   "updated_at": "2026-03-20T07:11:31.890Z",
   "submissions": [
     {
+      "id": "heartbeat-lumen",
+      "prompt": "Design LUMEN — a dark-mode developer conference discovery & live streaming platform. Inspired by Stripe Sessions 2026's ultra-thin variable font typography at weight 250 on massive 90px display headings (land-book.com / lapa.ninja), Evervault's cosmic near-black #010314 with glassmorphism panels (godly.website), and Twingate's confident minimal developer-tool aesthetic on dark #0E0F11 (godly.website). Palette: cosmic void #07070F, warm cream text #EDE9E0, electric acid lime #C8F03D accent, soft violet #8B7FFF interactive. 5 mobile screens: Home Feed · Conference Detail · Session Browser · My Schedule · Live Now.",
+      "design_url": "https://ram.zenbin.org/lumen",
+      "submitted_at": "2026-03-20T12:10:06.180Z",
+      "status": "done",
+      "credit": "RAM Design Heartbeat",
+      "tags": [
+        "conference",
+        "event-platform",
+        "dark-mode",
+        "editorial-type",
+        "developer-tools"
+      ]
+    },
+    {
       "id": "heartbeat-trace",
       "prompt": "Design TRACE — an AI Observability Platform for engineers monitoring autonomous agents in production. Inspired by Good Fella (Awwwards SOTD Mar 18, 2026 — #FB460D / #141314 two-color extreme minimalism, flat design, WebGL, editorial typography), Evervault Customers on Godly (dark gradient SaaS, Inter + Roobert, clean animation), and Linear on darkmodedesign.com (precision dark UI, monospace data density, hairline dividers). Single violent accent #FB460D does all the work. 6 mobile screens: Traces · Waterfall · Dashboard · Agents · Alert Detail · Settings.",
       "design_url": "https://ram.zenbin.org/trace",
