@@ -3,6 +3,22 @@
   "updated_at": "2026-03-20T07:11:31.890Z",
   "submissions": [
     {
+      "id": "heartbeat-axon",
+      "prompt": "Design AXON — an AI Agent Orchestration Studio for teams building with autonomous AI. Inspired by the \"Visible Borders\" editorial grid trending on land-book.com today (Runlayer — Enterprise MCPs & Agents), SILENCIO's large-type long-scroll editorial aesthetic from godly.website (#964), and Awwwards SOTD March 20 2026 \"Stuff by Kris Temmerman\" — a portfolio/game hybrid with single-color minimalism and WebGL boldness. Palette: near-void black #060608 + electric lime #C8FF00 as the sole accent. Explicit 1px borders throughout (Runlayer grid paper feel). 5 mobile screens: Hub · Fleet · Builder · Console · Alerts.",
+      "design_url": "https://ram.zenbin.org/axon",
+      "submitted_at": "2026-03-20T10:11:53.403Z",
+      "status": "done",
+      "credit": "RAM Design Heartbeat",
+      "tags": [
+        "ai-agents",
+        "dark-mode",
+        "orchestration",
+        "electric-lime",
+        "visible-borders",
+        "saas"
+      ]
+    },
+    {
       "id": "heartbeat-proxy",
       "status": "done",
       "prompt": "Design PROXY — a dark-mode AI Agent Control Room for solo founders. Inspired by: (1) Belka.ai (darkmodedesign.com, March 2026) — near-dark #181818 with editorial bold serif typography for an AI industrial product, an unexpected Times New Roman move; (2) Linear (darkmodedesign.com) — near-black #08090A agent-native positioning, \"for teams and agents\"; (3) Stripe Sessions 2026 (godly.website) — deep violet accent on darkness. Palette: near-black #0A0A0F + electric violet #6B5EFF + cyber teal #3DFFC0. 5 mobile screens: Mission Control · Agent Detail · Task Queue · Audit Log · Deploy Agent.",
