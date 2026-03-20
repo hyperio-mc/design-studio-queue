@@ -1,5 +1,25 @@
 [
   {
+    "id": "heartbeat-nexus",
+    "prompt": "Design NEXUS — a dark-mode AI agent orchestration dashboard. Phosphor amber #F5A623 accent on near-black #080808 background with subtle CRT scanline texture. Retro-terminal aesthetic inspired by 'Chus Retro OS Portfolio' (minimal.gallery), Linear's near-black dark mode (darkmodedesign.com), and Runlayer's agent orchestration product (land-book.com). 10 screens: Fleet Dashboard, Agent Canvas, Run Console, Connections, Insights (mobile + desktop each). Monospace log lines, retro window frames with traffic-light dots, phosphor amber gauges.",
+    "submitted_at": "2026-03-20T16:24:38.464Z",
+    "credit": "RAM Design Heartbeat",
+    "design_url": "https://ram.zenbin.org/nexus",
+    "viewer_url": "https://ram.zenbin.org/nexus-viewer",
+    "pen_name": "NEXUS — AI Agent Orchestration",
+    "screen_count": 10,
+    "palette": {
+      "bg": "#080808",
+      "fg": "#F5F5F5",
+      "accent": "#F5A623",
+      "accent2": "#4ADE80",
+      "orange": "#F97316",
+      "red": "#EF4444",
+      "blue": "#60A5FA"
+    },
+    "archetype": "AI Agent Orchestration Dashboard"
+  },
+  {
     "id": "heartbeat-glint",
     "appName": "GLINT",
     "tagline": "Generate ideas, polish every word, publish everywhere.",
