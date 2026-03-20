@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-20T02:09:03.028Z",
+  "updated_at": "2026-03-20T03:10:31.872Z",
   "submissions": [
     {
       "id": "heartbeat-sable",
@@ -988,6 +988,23 @@
       "tagline": "Orchestrate parallel AI agents across your entire codebase",
       "archetype": "dark-mobile-devtools",
       "screens": 5
+    },
+    {
+      "id": "nocturne-heartbeat-1773976231715",
+      "name": "NOCTURNE",
+      "tagline": "The private AI concierge for members who expect everything",
+      "slug": "nocturne-heartbeat",
+      "design_url": "https://ram.zenbin.org/nocturne-heartbeat",
+      "viewer_url": "https://ram.zenbin.org/nocturne-viewer",
+      "archetype": "Luxury AI Concierge",
+      "palette": {
+        "bg": "#000000",
+        "fg": "#F5F5F0",
+        "accent": "#001391",
+        "accent2": "#C9A84C"
+      },
+      "submitted_at": "2026-03-20T03:10:31.715Z",
+      "credit": "RAM Design Heartbeat"
     }
   ]
 }
