@@ -1,57 +1,79 @@
-[
-  {
-    "id": "heartbeat-nexus",
-    "prompt": "Design NEXUS — a dark-mode AI agent orchestration dashboard. Phosphor amber #F5A623 accent on near-black #080808 background with subtle CRT scanline texture. Retro-terminal aesthetic inspired by 'Chus Retro OS Portfolio' (minimal.gallery), Linear's near-black dark mode (darkmodedesign.com), and Runlayer's agent orchestration product (land-book.com). 10 screens: Fleet Dashboard, Agent Canvas, Run Console, Connections, Insights (mobile + desktop each). Monospace log lines, retro window frames with traffic-light dots, phosphor amber gauges.",
-    "submitted_at": "2026-03-20T16:27:00.910Z",
-    "credit": "RAM Design Heartbeat",
-    "design_url": "https://ram.zenbin.org/nexus",
-    "viewer_url": "https://ram.zenbin.org/nexus-viewer",
-    "pen_name": "NEXUS — AI Agent Orchestration",
-    "screen_count": 10,
-    "palette": {
-      "bg": "#080808",
-      "fg": "#F5F5F5",
-      "accent": "#F5A623",
-      "accent2": "#4ADE80",
-      "orange": "#F97316",
-      "red": "#EF4444",
-      "blue": "#60A5FA"
+{
+  "updated_at": "2026-03-20T19:53:49.949Z",
+  "submissions": [
+    {
+      "id": "hb-mist-000",
+      "app_name": "MIST",
+      "archetype": "productivity",
+      "status": "done",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-01T00:00:00.000Z",
+      "published_at": "2026-03-01T00:00:00.000Z",
+      "design_url": "https://ram.zenbin.org/mist",
+      "viewer_url": null,
+      "prompt": "MIST — minimal productivity app"
     },
-    "archetype": "AI Agent Orchestration Dashboard"
-  },
-  {
-    "id": "heartbeat-glint",
-    "appName": "GLINT",
-    "tagline": "Generate ideas, polish every word, publish everywhere.",
-    "archetype": "AI Writing Assistant",
-    "design_url": "https://ram.zenbin.org/glint",
-    "viewer_url": "https://ram.zenbin.org/glint-viewer",
-    "palette": {
-      "bg": "#070710",
-      "fg": "#F0EFF8",
-      "accent": "#3DFF9A",
-      "accent2": "#7C3AED",
-      "pink": "#F43F5E",
-      "amber": "#FBBF24"
+    {
+      "id": "hb-axis-000",
+      "app_name": "AXIS",
+      "archetype": "productivity",
+      "status": "done",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-05T00:00:00.000Z",
+      "published_at": "2026-03-05T00:00:00.000Z",
+      "design_url": "https://ram.zenbin.org/axis",
+      "viewer_url": "https://ram.zenbin.org/axis-viewer",
+      "prompt": "AXIS — productivity app"
     },
-    "screens": 10,
-    "submitted_at": "2026-03-20T15:12:20.647Z",
-    "credit": "RAM Design Heartbeat",
-    "prompt": "Design an AI writing assistant landing page called GLINT using the word-pill typographic hero style — inspired by OWO's colored-capsule word layout on darkmodedesign.com (Mar 20 2026) and Locomotive.ca's editorial-bold energy (godly.website). Near-void dark background #070710 + acid green #3DFF9A + violet #7C3AED + hot pink #F43F5E + amber #FBBF24. 10 screens: 5 mobile (Hero/Landing, Editor, Ideas, Publish, Pricing) + 5 desktop equivalents."
-  },
-  {
-    "slug": "synapse",
-    "app_name": "SYNAPSE",
-    "tagline": "AI Agent Workflow Orchestration Platform",
-    "design_url": "https://ram.zenbin.org/synapse",
-    "submitted_at": "2026-03-20T19:12:19.174Z",
-    "credit": "RAM Heartbeat",
-    "archetype": "productivity",
-    "palette": {
-      "bg": "#08090A",
-      "fg": "#F7F8F8",
-      "accent": "#5E6AD2",
-      "accent2": "#9C6FE4"
+    {
+      "id": "hb-pura-000",
+      "app_name": "PURA",
+      "archetype": "productivity",
+      "status": "done",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-10T00:00:00.000Z",
+      "published_at": "2026-03-10T00:00:00.000Z",
+      "design_url": "https://ram.zenbin.org/pura",
+      "viewer_url": "https://ram.zenbin.org/pura-viewer",
+      "prompt": "PURA — minimal wellness tracker. HB#12."
+    },
+    {
+      "id": "hb-signal-000",
+      "app_name": "SIGNAL",
+      "archetype": "productivity",
+      "status": "done",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-12T00:00:00.000Z",
+      "published_at": "2026-03-12T00:00:00.000Z",
+      "design_url": "https://ram.zenbin.org/signal",
+      "viewer_url": "https://ram.zenbin.org/signal-viewer",
+      "prompt": "SIGNAL — minimalist messaging app. HB#12 rebuild."
+    },
+    {
+      "id": "hb-ledge-1774036429949",
+      "app_name": "LEDGE",
+      "archetype": "finance",
+      "app_type": "finance",
+      "status": "done",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-20T00:00:00.000Z",
+      "published_at": "2026-03-20T00:00:00.000Z",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "viewer_url": "https://ram.zenbin.org/ledge-viewer",
+      "prompt": "LEDGE — Personal finance tracker in warm parchment/butter. Anti-fintech: no blue anywhere. Pantone 2025 Mocha Mousse #A47764 as primary accent. HB#15."
+    },
+    {
+      "id": "hb-cork-1774036429950",
+      "app_name": "CORK",
+      "archetype": "lifestyle",
+      "app_type": "lifestyle",
+      "status": "done",
+      "credit": "RAM Studio",
+      "submitted_at": "2026-03-20T19:53:49.949Z",
+      "published_at": "2026-03-20T19:53:49.949Z",
+      "design_url": "https://ram.zenbin.org/cork",
+      "viewer_url": "https://ram.zenbin.org/cork-viewer",
+      "prompt": "CORK — Wine discovery & cellar tracker. Deep plum #20033C as primary ink on warm cream. Inspired by Stripe Sessions 2026. Anti-dark-mode wine UI. HB#16."
     }
-  }
-]
+  ]
+}
