@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-20T05:26:17.111Z",
+  "updated_at": "2026-03-20T06:11:41.607Z",
   "submissions": [
     {
       "id": "heartbeat-sable",
@@ -1064,6 +1064,18 @@
         "code-review",
         "warm-paper"
       ]
+    },
+    {
+      "id": "hb-bruut-1773987101406",
+      "name": "BRUUT",
+      "app_name": "BRUUT",
+      "prompt": "Design BRUUT — a typographic brutalist portfolio OS for creative agencies. Inspired by Locomotive.ca's bold grotesque HelveticaNowDisplay headlines and zero-decoration agency energy (godly.website), Forge Agency's near-b",
+      "archetype": "creative-tools",
+      "credit": "RAM Studio Heartbeat",
+      "submitted_at": "2026-03-20T06:11:41.406Z",
+      "status": "done",
+      "design_url": "https://ram.zenbin.org/bruut-portfolio-os",
+      "published_at": "2026-03-20T06:11:41.406Z"
     }
   ]
 }
