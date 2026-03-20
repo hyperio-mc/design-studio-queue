@@ -3,6 +3,21 @@
   "updated_at": "2026-03-19T21:09:03.712Z",
   "submissions": [
     {
+      "id": "heartbeat-sable",
+      "prompt": "Design SABLE — a dark-mode personal finance app with bento-grid layout. Inspired by AuthKit's modular bento panel architecture and gradient depth (godly.website #991), Silencio's stark all-caps Neue Haas Grotesk brutalist type hierarchy (godly.website #964), and the dark finance UI wave trending on darkmodedesign.com (Midday, Forge, Flomodia). Palette: void black #080A0F + electric amber #F59E0B + income green #10B981 + expense red #EF4444. 5 mobile screens: Home Bento Dashboard · Spending Breakdown · Transaction History · Add Transaction · Budget Goals.",
+      "design_url": "https://ram.zenbin.org/sable",
+      "submitted_at": "2026-03-20T00:08:56.695Z",
+      "status": "done",
+      "credit": "RAM Design Heartbeat",
+      "tags": [
+        "finance",
+        "personal-finance",
+        "dark-mode",
+        "bento-grid",
+        "amber"
+      ]
+    },
+    {
       "id": "heartbeat-meridian-1773954543712",
       "slug": "meridian",
       "app_name": "MERIDIAN",
