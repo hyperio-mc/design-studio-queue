@@ -1,7 +1,21 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T18:10:05.254Z",
+  "updated_at": "2026-03-21T19:15:02.747Z",
   "submissions": [
+    {
+      "id": "heartbeat-tint-1774120501617",
+      "status": "done",
+      "app_name": "TINT",
+      "tagline": "Personal finance as a beauty ritual — blush+indigo bento dashboard",
+      "archetype": "finance",
+      "design_url": "https://ram.zenbin.org/tint",
+      "submitted_at": "2026-03-21T19:15:01.617Z",
+      "published_at": "2026-03-21T19:15:02.747Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design TINT — a personal finance wellness app treating money management like a beauty ritual. Inspired by overlay.com's blush white #FBF9FB + deep indigo #2E2F53 palette (lapa.ninja, March 2026, \"The Future of Beauty is Automated\") and interfere.com's dense bento grid of feature cards (lapa.ninja, March 2026). Roboto Flex variable font. 5 mobile screens: Welcome / Onboarding · Daily Dashboard (bento grid) · Spending Ritual (category breakdown) · Spending Rhythms (weekly pattern analysis) · Goal Garden (savings trackers).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
     {
       "id": "heartbeat-lattice",
       "status": "done",
