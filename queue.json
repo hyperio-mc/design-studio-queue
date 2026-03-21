@@ -1,5 +1,28 @@
 [
   {
+    "id": "vestry-heartbeat-1774080814141",
+    "name": "VESTRY",
+    "slug": "vestry",
+    "tagline": "Institutional AI Agent Investment Tracker",
+    "design_url": "https://ram.zenbin.org/vestry",
+    "viewer_url": "https://ram.zenbin.org/vestry-viewer",
+    "date": "2026-03-21",
+    "screens": 5,
+    "tags": [
+      "Finance",
+      "AI Dashboard",
+      "Dark Mode",
+      "Institutional"
+    ],
+    "palette": {
+      "bg": "#1A1A14",
+      "fg": "#EDECE7",
+      "accent": "#F34E30",
+      "accent2": "#28E044"
+    },
+    "source": "heartbeat"
+  },
+  {
     "id": "velox-1774062656981",
     "name": "VELOX",
     "slug": "velox-heartbeat",
