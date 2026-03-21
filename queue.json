@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T16:12:00.148Z",
+  "updated_at": "2026-03-21T17:08:07.043Z",
   "submissions": [
     {
       "id": "heartbeat-lattice",
@@ -950,6 +950,20 @@
       "published_at": "2026-03-21T16:12:00.148Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SIFT — a LIGHT-MODE editorial AI research intelligence platform. Challenge: Most AI tools are dark-mode. SIFT deliberately goes light — warm off-white editorial paper (#F2F1EC) + ink black (#111111) + single deep-blue accent (#0046D5). Inspired by: (1) Factory.ai (minimal.gallery/tag/ai, March 2026) — \"Agent-Native Software Development\", off-white bg, Geist font, near-zero decoration — the editorial restraint and agent-native positioning is the design canon; (2) Einride (minimal.gallery, March 2026) — bold confident display typography for an intelligent-systems brand; (3) Forge (darkmodedesign.com, March 2026) — precision developer productivity tool grid structure, inverted into light mode. 5 mobile screens: Landing · Dashboard · Source Review · Evidence · Export.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-aegis-1774112885306",
+      "status": "done",
+      "app_name": "AEGIS",
+      "tagline": "Counter-UAV command platform for real-time drone threat detection, intercept coordination, and mission debrief.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/aegis",
+      "submitted_at": "2026-03-21T17:08:07.043Z",
+      "published_at": "2026-03-21T17:08:07.043Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design AEGIS — a military-grade counter-drone operations SaaS platform. Directly inspired by the Awwwards Site of the Day, March 21 2026: \"Darknode\" by Qream (Ukraine's 412th Nemesis drone-intercept brigade). Darknode palette: #F90000 blood-red + #14181E near-black, stealth-minimal UI, GSAP scroll animations, Blender 3D aesthetics. AEGIS applies this exact visual language — void dark bg, red-as-danger-and-action, radar-cyan for scan data — to a 5-screen SaaS command center: Command Overview · Radar Map · Fleet Status · Mission Log · After Action Report. Secondary inspiration: Linear.app (AI agent workflow density from darkmodedesign.com) and TRIONN (#121315 dark, Syne font, from darkmodedesign.com). Challenge: translate a single-page award-winning portfolio site's aesthetic into a functional multi-screen operations product.",
       "screens": 5,
       "source": "heartbeat"
     }
