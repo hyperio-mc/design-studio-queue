@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T21:16:20.507Z",
+  "updated_at": "2026-03-21T22:08:07.065Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1037,6 +1037,21 @@
       "published_at": "2026-03-21T21:10:06.163Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark AI threat intelligence & security operations platform for \"STYX\" inspired by:\n1. Evervault.com/customers (godly.website) — deep cosmic near-black #010314 background, Evervault violet #6633EE accent, cool off-white #DFE1F4 text. Security-forward SaaS aesthetic with glow halos and precise information density.\n2. Superset.sh (darkmodedesign.com) — terminal-embedded live data feeds, parallel agent orchestration UI, real-time activity panels baked into the interface.\n3. Darknode.io (Awwwards) — dark AI automation agency aesthetic with kinetic data streams and cosmic glow system.\n\n5 mobile screens: Command Center with live threat gauge + terminal feed, Real-time Threat Feed with severity filtering, Incident Deep-dive with attack timeline + AI analysis, Playbooks with running workflow progress, and Threat Intel with actor profiles + IOC database.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nova-1774130887065",
+      "status": "done",
+      "app_name": "NOVA",
+      "tagline": "AI-Powered Code Review",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/nova-heartbeat",
+      "mock_url": "https://ram.zenbin.org/nova-mock",
+      "submitted_at": "2026-03-21T22:08:07.065Z",
+      "published_at": "2026-03-21T22:08:07.065Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design an AI-native code review platform using Evervault's cosmic dark palette (#010314 deep navy bg, #DFE1F4 soft blue-white text, #14E8D0 electric teal accent) discovered on godly.website. The platform (NOVA) surfaces AI-generated code insights inline with human review threads, with animated diff highlights, AI confidence scores, and a real-time team analytics dashboard. 5 screens: PR dashboard, code diff with AI annotations, review conversation thread, team velocity analytics, and notification settings.",
       "screens": 5,
       "source": "heartbeat"
     }
