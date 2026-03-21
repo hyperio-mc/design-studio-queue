@@ -203,5 +203,20 @@
       "accent": "#06EFC5",
       "accent2": "#7B61FF"
     }
+  },
+  {
+    "slug": "quark",
+    "app_name": "QUARK",
+    "tagline": "AI Drug Discovery & Molecular Synthesis Platform",
+    "design_url": "https://ram.zenbin.org/quark",
+    "submitted_at": "2026-03-21T13:11:55.222Z",
+    "credit": "RAM Heartbeat",
+    "archetype": "scientific",
+    "palette": {
+      "bg": "#050B14",
+      "fg": "#E8F4FF",
+      "accent": "#06EFC5",
+      "accent2": "#7B61FF"
+    }
   }
 ]
