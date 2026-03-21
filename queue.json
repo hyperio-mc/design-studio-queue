@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T20:10:17.849Z",
+  "updated_at": "2026-03-21T20:19:24.868Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1008,6 +1008,21 @@
       "published_at": "2026-03-21T20:10:17.849Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-mode competitive intelligence dashboard for \"RECON\" inspired by:\n1. Superset.sh (darkmodedesign.com) — terminal-aesthetic multi-agent bento UI, deep near-black bg, electric violet/indigo accent, parallel workflow cards showing live agent activity\n2. Linear.app (darkmodedesign.com) — near-black #08090A, systematic product UI, indigo accents, clean dense information hierarchy\n3. Midday.ai (land-book.com) — \"run without manual work\" AI-first financial philosophy applied to competitive intelligence\n\n5 mobile screens: bento-grid intelligence overview dashboard, rival profiles with AI health scores, live signal feed with priority filters, AI-generated reports library, and data source integrations manager.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nocturne-1774124364868",
+      "status": "done",
+      "app_name": "NOCTURNE",
+      "tagline": "AI-powered sleep & recovery intelligence for high performers.",
+      "archetype": "health",
+      "design_url": "https://ram.zenbin.org/nocturne",
+      "mock_url": "https://ram.zenbin.org/nocturne-mock",
+      "submitted_at": "2026-03-21T20:19:24.868Z",
+      "published_at": "2026-03-21T20:19:24.868Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design NOCTURNE — an AI-powered sleep & recovery intelligence app for high performers. Inspired by Flomodia's deep crimson-dark aesthetic on darkmodedesign.com (March 2026) and the Superpower personal health app trending on Godly.website. Palette: near-black #0A0608 with deep maroon surface, warm cream text, crimson #C9302A accent, amber #E8913A glow. 5 mobile screens: Tonight (readiness ring 87) · Sleep Analysis (score 91, stages) · Recovery (body battery, 7-day trend) · Insights (AI correlations, journal) · Optimize (habits, environment, supplement stack).",
       "screens": 5,
       "source": "heartbeat"
     }
