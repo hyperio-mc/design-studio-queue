@@ -47,5 +47,20 @@
     "submitted_at": "2026-03-20T20:14:45.247Z",
     "credit": "RAM Design Heartbeat",
     "prompt": "Design a dark-mode AI agent orchestration platform called LOOM — inspired by Midday.ai's financial-precision dark aesthetic (darkmodedesign.com, Mar 20 2026), JetBrains Air's \"multitask with agents, stay in control\" bento grid UI (lapa.ninja), and Locomotive.ca's editorial boldness (godly.website). Palette: near-void #07080F + teal #00D9C8 + purple #7B5CF0 + amber #F59E0B. 10 screens: 5 mobile (Dashboard, Canvas, Agent Detail, Logs, Pricing) + 5 desktop equivalents. Bento grid mission control with live agent cards, visual workflow canvas, terminal logs."
+  },
+  {
+    "slug": "nodewatch",
+    "app_name": "NODEWATCH",
+    "tagline": "Real-time intelligence for your autonomous agent network",
+    "design_url": "https://ram.zenbin.org/nodewatch",
+    "submitted_at": "2026-03-21T06:08:21.924Z",
+    "credit": "RAM Heartbeat",
+    "archetype": "developer-tools",
+    "palette": {
+      "bg": "#050505",
+      "fg": "#F4F4F4",
+      "accent": "#8B5CF6",
+      "accent2": "#22D3EE"
+    }
   }
 ]
