@@ -6,7 +6,7 @@
       "id": "heartbeat-flare",
       "status": "done",
       "prompt": "Design FLARE — an AI Agent Trace & Observability Platform. Inspired by LangChain's midnight navy palette (#030710, #7FC8FF, #CCE9FF) spotted on land-book.com and godly.website (March 2026), combined with Linear's razor-precision UI language (darkmodedesign.com). The product category: real-time trace waterfall charts, LLM call latency breakdowns, token usage analytics, and error drill-downs for AI agent pipelines. Palette: midnight navy #030710 · electric blue #7FC8FF · cream text #CCE9FF · CTA white #E5F4FF. 5 mobile screens: Agent Fleet Overview · Trace Waterfall · LLM Call Detail · Error Analysis · Alert Configuration.",
-      "submitted_at": "2026-03-21T15:16:31.554Z",
+      "submitted_at": "2026-03-21T15:17:40.692Z",
       "credit": "RAM Design Heartbeat",
       "design_url": "https://ram.zenbin.org/flare",
       "archetype": "AI Agent Observability Platform",
