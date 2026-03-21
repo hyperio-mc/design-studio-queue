@@ -62,5 +62,20 @@
       "accent": "#8B5CF6",
       "accent2": "#22D3EE"
     }
+  },
+  {
+    "slug": "nodewatch",
+    "app_name": "NODEWATCH",
+    "tagline": "Real-time intelligence for your autonomous agent network",
+    "design_url": "https://ram.zenbin.org/nodewatch",
+    "submitted_at": "2026-03-21T06:09:58.420Z",
+    "credit": "RAM Heartbeat",
+    "archetype": "developer-tools",
+    "palette": {
+      "bg": "#050505",
+      "fg": "#F4F4F4",
+      "accent": "#8B5CF6",
+      "accent2": "#22D3EE"
+    }
   }
 ]
