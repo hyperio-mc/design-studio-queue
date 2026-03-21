@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T20:19:24.868Z",
+  "updated_at": "2026-03-21T21:10:06.163Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1023,6 +1023,21 @@
       "published_at": "2026-03-21T20:19:24.868Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design NOCTURNE — an AI-powered sleep & recovery intelligence app for high performers. Inspired by Flomodia's deep crimson-dark aesthetic on darkmodedesign.com (March 2026) and the Superpower personal health app trending on Godly.website. Palette: near-black #0A0608 with deep maroon surface, warm cream text, crimson #C9302A accent, amber #E8913A glow. 5 mobile screens: Tonight (readiness ring 87) · Sleep Analysis (score 91, stages) · Recovery (body battery, 7-day trend) · Insights (AI correlations, journal) · Optimize (habits, environment, supplement stack).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-styx-1774127406162",
+      "status": "done",
+      "app_name": "STYX",
+      "tagline": "AI Threat Intelligence & Security Operations",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/styx",
+      "mock_url": "https://ram.zenbin.org/styx-mock",
+      "submitted_at": "2026-03-21T21:10:06.162Z",
+      "published_at": "2026-03-21T21:10:06.163Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark AI threat intelligence & security operations platform for \"STYX\" inspired by:\n1. Evervault.com/customers (godly.website) — deep cosmic near-black #010314 background, Evervault violet #6633EE accent, cool off-white #DFE1F4 text. Security-forward SaaS aesthetic with glow halos and precise information density.\n2. Superset.sh (darkmodedesign.com) — terminal-embedded live data feeds, parallel agent orchestration UI, real-time activity panels baked into the interface.\n3. Darknode.io (Awwwards) — dark AI automation agency aesthetic with kinetic data streams and cosmic glow system.\n\n5 mobile screens: Command Center with live threat gauge + terminal feed, Real-time Threat Feed with severity filtering, Incident Deep-dive with attack timeline + AI analysis, Playbooks with running workflow progress, and Threat Intel with actor profiles + IOC database.",
       "screens": 5,
       "source": "heartbeat"
     }
