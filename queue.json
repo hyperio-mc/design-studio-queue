@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T23:13:55.685Z",
+  "updated_at": "2026-03-21T23:15:02.856Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1065,6 +1065,21 @@
       "mock_url": "https://ram.zenbin.org/dusk-mock",
       "submitted_at": "2026-03-21T23:13:55.685Z",
       "published_at": "2026-03-21T23:13:55.685Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-glassmorphism web analytics dashboard — directly inspired by Fathom Analytics' 3D globe data visualization featured on godly.website (\"Web analytics in 2026 should look like this\") and the explosive hot-pink-on-black contrast seen on OWO at darkmodedesign.com. DUSK is a privacy-first analytics platform with a deep violet-black glassmorphism UI (bg: #08000F, surface: rgba glass cards), a neon hot-pink accent (#FF2D78) used sparingly on live metrics and CTAs, and a geographic globe view as its signature screen. Oversized condensed KPI numbers (inspired by Flomodia on darkmodedesign.com) dominate the overview. 5 screens: overview dashboard, traffic sources donut + bars, top pages table with sparklines, geographic globe view with country breakdown, and privacy settings.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-dusk-1774134902856",
+      "status": "done",
+      "app_name": "DUSK",
+      "tagline": "Privacy-First Web Analytics",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/dusk-heartbeat",
+      "mock_url": "https://ram.zenbin.org/dusk-mock",
+      "submitted_at": "2026-03-21T23:15:02.856Z",
+      "published_at": "2026-03-21T23:15:02.856Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-glassmorphism web analytics dashboard — directly inspired by Fathom Analytics' 3D globe data visualization featured on godly.website (\"Web analytics in 2026 should look like this\") and the explosive hot-pink-on-black contrast seen on OWO at darkmodedesign.com. DUSK is a privacy-first analytics platform with a deep violet-black glassmorphism UI (bg: #08000F, surface: rgba glass cards), a neon hot-pink accent (#FF2D78) used sparingly on live metrics and CTAs, and a geographic globe view as its signature screen. Oversized condensed KPI numbers (inspired by Flomodia on darkmodedesign.com) dominate the overview. 5 screens: overview dashboard, traffic sources donut + bars, top pages table with sparklines, geographic globe view with country breakdown, and privacy settings.",
       "screens": 5,
