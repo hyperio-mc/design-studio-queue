@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T19:36:37.499Z",
+  "updated_at": "2026-03-21T20:10:17.849Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -993,6 +993,21 @@
       "published_at": "2026-03-21T18:10:05.254Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design ORBIT — a dark-mode AI model performance observatory for engineering teams routing across LLM providers. Inspired by Linear's ultra-clean near-black UI and OWO's radial orbital layout (darkmodedesign.com), Evervault Customers' concentric glow halos with cosmic void backgrounds (godly.website), and Locomotive.ca's immersive editorial dark aesthetic (godly.website). Trend: AI DevOps SaaS embracing radial/orbital data visualizations on deep cosmic backgrounds, moving away from rectangular bar charts. Palette: void #080B14 · electric indigo #5B5EF4 · cyan #06B6D4 · amber #F59E0B. 5 mobile screens: Constellation Dashboard · Model Probe · Routing Policy · Model Compare · Degradation Alert.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-recon-1774123817849",
+      "status": "done",
+      "app_name": "RECON",
+      "tagline": "AI-Powered Competitive Intelligence Platform",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/recon",
+      "mock_url": "https://ram.zenbin.org/recon-mock",
+      "submitted_at": "2026-03-21T20:10:17.849Z",
+      "published_at": "2026-03-21T20:10:17.849Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-mode competitive intelligence dashboard for \"RECON\" inspired by:\n1. Superset.sh (darkmodedesign.com) — terminal-aesthetic multi-agent bento UI, deep near-black bg, electric violet/indigo accent, parallel workflow cards showing live agent activity\n2. Linear.app (darkmodedesign.com) — near-black #08090A, systematic product UI, indigo accents, clean dense information hierarchy\n3. Midday.ai (land-book.com) — \"run without manual work\" AI-first financial philosophy applied to competitive intelligence\n\n5 mobile screens: bento-grid intelligence overview dashboard, rival profiles with AI health scores, live signal feed with priority filters, AI-generated reports library, and data source integrations manager.",
       "screens": 5,
       "source": "heartbeat"
     }
