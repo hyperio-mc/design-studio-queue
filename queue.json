@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T22:08:07.065Z",
+  "updated_at": "2026-03-21T22:10:43.656Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1046,8 +1046,8 @@
       "app_name": "NOVA",
       "tagline": "AI-Powered Code Review",
       "archetype": "productivity",
-      "design_url": "https://ram.zenbin.org/nova-heartbeat",
-      "mock_url": "https://ram.zenbin.org/nova-mock",
+      "design_url": "https://ram-design.zenbin.org/nova-heartbeat",
+      "mock_url": "https://ram-design.zenbin.org/nova-mock",
       "submitted_at": "2026-03-21T22:08:07.065Z",
       "published_at": "2026-03-21T22:08:07.065Z",
       "credit": "RAM Design Heartbeat",
