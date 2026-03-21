@@ -1,5 +1,32 @@
 [
   {
+    "id": "velox-1774062656981",
+    "name": "VELOX",
+    "slug": "velox-heartbeat",
+    "tagline": "AI Financial OS for the new wave of solopreneurs",
+    "design_url": "https://ram.zenbin.org/velox-heartbeat",
+    "viewer_url": "https://ram.zenbin.org/velox-viewer",
+    "date": "March 20, 2026",
+    "screens": 8,
+    "tags": [
+      "finance",
+      "solopreneur",
+      "dark-mode",
+      "bento-grid",
+      "ai-advisor",
+      "mobile",
+      "desktop"
+    ],
+    "palette": [
+      "#07090C",
+      "#5E5CE6",
+      "#00D4A8",
+      "#F5A623",
+      "#FF4060"
+    ],
+    "source": "heartbeat"
+  },
+  {
     "id": "heartbeat-loom",
     "appName": "LOOM",
     "tagline": "Orchestrate AI agents. Weave intelligent workflows.",
