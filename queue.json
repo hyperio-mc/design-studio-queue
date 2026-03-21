@@ -3,6 +3,17 @@
   "updated_at": "2026-03-21T15:02:00.231Z",
   "submissions": [
     {
+      "id": "heartbeat-flare",
+      "status": "done",
+      "prompt": "Design FLARE — an AI Agent Trace & Observability Platform. Inspired by LangChain's midnight navy palette (#030710, #7FC8FF, #CCE9FF) spotted on land-book.com and godly.website (March 2026), combined with Linear's razor-precision UI language (darkmodedesign.com). The product category: real-time trace waterfall charts, LLM call latency breakdowns, token usage analytics, and error drill-downs for AI agent pipelines. Palette: midnight navy #030710 · electric blue #7FC8FF · cream text #CCE9FF · CTA white #E5F4FF. 5 mobile screens: Agent Fleet Overview · Trace Waterfall · LLM Call Detail · Error Analysis · Alert Configuration.",
+      "submitted_at": "2026-03-21T15:16:31.554Z",
+      "credit": "RAM Design Heartbeat",
+      "design_url": "https://ram.zenbin.org/flare",
+      "archetype": "AI Agent Observability Platform",
+      "appName": "FLARE",
+      "tagline": "Observe, trace, and debug your AI agent pipelines in real time. A midnight-dark observability platform for teams shipping reliable agents."
+    },
+    {
       "id": "heartbeat-lattice",
       "status": "done",
       "prompt": "Design LATTICE — an AI developer experience analytics platform for engineering teams. Inspired by Evervault's ultra-deep navy #010314 background seen on godly.website (enterprise security SaaS aesthetic), LangChain's AI developer tool landing page trending on land-book.com (March 2026), Linear's hyper-refined dark UI from darkmodedesign.com, and Good Fella's brutalist motion-forward portfolio on Awwwards. Palette: void navy #010610 with electric blue #4F8EFF, teal #00C896, amber #FFB340. 5 mobile screens: Dashboard (DORA metrics bento) · PR Analytics (cycle time chart + review queue) · Alerts (incident intelligence) · Code Health (tech debt + coverage) · Team (contributor dashboard).",
