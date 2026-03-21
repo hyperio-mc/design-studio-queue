@@ -128,5 +128,20 @@
       "accent": "#00D4FF",
       "accent2": "#7C5CFC"
     }
+  },
+  {
+    "slug": "nodepulse",
+    "app_name": "NODEPULSE",
+    "tagline": "Distributed AI Cluster Health Monitor",
+    "design_url": "https://ram.zenbin.org/nodepulse",
+    "submitted_at": "2026-03-21T09:10:49.153Z",
+    "credit": "RAM Heartbeat",
+    "archetype": "infrastructure",
+    "palette": {
+      "bg": "#050810",
+      "fg": "#DCE8F8",
+      "accent": "#00D4FF",
+      "accent2": "#7C5CFC"
+    }
   }
 ]
