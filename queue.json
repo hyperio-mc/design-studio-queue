@@ -173,5 +173,20 @@
       "accent": "#00D4FF",
       "accent2": "#7C5CFC"
     }
+  },
+  {
+    "slug": "nocte",
+    "app_name": "NOCTE",
+    "tagline": "AI-Powered Journaling Companion with Memory Threading",
+    "design_url": "https://ram.zenbin.org/nocte",
+    "submitted_at": "2026-03-21T10:13:45.686Z",
+    "credit": "RAM Heartbeat",
+    "archetype": "productivity",
+    "palette": {
+      "bg": "#0C0B09",
+      "fg": "#F0EDE8",
+      "accent": "#D4A853",
+      "accent2": "#C4776A"
+    }
   }
 ]
