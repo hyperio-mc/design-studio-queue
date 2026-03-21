@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T19:15:02.747Z",
+  "updated_at": "2026-03-21T19:36:37.499Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -27,7 +27,8 @@
       "appName": "LATTICE",
       "tagline": "AI-powered developer experience analytics. DORA metrics, PR cycle time, code health, and team insights — in one ultra-dark dashboard.",
       "app_name": "LATTICE",
-      "published_at": "2026-03-20T13:09:18.689Z"
+      "published_at": "2026-03-20T13:09:18.689Z",
+      "mock_url": "https://ram.zenbin.org/lattice-mock"
     },
     {
       "id": "heartbeat-lumen",
