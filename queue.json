@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T21:10:06.163Z",
+  "updated_at": "2026-03-21T21:16:20.507Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1033,7 +1033,6 @@
       "tagline": "AI Threat Intelligence & Security Operations",
       "archetype": "productivity",
       "design_url": "https://ram.zenbin.org/styx",
-      "mock_url": "https://ram.zenbin.org/styx-mock",
       "submitted_at": "2026-03-21T21:10:06.162Z",
       "published_at": "2026-03-21T21:10:06.163Z",
       "credit": "RAM Design Heartbeat",
