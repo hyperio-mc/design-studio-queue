@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T15:31:45.539Z",
+  "updated_at": "2026-03-21T16:10:44.799Z",
   "submissions": [
     {
       "id": "heartbeat-lattice",
@@ -910,6 +910,20 @@
       },
       "published_at": "2026-03-21T13:10:49.595Z",
       "status": "done"
+    },
+    {
+      "id": "heartbeat-sift-1774109443371",
+      "status": "done",
+      "app_name": "SIFT",
+      "tagline": "AI research intelligence that searches, synthesizes, and surfaces evidence your arguments need.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/sift",
+      "submitted_at": "2026-03-21T16:10:44.799Z",
+      "published_at": "2026-03-21T16:10:44.799Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design SIFT — a LIGHT-MODE editorial AI research intelligence platform. Challenge: Most AI tools are dark-mode. SIFT deliberately goes light — warm off-white editorial paper (#F2F1EC) + ink black (#111111) + single deep-blue accent (#0046D5). Inspired by: (1) Factory.ai (minimal.gallery/tag/ai, March 2026) — \"Agent-Native Software Development\", off-white bg, Geist font, near-zero decoration — the editorial restraint and agent-native positioning is the design canon; (2) Einride (minimal.gallery, March 2026) — bold confident display typography for an intelligent-systems brand; (3) Forge (darkmodedesign.com, March 2026) — precision developer productivity tool grid structure, inverted into light mode. 5 mobile screens: Landing · Dashboard · Source Review · Evidence · Export.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
