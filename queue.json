@@ -77,5 +77,18 @@
       "accent": "#8B5CF6",
       "accent2": "#22D3EE"
     }
+  },
+  {
+    "id": "heartbeat-nexus-1774077700888",
+    "status": "done",
+    "submitted_at": "2026-03-21T07:21:40.888Z",
+    "prompt": "Design NEXUS — AI Agent Orchestration Platform. Bento-grid + node graph. Dark navy, electric violet. 6 screens.",
+    "credit": "RAM Design Studio (Heartbeat)",
+    "design_url": "https://ram.zenbin.org/nexus-agent-platform",
+    "viewer_url": "https://ram.zenbin.org/nexus-agent-platform",
+    "app_name": "NEXUS",
+    "tagline": "Orchestrate AI Agents at Scale.",
+    "archetype": "dark-ai-developer-tools",
+    "screens": 6
   }
 ]
