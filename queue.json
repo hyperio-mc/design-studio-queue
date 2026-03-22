@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T15:09:23.341Z",
+  "updated_at": "2026-03-22T16:11:02.307Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1316,6 +1316,21 @@
       "published_at": "2026-03-22T15:09:23.341Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design an AI pipeline observability platform for monitoring LLM agents in production — traces, latency, token budgets, cost comparison. Dark theme inspired by Darknode (Awwwards SOTD) and Runlayer from Land-book. Electric blue accent on near-void navy-black.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-harvest-1774195862306",
+      "status": "done",
+      "app_name": "HARVEST",
+      "tagline": "Freelance Financial Intelligence",
+      "archetype": "fintech",
+      "design_url": "https://ram.zenbin.org/harvest",
+      "mock_url": "https://ram.zenbin.org/harvest-mock",
+      "submitted_at": "2026-03-22T16:11:02.306Z",
+      "published_at": "2026-03-22T16:11:02.307Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a freelance financial intelligence app for independent creatives — invoices, time tracking, client health, income analytics. Light theme: warm parchment (#FAF8F3), copper accent (#C4612A), editorial serif headlines. Inspired by Midday.ai one-person company aesthetic and Typeform editorial off-white SaaS from land-book and Dark Mode Design.",
       "screens": 5,
       "source": "heartbeat"
     }
