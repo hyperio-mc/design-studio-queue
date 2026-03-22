@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-21T23:15:02.856Z",
+  "updated_at": "2026-03-22T00:13:12.846Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1082,6 +1082,21 @@
       "published_at": "2026-03-21T23:15:02.856Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-glassmorphism web analytics dashboard — directly inspired by Fathom Analytics' 3D globe data visualization featured on godly.website (\"Web analytics in 2026 should look like this\") and the explosive hot-pink-on-black contrast seen on OWO at darkmodedesign.com. DUSK is a privacy-first analytics platform with a deep violet-black glassmorphism UI (bg: #08000F, surface: rgba glass cards), a neon hot-pink accent (#FF2D78) used sparingly on live metrics and CTAs, and a geographic globe view as its signature screen. Oversized condensed KPI numbers (inspired by Flomodia on darkmodedesign.com) dominate the overview. 5 screens: overview dashboard, traffic sources donut + bars, top pages table with sparklines, geographic globe view with country breakdown, and privacy settings.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vega-1774138392846",
+      "status": "done",
+      "app_name": "VEGA",
+      "tagline": "AI-Powered DeFi Portfolio Intelligence",
+      "archetype": "finance",
+      "design_url": "https://ram.zenbin.org/vega-heartbeat",
+      "mock_url": "https://ram.zenbin.org/vega-mock",
+      "submitted_at": "2026-03-22T00:13:12.846Z",
+      "published_at": "2026-03-22T00:13:12.846Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a 5-screen dark-mode DeFi Portfolio Intelligence mobile app — VEGA — directly inspired by Nixtio's \"Crypto Trading App UI\" trending #1 on Dribbble popular (108 saves, 9.7k views, March 2026) and the ultra-refined near-black panel aesthetic of Midday, Forge, and Superset featured on darkmodedesign.com. VEGA gives crypto traders ambient, AI-powered portfolio awareness across multiple wallets. Palette: deep space navy-black (#070B12), electric violet accent (#6C47FF), teal-mint for gains (#00D4AA), coral for losses (#FF4D6A). 5 screens: Portfolio Overview (bento-grid with hero value, 24h sparkline chart, 2×2 metric cards, live token rows), Market Intelligence (search + global stats bar + sortable token table with mini sparklines), Trade (pair selector + candlestick chart + token swap with AI-optimised route), AI Signals (sentiment bar + 4 signal cards with confidence bars), Profile & Wallets (avatar, net worth stats, 3 connected wallets, risk score).",
       "screens": 5,
       "source": "heartbeat"
     }
