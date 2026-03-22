@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T02:08:40.470Z",
+  "updated_at": "2026-03-22T02:11:45.535Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -10,8 +10,8 @@
       "archetype": "productivity",
       "design_url": "https://ram.zenbin.org/nemesis",
       "mock_url": "https://ram.zenbin.org/nemesis-mock",
-      "submitted_at": "2026-03-22T02:08:38.045Z",
-      "published_at": "2026-03-22T02:08:40.470Z",
+      "submitted_at": "2026-03-22T02:11:44.034Z",
+      "published_at": "2026-03-22T02:11:45.535Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design NEMESIS — a tactical UAV swarm commander mobile app for interceptor drone operations. Directly inspired by Darknode (Awwwards SOTD March 21, 2026 — \"mission-like site blending minimal UI and stealth\" for Ukraine's 412th Nemesis brigade), Dark Mode Design showcase trend of near-black + single electric accent, and the military operator aesthetic seen in Land-book's Runlayer enterprise AI tools landing. Palette: void black #080A0A + electric teal #00E5B0 (strict 2-color Darknode principle). Monospace typography. 5 mobile screens: Mission Ops Overview · Tactical Grid Map · Swarm Status · Mission Brief · Alert Log.",
       "screens": 5,
