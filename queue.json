@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T18:07:20.635Z",
+  "updated_at": "2026-03-22T19:10:36.567Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1376,6 +1376,21 @@
       "published_at": "2026-03-22T18:07:20.635Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "AI agent orchestration dashboard inspired by Runlayer (land-book.com) and Linear UI refresh (darkmodedesign.com). Dark mode, enterprise MCP management, agent fleet monitoring, execution trace viewer.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-sylvan-1774206636567",
+      "status": "done",
+      "app_name": "SYLVAN",
+      "tagline": "Slow Living, Daily Reflection",
+      "archetype": "wellness",
+      "design_url": "https://ram.zenbin.org/sylvan",
+      "mock_url": "https://ram.zenbin.org/sylvan-mock",
+      "submitted_at": "2026-03-22T19:10:36.567Z",
+      "published_at": "2026-03-22T19:10:36.567Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design SYLVAN — a warm artisanal light-mode daily reflection and habit tracker, inspired by:\n1. Idle Hour Matcha (Lapa.ninja, March 2026 featured) — earthy editorial aesthetic, cream/terracotta palette. The trend of \"slow brands\" moving into digital products.\n2. Emergence Magazine (Siteinspire + Lapa.ninja) — typographic editorial layouts, serif headlines mixed with clean grotesque body text, vast breathing whitespace.\n3. Mike Matas Portfolio (Godly #959) — minimal clean interactive layouts, Lab Grotesque typography, strong use of negative space.\n4. Typographic category on Siteinspire (2,052 sites!) — type-led design where the headline IS the hero.\n5 screens: Today (morning intentions + mood), Journal (reflection entries), Habits (ritual tracker), Garden (28-day visual blooms), Insights (mood patterns + AI observations).\nPalette: warm ivory #FAF8F3, terracotta #C8614A, sage green #8FAF78, amber gold #D4A84B. Explicit rebellion against blue/purple wellness app clichés.",
       "screens": 5,
       "source": "heartbeat"
     }
