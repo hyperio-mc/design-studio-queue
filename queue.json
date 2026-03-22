@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T10:12:21.331Z",
+  "updated_at": "2026-03-22T11:11:35.423Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -891,57 +891,6 @@
       "archetype": "studio"
     },
     {
-      "slug": "nodewatch",
-      "app_name": "NODEWATCH",
-      "tagline": "Real-time intelligence for your autonomous agent network",
-      "design_url": "https://ram.zenbin.org/nodewatch",
-      "submitted_at": "2026-03-21T06:08:21.924Z",
-      "credit": "RAM Heartbeat",
-      "archetype": "developer-tools",
-      "palette": {
-        "bg": "#050505",
-        "fg": "#F4F4F4",
-        "accent": "#8B5CF6",
-        "accent2": "#22D3EE"
-      },
-      "published_at": "2026-03-21T06:08:21.924Z",
-      "status": "done"
-    },
-    {
-      "slug": "nodepulse",
-      "app_name": "NODEPULSE",
-      "tagline": "Distributed AI Cluster Health Monitor",
-      "design_url": "https://ram.zenbin.org/nodepulse",
-      "submitted_at": "2026-03-21T09:08:14.525Z",
-      "credit": "RAM Heartbeat",
-      "archetype": "infrastructure",
-      "palette": {
-        "bg": "#050810",
-        "fg": "#DCE8F8",
-        "accent": "#00D4FF",
-        "accent2": "#7C5CFC"
-      },
-      "published_at": "2026-03-21T09:08:14.525Z",
-      "status": "done"
-    },
-    {
-      "slug": "quark",
-      "app_name": "QUARK",
-      "tagline": "AI Drug Discovery & Molecular Synthesis Platform",
-      "design_url": "https://ram.zenbin.org/quark",
-      "submitted_at": "2026-03-21T13:10:49.595Z",
-      "credit": "RAM Heartbeat",
-      "archetype": "scientific",
-      "palette": {
-        "bg": "#050B14",
-        "fg": "#E8F4FF",
-        "accent": "#06EFC5",
-        "accent2": "#7B61FF"
-      },
-      "published_at": "2026-03-21T13:10:49.595Z",
-      "status": "done"
-    },
-    {
       "id": "heartbeat-sift-1774109443371",
       "status": "done",
       "app_name": "SIFT",
@@ -1277,6 +1226,21 @@
       "published_at": "2026-03-22T10:12:21.331Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design LYRA — a 5-screen dark-mode AI Agent Operations Center for engineering teams, inspired by:\n1. Haptic.app on godly.website (#965) — \"Clean, Dark, Large Type, Single Page, Inter + SF Pro Display, Scrolling Animation\" — oversized hero numerals on near-void black bg\n2. Linear.app on darkmodedesign.com — \"The product development system for teams and agents\" — AI-era precision dark SaaS, 4px-grid discipline, type IS the information hierarchy\n3. Forge + Flomodia on darkmodedesign.com — dense dark productivity tool panels; status colors are the only decoration\n4. Runlayer \"Enterprise MCPs, Skills & Agents\" (land-book.com, March 2026) — AI agent orchestration is the dominant emerging UX category\n\nPalette: near-void indigo-black (#05060F) + electric indigo (#5548FF) + teal-mint (#00DDB5) + red (#FF3D5E) + amber (#FFB93E)\n5 screens: Command (Haptic-style big-number overview) · Fleet (agent cards) · Task Detail (step timeline + log stream) · Analytics (success rate hero + charts) · Configure (new agent wizard)",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-bastion-1774177895422",
+      "status": "done",
+      "app_name": "BASTION",
+      "tagline": "Your Personal Data Vault & Identity Shield",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/bastion",
+      "mock_url": "https://ram.zenbin.org/bastion-mock",
+      "submitted_at": "2026-03-22T11:11:35.422Z",
+      "published_at": "2026-03-22T11:11:35.423Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-mode personal security vault app inspired by Evervault floating 3D card aesthetic (godly.website) and Linear minimal dark UI (darkmodedesign.com). 5 mobile screens: shield dashboard, encrypted vault, threat alerts, identity manager, analytics.",
       "screens": 5,
       "source": "heartbeat"
     }
