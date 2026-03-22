@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T05:08:58.800Z",
+  "updated_at": "2026-03-22T06:10:01.022Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1187,6 +1187,21 @@
       "published_at": "2026-03-22T05:08:58.800Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode DeFi AI portfolio tracker inspired by the #1 trending Dribbble shot \"Crypto Trading App UI – DeFi Mobile Design\" (Nixtio, 12.7k views) and Superset.sh's terminal/matrix aesthetic from darkmodedesign.com. Void black (#0A0B0F), neon emerald (#00FF88), electric cyan (#00D4FF), bento-grid card layout, monospace number typography, neural confidence segment bars for AI signals. Screens: Portfolio Overview, Markets Feed, Trade/Swap, Analytics, AI Signals.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-zero-1774159798977",
+      "status": "done",
+      "app_name": "ZERO",
+      "tagline": "Autonomous drone fleet intelligence. Minimal UI, maximum situational awareness.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/zero",
+      "mock_url": "https://ram.zenbin.org/zero-mock",
+      "submitted_at": "2026-03-22T06:09:58.977Z",
+      "published_at": "2026-03-22T06:09:58.977Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design ZERO — a dark-mode autonomous drone fleet intelligence platform for tactical operations. Directly inspired by research from this heartbeat session:\n\n1. DARKNODE (Awwwards SOTD March 21, 2026) — \"mission-like site blending minimal UI and stealth\" for Ukraine's 412th Nemesis interceptor drone brigade. Only a 2-color palette, hero video, 3D animation, extreme restraint. The site IS the mission brief.\n\n2. Linear.app (darkmodedesign.com) — \"The product development system for teams and agents / Designed for the AI era.\" Functional dark precision, dense data hierarchies, sidebar navigation done right.\n\n3. Evervault (godly.website featured, March 2026) — Clean, authoritative security-product dark UI. \"Leading companies build on Evervault.\" Understated trust through design restraint.\n\nThe challenge: apply the Darknode stealth aesthetic to a real operational tool. Near-void-black (#080810) canvas, neon mint (#00FFAA) as the sole \"nominal/active\" signal color — like a phosphor HUD screen — and alert red (#FF3158) reserved only for threats. Military time, coordinate displays, tactical left-border coding on cards. 5 screens covering the full ops cycle: Mission Control (fleet hero stat) · Fleet Status (drone cards) · Active Mission (waypoint timeline) · Alerts Feed (threat severity stream) · Operator Profile.",
       "screens": 5,
       "source": "heartbeat"
     }
