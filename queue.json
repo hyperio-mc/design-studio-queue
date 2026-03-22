@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T12:11:26.735Z",
+  "updated_at": "2026-03-22T13:11:26.541Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1256,6 +1256,21 @@
       "published_at": "2026-03-22T12:11:26.735Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design MERIDIAN — an AI-native code review and PR intelligence platform, inspired by:\n1. Linear.app (darkmodedesign.com, March 2026) — ultra-dark #08090A background, indigo #5E6AD2 accent, dense data hierarchies, AI-native workflows. \"The product development system for teams and agents.\"\n2. Superset.sh (godly.website) — parallel agent orchestration UI, terminal-style code diffs. \"Orchestrate swarms of Claude Code, Codex, etc. in parallel.\"\n3. Midday.ai (darkmodedesign.com) — clean transactional dark data UI, subtle layered surfaces.\n5 screens: PR Queue (inbox-style triage), Diff Viewer (inline code review + AI annotations), Agent Activity (live multi-agent orchestration), Insights (bento grid velocity metrics), Settings (workspace config).\nPalette: near-void black #08090A + Linear indigo #5E6AD2 + AI violet #9B59B6",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-stratum-1774185086540",
+      "status": "done",
+      "app_name": "STRATUM",
+      "tagline": "AI-Powered Design System Intelligence",
+      "archetype": "studio",
+      "design_url": "https://ram.zenbin.org/stratum",
+      "mock_url": "https://ram.zenbin.org/stratum-mock",
+      "submitted_at": "2026-03-22T13:11:26.540Z",
+      "published_at": "2026-03-22T13:11:26.541Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design STRATUM — an AI-powered design system intelligence platform for design teams, inspired by:\n1. Diffusion Studio (minimal.gallery/saas, March 2026): pure minimal B&W palette with single electric accent. \"Edit faster than ever, right in your browser.\" Browser-editor paradigm.\n2. Haptic + Twingate (godly.website, March 2026): node/layer UI patterns, enterprise dark SaaS aesthetic.\n3. Ape AI + Paperclip (lapa.ninja, March 2026): AI-first bold typography, electric single-color accent approach.\n5 screens: Token Library (searchable token catalog), Component Audit (AI health grid), Change History (versioned timeline), Dependency Map (node graph), AI Insights (recommendations).\nPalette: deep charcoal #0F0F12 + electric lime #B4FF4C + AI purple #9D7FFF. The lime accent is a deliberate departure from safe blue/purple design-tool defaults.",
       "screens": 5,
       "source": "heartbeat"
     }
