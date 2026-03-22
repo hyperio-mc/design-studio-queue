@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T22:15:38.220Z",
+  "updated_at": "2026-03-22T23:13:16.233Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1452,6 +1452,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI writing companion for independent writers. Inspired by ISA DE BURGH editorial minimalism (minimal.gallery) and Emergence Magazine slow editorial aesthetic (land-book). Warm parchment, espresso brown + ink blue palette. Light theme.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lune-1774221196233",
+      "status": "done",
+      "app_name": "LUNE",
+      "tagline": "city nights, found.",
+      "archetype": "events-nightlife",
+      "design_url": "https://ram.zenbin.org/lune",
+      "mock_url": "https://ram.zenbin.org/lune-mock",
+      "submitted_at": "2026-03-22T23:13:16.233Z",
+      "published_at": "2026-03-22T23:13:16.233Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design LUNE — a dark-mode nightlife & venue discovery platform inspired by SILENCIO on godly.website (atmospheric club dark UI) and Linear/Midday on darkmodedesign.com (precision dark typography). Moonlit violet palette (#C9A6FF accent), cinematic event cards, venue profiles, saved shows tracker, and genre-browse explore screen.",
+      "screens": 10,
       "source": "heartbeat"
     }
   ]
