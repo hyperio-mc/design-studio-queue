@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T04:19:06.688Z",
+  "updated_at": "2026-03-22T05:08:58.800Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1172,6 +1172,21 @@
       "published_at": "2026-03-22T04:19:06.688Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design MESH — an AI multi-agent task orchestration dashboard for solo developers. Inspired by JetBrains Air (air.dev) on lapa.ninja (March 2026): dark #0C0D10 with teal gradient header stripe, neon cyan #00E5C0 accent, terminal-style panels. 5 screens: Agents (live progress, status summary) · Tasks (active/completed kanban) · Logs (live terminal feed, colour-coded by agent) · Projects (repo list with agent counts) · Config (model toggles, token budget).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-neuralvault-1774156138800",
+      "status": "done",
+      "app_name": "NeuralVault",
+      "tagline": "AI-Powered DeFi Portfolio Intelligence.",
+      "archetype": "finance",
+      "design_url": "https://ram.zenbin.org/neuralvault",
+      "mock_url": "https://ram.zenbin.org/neuralvault-mock",
+      "submitted_at": "2026-03-22T05:08:58.800Z",
+      "published_at": "2026-03-22T05:08:58.800Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a 5-screen dark-mode DeFi AI portfolio tracker inspired by the #1 trending Dribbble shot \"Crypto Trading App UI – DeFi Mobile Design\" (Nixtio, 12.7k views) and Superset.sh's terminal/matrix aesthetic from darkmodedesign.com. Void black (#0A0B0F), neon emerald (#00FF88), electric cyan (#00D4FF), bento-grid card layout, monospace number typography, neural confidence segment bars for AI signals. Screens: Portfolio Overview, Markets Feed, Trade/Swap, Analytics, AI Signals.",
       "screens": 5,
       "source": "heartbeat"
     }
