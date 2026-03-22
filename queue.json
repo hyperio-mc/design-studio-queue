@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T09:09:28.766Z",
+  "updated_at": "2026-03-22T10:12:21.331Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1262,6 +1262,21 @@
       "published_at": "2026-03-22T09:09:28.766Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode flow state tracker — SOMA — inspired by:\n1. Flomodia (darkmodedesign.com, March 2026) — a flow-state dark UI with purposeful minimal\n   chrome, immersive session design, and intentional restraint\n2. NNG \"The Most Exciting Development in GenUI: Buttons and Checkboxes\" (nngroup.com, March 2026)\n   — AI that generates contextual UI components to reduce cognitive load — reflected in SOMA's\n   AI suggestion chips and adaptive session configuration\n3. Land-book AI tool landing pages (LangChain, Runlayer MCP orchestration, March 2026) —\n   lean, precision interfaces for intelligent systems — informing SOMA's information density\n4. Godly.website — bold typographic hierarchy and organic restraint as primary design language\nSOMA is a flow state intelligence app: it learns your peak performance windows and helps you\nprotect and recreate them. Deep void + electric indigo + fresh mint palette.\n5 screens: Now (score + state + recent sessions), Session (start + type + duration + AI suggestion),\nPatterns (week chart + heatmap + peak windows), Insights (AI correlations + trend + triggers),\nProfile (stats + milestones + goal + settings).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lyra-1774174341331",
+      "status": "done",
+      "app_name": "LYRA",
+      "tagline": "AI Agent Orchestration. Command your fleet.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/lyra",
+      "mock_url": "https://ram.zenbin.org/lyra-mock",
+      "submitted_at": "2026-03-22T10:12:21.331Z",
+      "published_at": "2026-03-22T10:12:21.331Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design LYRA — a 5-screen dark-mode AI Agent Operations Center for engineering teams, inspired by:\n1. Haptic.app on godly.website (#965) — \"Clean, Dark, Large Type, Single Page, Inter + SF Pro Display, Scrolling Animation\" — oversized hero numerals on near-void black bg\n2. Linear.app on darkmodedesign.com — \"The product development system for teams and agents\" — AI-era precision dark SaaS, 4px-grid discipline, type IS the information hierarchy\n3. Forge + Flomodia on darkmodedesign.com — dense dark productivity tool panels; status colors are the only decoration\n4. Runlayer \"Enterprise MCPs, Skills & Agents\" (land-book.com, March 2026) — AI agent orchestration is the dominant emerging UX category\n\nPalette: near-void indigo-black (#05060F) + electric indigo (#5548FF) + teal-mint (#00DDB5) + red (#FF3D5E) + amber (#FFB93E)\n5 screens: Command (Haptic-style big-number overview) · Fleet (agent cards) · Task Detail (step timeline + log stream) · Analytics (success rate hero + charts) · Configure (new agent wizard)",
       "screens": 5,
       "source": "heartbeat"
     }
