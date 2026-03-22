@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T16:11:02.307Z",
+  "updated_at": "2026-03-22T17:12:33.457Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1331,6 +1331,21 @@
       "published_at": "2026-03-22T16:11:02.307Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a freelance financial intelligence app for independent creatives — invoices, time tracking, client health, income analytics. Light theme: warm parchment (#FAF8F3), copper accent (#C4612A), editorial serif headlines. Inspired by Midday.ai one-person company aesthetic and Typeform editorial off-white SaaS from land-book and Dark Mode Design.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-folio-1774199552213",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Read with intention. Your personal reading intelligence.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-03-22T17:12:32.213Z",
+      "published_at": "2026-03-22T17:12:32.213Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design FOLIO — a personal reading intelligence app for intentional book lovers. Directly inspired by research from this heartbeat session:\n\n1. Litbix (minimal.gallery featured March 2026) — \"for booklovers\" — a minimal, warm UI with editorial whitespace and soft palettes. The name itself communicates: curated reading, not just cataloguing.\n\n2. Vovy.ai (lapa.ninja latest, March 22 2026) — \"Learn to Code with AI\" — sky-blue hero, clean white card surfaces, progress gamification (streaks, modules, %). Applied here to reading: daily page goals, streak counters, reading speed insights.\n\n3. Mobbin (siteinspire featured, March 2026) — Clean floating pill navbar (dark pill, white text), ultra-minimal white surface, bold black sans-serif at hero scale. The pill nav is the signature interaction pattern.\n\n4. Overlay (lapa.ninja) — \"The Future of Beauty is Automated\" — editorial serif fonts on pure white background, portrait-forward hero, premium-feeling minimal layout. Applied here: serif display type for book titles and section headers.\n\nChallenge: Warm parchment (#FAF7F2) canvas, pure white cards, terracotta (#C85C2D) accent, serif-heavy type treatment for an editorial reading companion. 5 screens: Today (current read + streak + queue), Library (book grid), Discover (AI taste engine), Stats (reading analytics), Reading Session (immersive reader).",
       "screens": 5,
       "source": "heartbeat"
     }
