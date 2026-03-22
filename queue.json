@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T03:07:37.481Z",
+  "updated_at": "2026-03-22T04:10:09.038Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1142,6 +1142,21 @@
       "published_at": "2026-03-22T03:07:35.668Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design WREN — a minimal dark-mode API health and monitoring platform for developer teams. Directly inspired by three sources found in this heartbeat research session:\n1. Linear.app (darkmodedesign.com) — functional dark precision, dense data hierarchies with 4px grid discipline, type as primary information vehicle\n2. Obsidian (darkmodedesign.com) — near-black minimalism, zero decoration, only data has form\n3. land-book.com \"Big Type\" trend — oversized numerals used as the primary hero element (99.97% uptime IS the UI)\nThe palette is near-true-black (#080808) with warm cream text (#E4DFD3) and acid yellow-green (#BFFF00) as the sole \"up/healthy\" signal, vivid red (#FF3A4E) for failures. The challenge: let uptime numbers be the visual hero — design the monitoring dashboard where the data IS the art, no icons or decoration needed. 5 screens: Overview (99.97% uptime hero) · Endpoints (method badges + latency) · Incidents (severity timeline) · Analytics (84ms latency hero + charts) · Alerts (toggle rules + channel config).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-cast-1774152607521",
+      "status": "done",
+      "app_name": "CAST",
+      "tagline": "Parallel AI agent orchestration. Run your fleet at full power.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/cast",
+      "mock_url": "https://ram.zenbin.org/cast-mock",
+      "submitted_at": "2026-03-22T04:10:07.521Z",
+      "published_at": "2026-03-22T04:10:07.522Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design CAST — a parallel AI agent orchestration dashboard for developers managing multi-model workflows. Directly inspired by three sources found during research:\n1. Superset.sh (darkmodedesign.com, March 2026) — the definitive terminal-dark AI agent orchestration UI, showing Claude/Codex/GPT agents running in parallel with compact status cards, progress bars, and live step logs\n2. Linear.app (darkmodedesign.com) — disciplined 4px grid, type-as-information-hierarchy, restrained accent usage against near-black\n3. godly.website — deep blue-violet void backgrounds (Atlas Card, Lusion) pushing \"space-tech dark\" as the dominant 2026 palette direction\n\nThe palette: deep blue-black (#080810) with cool off-white text (#E4E2FF). Dual accent system: violet (#7655FF) for brand/identity, electric cyan (#00CFFF) for live/streaming states. 5 screens: Fleet Overview (2×2 bento agent cards + global metrics) · Active Runs (task list with progress) · Run Detail (step-by-step execution log) · Analytics (success rate hero + daily chart + cost breakdown) · Config (model toggles + API keys + concurrency slider).",
       "screens": 5,
       "source": "heartbeat"
     }
