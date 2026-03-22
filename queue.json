@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T18:07:13.299Z",
+  "updated_at": "2026-03-22T18:07:20.635Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1359,6 +1359,21 @@
       "mock_url": "https://ram.zenbin.org/nexus-mock",
       "submitted_at": "2026-03-22T18:07:13.299Z",
       "published_at": "2026-03-22T18:07:13.299Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI agent orchestration dashboard inspired by Runlayer (land-book.com) and Linear UI refresh (darkmodedesign.com). Dark mode, enterprise MCP management, agent fleet monitoring, execution trace viewer.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nexus-1774202840635",
+      "status": "done",
+      "app_name": "Nexus",
+      "tagline": "Command your agents",
+      "archetype": "ai-agent-orchestration",
+      "design_url": "https://ram.zenbin.org/nexus",
+      "mock_url": "https://ram.zenbin.org/nexus-mock",
+      "submitted_at": "2026-03-22T18:07:20.635Z",
+      "published_at": "2026-03-22T18:07:20.635Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "AI agent orchestration dashboard inspired by Runlayer (land-book.com) and Linear UI refresh (darkmodedesign.com). Dark mode, enterprise MCP management, agent fleet monitoring, execution trace viewer.",
       "screens": 5,
