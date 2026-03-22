@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T07:11:31.219Z",
+  "updated_at": "2026-03-22T08:07:32.146Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1232,6 +1232,21 @@
       "published_at": "2026-03-22T07:11:31.219Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode MCP Agent Orchestration Hub — STRATUM — directly inspired by Linear.app's ultra-minimal design language (featured on darkmodedesign.com, March 2026: #08090A background, #5E6AD2 purple-blue accent, Inter Variable variable font, extreme information density with zero decorative noise) and the emerging \"agentic infrastructure\" product category on land-book.com (Runlayer: \"Enterprise MCPs, Skills & Agents\", March 2026). STRATUM gives developer teams real-time visibility and control over their AI agent fleet and MCP tool connections. Palette: ultra-dark #08090A bg, #5E6AD2 Linear accent, #2DB37F health green, #E5484D error red, #E09A21 warning amber. 5 screens: Hub Overview (bento grid with active agents counter, tool calls/min sparkline tiles, system health %, activity feed), Agent Fleet (filtered list of agents with status badges, model labels, call counts, uptime), MCP Connections (2-column tool grid: GitHub/Slack/Linear/Postgres/Stripe/Notion with health dots and call rate sparklines), Event Stream (live feed of TOOL_CALL/LLM_CALL/ERROR events with type badges and latency indicators), Usage & Quotas (month-to-date spend hero, token usage bars by agent, quota progress bars).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-driftwood-1774166852145",
+      "status": "done",
+      "app_name": "DRIFTWOOD",
+      "tagline": "Slow living journal. A sanctuary for reflection.",
+      "archetype": "health",
+      "design_url": "https://ram.zenbin.org/driftwood-heartbeat",
+      "mock_url": "https://ram.zenbin.org/driftwood-mock",
+      "submitted_at": "2026-03-22T08:07:32.145Z",
+      "published_at": "2026-03-22T08:07:32.146Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a 5-screen dark-mode slow-living journal app — DRIFTWOOD — inspired by:\n1. \"with.radiance\" (Awwwards nominees, March 2026) — natural-material bioluminescent glow aesthetic\n   entering digital interfaces: warm organic forms, luminous amber glows\n2. \"Minimalism Life\" (darkmodedesign.com) — slow-living dark UI with generous whitespace,\n   zero visual noise, serif-adjacent typography\n3. \"Kyn & Folk\" artisan ceramics + \"Zia Tile\" handcrafted tile (land-book.com) —\n   translating warmth of handmade objects into digital UI feel\nDRIFTWOOD is a mindful daily journaling app that feels like a candlelit notebook rather than a productivity tool.\nPalette: deep forest night #0E1209 bg, #C4843A aged amber accent, #4A7C59 sage secondary, #F0E6C8 parchment text.\n5 screens: Today (streak + quick-entry + recent entries), Write (full writing surface with keyboard + mood),\nTimeline (dot-calendar heatmap + week entries), Insights (streak hero + mood chart + writing patterns + themes), Profile (avatar + milestones + intentions + settings).",
       "screens": 5,
       "source": "heartbeat"
     }
