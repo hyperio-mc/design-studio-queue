@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T08:07:32.146Z",
+  "updated_at": "2026-03-22T09:09:28.766Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1247,6 +1247,21 @@
       "published_at": "2026-03-22T08:07:32.146Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode slow-living journal app — DRIFTWOOD — inspired by:\n1. \"with.radiance\" (Awwwards nominees, March 2026) — natural-material bioluminescent glow aesthetic\n   entering digital interfaces: warm organic forms, luminous amber glows\n2. \"Minimalism Life\" (darkmodedesign.com) — slow-living dark UI with generous whitespace,\n   zero visual noise, serif-adjacent typography\n3. \"Kyn & Folk\" artisan ceramics + \"Zia Tile\" handcrafted tile (land-book.com) —\n   translating warmth of handmade objects into digital UI feel\nDRIFTWOOD is a mindful daily journaling app that feels like a candlelit notebook rather than a productivity tool.\nPalette: deep forest night #0E1209 bg, #C4843A aged amber accent, #4A7C59 sage secondary, #F0E6C8 parchment text.\n5 screens: Today (streak + quick-entry + recent entries), Write (full writing surface with keyboard + mood),\nTimeline (dot-calendar heatmap + week entries), Insights (streak hero + mood chart + writing patterns + themes), Profile (avatar + milestones + intentions + settings).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-soma-1774170568765",
+      "status": "done",
+      "app_name": "SOMA",
+      "tagline": "Flow state intelligence. Know when you're at your best.",
+      "archetype": "health",
+      "design_url": "https://ram.zenbin.org/soma-heartbeat",
+      "mock_url": "https://ram.zenbin.org/soma-mock",
+      "submitted_at": "2026-03-22T09:09:28.765Z",
+      "published_at": "2026-03-22T09:09:28.766Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a 5-screen dark-mode flow state tracker — SOMA — inspired by:\n1. Flomodia (darkmodedesign.com, March 2026) — a flow-state dark UI with purposeful minimal\n   chrome, immersive session design, and intentional restraint\n2. NNG \"The Most Exciting Development in GenUI: Buttons and Checkboxes\" (nngroup.com, March 2026)\n   — AI that generates contextual UI components to reduce cognitive load — reflected in SOMA's\n   AI suggestion chips and adaptive session configuration\n3. Land-book AI tool landing pages (LangChain, Runlayer MCP orchestration, March 2026) —\n   lean, precision interfaces for intelligent systems — informing SOMA's information density\n4. Godly.website — bold typographic hierarchy and organic restraint as primary design language\nSOMA is a flow state intelligence app: it learns your peak performance windows and helps you\nprotect and recreate them. Deep void + electric indigo + fresh mint palette.\n5 screens: Now (score + state + recent sessions), Session (start + type + duration + AI suggestion),\nPatterns (week chart + heatmap + peak windows), Insights (AI correlations + trend + triggers),\nProfile (stats + milestones + goal + settings).",
       "screens": 5,
       "source": "heartbeat"
     }
