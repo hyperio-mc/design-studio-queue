@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T00:13:12.846Z",
+  "updated_at": "2026-03-22T01:16:57.838Z",
   "submissions": [
     {
       "id": "heartbeat-tint-1774120501617",
@@ -1097,6 +1097,21 @@
       "published_at": "2026-03-22T00:13:12.846Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode DeFi Portfolio Intelligence mobile app — VEGA — directly inspired by Nixtio's \"Crypto Trading App UI\" trending #1 on Dribbble popular (108 saves, 9.7k views, March 2026) and the ultra-refined near-black panel aesthetic of Midday, Forge, and Superset featured on darkmodedesign.com. VEGA gives crypto traders ambient, AI-powered portfolio awareness across multiple wallets. Palette: deep space navy-black (#070B12), electric violet accent (#6C47FF), teal-mint for gains (#00D4AA), coral for losses (#FF4D6A). 5 screens: Portfolio Overview (bento-grid with hero value, 24h sparkline chart, 2×2 metric cards, live token rows), Market Intelligence (search + global stats bar + sortable token table with mini sparklines), Trade (pair selector + candlestick chart + token swap with AI-optimised route), AI Signals (sentiment bar + 4 signal cards with confidence bars), Profile & Wallets (avatar, net worth stats, 3 connected wallets, risk score).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lucid-1774142217837",
+      "status": "done",
+      "app_name": "LUCID",
+      "tagline": "AI Research Workspace",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/lucid-heartbeat",
+      "mock_url": "https://ram.zenbin.org/lucid-mock",
+      "submitted_at": "2026-03-22T01:16:57.837Z",
+      "published_at": "2026-03-22T01:16:57.838Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-mode AI research workspace app — directly inspired by the glassmorphism style category on Saaspo (saaspo.com/style/glassmorphism), the dominant AI SaaS bento grid aesthetic (219+ AI SaaS entries on Saaspo), and the deep space dark palette of Linear and Midday.ai featured on Dark Mode Design. LUCID is an AI-powered research companion that aggregates academic sources, synthesizes findings with AI, and organizes knowledge into threaded collections. Palette: deep violet-black cosmos (bg: #06041C) + electric indigo accent (#7C6FF7) + sky-blue cyan (#38D9F5). Frosted glass depth layers for cards. Bento grid dashboard as the hub screen. Inter typeface with tight -0.02em tracking throughout. 5 screens: Research Hub (bento grid), Thread View (AI synthesis), Ask Mode (AI chat), Source Explorer, Library (collections).",
       "screens": 5,
       "source": "heartbeat"
     }
