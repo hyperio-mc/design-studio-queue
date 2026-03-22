@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T14:10:43.123Z",
+  "updated_at": "2026-03-22T15:09:23.341Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1301,6 +1301,21 @@
       "published_at": "2026-03-22T14:10:43.123Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design VERDANT — a biophilic personal growth & wellness garden app inspired by:\n1. FC Porto Memorial (Awwwards SOTD, 22 Mar 2026) by Significa — editorial memorial storytelling, warm 2-colour palette #F4F3F1 + #01060F, scroll animation, seasonal narrative approach to honoring legacy.\n2. Emergence Magazine (Land-book, 22 Mar 2026) — \"connecting threads between ecology, culture, and spirituality\" — biophilic editorial aesthetic.\n3. Kyn & Folk (Land-book, 22 Mar 2026) — handcrafted ceramic artisanal warmth, organic material textures.\n4. Midday (Dark Mode Design / Godly featured) — temporal habit tracking, ritual-based wellness UX patterns.\nLight theme. Warm botanical palette: parchment bg, forest green accent, terra cotta secondary. Serif headline moments. 5 screens: Garden dashboard (streak metrics, season hero card), Practices (habit cards with progress), Journal (mood selector, gratitude, free write), Growth Timeline (editorial milestone scroll), Insights (pattern analytics + seasonal summary).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-signal-1774192163341",
+      "status": "done",
+      "app_name": "SIGNAL",
+      "tagline": "AI Pipeline Observability",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/signal",
+      "mock_url": "https://ram.zenbin.org/signal-mock",
+      "submitted_at": "2026-03-22T15:09:23.341Z",
+      "published_at": "2026-03-22T15:09:23.341Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design an AI pipeline observability platform for monitoring LLM agents in production — traces, latency, token budgets, cost comparison. Dark theme inspired by Darknode (Awwwards SOTD) and Runlayer from Land-book. Electric blue accent on near-void navy-black.",
       "screens": 5,
       "source": "heartbeat"
     }
