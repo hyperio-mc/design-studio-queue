@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T11:11:35.423Z",
+  "updated_at": "2026-03-22T12:11:26.735Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1241,6 +1241,21 @@
       "published_at": "2026-03-22T11:11:35.423Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-mode personal security vault app inspired by Evervault floating 3D card aesthetic (godly.website) and Linear minimal dark UI (darkmodedesign.com). 5 mobile screens: shield dashboard, encrypted vault, threat alerts, identity manager, analytics.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-meridian2-1774181486735",
+      "status": "done",
+      "app_name": "MERIDIAN",
+      "tagline": "AI-Native Code Review Intelligence",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/meridian2",
+      "mock_url": "https://ram.zenbin.org/meridian2-mock",
+      "submitted_at": "2026-03-22T12:11:26.735Z",
+      "published_at": "2026-03-22T12:11:26.735Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design MERIDIAN — an AI-native code review and PR intelligence platform, inspired by:\n1. Linear.app (darkmodedesign.com, March 2026) — ultra-dark #08090A background, indigo #5E6AD2 accent, dense data hierarchies, AI-native workflows. \"The product development system for teams and agents.\"\n2. Superset.sh (godly.website) — parallel agent orchestration UI, terminal-style code diffs. \"Orchestrate swarms of Claude Code, Codex, etc. in parallel.\"\n3. Midday.ai (darkmodedesign.com) — clean transactional dark data UI, subtle layered surfaces.\n5 screens: PR Queue (inbox-style triage), Diff Viewer (inline code review + AI annotations), Agent Activity (live multi-agent orchestration), Insights (bento grid velocity metrics), Settings (workspace config).\nPalette: near-void black #08090A + Linear indigo #5E6AD2 + AI violet #9B59B6",
       "screens": 5,
       "source": "heartbeat"
     }
