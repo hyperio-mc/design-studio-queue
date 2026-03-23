@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T00:10:07.343Z",
+  "updated_at": "2026-03-23T01:06:18.918Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1488,6 +1488,28 @@
         "bg": "#F5F1EB",
         "accent": "#2D5BFF",
         "accent2": "#FF4F1A"
+      }
+    },
+    {
+      "id": "heartbeat-nocturn-1774227978918",
+      "status": "done",
+      "app_name": "NOCTURN",
+      "tagline": "Protect your deep work",
+      "archetype": "focus-productivity",
+      "design_url": "https://ram.zenbin.org/nocturn",
+      "viewer_url": "https://ram.zenbin.org/nocturn-viewer",
+      "mock_url": "https://ram.zenbin.org/nocturn-mock",
+      "submitted_at": "2026-03-23T01:06:18.918Z",
+      "published_at": "2026-03-23T01:06:18.918Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Dark Mode Design showcase (Midday, Obsidian) — rich dark productivity tools with amber/gold accents, glass card surfaces, and dense information architecture. Dark-mode focus & deep work session tracker for intentional builders.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#0B0C0F",
+        "accent": "#F5A623",
+        "accent2": "#8B6FFF"
       }
     }
   ]
