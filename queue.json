@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T01:07:03.254Z",
+  "updated_at": "2026-03-23T02:13:55.557Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1533,6 +1533,21 @@
         "accent": "#F5A623",
         "accent2": "#8B6FFF"
       }
+    },
+    {
+      "id": "heartbeat-grove-1774232035557",
+      "status": "done",
+      "app_name": "GROVE",
+      "tagline": "Know what's working.",
+      "archetype": "creator-analytics",
+      "design_url": "https://ram.zenbin.org/grove",
+      "mock_url": "https://ram.zenbin.org/grove-mock",
+      "submitted_at": "2026-03-23T02:13:55.557Z",
+      "published_at": "2026-03-23T02:13:55.557Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Sprout Social lime-green accent + Typeform warm-cream editorial base (land-book.com). Light-theme creator growth analytics for indie creators tracking reach, engagement, and follower growth across platforms.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
