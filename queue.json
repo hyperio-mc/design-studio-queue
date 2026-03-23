@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T12:09:39.531Z",
+  "updated_at": "2026-03-23T12:19:12.425Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1752,6 +1752,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-folio-1774268352425",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Know what's working.",
+      "archetype": "studio",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-03-23T12:19:12.425Z",
+      "published_at": "2026-03-23T12:19:12.425Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a light editorial creator analytics dashboard for photographers and visual content creators — parchment background, forest green brand identity, signal green growth accent, cobalt blue for platform breakdowns. 5 screens: Dashboard, Content feed, Insights, Audience, Goals.",
+      "screens": 10,
+      "source": "heartbeat"
     }
   ]
 }
