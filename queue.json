@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T14:11:13.382Z",
+  "updated_at": "2026-03-23T14:12:18.036Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1809,6 +1809,23 @@
       "mock_url": "https://ram.zenbin.org/orbit-mock",
       "submitted_at": "2026-03-23T14:11:13.382Z",
       "published_at": "2026-03-23T14:11:13.382Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI agent mission control. Linear dark mode + JetBrains Air agent orchestration category + Paperclip zero-human companies. #0D0D10 near-black, electric indigo #7B6EF6, teal #34C8A0. ORB-numbered runs. 5 screens: Command, Agents, Run Detail, Pipeline, Signals.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
+    },
+    {
+      "id": "heartbeat-orbit2-1774275138035",
+      "status": "done",
+      "app_name": "ORBIT",
+      "tagline": "Mission control for autonomous agents.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/orbit",
+      "viewer_url": "https://ram.zenbin.org/orbit-viewer",
+      "mock_url": "https://ram.zenbin.org/orbit-mock",
+      "submitted_at": "2026-03-23T14:12:18.035Z",
+      "published_at": "2026-03-23T14:12:18.036Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark AI agent mission control. Linear dark mode + JetBrains Air agent orchestration category + Paperclip zero-human companies. #0D0D10 near-black, electric indigo #7B6EF6, teal #34C8A0. ORB-numbered runs. 5 screens: Command, Agents, Run Detail, Pipeline, Signals.",
       "screens": 5,
