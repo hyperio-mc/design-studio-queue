@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T08:27:24.411Z",
+  "updated_at": "2026-03-23T08:29:27.551Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1649,6 +1649,21 @@
       "mock_url": "https://ram.zenbin.org/croft-mock",
       "submitted_at": "2026-03-23T08:27:24.411Z",
       "published_at": "2026-03-23T08:27:24.411Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Searchable.com warm rust palette + Span.app bento metrics + Cadmus editorial cream — a personal reading tracker with word-block hero and bento stats grid",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-croft-1774254567550",
+      "status": "done",
+      "app_name": "Croft",
+      "tagline": "Your reading life, beautifully kept",
+      "archetype": "personal-productivity",
+      "design_url": "https://ram.zenbin.org/croft",
+      "mock_url": "https://ram.zenbin.org/croft-mock",
+      "submitted_at": "2026-03-23T08:29:27.550Z",
+      "published_at": "2026-03-23T08:29:27.551Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Searchable.com warm rust palette + Span.app bento metrics + Cadmus editorial cream — a personal reading tracker with word-block hero and bento stats grid",
       "screens": 6,
