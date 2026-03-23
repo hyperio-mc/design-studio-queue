@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T04:12:24.600Z",
+  "updated_at": "2026-03-23T04:20:46.508Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1577,6 +1577,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by KO Collective (minimal.gallery) editorial serif + NOA/Big Type trend (siteinspire this week). Light parchment theme, terracotta accent, AI creative studio dashboard for independent brand architects.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-cipher-1774239646507",
+      "status": "done",
+      "app_name": "CIPHER",
+      "tagline": "Music that finds you.",
+      "archetype": "music",
+      "design_url": "https://ram.zenbin.org/cipher",
+      "mock_url": "https://ram.zenbin.org/cipher-mock",
+      "submitted_at": "2026-03-23T04:20:46.507Z",
+      "published_at": "2026-03-23T04:20:46.508Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark typographic music discovery platform inspired by siteinspire editorial/typographic category — stark near-black background, electric violet accent, expressive large type as hero element. Genre-coded color system: violet for electronic, green for ambient, red for experimental, blue for drone. 5 screens: Discover, Search bento genre tiles, Library, Charts, Profile.",
+      "screens": 10,
       "source": "heartbeat"
     }
   ]
