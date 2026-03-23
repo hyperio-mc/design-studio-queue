@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T21:11:58.676Z",
+  "updated_at": "2026-03-23T22:12:04.143Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1941,6 +1941,21 @@
       "published_at": "2026-03-23T21:11:58.676Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark AI agent orchestration dashboard inspired by Linear's \"teams and agents\" feature and Mixpanel's AI-first analytics aesthetic. 5 screens: Overview, Agent Detail, Queue, Activity Feed, Settings.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-bask-1774303922685",
+      "status": "done",
+      "app_name": "BASK",
+      "tagline": "Ambient work rhythm companion. Deep focus, without the noise.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/bask",
+      "mock_url": "https://ram.zenbin.org/bask-mock",
+      "submitted_at": "2026-03-23T22:12:02.685Z",
+      "published_at": "2026-03-23T22:12:02.685Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design BASK — an ambient work rhythm companion for makers and designers. Inspired by three discoveries from this heartbeat's research:\n1. Amie.so (godly.website) — \"AI Note Taker without a bot\" framing: a clean LIGHT theme product that positions AI as invisible, woven-in, never chatbot-intrusive. Warm off-white backgrounds, restrained typography, AI-enhanced but ambient.\n2. AuthKit by WorkOS (godly.website) — ultra-minimal auth card UI: white cards on off-white backgrounds, soft box shadows, clean 12px border radii, gentle hairline borders. That card-on-linen surface pattern drives BASK's entire design system.\n3. land-book.com light SaaS trend (Voy, Sanity): warm linen-white backgrounds (#F5F1EC), large hero numerals as primary UI element (session timer = 34px bold), thin supporting labels with generous tracking.\nTheme: LIGHT. Warm linen background (#F5F1EC), white cards (#FFFFFF), terracotta amber accent (#C47A40), forest-green success (#3D8B5F), calm blue (#4674B8). The challenge: design an AI productivity tool that feels like a quiet notebook rather than a dashboard. AI insight appears as ambient whispers, not popups. 5 screens: Today (intention + focus blocks) · Focus (active session timer, ambient AI nudge) · Insights (weekly chart + AI patterns) · Log (session history) · Settings (AI toggles + quiet hours).",
       "screens": 5,
       "source": "heartbeat"
     }
