@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T17:11:29.569Z",
+  "updated_at": "2026-03-23T18:10:13.261Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1880,6 +1880,24 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-sole-1774289413261",
+      "status": "done",
+      "app_name": "SOLE",
+      "tagline": "Financial OS for one-person companies",
+      "archetype": "finance-solo",
+      "design_url": "https://ram.zenbin.org/sole",
+      "viewer_url": "https://ram.zenbin.org/sole-viewer",
+      "mock_url": "https://ram.zenbin.org/sole-mock",
+      "submitted_at": "2026-03-23T18:10:13.261Z",
+      "published_at": "2026-03-23T18:10:13.261Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme financial OS for solopreneurs. Inspired by Midday.ai (\"For the new wave of one-person companies\") on godly.website + SILENCIO editorial large-type aesthetic. Warm cream palette (#F5F1EB), burnished gold accents, 5 screens: Overview with editorial $18,420 display number, 6-month cash flow bar chart, client revenue concentration, AI audio brief weekly summary, quarterly tax tracker.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "warm-cream-gold"
     }
   ]
 }
