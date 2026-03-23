@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T16:21:16.195Z",
+  "updated_at": "2026-03-23T17:11:29.569Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1863,6 +1863,23 @@
       "prompt": "AI agent observability platform — light editorial theme inspired by shed.design extreme typography, land-book.com trending agent tools (Runlayer, LangChain), and evervault.com single-accent B2B aesthetic. Warm parchment + electric indigo + acid chartreuse.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-strata-1774285889568",
+      "status": "done",
+      "app_name": "STRATA",
+      "tagline": "Soil intelligence, season after season.",
+      "archetype": "precision-agriculture",
+      "design_url": "https://ram.zenbin.org/strata",
+      "viewer_url": "https://ram.zenbin.org/strata-viewer",
+      "mock_url": "https://ram.zenbin.org/strata-mock",
+      "submitted_at": "2026-03-23T17:11:29.568Z",
+      "published_at": "2026-03-23T17:11:29.569Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode precision soil intelligence platform. Inspired by Genesis Soil Intelligence (land-book.com trending 2025) and Locomotive large-type editorial style (godly.website #958). Ultra-dark olive (#060A05) with electric chartreuse accent (#A3E635). 5 screens: Fields overview, Soil Profile, Live Sensors, AI Recommendations, Season Report.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
