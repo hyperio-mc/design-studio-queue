@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T11:09:13.751Z",
+  "updated_at": "2026-03-23T12:09:39.531Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1736,6 +1736,22 @@
         "accent": "#00E8D6",
         "accent2": "#F59E0B"
       }
+    },
+    {
+      "id": "heartbeat-carta-1774267779531",
+      "status": "done",
+      "app_name": "CARTA",
+      "tagline": "Your Reading Life, Composed",
+      "archetype": "editorial-reader",
+      "design_url": "https://ram.zenbin.org/carta",
+      "mock_url": "https://ram.zenbin.org/carta-mock",
+      "submitted_at": "2026-03-23T12:09:39.531Z",
+      "published_at": "2026-03-23T12:09:39.531Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Litbix (minimal.gallery) — warm minimal book curation grid with drag-drop collection interface, and Old Tom Capital (minimal.gallery) — editorial institutional design with large serif display numerals and modular \"platform built to compound\" framing. A personal reading tracker with warm parchment light theme, burnt-sienna accent, serif headings, and annual reading stats displayed in an editorial/institutional grid style. 5 screens: Shelf (book grid + streak), Reading (chapter progress tracker), Stats (editorial large-numeral data display), Discover (curated recommendations), Notes (pulled-quote highlights journal).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
