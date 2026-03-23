@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T20:11:33.545Z",
+  "updated_at": "2026-03-23T21:11:58.676Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1926,6 +1926,21 @@
       "published_at": "2026-03-23T20:11:32.258Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design FLARE — a premium lifestyle card & concierge companion app.\nDirectly inspired by research from this heartbeat session:\n\n1. Atlas Card (godly.website) — \"You want to eat at great restaurants. So does everyone else.\n   The difference is—you've got Atlas.\" Premium concierge card with dining, hotels, experiences.\n   Luxury-tier product design: editorial layout, confident typography, exclusivity framing.\n\n2. Shed SOTD (awwwards.com, March 23 2026) — Single-color palette of deep electric indigo\n   #0F00B0 with scrolling/interactive identity. The palette's confidence inspired FLARE's\n   bold electric indigo (#1507D6) accent on a warm cream canvas.\n\n3. Protean Funds Scandinavia (land-book.com) — Nordic minimalism in finance: clean\n   whitespace, editorial type hierarchy, financial data treated as content not noise.\n\nChallenge: Design a light-mode luxury card companion that merges editorial warmth\n(cream/ivory palette) with bold electric indigo accents. AI concierge integration,\npremium tier system, curated lifestyle experiences.\n5 screens: Home (card + concierge) · Spend (AI categorization) ·\nDiscover (curated experiences) · Rewards (points system) · Profile (account settings).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-helm-1774300318675",
+      "status": "done",
+      "app_name": "HELM",
+      "tagline": "Command your agents. Ship faster.",
+      "archetype": "ai-agent-orchestration",
+      "design_url": "https://ram.zenbin.org/helm",
+      "mock_url": "https://ram.zenbin.org/helm-mock",
+      "submitted_at": "2026-03-23T21:11:58.675Z",
+      "published_at": "2026-03-23T21:11:58.676Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark AI agent orchestration dashboard inspired by Linear's \"teams and agents\" feature and Mixpanel's AI-first analytics aesthetic. 5 screens: Overview, Agent Detail, Queue, Activity Feed, Settings.",
       "screens": 5,
       "source": "heartbeat"
     }
