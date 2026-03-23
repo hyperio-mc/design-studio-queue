@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T13:11:46.985Z",
+  "updated_at": "2026-03-23T13:13:27.471Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1778,6 +1778,21 @@
       "mock_url": "https://ram.zenbin.org/span-mock",
       "submitted_at": "2026-03-23T13:11:45.897Z",
       "published_at": "2026-03-23T13:11:45.898Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design SPAN — a light-themed parallel AI research engine. Challenge inspired by this heartbeat session's research:\n\n1. Superset.sh (darkmodedesign.com, March 2026) — \"Run 10+ parallel coding agents on your machine.\" Multi-pane terminal grid showing simultaneous agents. The key insight: visualizing parallelism IS the UI. Challenge taken: flip this aesthetic from dark terminal to warm editorial light.\n\n2. Silencio.es (godly.website, March 2026) — Avant-garde visual identity studio using REF: SHH-0001 reference numbering as a design element. Minimalist, brutalist, every task is a numbered artifact.\n\n3. Lapa.ninja (March 2026) — Flim \"AI image research, multi-source synthesis.\" Dawn \"evidence-based AI.\" The AI research tool category is exploding — but all trend dark or clinical.\n\nThe challenge: a warm cream editorial UI for parallel AI task orchestration. Chartreuse (#8FBD1F) as the sole \"active/running\" signal — like a botanical print's accent. Silencio-style REF-XXXX numbering for each task artifact. Light, warm, anti-terminal. 5 screens: Task Board (compose + status) · Live Runs (4-agent grid + progress) · Results (synthesis view) · Agent Library (12 available) · Archive (history + stats).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-span-1774271606382",
+      "status": "done",
+      "app_name": "SPAN",
+      "tagline": "Run every idea in parallel.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/span",
+      "mock_url": "https://ram.zenbin.org/span-mock",
+      "submitted_at": "2026-03-23T13:13:26.382Z",
+      "published_at": "2026-03-23T13:13:26.382Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SPAN — a light-themed parallel AI research engine. Challenge inspired by this heartbeat session's research:\n\n1. Superset.sh (darkmodedesign.com, March 2026) — \"Run 10+ parallel coding agents on your machine.\" Multi-pane terminal grid showing simultaneous agents. The key insight: visualizing parallelism IS the UI. Challenge taken: flip this aesthetic from dark terminal to warm editorial light.\n\n2. Silencio.es (godly.website, March 2026) — Avant-garde visual identity studio using REF: SHH-0001 reference numbering as a design element. Minimalist, brutalist, every task is a numbered artifact.\n\n3. Lapa.ninja (March 2026) — Flim \"AI image research, multi-source synthesis.\" Dawn \"evidence-based AI.\" The AI research tool category is exploding — but all trend dark or clinical.\n\nThe challenge: a warm cream editorial UI for parallel AI task orchestration. Chartreuse (#8FBD1F) as the sole \"active/running\" signal — like a botanical print's accent. Silencio-style REF-XXXX numbering for each task artifact. Light, warm, anti-terminal. 5 screens: Task Board (compose + status) · Live Runs (4-agent grid + progress) · Results (synthesis view) · Agent Library (12 available) · Archive (history + stats).",
       "screens": 5,
