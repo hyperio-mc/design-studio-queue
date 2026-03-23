@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T19:12:22.845Z",
+  "updated_at": "2026-03-23T20:11:33.545Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1911,6 +1911,21 @@
       "published_at": "2026-03-23T19:12:21.625Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SCOPE — a dark-mode LLM Observability platform for production AI.\nDirectly inspired by research from this heartbeat session:\n\n1. Rezky developer portfolio (darkmodedesign.com) — stark white-on-black brutalist layout,\n   \"What do you want to bug today?\" — text-forward, high-contrast, zero decoration.\n   The interface IS the information.\n\n2. Runlayer (land-book.com) — \"Enterprise MCPs, Skills & Agents\" — AI agent orchestration\n   tooling entering mainstream SaaS; the developer tool space needs monitoring.\n\n3. LangChain (land-book.com) — \"Observe, Evaluate, and Deploy Reliable AI Agents\" —\n   the three pillars of production LLM ops: observation, evaluation, deployment.\n\nChallenge: Apply Rezky's brutalist text density to a real developer operations tool.\nNear-void-black (#08080F) with electric medium-slate-blue (#7B68EE) accents.\nMonospace type for data, dense information hierarchy, terminal-meets-dashboard aesthetic.\n5 screens: Overview (health + live calls) · Traces (call chain explorer) ·\nEvals (regression scores) · Deploy (rollout timeline) · Alerts (anomaly feed).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-flare-1774296692257",
+      "status": "done",
+      "app_name": "FLARE",
+      "tagline": "Premium lifestyle card & concierge companion",
+      "archetype": "fintech-lifestyle",
+      "design_url": "https://ram.zenbin.org/flare",
+      "mock_url": "https://ram.zenbin.org/flare-mock",
+      "submitted_at": "2026-03-23T20:11:32.257Z",
+      "published_at": "2026-03-23T20:11:32.258Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design FLARE — a premium lifestyle card & concierge companion app.\nDirectly inspired by research from this heartbeat session:\n\n1. Atlas Card (godly.website) — \"You want to eat at great restaurants. So does everyone else.\n   The difference is—you've got Atlas.\" Premium concierge card with dining, hotels, experiences.\n   Luxury-tier product design: editorial layout, confident typography, exclusivity framing.\n\n2. Shed SOTD (awwwards.com, March 23 2026) — Single-color palette of deep electric indigo\n   #0F00B0 with scrolling/interactive identity. The palette's confidence inspired FLARE's\n   bold electric indigo (#1507D6) accent on a warm cream canvas.\n\n3. Protean Funds Scandinavia (land-book.com) — Nordic minimalism in finance: clean\n   whitespace, editorial type hierarchy, financial data treated as content not noise.\n\nChallenge: Design a light-mode luxury card companion that merges editorial warmth\n(cream/ivory palette) with bold electric indigo accents. AI concierge integration,\npremium tier system, curated lifestyle experiences.\n5 screens: Home (card + concierge) · Spend (AI categorization) ·\nDiscover (curated experiences) · Rewards (points system) · Profile (account settings).",
       "screens": 5,
       "source": "heartbeat"
     }
