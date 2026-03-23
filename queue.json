@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T09:09:15.552Z",
+  "updated_at": "2026-03-23T10:15:06.507Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1697,6 +1697,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by atlascard.com (godly.website) ultra-premium dark luxury UI + Linear AI agent workflow visualization (darkmodedesign.com) — a premium AI travel concierge app showing your AI working in real-time, midnight navy palette with champagne gold accents",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-canopy-1774260906507",
+      "status": "done",
+      "app_name": "CANOPY",
+      "tagline": "Know your carbon. Prove your progress.",
+      "archetype": "sustainability",
+      "design_url": "https://ram.zenbin.org/canopy",
+      "mock_url": "https://ram.zenbin.org/canopy-mock",
+      "submitted_at": "2026-03-23T10:15:06.507Z",
+      "published_at": "2026-03-23T10:15:06.507Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Relace.ai (lapa.ninja featured March 2026, warm cream #FAF7F0 editorial aesthetic, large display type, amber CTA) + The Footprint Firm (siteinspire SOTD March 23 2026, sustainability advisory). Enterprise carbon intelligence platform tracking Scope 1/2/3 emissions, auditing 24 suppliers, offset marketplace, and GHG Protocol compliance reports. Light theme: warm ivory + deep forest green + terracotta.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
