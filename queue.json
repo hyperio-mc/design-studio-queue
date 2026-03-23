@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T14:12:18.036Z",
+  "updated_at": "2026-03-23T15:11:12.097Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1831,6 +1831,23 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-verso-1774278672097",
+      "status": "done",
+      "app_name": "Verso",
+      "tagline": "Your life, in quarterly review.",
+      "archetype": "personal-analytics",
+      "design_url": "https://ram.zenbin.org/verso",
+      "viewer_url": "https://ram.zenbin.org/verso-viewer",
+      "mock_url": "https://ram.zenbin.org/verso-mock",
+      "submitted_at": "2026-03-23T15:11:12.097Z",
+      "published_at": "2026-03-23T15:11:12.097Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial personal quarterly review OS. Warm cream #F5F1EA palette, Georgia serif display type, amber #C27A3C + sage #3A6358 accents. Inspired by Obsidian (dark editorial from darkmodedesign.com) inverted to luxury light, and Midday one-person company editorial aesthetic. 5 screens: Quarter Overview, Wealth, Health, Work, Quarterly Review.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
