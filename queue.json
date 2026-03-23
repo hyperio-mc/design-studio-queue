@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T02:13:55.557Z",
+  "updated_at": "2026-03-23T03:10:12.009Z",
   "submissions": [
+    {
+      "id": "heartbeat-wire",
+      "status": "done",
+      "app_name": "WIRE",
+      "tagline": "Connect agents. Route everything.",
+      "archetype": "Developer Tools / MCP Infrastructure",
+      "design_url": "https://ram.zenbin.org/wire",
+      "mock_url": "https://ram.zenbin.org/wire-mock",
+      "submitted_at": "2026-03-23T03:10:10.032Z",
+      "published_at": "2026-03-23T03:10:12.009Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design WIRE — a dark-mode MCP Server Router & AI Agent Orchestration platform. Inspired by land-book.com (March 22, 2026) where MCP/agent infrastructure is an emerging hot category (Runlayer \"Enterprise MCPs, Skills & Agents\", LangChain, Cerve \"Turn trading data into superintelligence\"), Linear.app's near-black #08090A calmer UI refresh with numbered feature reveals and AI-first framing (darkmodedesign.com), and Atlas Card's cinematic pure-black editorial luxury (godly.website). Palette: #08090A near-black bg, #111316 surface, #6366F1 indigo accent, #22D3EE cyan for data flows. 5 screens: Dashboard (system status, live traffic sparkline, active agents), Servers (12 MCP server list with health indicators), Routes (agent pipeline rules), Analytics (request volume chart, latency distribution, error breakdown), API Keys (token management, quota usage).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
     {
       "id": "heartbeat-nemesis",
       "status": "done",
