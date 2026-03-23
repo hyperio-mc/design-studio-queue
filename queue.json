@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T06:08:51.253Z",
+  "updated_at": "2026-03-23T07:10:28.069Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1623,6 +1623,21 @@
       "prompt": "Design MESH — a dark-mode AI agent orchestration dashboard for developers running autonomous coding agents. Directly inspired by:\n\n1. Relace (lapa.ninja, March 23 2026) — \"purpose-built AI models for coding agents, scalable infrastructure, ultra-fast code retrieval, merging, and autonomous workflows.\" A sleek dark landing page with electric indigo/teal accents and monospaced metric callouts. The concept of a \"fleet\" of AI agents working autonomously is the core metaphor.\n\n2. LangChain landing page (land-book, March 23 2026) — \"Observe, Evaluate, and Deploy Reliable AI Agents\" — showed real-time agent monitoring patterns: health indicators, task streams, evaluation panels. Clean dark UI with a strong grid.\n\n3. Linear / Forge (darkmodedesign.com, March 23 2026) — Dark developer tool UIs with razor-sharp typography hierarchy, monospaced data values on dark surfaces, minimal chrome.\n\nChallenge: What does a \"mission control\" feel like for your AI developer workforce? 5 screens: Agents (fleet status), Activity (live event stream), Tasks (queue management), Analytics (performance), Config (model + budget settings). Near-black (#080A0F) canvas with electric indigo (#6366F1) accent and matrix teal (#10D9A0) for success states. Monospaced agent IDs create a terminal/code aesthetic within a polished dark UI.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-dwell-1774249826531",
+      "status": "done",
+      "app_name": "DWELL",
+      "tagline": "Your deep work, made visible.",
+      "archetype": "productivity-wellness",
+      "submitted_at": "2026-03-23T07:10:26.531Z",
+      "published_at": "2026-03-23T07:10:26.531Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design DWELL — a personal deep work / focus analytics app in a warm light theme. Directly inspired by:\n\n1. Land-book.com (March 2026) — Curated landing pages with a warm parchment background (#F7F6F5), teal accent (#017C6E), and creamy minimal card surfaces. The palette felt grounded, premium, and human — ideal for a personal productivity tool that competes on warmth rather than chrome.\n\n2. Linear (darkmodedesign.com, March 2026) — \"The product development system for teams AND agents.\" Linear's AI-at-core positioning and ultra-clean information hierarchy inspired adapting the same density and clarity to a light context. The insight that great dark UI discipline transfers cleanly to light surfaces.\n\n3. Lapa.ninja trending (March 2026) — JetBrains Air + Interfere in the top spots: premium tool design with generous whitespace, purposeful typography scale, and data-forward layouts. The \"airy\" aesthetic informed the generous padding and breathing room between components.\n\nChallenge: Design a personal focus analytics app that feels like a premium wellness tool — warm enough to feel personal, precise enough to be trusted. 5 screens:\n- Today: focus ring hero, active session card, upcoming schedule\n- Sessions: chronological deep work blocks with quality scores and category bars\n- Patterns: weekly bar chart + peak hour heatmap + streak tracker\n- Insights: AI-generated weekly patterns, metric cards, actionable recommendations\n- Focus: full-screen ambient session timer with quality ring\n\nWarm parchment (#F4F1EC) canvas with forest teal (#0E7A6C) as accent, copper amber (#C4713A) for secondary, soft lavender (#6E5FC4) for AI insights. No pure white or pure black. Every surface feels like paper.",
+      "screens": 5,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/dwell",
+      "mock_url": "https://ram.zenbin.org/dwell-mock"
     }
   ]
 }
