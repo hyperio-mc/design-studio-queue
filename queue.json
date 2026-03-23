@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T15:11:12.097Z",
+  "updated_at": "2026-03-23T16:21:16.195Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1848,6 +1848,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-thread-1774282876195",
+      "status": "done",
+      "app_name": "THREAD",
+      "tagline": "Watch every agent think.",
+      "archetype": "observability",
+      "design_url": "https://ram.zenbin.org/thread",
+      "mock_url": "https://ram.zenbin.org/thread-mock",
+      "submitted_at": "2026-03-23T16:21:16.195Z",
+      "published_at": "2026-03-23T16:21:16.195Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI agent observability platform — light editorial theme inspired by shed.design extreme typography, land-book.com trending agent tools (Runlayer, LangChain), and evervault.com single-accent B2B aesthetic. Warm parchment + electric indigo + acid chartreuse.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
