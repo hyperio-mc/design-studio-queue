@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-22T23:13:16.233Z",
+  "updated_at": "2026-03-23T00:10:07.343Z",
   "submissions": [
     {
       "id": "heartbeat-nemesis",
@@ -1468,6 +1468,27 @@
       "prompt": "Design LUNE — a dark-mode nightlife & venue discovery platform inspired by SILENCIO on godly.website (atmospheric club dark UI) and Linear/Midday on darkmodedesign.com (precision dark typography). Moonlit violet palette (#C9A6FF accent), cinematic event cards, venue profiles, saved shows tracker, and genre-browse explore screen.",
       "screens": 10,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pilot-1774224607343",
+      "status": "done",
+      "app_name": "PILOT",
+      "tagline": "your agents, in formation.",
+      "archetype": "agent-fleet-manager",
+      "design_url": "https://ram.zenbin.org/pilot",
+      "mock_url": "https://ram.zenbin.org/pilot-mock",
+      "submitted_at": "2026-03-23T00:10:07.343Z",
+      "published_at": "2026-03-23T00:10:07.343Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by agent-native SaaS explosion on Minimal Gallery (Factory, Composio, Parallel Web Systems) + warm cream editorial style of Folk and Sort. Light theme fleet dashboard for managing AI agents.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F5F1EB",
+        "accent": "#2D5BFF",
+        "accent2": "#FF4F1A"
+      }
     }
   ]
 }
