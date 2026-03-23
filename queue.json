@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T09:08:18.193Z",
+  "updated_at": "2026-03-23T09:09:15.552Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1679,6 +1679,21 @@
       "mock_url": "https://ram.zenbin.org/vela-mock",
       "submitted_at": "2026-03-23T09:08:18.193Z",
       "published_at": "2026-03-23T09:08:18.193Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by atlascard.com (godly.website) ultra-premium dark luxury UI + Linear AI agent workflow visualization (darkmodedesign.com) — a premium AI travel concierge app showing your AI working in real-time, midnight navy palette with champagne gold accents",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vela-1774256955552",
+      "status": "done",
+      "app_name": "Vela",
+      "tagline": "Your AI concierge, always on",
+      "archetype": "luxury-concierge",
+      "design_url": "https://ram.zenbin.org/vela",
+      "mock_url": "https://ram.zenbin.org/vela-mock",
+      "submitted_at": "2026-03-23T09:09:15.552Z",
+      "published_at": "2026-03-23T09:09:15.552Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by atlascard.com (godly.website) ultra-premium dark luxury UI + Linear AI agent workflow visualization (darkmodedesign.com) — a premium AI travel concierge app showing your AI working in real-time, midnight navy palette with champagne gold accents",
       "screens": 6,
