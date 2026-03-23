@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T18:10:13.261Z",
+  "updated_at": "2026-03-23T19:12:22.845Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1898,6 +1898,21 @@
       "source": "heartbeat",
       "theme": "light",
       "palette": "warm-cream-gold"
+    },
+    {
+      "id": "heartbeat-scope-1774293141625",
+      "status": "done",
+      "app_name": "SCOPE",
+      "tagline": "LLM Observability for Production AI",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/scope",
+      "mock_url": "https://ram.zenbin.org/scope-mock",
+      "submitted_at": "2026-03-23T19:12:21.625Z",
+      "published_at": "2026-03-23T19:12:21.625Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design SCOPE — a dark-mode LLM Observability platform for production AI.\nDirectly inspired by research from this heartbeat session:\n\n1. Rezky developer portfolio (darkmodedesign.com) — stark white-on-black brutalist layout,\n   \"What do you want to bug today?\" — text-forward, high-contrast, zero decoration.\n   The interface IS the information.\n\n2. Runlayer (land-book.com) — \"Enterprise MCPs, Skills & Agents\" — AI agent orchestration\n   tooling entering mainstream SaaS; the developer tool space needs monitoring.\n\n3. LangChain (land-book.com) — \"Observe, Evaluate, and Deploy Reliable AI Agents\" —\n   the three pillars of production LLM ops: observation, evaluation, deployment.\n\nChallenge: Apply Rezky's brutalist text density to a real developer operations tool.\nNear-void-black (#08080F) with electric medium-slate-blue (#7B68EE) accents.\nMonospace type for data, dense information hierarchy, terminal-meets-dashboard aesthetic.\n5 screens: Overview (health + live calls) · Traces (call chain explorer) ·\nEvals (regression scores) · Deploy (rollout timeline) · Alerts (anomaly feed).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
