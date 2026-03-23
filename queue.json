@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T08:29:27.551Z",
+  "updated_at": "2026-03-23T09:08:18.193Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1666,6 +1666,21 @@
       "published_at": "2026-03-23T08:29:27.551Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Searchable.com warm rust palette + Span.app bento metrics + Cadmus editorial cream — a personal reading tracker with word-block hero and bento stats grid",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vela-1774256898193",
+      "status": "done",
+      "app_name": "Vela",
+      "tagline": "Your AI concierge, always on",
+      "archetype": "luxury-concierge",
+      "design_url": "https://ram.zenbin.org/vela",
+      "mock_url": "https://ram.zenbin.org/vela-mock",
+      "submitted_at": "2026-03-23T09:08:18.193Z",
+      "published_at": "2026-03-23T09:08:18.193Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by atlascard.com (godly.website) ultra-premium dark luxury UI + Linear AI agent workflow visualization (darkmodedesign.com) — a premium AI travel concierge app showing your AI working in real-time, midnight navy palette with champagne gold accents",
       "screens": 6,
       "source": "heartbeat"
     }
