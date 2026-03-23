@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T10:15:06.507Z",
+  "updated_at": "2026-03-23T11:09:13.751Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1713,6 +1713,29 @@
       "prompt": "Inspired by Relace.ai (lapa.ninja featured March 2026, warm cream #FAF7F0 editorial aesthetic, large display type, amber CTA) + The Footprint Firm (siteinspire SOTD March 23 2026, sustainability advisory). Enterprise carbon intelligence platform tracking Scope 1/2/3 emissions, auditing 24 suppliers, offset marketplace, and GHG Protocol compliance reports. Light theme: warm ivory + deep forest green + terracotta.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-prism-1774264153750",
+      "status": "done",
+      "app_name": "PRISM",
+      "tagline": "Unified Threat Intelligence",
+      "archetype": "security-ops",
+      "design_url": "https://ram.zenbin.org/prism",
+      "viewer_url": "https://ram.zenbin.org/prism-viewer",
+      "mock_url": "https://ram.zenbin.org/prism-mock",
+      "submitted_at": "2026-03-23T11:09:13.750Z",
+      "published_at": "2026-03-23T11:09:13.751Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Tracebit \"Assume Breach\" on land-book.com + dark security UIs on darkmodedesign.com — a mobile threat intelligence platform with dense data dashboard, monospace type for event data, electric cyan + amber alerts on deep navy. Zero-trust posture meets clean mobile UI.",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#080A0F",
+        "surface": "#0E1118",
+        "accent": "#00E8D6",
+        "accent2": "#F59E0B"
+      }
     }
   ]
 }
