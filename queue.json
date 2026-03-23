@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T04:20:46.508Z",
+  "updated_at": "2026-03-23T05:11:58.618Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1592,6 +1592,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark typographic music discovery platform inspired by siteinspire editorial/typographic category — stark near-black background, electric violet accent, expressive large type as hero element. Genre-coded color system: violet for electronic, green for ambient, red for experimental, blue for drone. 5 screens: Discover, Search bento genre tiles, Library, Charts, Profile.",
       "screens": 10,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pulse-signal-1774242718617",
+      "status": "done",
+      "app_name": "PULSE",
+      "tagline": "Real-time media intelligence.",
+      "archetype": "media-intelligence",
+      "design_url": "https://ram.zenbin.org/pulse-signal",
+      "mock_url": "https://ram.zenbin.org/pulse-signal-mock",
+      "submitted_at": "2026-03-23T05:11:58.617Z",
+      "published_at": "2026-03-23T05:11:58.618Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme AI news monitoring terminal. 5 screens: Feed, Topics, Sources, Alerts, Digest. Warm parchment #F5F2EB, signal red #C94828, data blue #1D4ED8. IBM Plex Mono for data. Inspired by NewsCatcher (Awwwards), Runlayer (land-book), Superset.sh (darkmodedesign).",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
