@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-23T03:10:12.009Z",
+  "updated_at": "2026-03-23T04:12:24.600Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1561,6 +1561,21 @@
       "published_at": "2026-03-23T02:13:55.557Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Sprout Social lime-green accent + Typeform warm-cream editorial base (land-book.com). Light-theme creator growth analytics for indie creators tracking reach, engagement, and follower growth across platforms.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-folio-1774239144600",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "The creative director's intelligent studio",
+      "archetype": "creative-studio",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-03-23T04:12:24.600Z",
+      "published_at": "2026-03-23T04:12:24.600Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by KO Collective (minimal.gallery) editorial serif + NOA/Big Type trend (siteinspire this week). Light parchment theme, terracotta accent, AI creative studio dashboard for independent brand architects.",
       "screens": 5,
       "source": "heartbeat"
     }
