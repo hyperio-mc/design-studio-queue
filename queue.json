@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T09:10:26.511Z",
+  "updated_at": "2026-03-24T09:14:35.015Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2181,6 +2181,21 @@
       "mock_url": "https://ram.zenbin.org/diff-mock",
       "submitted_at": "2026-03-24T09:10:26.510Z",
       "published_at": "2026-03-24T09:10:26.511Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design DIFF — a dark-themed AI Pull Request Intelligence dashboard.\nInspired by:\n1. Linear / Codex integration (darkmodedesign.com) — AI agents shown working inline alongside humans, deep near-black palette, electric violet accent, sidebar nav + card issue layout\n2. Relace AI (lapa.ninja) — \"purpose-built AI models for coding agents, ultra-fast code retrieval and merging\" — AI-native developer tooling aesthetic\n3. Evervault customers (godly.website) — deep security-focused dark UI, monospace data rendering\nDark palette: near-black #0C0D12 + electric violet #7C6DFA + teal #00D4A8 for diff additions.\n5 screens: Feed (PR list + agent activity) · Review (AI-annotated diff) · Insights (code quality trends) · Team (contributor velocity) · Rules (AI policy config)",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-diff-1774343675015",
+      "status": "done",
+      "app_name": "DIFF",
+      "tagline": "Every merge, made smarter.",
+      "archetype": "developer-tools-ai",
+      "design_url": "https://ram.zenbin.org/diff",
+      "mock_url": "https://ram.zenbin.org/diff-mock",
+      "submitted_at": "2026-03-24T09:14:35.015Z",
+      "published_at": "2026-03-24T09:14:35.015Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design DIFF — a dark-themed AI Pull Request Intelligence dashboard.\nInspired by:\n1. Linear / Codex integration (darkmodedesign.com) — AI agents shown working inline alongside humans, deep near-black palette, electric violet accent, sidebar nav + card issue layout\n2. Relace AI (lapa.ninja) — \"purpose-built AI models for coding agents, ultra-fast code retrieval and merging\" — AI-native developer tooling aesthetic\n3. Evervault customers (godly.website) — deep security-focused dark UI, monospace data rendering\nDark palette: near-black #0C0D12 + electric violet #7C6DFA + teal #00D4A8 for diff additions.\n5 screens: Feed (PR list + agent activity) · Review (AI-annotated diff) · Insights (code quality trends) · Team (contributor velocity) · Rules (AI policy config)",
       "screens": 5,
