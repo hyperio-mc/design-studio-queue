@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T17:12:27.582Z",
+  "updated_at": "2026-03-24T17:24:43.814Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2370,6 +2370,25 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-bloom-1774373083814",
+      "status": "queued",
+      "pending_publish": true,
+      "zenbin_limit": "2026-04-22",
+      "app_name": "BLOOM",
+      "tagline": "Customer success for DTC brands",
+      "archetype": "brand-success-platform",
+      "design_url": "https://ram.zenbin.org/bloom",
+      "mock_url": "https://ram.zenbin.org/bloom-mock",
+      "submitted_at": "2026-03-24T17:24:43.814Z",
+      "published_at": null,
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme customer success platform for DTC brands. Warm cream (#F8F5F0), forest green (#2A5A3A), amber (#D4884A). Inspired by darkmodedesign.com Midday (AI finance SaaS), land-book.com Cernel (product onboarding for ecommerce), lapa.ninja Isa de Burgh (CPG brand architect). Bento-grid dashboard layout, health scoring per brand, 6-step onboarding flow, AI insights. 6 screens: Overview, Brands, Onboarding, Insights, Brand Profile, Settings.",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "#F8F5F0 / #2A5A3A / #D4884A"
     }
   ]
 }
