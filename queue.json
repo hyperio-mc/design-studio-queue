@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T06:07:59.413Z",
+  "updated_at": "2026-03-24T06:09:19.708Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2119,6 +2119,21 @@
       "archetype": "productivity",
       "submitted_at": "2026-03-24T06:07:58.362Z",
       "published_at": "2026-03-24T06:07:58.362Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design NOCTUA — a calm ambient-aware financial + focus dashboard for freelancers. Inspired by:\n1. Midday (darkmodedesign.com) — warm dark time-tracking SaaS for one-person companies; structured data views, warm muted tones, minimal chrome\n2. Letta (minimal.gallery / SaaS category) — AI agent framework with calm information hierarchy; sparse interaction, trust through restraint\n3. Land-book Sanity CMS hero — editorial section breaks, breathing room between cards\nPalette: void warm black #0E0C09 + amber #E8924A + sage green #7B9E87 + warm cream #EDD9A3\n5 screens: Today overview · Revenue tracking · Focus session ring · Projects health · AI Insights",
+      "screens": 5,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/noctua",
+      "mock_url": "https://ram.zenbin.org/noctua-mock"
+    },
+    {
+      "id": "heartbeat-noctua-1774332558698",
+      "status": "done",
+      "app_name": "NOCTUA",
+      "tagline": "Calm AI revenue & focus companion for independent workers.",
+      "archetype": "productivity",
+      "submitted_at": "2026-03-24T06:09:18.698Z",
+      "published_at": "2026-03-24T06:09:18.698Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design NOCTUA — a calm ambient-aware financial + focus dashboard for freelancers. Inspired by:\n1. Midday (darkmodedesign.com) — warm dark time-tracking SaaS for one-person companies; structured data views, warm muted tones, minimal chrome\n2. Letta (minimal.gallery / SaaS category) — AI agent framework with calm information hierarchy; sparse interaction, trust through restraint\n3. Land-book Sanity CMS hero — editorial section breaks, breathing room between cards\nPalette: void warm black #0E0C09 + amber #E8924A + sage green #7B9E87 + warm cream #EDD9A3\n5 screens: Today overview · Revenue tracking · Focus session ring · Projects health · AI Insights",
       "screens": 5,
