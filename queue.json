@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T20:10:50.857Z",
+  "updated_at": "2026-03-24T20:19:11.859Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2434,6 +2434,22 @@
       "prompt": "Dark-mode agent orchestration OS inspired by Codegen.com ultra-light weight-300 headlines on #131315 charcoal, and the agent OS trend from land-book. Violet accent #7C6FFF, teal secondary #3ECFCF, lavender-gray muted text. 5 screens: Fleet dashboard, Pipelines, Agents catalog, Run history, Settings.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vale-1774383551859",
+      "status": "done",
+      "app_name": "VALE",
+      "tagline": "slow money, clear mind",
+      "archetype": "finance-wellness",
+      "design_url": "https://ram.zenbin.org/vale",
+      "mock_url": "https://ram.zenbin.org/vale-mock",
+      "submitted_at": "2026-03-24T20:19:11.859Z",
+      "published_at": "2026-03-24T20:19:11.859Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal finance wellness dashboard. Inspired by Relace.ai warm cream palette and Adaline biophilic design trend. Calm budget tracking, goals, and spending insights.",
+      "screens": 10,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
