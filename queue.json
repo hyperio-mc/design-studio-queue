@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T06:09:19.708Z",
+  "updated_at": "2026-03-24T07:10:50.317Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2140,6 +2140,21 @@
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/noctua",
       "mock_url": "https://ram.zenbin.org/noctua-mock"
+    },
+    {
+      "id": "heartbeat-lane-1774336249161",
+      "status": "done",
+      "app_name": "LANE",
+      "tagline": "AI workflow builder & run scheduler for production agent pipelines.",
+      "archetype": "developer-tools",
+      "submitted_at": "2026-03-24T07:10:49.161Z",
+      "published_at": "2026-03-24T07:10:49.161Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design LANE — a light-themed AI workflow builder & run scheduler. Inspired by:\n1. Land-book.com — LangChain \"Observe, Evaluate, and Deploy Reliable AI Agents\" + Runlayer \"Enterprise MCPs, Skills & Agents\" + Sanity \"Content Operating System for the AI era\" — the gap between raw LLM APIs and production orchestration.\n2. Awwwards.com — warm orange #FA5D29 accent, Inter Tight typography, generous gutters, rounded corners as standard, container query responsiveness.\n3. Minimal.gallery — editorial black/white restraint adapted as warm off-white (#F4F2ED) ground.\nLight palette: off-white #F4F2ED + burnt sienna #C94A14 + cobalt #1E40AF + forest green #166534\n5 screens: Lanes overview · Pipeline Builder · Run Log · Analytics · Team & Settings",
+      "screens": 5,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/lane",
+      "mock_url": "https://ram.zenbin.org/lane-mock"
     }
   ]
 }
