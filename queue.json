@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T21:09:22.111Z",
+  "updated_at": "2026-03-24T22:11:03.713Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2463,6 +2463,21 @@
       "published_at": "2026-03-24T21:09:22.111Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark devtools: AI code intelligence dashboard inspired by Codegen OS (land-book) and JetBrains Air (lapa.ninja). Agent orchestration, tech debt analysis, live terminal. Midnight navy + electric violet + terminal cyan.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-folio-1774390263712",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "your financial life, beautifully edited",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-03-24T22:11:03.712Z",
+      "published_at": "2026-03-24T22:11:03.713Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial personal finance app inspired by \"Current - A River of Reading\" editorial app on land-book, Folk CRM warm white minimal aesthetic on minimal.gallery, and Idle Hour Matcha artisan warmth. Newspaper column layout, dateline stamps, editorial red accent, warm cream parchment.",
       "screens": 5,
       "source": "heartbeat"
     }
