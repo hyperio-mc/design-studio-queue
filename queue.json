@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T18:12:58.770Z",
+  "updated_at": "2026-03-24T19:09:32.875Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2403,6 +2403,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-theme AI Agent Orchestration OS. Inspired by Linear UI refresh (darkmodedesign.com) + Codegen OS for Code Agents (land-book.com). Network graph pipeline visualization. Midnight palette, violet #8B5CF6, teal #2DD4BF. 6 screens: Hub, Agents, Network Graph, Agent Detail, Logs, Settings.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-flux-1774379372874",
+      "status": "done",
+      "app_name": "FLUX",
+      "tagline": "API health for builders who ship alone",
+      "archetype": "developer-tooling-monitor",
+      "design_url": "https://ram.zenbin.org/flux",
+      "mock_url": "https://ram.zenbin.org/flux-mock",
+      "submitted_at": "2026-03-24T19:09:32.874Z",
+      "published_at": "2026-03-24T19:09:32.875Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai \"one-person company\" positioning (darkmodedesign.com) and the minimal SaaS editorial aesthetic from minimal.gallery SaaS category. Light theme API health monitoring tool for indie developers and solo founders: real-time uptime dashboard, endpoint list, incident timeline, alert rules, and weekly performance reports.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
