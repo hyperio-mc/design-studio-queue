@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T12:12:07.346Z",
+  "updated_at": "2026-03-24T12:18:25.787Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2260,6 +2260,22 @@
       "prompt": "Inspired by minimal.gallery \"Huehaus Studio\" + \"KOMETA Typefaces\" editorial-meets-craft aesthetic, and Midday.ai one-person company tooling trend. Light-theme creative project pipeline tracker for independent freelancers: project health, Gantt timeline, client profiles, and revenue tracking.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lull-1774354705787",
+      "status": "done",
+      "app_name": "LULL",
+      "tagline": "A space to arrive in yourself",
+      "archetype": "mindfulness-journal",
+      "design_url": "https://ram.zenbin.org/lull",
+      "mock_url": "https://ram.zenbin.org/lull-mock",
+      "submitted_at": "2026-03-24T12:18:25.787Z",
+      "published_at": "2026-03-24T12:18:25.787Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Calm daily reflection and mindfulness journal. Inspired by lapa.ninja health/fitness category (Dawn — evidence-based AI for mental health; Super Chill — a fresh and calm mind) and minimal.gallery editorial aesthetic (KO Collective, Old Tom Capital). Light warm palette: off-white #F7F4EF, sage green #5A7856, warm clay #A0694A. Serif headings, generous whitespace, breath as a design principle.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
