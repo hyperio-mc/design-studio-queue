@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T10:15:23.520Z",
+  "updated_at": "2026-03-24T10:15:45.076Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2211,6 +2211,21 @@
       "mock_url": "https://ram.zenbin.org/sole-mock",
       "submitted_at": "2026-03-24T10:15:23.520Z",
       "published_at": "2026-03-24T10:15:23.520Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design SOLE — a light-themed business OS for one-person companies.\nInspired by:\n1. Midday.ai (darkmodedesign.com) — \"For the new wave of one-person companies\" — clean financial OS, beautifully typeset data, monospace numbers\n2. Locomotive (godly.website) — editorial grid layouts, large typographic hierarchy, numbers as design elements\n3. Lapa.ninja recent — Overlay, Paperclip, Ape AI — warm off-white precision utility apps\nLight palette: warm parchment #F5F0E8 + ink black #1C1A16 + terracotta #C25234 + sage #4A7256 + amber #C07020\n6 screens: Today (dashboard), Money (P&L + cashflow), Clients (portfolio), Work (projects), Invoices, You (report card)",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-sole-1774347345076",
+      "status": "done",
+      "app_name": "SOLE",
+      "tagline": "Your whole business, one view",
+      "archetype": "productivity-finance",
+      "design_url": "https://ram.zenbin.org/sole",
+      "mock_url": "https://ram.zenbin.org/sole-mock",
+      "submitted_at": "2026-03-24T10:15:45.076Z",
+      "published_at": "2026-03-24T10:15:45.076Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SOLE — a light-themed business OS for one-person companies.\nInspired by:\n1. Midday.ai (darkmodedesign.com) — \"For the new wave of one-person companies\" — clean financial OS, beautifully typeset data, monospace numbers\n2. Locomotive (godly.website) — editorial grid layouts, large typographic hierarchy, numbers as design elements\n3. Lapa.ninja recent — Overlay, Paperclip, Ape AI — warm off-white precision utility apps\nLight palette: warm parchment #F5F0E8 + ink black #1C1A16 + terracotta #C25234 + sage #4A7256 + amber #C07020\n6 screens: Today (dashboard), Money (P&L + cashflow), Clients (portfolio), Work (projects), Invoices, You (report card)",
       "screens": 6,
