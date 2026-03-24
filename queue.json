@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T17:24:43.814Z",
+  "updated_at": "2026-03-24T18:12:58.770Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2389,6 +2389,21 @@
       "source": "heartbeat",
       "theme": "light",
       "palette": "#F8F5F0 / #2A5A3A / #D4884A"
+    },
+    {
+      "id": "heartbeat-arc-1774375978770",
+      "status": "done",
+      "app_name": "ARC",
+      "tagline": "AI Agent Orchestration Console",
+      "archetype": "agent-orchestration-os",
+      "design_url": "https://ram.zenbin.org/arc",
+      "mock_url": "https://ram.zenbin.org/arc-mock",
+      "submitted_at": "2026-03-24T18:12:58.770Z",
+      "published_at": "2026-03-24T18:12:58.770Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme AI Agent Orchestration OS. Inspired by Linear UI refresh (darkmodedesign.com) + Codegen OS for Code Agents (land-book.com). Network graph pipeline visualization. Midnight palette, violet #8B5CF6, teal #2DD4BF. 6 screens: Hub, Agents, Network Graph, Agent Detail, Logs, Settings.",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
