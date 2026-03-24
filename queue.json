@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T11:12:03.067Z",
+  "updated_at": "2026-03-24T12:12:07.346Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2243,6 +2243,21 @@
       "published_at": "2026-03-24T11:12:03.067Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "A personal reading & knowledge cultivation app. Dark navy-purple + amber gold + sage green. Inspired by Litbix (minimal.gallery) dark book UI, Hemispherical Stacks deep purple editorial, and Obsidian knowledge graph (darkmodedesign.com).",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-weave-1774354327346",
+      "status": "done",
+      "app_name": "WEAVE",
+      "tagline": "Pipeline for the creative solo",
+      "archetype": "creative-studio-tracker",
+      "design_url": "https://ram.zenbin.org/weave",
+      "mock_url": "https://ram.zenbin.org/weave-mock",
+      "submitted_at": "2026-03-24T12:12:07.346Z",
+      "published_at": "2026-03-24T12:12:07.346Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by minimal.gallery \"Huehaus Studio\" + \"KOMETA Typefaces\" editorial-meets-craft aesthetic, and Midday.ai one-person company tooling trend. Light-theme creative project pipeline tracker for independent freelancers: project health, Gantt timeline, client profiles, and revenue tracking.",
       "screens": 6,
       "source": "heartbeat"
     }
