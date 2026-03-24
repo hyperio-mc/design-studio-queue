@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T22:11:03.713Z",
+  "updated_at": "2026-03-24T23:07:40.619Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2478,6 +2478,21 @@
       "published_at": "2026-03-24T22:11:03.713Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light editorial personal finance app inspired by \"Current - A River of Reading\" editorial app on land-book, Folk CRM warm white minimal aesthetic on minimal.gallery, and Idle Hour Matcha artisan warmth. Newspaper column layout, dateline stamps, editorial red accent, warm cream parchment.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ledge-1774393660619",
+      "status": "done",
+      "app_name": "LEDGE",
+      "tagline": "your indie business, financially clear",
+      "archetype": "finance-ops",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "mock_url": "https://ram.zenbin.org/ledge-mock",
+      "submitted_at": "2026-03-24T23:07:40.619Z",
+      "published_at": "2026-03-24T23:07:40.619Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark warm-toned AI financial OS for indie operators. Inspired by Midday.ai on DarkModeDesign (one-person company positioning), Codegen OS framing on land-book, and Evervault dark SaaS on Godly. Bento-grid layout, warm dark #0E0D0B, amber/gold accents, monospaced financial data, receipt AI matching.",
       "screens": 5,
       "source": "heartbeat"
     }
