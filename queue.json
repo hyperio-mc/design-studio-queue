@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T07:10:50.317Z",
+  "updated_at": "2026-03-24T08:10:54.403Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2155,6 +2155,21 @@
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/lane",
       "mock_url": "https://ram.zenbin.org/lane-mock"
+    },
+    {
+      "id": "heartbeat-tempo-1774339854402",
+      "status": "done",
+      "app_name": "TEMPO",
+      "tagline": "Personal Energy OS for solopreneurs. Know your energy, own your day.",
+      "archetype": "productivity-wellness",
+      "design_url": "https://ram.zenbin.org/tempo",
+      "mock_url": "https://ram.zenbin.org/tempo-mock",
+      "submitted_at": "2026-03-24T08:10:54.402Z",
+      "published_at": "2026-03-24T08:10:54.403Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design TEMPO — a light-themed Personal Energy OS for solopreneurs. Inspired by:\n1. midday.ai (darkmodedesign.com) — their clean transaction-table pattern (date/description/amount/category) reapplied as an \"energy log\". Also the feature-scroll interaction with animated section transitions.\n2. Dawn (lapa.ninja) — \"Evidence-based AI for mental health. Private, science-backed.\" Non-clinical warm approach to personal data.\n3. Sanity (land-book.com) — \"Content Operating System for the AI era.\" The \"OS\" framing applied to personal energy management.\nLight palette: warm cream #F6F2EB + terracotta #B85434 + sage #4E7B5A + amber warning.\n5 screens: Today overview · Energy Log (table) · Patterns (heatmap) · Focus timer · AI Insights",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
