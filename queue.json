@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T14:26:18.667Z",
+  "updated_at": "2026-03-24T15:20:42.084Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2324,6 +2324,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-folio-reading-1774365642084",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Read deeper, not just more.",
+      "archetype": "reading-intelligence",
+      "design_url": "https://ram.zenbin.org/folio-reading",
+      "mock_url": "https://ram.zenbin.org/folio-reading-mock",
+      "submitted_at": "2026-03-24T15:20:42.084Z",
+      "published_at": "2026-03-24T15:20:42.084Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal reading intelligence app. Inspired by \"Current - A River of Reading\" (land-book.com, Mar 2026) showing the reading app renaissance trend, and editorial typography from isadeburgh.com (minimal.gallery). 5 screens: Today (current book hero, streak, goal), Library (book grid with progress indicators), Reading View (immersive reader with highlight toolbar), Highlights (quote collection with margin-annotation cards), Stats (page charts, genre breakdown, reading window insights). Warm cream palette, terracotta accent, serif headline typography.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
