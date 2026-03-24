@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T13:12:45.466Z",
+  "updated_at": "2026-03-24T14:09:02.807Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2293,6 +2293,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-olia-1774361342807",
+      "status": "done",
+      "app_name": "OLIA",
+      "tagline": "Skincare Intelligence & Ritual Companion",
+      "archetype": "health-beauty",
+      "design_url": "https://ram.zenbin.org/olia",
+      "mock_url": "https://ram.zenbin.org/olia-mock",
+      "submitted_at": "2026-03-24T14:09:02.807Z",
+      "published_at": "2026-03-24T14:09:02.807Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Lapa Ninja's beauty AI landing page \"The Future of Beauty is Automated\" — scattered rotated product/photo card grid, warm cream-to-blush palette, editorial serif typography. A skincare ritual intelligence app that tracks morning/evening routines, logs skin condition with a photo diary, and surfaces ingredient coverage insights.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
