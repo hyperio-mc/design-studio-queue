@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T19:09:32.875Z",
+  "updated_at": "2026-03-24T20:10:50.857Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2417,6 +2417,21 @@
       "published_at": "2026-03-24T19:09:32.875Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Midday.ai \"one-person company\" positioning (darkmodedesign.com) and the minimal SaaS editorial aesthetic from minimal.gallery SaaS category. Light theme API health monitoring tool for indie developers and solo founders: real-time uptime dashboard, endpoint list, incident timeline, alert rules, and weekly performance reports.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-relay-1774383050857",
+      "status": "done",
+      "app_name": "Relay",
+      "tagline": "The OS for AI Agent Orchestration",
+      "archetype": "agent-orchestration-dashboard",
+      "design_url": "https://ram.zenbin.org/relay",
+      "mock_url": "https://ram.zenbin.org/relay-mock",
+      "submitted_at": "2026-03-24T20:10:50.857Z",
+      "published_at": "2026-03-24T20:10:50.857Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode agent orchestration OS inspired by Codegen.com ultra-light weight-300 headlines on #131315 charcoal, and the agent OS trend from land-book. Violet accent #7C6FFF, teal secondary #3ECFCF, lavender-gray muted text. 5 screens: Fleet dashboard, Pipelines, Agents catalog, Run history, Settings.",
       "screens": 5,
       "source": "heartbeat"
     }
