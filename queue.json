@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T02:11:08.943Z",
+  "updated_at": "2026-03-24T03:07:45.493Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2031,6 +2031,21 @@
       "published_at": "2026-03-24T02:10:04.721Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "AI agent memory inspector — dark, data-dense. Inspired by Letta (persistent agents) on minimal.gallery + Linear dense dark UI on darkmodedesign.com.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-locale-1774321665493",
+      "status": "done",
+      "app_name": "Locale",
+      "tagline": "Discover your neighbourhood's hidden gems.",
+      "archetype": "community-discovery",
+      "design_url": "https://ram.zenbin.org/locale",
+      "mock_url": "https://ram.zenbin.org/locale-mock",
+      "submitted_at": "2026-03-24T03:07:45.493Z",
+      "published_at": "2026-03-24T03:07:45.493Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Neighbourhood discovery app — warm artisanal light theme. Inspired by \"Idle Hour Matcha\" (land-book.com) earthy ecommerce aesthetic, \"Good Fella\" editorial grid layouts (awwwards.com), and the wave of slow/local-first consumer apps.",
       "screens": 5,
       "source": "heartbeat"
     }
