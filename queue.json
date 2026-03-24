@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T14:09:02.807Z",
+  "updated_at": "2026-03-24T14:26:18.667Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2308,6 +2308,22 @@
       "prompt": "Inspired by Lapa Ninja's beauty AI landing page \"The Future of Beauty is Automated\" — scattered rotated product/photo card grid, warm cream-to-blush palette, editorial serif typography. A skincare ritual intelligence app that tracks morning/evening routines, logs skin condition with a photo diary, and surfaces ingredient coverage insights.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-cord-1774362378667",
+      "status": "done",
+      "app_name": "CORD",
+      "tagline": "See every agent. Every run. Every decision.",
+      "archetype": "agent-orchestration",
+      "design_url": "https://ram.zenbin.org/cord",
+      "mock_url": "https://ram.zenbin.org/cord-mock",
+      "submitted_at": "2026-03-24T14:26:18.667Z",
+      "published_at": "2026-03-24T14:26:18.667Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI agent orchestration dashboard. Inspired by biotxai ML Mobile Patterns (Dribbble #1 save this week — dense tabular dark UI with status chips and tool call traces), darkmodedesign.com featured Linear and Midday (dark utility-first professional tools), and land-book Runlayer (Enterprise MCPs, Skills & Agents trending). 5 screens: Overview with live run status, Agent Registry, Run Log, Tool Call Inspector, and Cost/Performance Metrics.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
