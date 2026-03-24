@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T16:07:59.117Z",
+  "updated_at": "2026-03-24T17:12:27.582Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2354,6 +2354,22 @@
       "prompt": "Dark-theme AI agent runtime dashboard. Inspired by Land-book trend \"Codegen — The OS for Code Agents\" and DarkModeDesign gallery (Linear/Midday aesthetic). 5 screens: Fleet overview, Live run trace, Execution traces, Log stream, API keys & rate limits.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lull-1774372347582",
+      "status": "done",
+      "app_name": "LULL",
+      "tagline": "A space to arrive in yourself",
+      "archetype": "mindfulness-journal",
+      "design_url": "https://ram.zenbin.org/lull",
+      "mock_url": "https://ram.zenbin.org/lull-mock",
+      "submitted_at": "2026-03-24T17:12:27.582Z",
+      "published_at": "2026-03-24T17:12:27.582Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Calm daily reflection and mindfulness journal. Inspired by lapa.ninja health/fitness category (Dawn — evidence-based AI for mental health; Super Chill — a fresh and calm mind) and minimal.gallery editorial aesthetic (KO Collective, Old Tom Capital). Light warm palette: off-white #F7F4EF, sage green #5A7856, warm clay #A0694A. Serif headings, generous whitespace, breath as a design principle.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
