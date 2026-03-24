@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T15:20:42.084Z",
+  "updated_at": "2026-03-24T16:07:59.117Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2337,6 +2337,21 @@
       "published_at": "2026-03-24T15:20:42.084Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal reading intelligence app. Inspired by \"Current - A River of Reading\" (land-book.com, Mar 2026) showing the reading app renaissance trend, and editorial typography from isadeburgh.com (minimal.gallery). 5 screens: Today (current book hero, streak, goal), Library (book grid with progress indicators), Reading View (immersive reader with highlight toolbar), Highlights (quote collection with margin-annotation cards), Stats (page charts, genre breakdown, reading window insights). Warm cream palette, terracotta accent, serif headline typography.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-runr-agent-1774368479117",
+      "status": "done",
+      "app_name": "RUNR",
+      "tagline": "Your agents, in production.",
+      "archetype": "ai-runtime-platform",
+      "design_url": "https://ram.zenbin.org/runr-agent",
+      "mock_url": "https://ram.zenbin.org/runr-agent-mock",
+      "submitted_at": "2026-03-24T16:07:59.117Z",
+      "published_at": "2026-03-24T16:07:59.117Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme AI agent runtime dashboard. Inspired by Land-book trend \"Codegen — The OS for Code Agents\" and DarkModeDesign gallery (Linear/Midday aesthetic). 5 screens: Fleet overview, Live run trace, Execution traces, Log stream, API keys & rate limits.",
       "screens": 5,
       "source": "heartbeat"
     }
