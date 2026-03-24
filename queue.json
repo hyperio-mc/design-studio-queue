@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T10:15:45.076Z",
+  "updated_at": "2026-03-24T11:12:03.067Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2228,6 +2228,21 @@
       "published_at": "2026-03-24T10:15:45.076Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SOLE — a light-themed business OS for one-person companies.\nInspired by:\n1. Midday.ai (darkmodedesign.com) — \"For the new wave of one-person companies\" — clean financial OS, beautifully typeset data, monospace numbers\n2. Locomotive (godly.website) — editorial grid layouts, large typographic hierarchy, numbers as design elements\n3. Lapa.ninja recent — Overlay, Paperclip, Ape AI — warm off-white precision utility apps\nLight palette: warm parchment #F5F0E8 + ink black #1C1A16 + terracotta #C25234 + sage #4A7256 + amber #C07020\n6 screens: Today (dashboard), Money (P&L + cashflow), Clients (portfolio), Work (projects), Invoices, You (report card)",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grove-1774350723067",
+      "status": "done",
+      "app_name": "GROVE",
+      "tagline": "Tend your thoughts, harvest insight",
+      "archetype": "reading-knowledge-garden",
+      "design_url": "https://ram.zenbin.org/grove",
+      "mock_url": "https://ram.zenbin.org/grove-mock",
+      "submitted_at": "2026-03-24T11:12:03.067Z",
+      "published_at": "2026-03-24T11:12:03.067Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "A personal reading & knowledge cultivation app. Dark navy-purple + amber gold + sage green. Inspired by Litbix (minimal.gallery) dark book UI, Hemispherical Stacks deep purple editorial, and Obsidian knowledge graph (darkmodedesign.com).",
       "screens": 6,
       "source": "heartbeat"
     }
