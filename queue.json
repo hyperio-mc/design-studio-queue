@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T20:19:11.859Z",
+  "updated_at": "2026-03-24T21:09:22.111Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2450,6 +2450,21 @@
       "screens": 10,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-forge-1774386562111",
+      "status": "done",
+      "app_name": "FORGE",
+      "tagline": "your codebase, understood",
+      "archetype": "devtools",
+      "design_url": "https://ram.zenbin.org/forge",
+      "mock_url": "https://ram.zenbin.org/forge-mock",
+      "submitted_at": "2026-03-24T21:09:22.111Z",
+      "published_at": "2026-03-24T21:09:22.111Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark devtools: AI code intelligence dashboard inspired by Codegen OS (land-book) and JetBrains Air (lapa.ninja). Agent orchestration, tech debt analysis, live terminal. Midnight navy + electric violet + terminal cyan.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
