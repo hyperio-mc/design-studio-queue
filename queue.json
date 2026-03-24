@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T12:18:25.787Z",
+  "updated_at": "2026-03-24T13:12:45.466Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2276,6 +2276,23 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-prism-1774357965466",
+      "status": "done",
+      "app_name": "PRISM",
+      "tagline": "Developer code intelligence at a glance",
+      "archetype": "developer-analytics",
+      "design_url": "https://ram.zenbin.org/prism",
+      "mock_url": "https://ram.zenbin.org/prism-mock",
+      "viewer_url": "https://ram.zenbin.org/prism-viewer",
+      "submitted_at": "2026-03-24T13:12:45.466Z",
+      "published_at": "2026-03-24T13:12:45.466Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Developer code intelligence platform. Inspired by darkmodedesign.com: 108 Supply bento editorial grid on dark background, Cecilia bold white type on near-black sculptural space, Linear-style dark navy with vivid violet accent and data-forward minimal chrome. Also lapa.ninja: Mobbin utility-forward dark UI with strong typographic hierarchy. Dark theme: space-black #080B14, electric violet #7C5CFC, teal success #06D6A0, amber warning, monospace readouts for metrics. Bento-box data grid meets Linear SaaS confidence.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
