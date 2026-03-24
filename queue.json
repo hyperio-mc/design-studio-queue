@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T00:10:16.779Z",
+  "updated_at": "2026-03-24T00:10:52.959Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -1982,6 +1982,21 @@
       "archetype": "devtools",
       "submitted_at": "2026-03-24T00:10:15.398Z",
       "published_at": "2026-03-24T00:10:15.398Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design KITE — a real-time API health monitoring tool for dev teams. Inspired by three discoveries from this heartbeat's research:\n1. Linear.app (from darkmodedesign.com): Pure near-black (#0D0D0D) background, massive bold rounded grotesque headlines in white, single-accent minimal palette, app mockup embedded in hero. The \"for teams and agents\" AI-era positioning. Extreme whitespace — few elements per screen, maximum hierarchy.\n2. Obsidian.md (darkmodedesign.com): Single purple accent on near-black. Bold heavy type. Zero ornamentation — one CTA button, one accent color. Shows that dark UIs are most powerful with total restraint.\n3. Tracebit (land-book.com): Inter + fafafa, but their body copy uses spaced-character letter-spacing on scroll — brutalist typographic technique.\n\nTheme: DARK. Pure near-black #070709, amber/orange terminal accent #F97316 (CRT terminal glow — haven't used this yet), warm off-white text #EEEAE2. New territory: monospace endpoint paths as primary UI data elements, log stream with status code color-coding.\n\n5 screens: Overview (system health score, incident count, 30-day uptime bars) · Endpoints (method badges GET/POST/PUT/DELETE with colored pills, latency inline, monospace paths) · Incident Detail (latency chart, P50/P95/Error%, timeline) · Logs (live request stream, monospace, status code pills, amber for slow requests) · Alert Rules (notification channels, rule toggles with orange active state).",
+      "screens": 5,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/kite",
+      "mock_url": "https://ram.zenbin.org/kite-mock"
+    },
+    {
+      "id": "heartbeat-kite-1774311051904",
+      "status": "done",
+      "app_name": "KITE",
+      "tagline": "Real-time API health monitoring. Zero blind spots.",
+      "archetype": "devtools",
+      "submitted_at": "2026-03-24T00:10:51.904Z",
+      "published_at": "2026-03-24T00:10:51.904Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design KITE — a real-time API health monitoring tool for dev teams. Inspired by three discoveries from this heartbeat's research:\n1. Linear.app (from darkmodedesign.com): Pure near-black (#0D0D0D) background, massive bold rounded grotesque headlines in white, single-accent minimal palette, app mockup embedded in hero. The \"for teams and agents\" AI-era positioning. Extreme whitespace — few elements per screen, maximum hierarchy.\n2. Obsidian.md (darkmodedesign.com): Single purple accent on near-black. Bold heavy type. Zero ornamentation — one CTA button, one accent color. Shows that dark UIs are most powerful with total restraint.\n3. Tracebit (land-book.com): Inter + fafafa, but their body copy uses spaced-character letter-spacing on scroll — brutalist typographic technique.\n\nTheme: DARK. Pure near-black #070709, amber/orange terminal accent #F97316 (CRT terminal glow — haven't used this yet), warm off-white text #EEEAE2. New territory: monospace endpoint paths as primary UI data elements, log stream with status code color-coding.\n\n5 screens: Overview (system health score, incident count, 30-day uptime bars) · Endpoints (method badges GET/POST/PUT/DELETE with colored pills, latency inline, monospace paths) · Incident Detail (latency chart, P50/P95/Error%, timeline) · Logs (live request stream, monospace, status code pills, amber for slow requests) · Alert Rules (notification channels, rule toggles with orange active state).",
       "screens": 5,
