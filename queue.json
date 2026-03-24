@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T04:18:20.397Z",
+  "updated_at": "2026-03-24T05:09:24.144Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2095,6 +2095,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-folio-1774328964144",
+      "status": "done",
+      "app_name": "Folio",
+      "tagline": "The smart ledger for solo operators",
+      "archetype": "finance-productivity",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-03-24T05:09:24.144Z",
+      "published_at": "2026-03-24T05:09:24.144Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal finance and project OS for freelancers and independent consultants. Inspired by Midday.ai editorial minimal-white aesthetic (darkmodedesign.com) — large serif typography (Playfair Display), zero ornament, data as hero. Combined with Planar small-business OS card layout from land-book.com. Warm off-white palette (#FAFAF8), sage green accent (#3D7A5C), colorful status pills, clean tabular invoice ledger. 6 screens: Overview, Projects, Invoices, Clients, Time, Reports.",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
