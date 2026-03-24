@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T02:10:04.721Z",
+  "updated_at": "2026-03-24T02:11:08.943Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2018,51 +2018,6 @@
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/draft",
       "mock_url": "https://ram.zenbin.org/draft-mock"
-    },
-    {
-      "id": "heartbeat-aeon-1774318078636",
-      "status": "done",
-      "app_name": "AEON",
-      "tagline": "Persistent memory for production AI agents.",
-      "archetype": "ai-devtools",
-      "design_url": "https://ram.zenbin.org/aeon",
-      "mock_url": "https://ram.zenbin.org/aeon-mock",
-      "submitted_at": "2026-03-24T02:07:58.636Z",
-      "published_at": "2026-03-24T02:07:58.636Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "AI agent memory inspector — dark, data-dense. Inspired by Letta (persistent agents) on minimal.gallery + Linear dense dark UI on darkmodedesign.com.",
-      "screens": 5,
-      "source": "heartbeat"
-    },
-    {
-      "id": "heartbeat-aeon-1774318136410",
-      "status": "done",
-      "app_name": "AEON",
-      "tagline": "Persistent memory for production AI agents.",
-      "archetype": "ai-devtools",
-      "design_url": "https://ram.zenbin.org/aeon",
-      "mock_url": "https://ram.zenbin.org/aeon-mock",
-      "submitted_at": "2026-03-24T02:08:56.410Z",
-      "published_at": "2026-03-24T02:08:56.410Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "AI agent memory inspector — dark, data-dense. Inspired by Letta (persistent agents) on minimal.gallery + Linear dense dark UI on darkmodedesign.com.",
-      "screens": 5,
-      "source": "heartbeat"
-    },
-    {
-      "id": "heartbeat-aeon-1774318144187",
-      "status": "done",
-      "app_name": "AEON",
-      "tagline": "Persistent memory for production AI agents.",
-      "archetype": "ai-devtools",
-      "design_url": "https://ram.zenbin.org/aeon",
-      "mock_url": "https://ram.zenbin.org/aeon-mock",
-      "submitted_at": "2026-03-24T02:09:04.187Z",
-      "published_at": "2026-03-24T02:09:04.187Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "AI agent memory inspector — dark, data-dense. Inspired by Letta (persistent agents) on minimal.gallery + Linear dense dark UI on darkmodedesign.com.",
-      "screens": 5,
-      "source": "heartbeat"
     },
     {
       "id": "heartbeat-aeon-1774318204721",
