@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T03:09:20.446Z",
+  "updated_at": "2026-03-24T04:11:22.331Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2061,6 +2061,22 @@
       "published_at": "2026-03-24T03:09:20.446Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Neighbourhood discovery app — warm artisanal light theme. Inspired by \"Idle Hour Matcha\" (land-book.com) earthy ecommerce aesthetic, \"Good Fella\" editorial grid layouts (awwwards.com), and the wave of slow/local-first consumer apps.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-strobe-1774325482331",
+      "status": "done",
+      "app_name": "STROBE",
+      "tagline": "Live venue analytics. Every show, every dollar, live.",
+      "archetype": "event-analytics",
+      "design_url": "https://ram.zenbin.org/strobe",
+      "viewer_url": "https://ram.zenbin.org/strobe-viewer",
+      "mock_url": "https://ram.zenbin.org/strobe-mock",
+      "submitted_at": "2026-03-24T04:11:22.331Z",
+      "published_at": "2026-03-24T04:11:22.331Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Live venue event analytics dashboard — dark, energetic. Inspired by Saaspo \"gamified UI depth\" trend (layered panels, glow effects, HUD energy) + Dark Mode Design featured sites mixed typography (editorial serif italic for hero numbers, tight geometric sans for labels).",
       "screens": 5,
       "source": "heartbeat"
     }
