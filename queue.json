@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T05:16:33.244Z",
+  "updated_at": "2026-03-25T06:11:36.368Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2616,6 +2616,24 @@
       "prompt": "Inspired by land-book.com Codegen \"The OS for Code Agents\" trend — dark AI dev tooling is everywhere; APEX inverts this with a clean editorial light-mode code quality intelligence dashboard, warm orange accents on paper-white, Console-inspired typography. 5 screens: Overview, Issues, Coverage, AI Insights, Trends.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ledge-1774419096368",
+      "status": "done",
+      "app_name": "Ledge",
+      "tagline": "Know your worth, down to the minute.",
+      "archetype": "finance-dark",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "viewer_url": "https://ram.zenbin.org/ledge-viewer",
+      "mock_url": "https://ram.zenbin.org/ledge-mock",
+      "submitted_at": "2026-03-25T06:11:36.368Z",
+      "published_at": "2026-03-25T06:11:36.368Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial freelance finance dashboard. Inspired by Darkroom on darkmodedesign.com (pure black editorial typography) and Corentin Bernadou SOTD on Awwwards (architectural minimalism). Pure #080808 background, warm amber accent, oversized hero revenue number.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "inspiration": "darkmodedesign.com (Darkroom editorial), awwwards.com (Corentin Bernadou SOTD)"
     }
   ]
 }
