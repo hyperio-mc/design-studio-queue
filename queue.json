@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T22:09:05.241Z",
+  "updated_at": "2026-03-25T23:12:37.996Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3010,6 +3010,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-loom-1774480357995",
+      "status": "done",
+      "app_name": "LOOM",
+      "tagline": "build AI workflows visually",
+      "archetype": "ai-workflow-builder",
+      "design_url": "https://ram.zenbin.org/loom",
+      "mock_url": "https://ram.zenbin.org/loom-mock",
+      "submitted_at": "2026-03-25T23:12:37.995Z",
+      "published_at": "2026-03-25T23:12:37.996Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Visual AI workflow builder. Dark indigo theme. Violet + mint palette. Inspired by Codegen OS for Code Agents (land-book), LangChain Observe/Evaluate/Deploy (land-book), Evervault (godly). 5 screens: dashboard, canvas, run log, node config, hub.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
