@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T20:44:27.277Z",
+  "updated_at": "2026-03-25T21:11:28.080Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2958,6 +2958,26 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-canary-1774473088080",
+      "status": "done",
+      "app_name": "CANARY",
+      "tagline": "know when they're inside",
+      "archetype": "deception-security",
+      "design_url": "https://ram.zenbin.org/canary",
+      "mock_url": "https://ram.zenbin.org/canary-mock",
+      "submitted_at": "2026-03-25T21:11:28.080Z",
+      "published_at": "2026-03-25T21:11:28.080Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Tracebit \"The answer to Assume Breach\" (land-book.com) and Darknode AI automation dark aesthetic (Awwwards). Dark deception security platform: canary token management and network honeypot visualization. Deep navy #070B14 + canary yellow #F5C842. 5 screens: Nest overview, Alert detail with attacker fingerprint, Canary network map, Threat Intel with MITRE ATT&CK coverage, and Deploy new canary token flow.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette_primary": "#F5C842",
+      "palette_bg": "#070B14",
+      "viewer_url": "https://ram.zenbin.org/canary-viewer",
+      "note": "Hero + mock saved locally; ZenBin at 100-page cap (resets 2026-04-23). Viewer live at ram.zenbin.org/canary-viewer."
     }
   ]
 }
