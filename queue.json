@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T19:10:27.954Z",
+  "updated_at": "2026-03-25T20:44:27.277Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2942,6 +2942,22 @@
       "prompt": "Inspired by Midday (featured on darkmodedesign.com) — time tracking with beautiful data; Evervault (godly.website) tight negative letter-spacing typography and authority in simplicity; and Land-book.com warm off-white interface. Light-mode personal time intelligence app: today dashboard with activity heatmap, focus timer, project time allocation, weekly insights with peak hours, and goal tracking.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grain-1774471467277",
+      "status": "done",
+      "app_name": "GRAIN",
+      "tagline": "know what you wear",
+      "archetype": "fashion-tech",
+      "design_url": "https://ram.zenbin.org/grain",
+      "mock_url": "https://ram.zenbin.org/grain-mock",
+      "submitted_at": "2026-03-25T20:44:27.277Z",
+      "published_at": "2026-03-25T20:44:27.277Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by \"How It Wears\" editorial materials feature (land-book.com) — light editorial, fabric transparency — and Isaac Powell / SHED clean architectural typography (Awwwards SOTD). Light-theme fabric transparency app for conscious fashion: closet overview with eco scores, garment composition detail with fibre percentage bars, care symbol library, eco impact dashboard, and label scan screen. Palette: warm stone #F7F5F1, muted sage #5E8A66, terracotta #C4763A.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
