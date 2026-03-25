@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T10:08:59.020Z",
+  "updated_at": "2026-03-25T11:14:17.201Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2759,6 +2759,21 @@
         "amber": "#F59E0B",
         "amberSoft": "#FEF3C7"
       }
+    },
+    {
+      "id": "heartbeat-rune-1774437257201",
+      "status": "done",
+      "app_name": "Rune",
+      "tagline": "Zero-config secret management for teams",
+      "archetype": "developer-security",
+      "design_url": "https://ram.zenbin.org/rune",
+      "mock_url": "https://ram.zenbin.org/rune-mock",
+      "submitted_at": "2026-03-25T11:14:17.201Z",
+      "published_at": "2026-03-25T11:14:17.201Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode developer secret management app. Inspired by Twingate zero-trust (godly.website) and Evervault encryption tooling + Midday.ai financial clarity UI (darkmodedesign.com).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
