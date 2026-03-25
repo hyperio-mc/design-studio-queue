@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T12:29:51.281Z",
+  "updated_at": "2026-03-25T12:30:08.113Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2823,22 +2823,6 @@
       "screens": 10,
       "source": "heartbeat",
       "theme": "light"
-    },
-    {
-      "id": "heartbeat-driftwood-1774441749608",
-      "status": "done",
-      "app_name": "DRIFTWOOD",
-      "tagline": "Slow living journal. A sanctuary for reflection.",
-      "archetype": "health",
-      "theme": "dark",
-      "design_url": "https://ram.zenbin.org/driftwood",
-      "mock_url": "https://ram.zenbin.org/driftwood-mock",
-      "submitted_at": "2026-03-25T12:29:09.608Z",
-      "published_at": "2026-03-25T12:29:09.608Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "Dark journaling app inspired by with.radiance (awwwards) bioluminescent organic aesthetic and Minimalism Life (darkmodedesign.com) slow-living dark UI",
-      "screens": 5,
-      "source": "heartbeat"
     }
   ]
 }
