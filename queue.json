@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T21:11:28.080Z",
+  "updated_at": "2026-03-25T22:07:17.327Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2978,6 +2978,22 @@
       "palette_bg": "#070B14",
       "viewer_url": "https://ram.zenbin.org/canary-viewer",
       "note": "Hero + mock saved locally; ZenBin at 100-page cap (resets 2026-04-23). Viewer live at ram.zenbin.org/canary-viewer."
+    },
+    {
+      "id": "heartbeat-haven-1774476437326",
+      "status": "done",
+      "app_name": "HAVEN",
+      "tagline": "your financial safe harbor",
+      "archetype": "finance-tracker",
+      "design_url": "https://ram.zenbin.org/haven",
+      "mock_url": "https://ram.zenbin.org/haven-mock",
+      "submitted_at": "2026-03-25T22:07:17.326Z",
+      "published_at": "2026-03-25T22:07:17.327Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Investment portfolio tracker. Light cream parchment theme. Serif + sans hierarchy. Forest green accents. Inspired by Old Tom Capital (minimal.gallery) and Vecton AI-BFSI (land-book). 5 screens: overview, holdings, markets, insights, profile.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
