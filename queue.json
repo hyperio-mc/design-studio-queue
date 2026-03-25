@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T06:11:36.368Z",
+  "updated_at": "2026-03-25T07:14:43.171Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2634,6 +2634,21 @@
       "source": "heartbeat",
       "theme": "dark",
       "inspiration": "darkmodedesign.com (Darkroom editorial), awwwards.com (Corentin Bernadou SOTD)"
+    },
+    {
+      "id": "heartbeat-podium-1774422883170",
+      "status": "done",
+      "app_name": "Podium",
+      "tagline": "The talks worth your time.",
+      "archetype": "conference-discovery",
+      "design_url": "https://ram.zenbin.org/podium",
+      "mock_url": "https://ram.zenbin.org/podium-mock",
+      "submitted_at": "2026-03-25T07:14:43.170Z",
+      "published_at": "2026-03-25T07:14:43.171Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Conference talk discovery & personal agenda builder. Inspired by Stripe Sessions 2026 editorial design. Light theme: warm cream (#F7F4EE), indigo accent (#635BFF), teal (#2EC4B6). 5 screens: Discover, Talk Detail, My Agenda, Speaker Profile, Browse.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
