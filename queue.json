@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T02:09:27.328Z",
+  "updated_at": "2026-03-25T03:15:56.087Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2553,6 +2553,21 @@
       "published_at": "2026-03-25T02:09:27.328Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme longevity biomarker tracker inspired by Superpower health app on godly.website — warm amber photography meets clinical white data cards. Warm cream (#FAF7F2) + terracotta (#C8622A) palette. Five screens: Vitality Score (longevity score 82/100 with weekly sparkline), Blood Panel (42 biomarkers with optimal/borderline/risk status), Recovery (HRV trend chart + sleep stages + readiness factors), Supplement Stack (3 timing windows with adherence tracking), and AI Insights (prioritised personalised recommendations).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-roam-1774408556087",
+      "status": "done",
+      "app_name": "ROAM",
+      "tagline": "your money, anywhere in the world",
+      "archetype": "nomad-finance",
+      "design_url": "https://ram.zenbin.org/roam",
+      "mock_url": "https://ram.zenbin.org/roam-mock",
+      "submitted_at": "2026-03-25T03:15:56.087Z",
+      "published_at": "2026-03-25T03:15:56.087Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme digital nomad finance app inspired by Midday.ai passive financial intelligence (darkmodedesign.com) — \"pre-accounting\" automation, humanist typography, warm neutral palette. Also Tracebit \"Assume Breach\" framing reapplied as proactive overspend monitoring (land-book.com). Warm parchment (#F5F1E8) + sky blue (#2557D6) + savings green (#0D9B6C). Five screens: Runway (127 days at Lisbon pace, AI insight, live rates), Transactions (multi-currency, unusual-spend flagging), City Compare (6-city bar chart with runway delta), Budget (ring viz + category progress), Goals (4 milestone cards with progress bars + milestone markers).",
       "screens": 5,
       "source": "heartbeat"
     }
