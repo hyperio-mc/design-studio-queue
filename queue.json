@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T12:30:08.113Z",
+  "updated_at": "2026-03-25T13:16:13.027Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2823,6 +2823,21 @@
       "screens": 10,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-ledger-1774444573027",
+      "status": "done",
+      "app_name": "LEDGER",
+      "tagline": "Money that thinks for you",
+      "archetype": "fintech-ai-dashboard",
+      "design_url": "https://ram.zenbin.org/ledger",
+      "mock_url": "https://ram.zenbin.org/ledger-mock",
+      "submitted_at": "2026-03-25T13:16:13.027Z",
+      "published_at": "2026-03-25T13:16:13.027Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai (darkmodedesign.com): dark AI-powered financial clarity app for solo founders and freelancers. 5 screens: Dashboard, Transactions, Invoices, Analytics, AI Insights. Deep blue-black palette with electric mint and indigo accents.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
