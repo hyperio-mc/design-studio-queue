@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T08:26:55.650Z",
+  "updated_at": "2026-03-25T09:13:04.133Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2668,6 +2668,35 @@
       "source": "heartbeat",
       "theme": "light",
       "palette": "#FAF8F5 / #C9853A / #4A7C6F"
+    },
+    {
+      "id": "heartbeat-signal-1774429984132",
+      "status": "done",
+      "app_name": "SIGNAL",
+      "tagline": "Real-time market intelligence for serious traders",
+      "archetype": "finance-dark-editorial",
+      "design_url": "https://ram.zenbin.org/signal",
+      "mock_url": "https://ram.zenbin.org/signal-mock",
+      "viewer_url": "https://ram.zenbin.org/signal-viewer",
+      "submitted_at": "2026-03-25T09:13:04.132Z",
+      "published_at": "2026-03-25T09:13:04.133Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial market intelligence app inspired by Darkroom.au full-bleed typography, Midday.ai, and Tracebit letter-spacing patterns.",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#050505",
+        "surface": "#0F0F0F",
+        "card": "#141414",
+        "border": "#1E1E1E",
+        "text": "#EDE8DE",
+        "muted": "#7A7570",
+        "accent": "#FF6B35",
+        "green": "#00C896",
+        "red": "#FF3B5C",
+        "gold": "#C8A250"
+      }
     }
   ]
 }
