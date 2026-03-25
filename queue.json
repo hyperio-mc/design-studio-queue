@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T04:10:26.002Z",
+  "updated_at": "2026-03-25T04:19:01.534Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2585,6 +2585,22 @@
       "prompt": "Dark terminal-aesthetic engineering velocity dashboard for dev teams. Inspired by Muradov.design (darkmodedesign.com) — pure black, Telegraf grotesque + Fraktion Mono pairing, warm off-white #F8F7F4, electric blue accent. New technique: monospace/grotesque pairing where metric values render in JetBrains Mono and labels stay grotesque. Near-black (#080808), electric blue (#2962FF), warm off-white (#F0EDE5). 5 screens: Dashboard (sprint overview, velocity sparklines, DORA health), Pull Requests (PR queue with filter tabs, review status), Pipeline (CI/CD stage visualization), Incidents (severity-labeled log with MTTR), Team (contributor load bars, reviewer distribution).",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-thread-1774412341533",
+      "status": "done",
+      "app_name": "THREAD",
+      "tagline": "every thought, connected",
+      "archetype": "pkm-knowledge-graph",
+      "design_url": "https://ram.zenbin.org/thread",
+      "mock_url": "https://ram.zenbin.org/thread-mock",
+      "submitted_at": "2026-03-25T04:19:01.533Z",
+      "published_at": "2026-03-25T04:19:01.534Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark PKM knowledge graph tool. Inspired by Reflect.app (Godly) and Midday dark surfaces on darkmodedesign.com. Near-black bg #0C0B0F, violet #8B6FE8, mint #52B88A. Screens: daily note with backlinks, graph view with node clusters, note detail with highlights, quick capture with AI link suggestions, semantic search.",
+      "screens": 10,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
