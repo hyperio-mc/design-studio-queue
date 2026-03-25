@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T10:08:45.778Z",
+  "updated_at": "2026-03-25T10:08:59.020Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2709,6 +2709,37 @@
       "viewer_url": "https://ram.zenbin.org/rally-viewer",
       "submitted_at": "2026-03-25T10:08:45.778Z",
       "published_at": "2026-03-25T10:08:45.778Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-mode AI agent + human team orchestration dashboard, inspired by Linear's \"teams and agents\" era and Agent Insights feature discovered on godly.website.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F4F3EF",
+        "surface": "#FFFFFF",
+        "surface2": "#F0EEE9",
+        "border": "#E8E6E0",
+        "text": "#1A1918",
+        "textSub": "#6B6760",
+        "accent": "#6D4AFF",
+        "accentSoft": "#EDE8FF",
+        "green": "#1EA97C",
+        "greenSoft": "#E3F6EF",
+        "amber": "#F59E0B",
+        "amberSoft": "#FEF3C7"
+      }
+    },
+    {
+      "id": "heartbeat-rally-1774433339019",
+      "status": "done",
+      "app_name": "Rally",
+      "tagline": "Your humans and agents, in sync",
+      "archetype": "productivity-ai-light",
+      "design_url": "https://ram.zenbin.org/rally",
+      "mock_url": "https://ram.zenbin.org/rally-mock",
+      "viewer_url": "https://ram.zenbin.org/rally-viewer",
+      "submitted_at": "2026-03-25T10:08:59.019Z",
+      "published_at": "2026-03-25T10:08:59.020Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-mode AI agent + human team orchestration dashboard, inspired by Linear's \"teams and agents\" era and Agent Insights feature discovered on godly.website.",
       "screens": 5,
