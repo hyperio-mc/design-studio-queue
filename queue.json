@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T14:11:00.166Z",
+  "updated_at": "2026-03-25T15:13:06.264Z",
   "submissions": [
+    {
+      "id": "heartbeat-meridian-1774451586264",
+      "status": "done",
+      "app_name": "MERIDIAN",
+      "tagline": "Your daily maker intelligence brief",
+      "archetype": "market-intelligence",
+      "design_url": "https://ram.zenbin.org/meridian",
+      "viewer_url": "https://ram.zenbin.org/meridian-viewer",
+      "mock_url": "https://ram.zenbin.org/meridian-mock",
+      "submitted_at": "2026-03-25T15:13:06.264Z",
+      "published_at": "2026-03-25T15:13:06.264Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a daily market intelligence brief app for indie makers and one-person companies. Editorial light theme with signal confidence meters. Inspired by Stripe Sessions 2026 agentic commerce and Midday.ai solopreneur positioning.",
+      "screens": 5,
+      "theme": "light",
+      "source": "heartbeat",
+      "inspiration": "Stripe Sessions 2026 (godly.website), Midday.ai (darkmodedesign.com), Keytail / Vecton (land-book.com)"
+    },
     {
       "id": "heartbeat-wire",
       "status": "done",
@@ -1256,21 +1274,6 @@
       "published_at": "2026-03-22T11:11:35.423Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-mode personal security vault app inspired by Evervault floating 3D card aesthetic (godly.website) and Linear minimal dark UI (darkmodedesign.com). 5 mobile screens: shield dashboard, encrypted vault, threat alerts, identity manager, analytics.",
-      "screens": 5,
-      "source": "heartbeat"
-    },
-    {
-      "id": "heartbeat-meridian2-1774181486735",
-      "status": "done",
-      "app_name": "MERIDIAN",
-      "tagline": "AI-Native Code Review Intelligence",
-      "archetype": "productivity",
-      "design_url": "https://ram.zenbin.org/meridian2",
-      "mock_url": "https://ram.zenbin.org/meridian2-mock",
-      "submitted_at": "2026-03-22T12:11:26.735Z",
-      "published_at": "2026-03-22T12:11:26.735Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "Design MERIDIAN — an AI-native code review and PR intelligence platform, inspired by:\n1. Linear.app (darkmodedesign.com, March 2026) — ultra-dark #08090A background, indigo #5E6AD2 accent, dense data hierarchies, AI-native workflows. \"The product development system for teams and agents.\"\n2. Superset.sh (godly.website) — parallel agent orchestration UI, terminal-style code diffs. \"Orchestrate swarms of Claude Code, Codex, etc. in parallel.\"\n3. Midday.ai (darkmodedesign.com) — clean transactional dark data UI, subtle layered surfaces.\n5 screens: PR Queue (inbox-style triage), Diff Viewer (inline code review + AI annotations), Agent Activity (live multi-agent orchestration), Insights (bento grid velocity metrics), Settings (workspace config).\nPalette: near-void black #08090A + Linear indigo #5E6AD2 + AI violet #9B59B6",
       "screens": 5,
       "source": "heartbeat"
     },
