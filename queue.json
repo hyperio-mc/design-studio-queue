@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T12:13:38.869Z",
+  "updated_at": "2026-03-25T12:20:36.158Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2807,6 +2807,22 @@
       "source": "heartbeat",
       "theme": "light",
       "inspiration": "Current (land-book.com), Litbix (minimal.gallery)"
+    },
+    {
+      "id": "heartbeat-drift-1774441236157",
+      "status": "done",
+      "app_name": "DRIFT",
+      "tagline": "explore at your own pace",
+      "archetype": "local-discovery",
+      "design_url": "https://ram.zenbin.org/drift",
+      "mock_url": "https://ram.zenbin.org/drift-mock",
+      "submitted_at": "2026-03-25T12:20:36.157Z",
+      "published_at": "2026-03-25T12:20:36.158Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme local discovery and slow travel app. Inspired by peach/terracotta travel app trending on Dribbble and Korsa clean editorial UI. Warm terracotta #E07848, forest green #3B7A5E on warm white bg. Screens: Discover (category-filtered place cards), Place detail, Day plan timeline, Saved collections, City guides.",
+      "screens": 10,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
