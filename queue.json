@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T02:08:42.996Z",
+  "updated_at": "2026-03-25T02:09:27.328Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2536,6 +2536,21 @@
       "mock_url": "https://ram.zenbin.org/vitro-mock",
       "submitted_at": "2026-03-25T02:08:42.996Z",
       "published_at": "2026-03-25T02:08:42.996Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme longevity biomarker tracker inspired by Superpower health app on godly.website — warm amber photography meets clinical white data cards. Warm cream (#FAF7F2) + terracotta (#C8622A) palette. Five screens: Vitality Score (longevity score 82/100 with weekly sparkline), Blood Panel (42 biomarkers with optimal/borderline/risk status), Recovery (HRV trend chart + sleep stages + readiness factors), Supplement Stack (3 timing windows with adherence tracking), and AI Insights (prioritised personalised recommendations).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vitro-1774404567327",
+      "status": "done",
+      "app_name": "VITRO",
+      "tagline": "know your biology. own your future.",
+      "archetype": "longevity-health-tracker",
+      "design_url": "https://ram.zenbin.org/vitro",
+      "mock_url": "https://ram.zenbin.org/vitro-mock",
+      "submitted_at": "2026-03-25T02:09:27.327Z",
+      "published_at": "2026-03-25T02:09:27.328Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme longevity biomarker tracker inspired by Superpower health app on godly.website — warm amber photography meets clinical white data cards. Warm cream (#FAF7F2) + terracotta (#C8622A) palette. Five screens: Vitality Score (longevity score 82/100 with weekly sparkline), Blood Panel (42 biomarkers with optimal/borderline/risk status), Recovery (HRV trend chart + sleep stages + readiness factors), Supplement Stack (3 timing windows with adherence tracking), and AI Insights (prioritised personalised recommendations).",
       "screens": 5,
