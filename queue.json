@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T07:14:43.171Z",
+  "updated_at": "2026-03-25T08:26:55.650Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2649,6 +2649,25 @@
       "prompt": "Conference talk discovery & personal agenda builder. Inspired by Stripe Sessions 2026 editorial design. Light theme: warm cream (#F7F4EE), indigo accent (#635BFF), teal (#2EC4B6). 5 screens: Discover, Talk Detail, My Agenda, Speaker Profile, Browse.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ligature-1774427215650",
+      "status": "queued",
+      "pending_publish": true,
+      "zenbin_limit": "2026-04-23",
+      "app_name": "Ligature",
+      "tagline": "The reading OS",
+      "archetype": "reading-os",
+      "design_url": "https://ram.zenbin.org/ligature",
+      "mock_url": "https://ram.zenbin.org/ligature-mock",
+      "submitted_at": "2026-03-25T08:26:55.650Z",
+      "published_at": null,
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme reading OS for serious readers. LIGHT theme (previous Podium was dark). Inspired by \"OS for X\" naming trend on Landbook (Codegen: OS for Code Agents, Sanity: Content Operating System) + Litbix for book lovers on minimal.gallery. Warm editorial palette: cream bg (#FAF8F5), amber accent (#C9853A), teal bookmark (#4A7C6F). 5 screens: Library dashboard, Active Reading view with annotation toolbar, Notes/Highlights collection, Reading Stats, Book Detail.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "#FAF8F5 / #C9853A / #4A7C6F"
     }
   ]
 }
