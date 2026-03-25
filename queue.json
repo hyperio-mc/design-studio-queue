@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T13:16:13.027Z",
+  "updated_at": "2026-03-25T14:10:41.130Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2836,6 +2836,22 @@
       "published_at": "2026-03-25T13:16:13.027Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Midday.ai (darkmodedesign.com): dark AI-powered financial clarity app for solo founders and freelancers. 5 screens: Dashboard, Transactions, Invoices, Analytics, AI Insights. Deep blue-black palette with electric mint and indigo accents.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-char-1774447841129",
+      "status": "done",
+      "app_name": "CHAR",
+      "tagline": "your codebase, distilled",
+      "archetype": "developer-analytics",
+      "design_url": "https://ram.zenbin.org/char",
+      "viewer_url": "https://ram.zenbin.org/char-viewer",
+      "mock_url": "https://ram.zenbin.org/char-mock",
+      "submitted_at": "2026-03-25T14:10:41.129Z",
+      "published_at": "2026-03-25T14:10:41.130Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme code analytics dashboard for solo devs / small teams. Inspired by Corentin Bernadou Portfolio (Awwwards SOTD Mar 25 2026) — 2-color #FF4401 + near-black minimalism. And Midday.ai editorial dashboard approach (from darkmodedesign.com). Burnt orange #FF4401 single accent on #0C0D0D background. Five screens: Pulse (home dashboard with greeting + metric grid + AI prompt), Commits (heatmap + bar chart + file activity), Reviews (PR status + cycle time trend), Debt (score ring + breakdown bars + hotspot files), Insight (weekly AI digest + sprint recommendation).",
       "screens": 5,
       "source": "heartbeat"
     }
