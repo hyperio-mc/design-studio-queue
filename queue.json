@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T17:07:54.861Z",
+  "updated_at": "2026-03-25T18:10:00.681Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2912,6 +2912,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-conductor-1774462200681",
+      "status": "done",
+      "app_name": "Conductor",
+      "tagline": "Orchestrate your AI agents, effortlessly",
+      "archetype": "ai-ops-dashboard",
+      "design_url": "https://ram.zenbin.org/conductor",
+      "mock_url": "https://ram.zenbin.org/conductor-mock",
+      "submitted_at": "2026-03-25T18:10:00.681Z",
+      "published_at": "2026-03-25T18:10:00.681Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by JetBrains Air \"Multitask with agents, stay in control\" seen on lapa.ninja, and Midday.ai clean tabbed dashboard from darkmodedesign.com. Light-theme AI agent orchestration dashboard: unified overview, agent drilldown with sparklines, task queue management, heatmap analytics, and quick-compose screen.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
