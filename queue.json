@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-24T23:07:40.619Z",
+  "updated_at": "2026-03-25T00:11:51.160Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2493,6 +2493,21 @@
       "published_at": "2026-03-24T23:07:40.619Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark warm-toned AI financial OS for indie operators. Inspired by Midday.ai on DarkModeDesign (one-person company positioning), Codegen OS framing on land-book, and Evervault dark SaaS on Godly. Bento-grid layout, warm dark #0E0D0B, amber/gold accents, monospaced financial data, receipt AI matching.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-shelf-1774397511160",
+      "status": "done",
+      "app_name": "SHELF",
+      "tagline": "read smarter. remember more.",
+      "archetype": "reading-intelligence",
+      "design_url": "https://ram.zenbin.org/shelf",
+      "mock_url": "https://ram.zenbin.org/shelf-mock",
+      "submitted_at": "2026-03-25T00:11:51.160Z",
+      "published_at": "2026-03-25T00:11:51.160Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light warm editorial reading tracker inspired by Litbix appearing on BOTH minimal.gallery and land-book simultaneously (clear emerging trend), plus \"Current - A River of Reading\" editorial app on land-book, Mixpanel's colorful light SaaS data viz on Godly, and the Evervault customers card-grid layout. Warm paper-white palette, terracotta accent, book spine color system, editorial bold typography, reading stats with bar charts and streak calendar.",
       "screens": 5,
       "source": "heartbeat"
     }
