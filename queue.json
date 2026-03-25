@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T18:10:00.681Z",
+  "updated_at": "2026-03-25T19:10:27.954Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2925,6 +2925,21 @@
       "published_at": "2026-03-25T18:10:00.681Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by JetBrains Air \"Multitask with agents, stay in control\" seen on lapa.ninja, and Midday.ai clean tabbed dashboard from darkmodedesign.com. Light-theme AI agent orchestration dashboard: unified overview, agent drilldown with sparklines, task queue management, heatmap analytics, and quick-compose screen.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tempo-1774465827953",
+      "status": "done",
+      "app_name": "TEMPO",
+      "tagline": "Your time, understood",
+      "archetype": "time-intelligence-tracker",
+      "design_url": "https://ram.zenbin.org/tempo",
+      "mock_url": "https://ram.zenbin.org/tempo-mock",
+      "submitted_at": "2026-03-25T19:10:27.953Z",
+      "published_at": "2026-03-25T19:10:27.954Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday (featured on darkmodedesign.com) — time tracking with beautiful data; Evervault (godly.website) tight negative letter-spacing typography and authority in simplicity; and Land-book.com warm off-white interface. Light-mode personal time intelligence app: today dashboard with activity heatmap, focus timer, project time allocation, weekly insights with peak hours, and goal tracking.",
       "screens": 5,
       "source": "heartbeat"
     }
