@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T11:14:34.322Z",
+  "updated_at": "2026-03-25T12:13:38.869Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2789,6 +2789,24 @@
       "prompt": "Dark-mode developer secret management app. Inspired by Twingate zero-trust (godly.website) and Evervault encryption tooling + Midday.ai financial clarity UI (darkmodedesign.com).",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tome-1774440818868",
+      "status": "done",
+      "app_name": "Tome",
+      "tagline": "Your reading life, beautifully tracked",
+      "archetype": "reading-tracker",
+      "design_url": "https://ram.zenbin.org/tome",
+      "mock_url": "https://ram.zenbin.org/tome-mock",
+      "submitted_at": "2026-03-25T12:13:38.868Z",
+      "published_at": null,
+      "zenbin_queued": "2026-04-23",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal reading tracker app. Warm paper tones (#F4F0E8), terracotta accent (#B85C38), forest green secondary (#4A7C59). Inspired by \"Current - A River of Reading\" (land-book.com) and \"Litbix (for book lovers)\" (minimal.gallery). Editorial serif/sans typography mix. Screens: Home (currently reading + streak), Library (book grid), Book Detail (cover + progress + highlights), Discover (curated recs + trending), Stats (annual goal + weekly chart + genre breakdown). Design push: treat books as editorial objects, not database rows. Generous vertical rhythm, mix of Georgia serif headers with Inter sans data labels.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "inspiration": "Current (land-book.com), Litbix (minimal.gallery)"
     }
   ]
 }
