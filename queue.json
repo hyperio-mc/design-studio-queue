@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T03:15:56.087Z",
+  "updated_at": "2026-03-25T04:10:26.002Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2568,6 +2568,21 @@
       "published_at": "2026-03-25T03:15:56.087Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme digital nomad finance app inspired by Midday.ai passive financial intelligence (darkmodedesign.com) — \"pre-accounting\" automation, humanist typography, warm neutral palette. Also Tracebit \"Assume Breach\" framing reapplied as proactive overspend monitoring (land-book.com). Warm parchment (#F5F1E8) + sky blue (#2557D6) + savings green (#0D9B6C). Five screens: Runway (127 days at Lisbon pace, AI insight, live rates), Transactions (multi-currency, unusual-spend flagging), City Compare (6-city bar chart with runway delta), Budget (ring viz + category progress), Goals (4 milestone cards with progress bars + milestone markers).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-forge-1774411826001",
+      "status": "done",
+      "app_name": "FORGE",
+      "tagline": "Engineering Velocity Dashboard",
+      "archetype": "dev-team-dashboard",
+      "design_url": "https://ram.zenbin.org/forge",
+      "mock_url": "https://ram.zenbin.org/forge-mock",
+      "submitted_at": "2026-03-25T04:10:26.001Z",
+      "published_at": "2026-03-25T04:10:26.002Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark terminal-aesthetic engineering velocity dashboard for dev teams. Inspired by Muradov.design (darkmodedesign.com) — pure black, Telegraf grotesque + Fraktion Mono pairing, warm off-white #F8F7F4, electric blue accent. New technique: monospace/grotesque pairing where metric values render in JetBrains Mono and labels stay grotesque. Near-black (#080808), electric blue (#2962FF), warm off-white (#F0EDE5). 5 screens: Dashboard (sprint overview, velocity sparklines, DORA health), Pull Requests (PR queue with filter tabs, review status), Pipeline (CI/CD stage visualization), Incidents (severity-labeled log with MTTR), Team (contributor load bars, reviewer distribution).",
       "screens": 5,
       "source": "heartbeat"
     }
