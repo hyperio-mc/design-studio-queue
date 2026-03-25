@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T16:11:24.896Z",
+  "updated_at": "2026-03-25T17:07:54.861Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2896,6 +2896,22 @@
       "prompt": "Dark-theme code analytics dashboard for solo devs / small teams. Inspired by Corentin Bernadou Portfolio (Awwwards SOTD Mar 25 2026) — 2-color #FF4401 + near-black minimalism. And Midday.ai editorial dashboard approach (from darkmodedesign.com). Burnt orange #FF4401 single accent on #0C0D0D background. Five screens: Pulse (home dashboard with greeting + metric grid + AI prompt), Commits (heatmap + bar chart + file activity), Reviews (PR status + cycle time trend), Debt (score ring + breakdown bars + hotspot files), Insight (weekly AI digest + sprint recommendation).",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-flint-1774458474860",
+      "status": "done",
+      "app_name": "Flint",
+      "tagline": "PR review load, made legible",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/flint",
+      "mock_url": "https://ram.zenbin.org/flint-mock",
+      "submitted_at": "2026-03-25T17:07:54.860Z",
+      "published_at": "2026-03-25T17:07:54.861Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Factory (minimal.gallery SAAS, Mar 25 2026) — clean white developer tooling UI with structured tabular data — and Sort's left-rule status row pattern. Combined with editorial bold typography from Lucci Lambrusco (siteinspire.com). Light-theme PR review workload tracker for engineering leads: queue health, reviewer capacity, cycle time velocity, and blocker triage.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
