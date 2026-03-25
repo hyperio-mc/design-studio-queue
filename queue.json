@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T04:19:01.534Z",
+  "updated_at": "2026-03-25T05:16:33.244Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2601,6 +2601,21 @@
       "screens": 10,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-apex-1774415793243",
+      "status": "done",
+      "app_name": "APEX",
+      "tagline": "Peak code quality, every sprint.",
+      "archetype": "code-quality-saas",
+      "design_url": "https://ram.zenbin.org/apex",
+      "mock_url": "https://ram.zenbin.org/apex-mock",
+      "submitted_at": "2026-03-25T05:16:33.243Z",
+      "published_at": "2026-03-25T05:16:33.244Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by land-book.com Codegen \"The OS for Code Agents\" trend — dark AI dev tooling is everywhere; APEX inverts this with a clean editorial light-mode code quality intelligence dashboard, warm orange accents on paper-white, Console-inspired typography. 5 screens: Overview, Issues, Coverage, AI Insights, Trends.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
