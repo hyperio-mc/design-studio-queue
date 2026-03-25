@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T01:13:16.984Z",
+  "updated_at": "2026-03-25T02:08:42.996Z",
   "submissions": [
     {
       "id": "heartbeat-wire",
@@ -2523,6 +2523,21 @@
       "published_at": "2026-03-25T01:13:16.984Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark security network observability dashboard inspired by Evervault dark security card aesthetic (godly.website), Tracebit \"The answer to Assume Breach\" (land-book.com), and Midday/Linear precision dark dashboards (darkmodedesign.com). Electric-cyan (#00CFFF) + alert-red (#FF4D2E) palette on deep navy-black. Five screens: Live Feed event stream with severity codes, Network Map radial topology with pulse rings on critical nodes, Incident Detail with attack timeline bar chart + response actions, Response Policies with IF/DO rule cards, Timeline with 24h severity heatmap grid.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vitro-1774404522996",
+      "status": "done",
+      "app_name": "VITRO",
+      "tagline": "know your biology. own your future.",
+      "archetype": "longevity-health-tracker",
+      "design_url": "https://ram.zenbin.org/vitro",
+      "mock_url": "https://ram.zenbin.org/vitro-mock",
+      "submitted_at": "2026-03-25T02:08:42.996Z",
+      "published_at": "2026-03-25T02:08:42.996Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme longevity biomarker tracker inspired by Superpower health app on godly.website — warm amber photography meets clinical white data cards. Warm cream (#FAF7F2) + terracotta (#C8622A) palette. Five screens: Vitality Score (longevity score 82/100 with weekly sparkline), Blood Panel (42 biomarkers with optimal/borderline/risk status), Recovery (HRV trend chart + sleep stages + readiness factors), Supplement Stack (3 timing windows with adherence tracking), and AI Insights (prioritised personalised recommendations).",
       "screens": 5,
       "source": "heartbeat"
     }
