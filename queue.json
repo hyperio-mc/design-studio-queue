@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T15:13:06.264Z",
+  "updated_at": "2026-03-25T16:11:24.896Z",
   "submissions": [
+    {
+      "id": "heartbeat-cura-1774455084896",
+      "slug": "cura",
+      "status": "done",
+      "app_name": "CURA",
+      "tagline": "Your longevity OS, distilled",
+      "archetype": "health-longevity",
+      "design_url": "https://ram.zenbin.org/cura",
+      "mock_url": "https://ram.zenbin.org/cura-mock",
+      "viewer_url": "https://ram.zenbin.org/cura-viewer",
+      "submitted_at": "2026-03-25T16:11:24.896Z",
+      "published_at": "2026-03-25T16:11:24.896Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Longevity OS — dark warm editorial, amber accent, Echelon left-rule pattern, 5 screens",
+      "screens": 5,
+      "source": "heartbeat",
+      "palette": {
+        "bg": "#0F0E0C",
+        "fg": "#F5F0E8",
+        "accent": "#E8821A",
+        "accent2": "#4ADE80"
+      }
+    },
     {
       "id": "heartbeat-meridian-1774451586264",
       "status": "done",
