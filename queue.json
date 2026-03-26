@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T10:10:31.385Z",
+  "updated_at": "2026-03-26T11:07:23.943Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3273,6 +3273,22 @@
       "prompt": "AI workflow router mobile app — dark. Inspired by Codegen.com (OS for Code Agents) on darkmodedesign.com: deep near-black #13 13 15 bg, integration badge UX, neon teal accent, developer pipeline node layout.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mira-1774523243943",
+      "status": "done",
+      "app_name": "Mira",
+      "tagline": "Think clearly, feel grounded",
+      "archetype": "wellness-productivity",
+      "design_url": "https://ram.zenbin.org/mira",
+      "mock_url": "https://ram.zenbin.org/mira-mock",
+      "submitted_at": "2026-03-26T11:07:23.943Z",
+      "published_at": "2026-03-26T11:07:23.943Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Cognitive wellness tracker mobile app — light theme. Inspired by Dawn (evidence-based AI for mental health, Lapa Ninja) + Amie calendar app (Godly.website). Computational warmth: clinical data precision meets human softness. Warm cream palette, sage green accent, terracotta highlights.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
