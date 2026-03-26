@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T20:18:39.755Z",
+  "updated_at": "2026-03-26T20:35:18.563Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3500,6 +3500,22 @@
       "prompt": "Light editorial wine discovery + cellar management app — inspired by Lucci Lambrusco (Alright Studio) and Maben (Base Design, \"Big Type + Minimal\") featured on siteinspire Mar 26 2026. Parchment white, deep ink, wine burgundy accents. Oversized serif vintage years as hero typography.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tend-1774557318563",
+      "status": "done",
+      "app_name": "TEND",
+      "tagline": "presence without performance",
+      "archetype": "slow-social",
+      "design_url": "https://ram.zenbin.org/tend",
+      "mock_url": "https://ram.zenbin.org/tend-mock",
+      "submitted_at": "2026-03-26T20:35:18.563Z",
+      "published_at": "2026-03-26T20:35:18.563Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Interlude (lapa.ninja: \"presence without performance, connection without capture\" — slow social app concept) + Lucci Lambrusco (siteinspire, Ashley Graham / Alright Studio: condensed serif editorial, cream bg #EFECCE, red #B83529, ABC Ginto Nord Condensed) + godly.website trending ambient app design. Dark organic forest palette (#0B0C09 bg, sage #6B9A72, amber #C49040). Playfair Display serif for editorial presence. Anti-anxiety design: no likes, no counts, no push notifications. 5 screens: Present (ambient presence, who is here now), Tend (relationship health garden view, connection scores), Moment (share without metrics), Thread (slow unhurried exchange), Ground (shared memory archive, manifesto).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
