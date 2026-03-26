@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T13:08:04.411Z",
+  "updated_at": "2026-03-26T14:12:50.754Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3366,6 +3366,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI-first cash flow dashboard for solopreneurs inspired by Midday.ai (godly.website) and Linear agent-tasks UX paradigm",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-folio-1774534370754",
+      "status": "done",
+      "app_name": "Folio",
+      "tagline": "Time tracked. Money made.",
+      "archetype": "freelance-finance",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-03-26T14:12:50.754Z",
+      "published_at": "2026-03-26T14:12:50.754Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Freelance time & billing app inspired by Midday.ai unified transaction dashboard. Light warm parchment theme, terracotta+green accents.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
