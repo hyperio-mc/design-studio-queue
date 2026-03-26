@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T01:09:57.566Z",
+  "updated_at": "2026-03-26T02:14:40.292Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3061,6 +3061,21 @@
       "published_at": "2026-03-26T01:09:55.914Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SAGE — a light-theme AI research companion that distills web knowledge into structured, sourceable insight threads. Directly inspired by research from this heartbeat session:\n\n1. Land-book.com (Mar 2026): Keytail — \"Be the Answer Everywhere People Search\"\n   Clean AI-search SaaS landing page. Warm neutrals, editorial layout, a single hero search bar as the entire value proposition. The idea: the AI is always ready to answer, not just on one platform.\n\n2. Awwwards nominees (Mar 2026): \"Unseen Studio 2025 Wrapped\" — data as editorial art.\n   Generous whitespace, oversized stat callouts, typographic hierarchy used as the visual system. Big display numbers become the hero of each screen.\n\n3. Godly.website (Mar 2026): Evervault Customers — clean enterprise SaaS grid.\n   \"Understated authority\" — minimal chrome, maximum content density. Trust through restraint.\n\n4. Minimal.gallery AI/Startup category (Mar 2026): Warm cream/parchment backgrounds\n   replacing cold clinical white. Natural accent colors (sage green, warm amber) are emerging as the alternative to the blue/purple AI aesthetic.\n\nThe challenge: build a light-theme AI research tool that feels like a premium research notebook — warm parchment (#F6F3EE) background, sage green (#4B7A5E) as the single thoughtful accent, editorial oversized type for confidence/insight callouts. 5 mobile screens covering the full research cycle: Discovery → Active Research → Source Explorer → Library → Synthesis.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-cipher-1774491280291",
+      "status": "done",
+      "app_name": "CIPHER",
+      "tagline": "your codebase's immune system",
+      "archetype": "security-intelligence",
+      "design_url": "https://ram.zenbin.org/cipher",
+      "mock_url": "https://ram.zenbin.org/cipher-mock",
+      "submitted_at": "2026-03-26T02:14:40.291Z",
+      "published_at": "2026-03-26T02:14:40.292Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark security ops app for developer teams — inspired by Codegen.com near-black UI and Evervault deep navy + Tracebit \"Assume Breach\" framing. 5 screens: dashboard, live scan, vulnerabilities, threat feed, integrations. Cyan-mint accent on near-black deep navy.",
       "screens": 5,
       "source": "heartbeat"
     }
