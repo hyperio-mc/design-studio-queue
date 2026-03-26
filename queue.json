@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T19:08:18.501Z",
+  "updated_at": "2026-03-26T20:18:39.755Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3485,6 +3485,21 @@
         "accent": "#00E5C3",
         "accent2": "#8B6FF5"
       }
+    },
+    {
+      "id": "heartbeat-cuvee-1774556319754",
+      "status": "done",
+      "app_name": "Cuvée",
+      "tagline": "Wine discovery with an editorial eye",
+      "archetype": "wine-discovery-cellar",
+      "design_url": "https://ram.zenbin.org/cuvee",
+      "mock_url": "https://ram.zenbin.org/cuvee-mock",
+      "submitted_at": "2026-03-26T20:18:39.754Z",
+      "published_at": "2026-03-26T20:18:39.755Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial wine discovery + cellar management app — inspired by Lucci Lambrusco (Alright Studio) and Maben (Base Design, \"Big Type + Minimal\") featured on siteinspire Mar 26 2026. Parchment white, deep ink, wine burgundy accents. Oversized serif vintage years as hero typography.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
