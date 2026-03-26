@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T07:16:25.779Z",
+  "updated_at": "2026-03-26T08:07:14.213Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3224,6 +3224,23 @@
       "prompt": "Light-theme personal growth & habit intelligence app inspired by Shapify (lapa.ninja) lavender gradient beauty-tech aesthetic, Console (land-book.com) soft area-chart analytics on warm white cards, and Ysabella Nicole Alvarez (minimal.gallery) whimsy sticker/pill UI on clean white. Warm parchment (#F5F3EF) + soft lavender (#7C6EAD) + sage green (#5A9E78) + terracotta (#C97B52). Five screens: Today morning check-in with daily intention quote card + habit rows, Garden habit area charts per habit, Reflect mood check-in + journal entry, Insights weekly analytics with area charts and metric cards, Circles community accountability streaks.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-alloy-1774512434213",
+      "status": "done",
+      "app_name": "ALLOY",
+      "tagline": "Wealth composition, forged with precision",
+      "archetype": "fintech-dark",
+      "design_url": "https://ram.zenbin.org/alloy",
+      "mock_url": "https://ram.zenbin.org/alloy-mock",
+      "submitted_at": "2026-03-26T08:07:14.213Z",
+      "published_at": "2026-03-26T08:07:14.213Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode personal wealth OS inspired by godly.website void-palette and darkmodedesign.com chromatic accent aesthetics. Metallurgy as finance metaphor — 5 screens.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": "#0B0C10,#7C5CFC,#FF6B6B,#48C778,#FFB340"
     }
   ]
 }
