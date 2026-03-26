@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T14:12:50.754Z",
+  "updated_at": "2026-03-26T15:17:21.474Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3382,6 +3382,22 @@
       "prompt": "Freelance time & billing app inspired by Midday.ai unified transaction dashboard. Light warm parchment theme, terracotta+green accents.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-delta-1774538241475",
+      "status": "done",
+      "app_name": "DELTA",
+      "tagline": "Ship winning experiments, not hunches.",
+      "archetype": "growth-experimentation",
+      "design_url": "https://ram.zenbin.org/delta",
+      "mock_url": "https://ram.zenbin.org/delta-mock",
+      "submitted_at": "2026-03-26T15:17:21.474Z",
+      "published_at": "2026-03-26T15:17:21.474Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Land-book \"Codegen | The OS for Code Agents\" (treats workflows as intelligent systems) + Linear (darkmodedesign.com) dark minimal SaaS aesthetic + Awwwards bento-grid layouts seen in SaaS nominees Mar 2026. New pattern: bento grid dashboard with asymmetric 2-col varied-height cards. Dark theme: near-black #08090F + electric violet #7C5CF4 + cyan win-state #22D3EE. 5 screens: bento dashboard, experiments list, experiment detail, create form, insights.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
