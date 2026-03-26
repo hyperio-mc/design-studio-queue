@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T15:17:21.474Z",
+  "updated_at": "2026-03-26T16:17:50.613Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3398,6 +3398,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-axon-1774541870613",
+      "status": "done",
+      "app_name": "LARDER",
+      "tagline": "Know every ingredient, from soil to plate.",
+      "archetype": "food-provenance-intelligence",
+      "design_url": "https://ram.zenbin.org/axon",
+      "mock_url": "https://ram.zenbin.org/axon-mock",
+      "submitted_at": "2026-03-26T16:17:50.613Z",
+      "published_at": "2026-03-26T16:17:50.613Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Lucci Lambrusco (siteinspire.com) warm cream + terracotta editorial style with marquee ticker strip; KOMETA Typefaces (minimal.gallery) clean white + bold accent block; Isa de Burgh (lapa.ninja) editorial whitespace and minimal label system. LIGHT theme. Farm-to-table provenance platform for premium kitchens. 5 screens: dashboard+ticker, supplier directory, ingredient detail+provenance chain, seasonal calendar with bar chart, orders & procurement. New pattern: time-column layout on list items, editorial color-block hero cards.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
