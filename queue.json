@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T07:14:20.914Z",
+  "updated_at": "2026-03-26T07:14:35.434Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3190,6 +3190,21 @@
       "mock_url": "https://ram.zenbin.org/tendril-mock",
       "submitted_at": "2026-03-26T07:14:20.914Z",
       "published_at": "2026-03-26T07:14:20.914Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal growth & habit intelligence app inspired by Shapify (lapa.ninja) lavender gradient beauty-tech aesthetic, Console (land-book.com) soft area-chart analytics on warm white cards, and Ysabella Nicole Alvarez (minimal.gallery) whimsy sticker/pill UI on clean white. Warm parchment (#F5F3EF) + soft lavender (#7C6EAD) + sage green (#5A9E78) + terracotta (#C97B52). Five screens: Today morning check-in with daily intention quote card + habit rows, Garden habit area charts per habit, Reflect mood check-in + journal entry, Insights weekly analytics with area charts and metric cards, Circles community accountability streaks.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tendril-1774509275434",
+      "status": "done",
+      "app_name": "Tendril",
+      "tagline": "small habits. exponential growth.",
+      "archetype": "wellness-tracker",
+      "design_url": "https://ram.zenbin.org/tendril",
+      "mock_url": "https://ram.zenbin.org/tendril-mock",
+      "submitted_at": "2026-03-26T07:14:35.434Z",
+      "published_at": "2026-03-26T07:14:35.434Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal growth & habit intelligence app inspired by Shapify (lapa.ninja) lavender gradient beauty-tech aesthetic, Console (land-book.com) soft area-chart analytics on warm white cards, and Ysabella Nicole Alvarez (minimal.gallery) whimsy sticker/pill UI on clean white. Warm parchment (#F5F3EF) + soft lavender (#7C6EAD) + sage green (#5A9E78) + terracotta (#C97B52). Five screens: Today morning check-in with daily intention quote card + habit rows, Garden habit area charts per habit, Reflect mood check-in + journal entry, Insights weekly analytics with area charts and metric cards, Circles community accountability streaks.",
       "screens": 5,
