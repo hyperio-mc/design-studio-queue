@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T21:11:57.305Z",
+  "updated_at": "2026-03-26T22:09:38.415Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3515,6 +3515,22 @@
       "published_at": "2026-03-26T21:11:57.305Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Midday.ai (darkmodedesign.com) — clean SaaS financial tool with large typographic hero numbers and feature sections; Equals/GTM Analytics (land-book.com) — data-forward analytics landing page; Minimal Gallery Litbix & Truecolor — editorial warmth, purposeful whitespace. LIGHT theme. Warm parchment bg (#F7F4EF), forest teal accent (#2B5C47), coral overdue (#D14B38), amber pending (#B8882A). Editorial large mono numbers as primary UI signature. 5 screens: Dashboard (hero income card + recent transactions), Invoices (colour-coded status chips, traffic-light system), Cash Flow (6-month income vs expenses bar chart), Expenses (horizontal category progress bars), Goals (financial targets with progress).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nerve-1774562978416",
+      "status": "done",
+      "app_name": "NERVE",
+      "tagline": "mission control for your autonomous AI fleet",
+      "archetype": "autonomous-ai-ops-dashboard",
+      "theme": "dark",
+      "design_url": "https://ram.zenbin.org/nerve",
+      "mock_url": "https://ram.zenbin.org/nerve-mock",
+      "submitted_at": "2026-03-26T22:09:38.415Z",
+      "published_at": "2026-03-26T22:09:38.415Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Paperclip \"open-source orchestration for zero-human companies\" (lapa.ninja), Linear/Tracebit dark cinematic dashboards (darkmodedesign.com + land-book.com), Codegen \"The OS for Code Agents\" (land-book.com). DARK theme. Deep navy-black bg (#070B10), electric teal accent (#00E8C6), amber alerts (#F5A623), violet orchestration (#7B5CF0). 5 screens: Fleet overview with live agent grid + health summary + sparkline, Agent detail with CPU/token sparklines + task queue, Mission feed with real-time event log + timeline connector, Alert centre with severity triage, Orchestration pipeline visual graph.",
       "screens": 5,
       "source": "heartbeat"
     }
