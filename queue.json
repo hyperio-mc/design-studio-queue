@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T12:07:02.734Z",
+  "updated_at": "2026-03-26T12:15:14.566Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3336,6 +3336,22 @@
       "prompt": "Revenue intelligence dashboard for indie makers — dark theme. Inspired by Midday.ai (darkmodedesign.com) + Equals GTM analytics (land-book.com) + Mixpanel (godly.website). \"Quiet Clarity\": monospace number typography, electric violet/mint accent system, floating cards on near-black deep space background.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-keel-1774527314566",
+      "status": "done",
+      "app_name": "KEEL",
+      "tagline": "outcome-first portfolio intelligence",
+      "archetype": "fintech-investing",
+      "design_url": "https://ram.zenbin.org/keel",
+      "mock_url": "https://ram.zenbin.org/keel-mock",
+      "submitted_at": "2026-03-26T12:15:14.566Z",
+      "published_at": "2026-03-26T12:15:14.566Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Equals GTM analytics (land-book.com — #1 today, warm off-white #F9F7F3, Serrif Condensed serif, trust-first data) + Dribbble top performer Personal Finance Investment App (144 likes, 8.8k views) + NN/g \"Outcome-Oriented Design: The Era of AI Design\" article (March 2026). Light warm editorial, DM Serif Display for big outcomes, DM Mono for financial data, indigo trust palette. 5 screens: Overview with retirement outcome header + allocation bars, Goals with progress arcs and debt alert, Holdings list with sector data, Insights with portfolio health score + actionable suggestions, Activity transaction log.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
