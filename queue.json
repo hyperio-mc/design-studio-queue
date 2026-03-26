@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T04:19:59.666Z",
+  "updated_at": "2026-03-26T05:11:58.447Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3131,6 +3131,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-kern-crm-1774501918447",
+      "status": "done",
+      "app_name": "Kern CRM",
+      "tagline": "Your work, in focus",
+      "archetype": "ai-native-crm",
+      "design_url": "https://ram.zenbin.org/kern-crm",
+      "mock_url": "https://ram.zenbin.org/kern-crm-mock",
+      "submitted_at": "2026-03-26T05:11:58.447Z",
+      "published_at": "2026-03-26T05:11:58.447Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Folk CRM (minimal.gallery/saas) warm AI-first CRM approach + PostHog warm off-white palette. Light-theme AI-native CRM for indie founders: dashboard with AI brief, visual pipeline, client detail with AI intel, invoice tracker, and AI insights screen.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
