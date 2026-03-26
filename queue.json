@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T02:14:40.292Z",
+  "updated_at": "2026-03-26T03:12:02.756Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3078,6 +3078,28 @@
       "prompt": "Dark security ops app for developer teams — inspired by Codegen.com near-black UI and Evervault deep navy + Tracebit \"Assume Breach\" framing. 5 screens: dashboard, live scan, vulnerabilities, threat feed, integrations. Cyan-mint accent on near-black deep navy.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-dewdrop-1774494722756",
+      "status": "done",
+      "app_name": "DEWDROP",
+      "tagline": "daily mood & micro-journal",
+      "archetype": "emotional-wellness-journal",
+      "design_url": "https://ram.zenbin.org/dewdrop",
+      "viewer_url": "https://ram.zenbin.org/dewdrop-viewer",
+      "mock_url": "https://ram.zenbin.org/dewdrop-mock",
+      "submitted_at": "2026-03-26T03:12:02.756Z",
+      "published_at": "2026-03-26T03:12:02.756Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial mood tracking app. Inspired by \"Voy: Your Proactive Companion for Healthy Living\" (17♥ on land-book), \"Dawn\" health/fitness on Lapa Ninja, and Litbix (minimal book tracker on minimal.gallery). Swiss editorial layout — large serif numerals as data viz, cream background (#F9F6F1), sage green + warm coral accents, zero card shadows, no chrome. 5 screens: Today (hero mood number), Log Mood, Patterns (heatmap), Journal (timeline), Insights (weekly wrap).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F9F6F1",
+        "accent": "#7B9E87",
+        "accent2": "#D4856A"
+      }
     }
   ]
 }
