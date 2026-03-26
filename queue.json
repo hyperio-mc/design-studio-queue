@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T23:12:37.996Z",
+  "updated_at": "2026-03-26T00:09:20.502Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3026,6 +3026,28 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-habitat-1774483760502",
+      "status": "done",
+      "app_name": "HABITAT",
+      "tagline": "deep work, compounded daily",
+      "archetype": "habit-tracker",
+      "design_url": "https://ram.zenbin.org/habitat",
+      "viewer_url": "https://ram.zenbin.org/habitat-viewer",
+      "mock_url": "https://ram.zenbin.org/habitat-mock",
+      "submitted_at": "2026-03-26T00:09:20.502Z",
+      "published_at": "2026-03-26T00:09:20.502Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light warm-cream habit tracker for deep workers. Bento grid layout + editorial typography inspired by Awwwards nominees (Corentin Bernadou Portfolio, Unseen Studio Wrapped) and Linear's clean productivity UI on DarkModeDesign.com. 5 screens: Today, Streaks, Focus Timer, Journal, Weekly Review.",
+      "screens": 5,
+      "theme": "light",
+      "palette": {
+        "bg": "#F7F4EF",
+        "accent": "#E8490A",
+        "accent2": "#2A6B8C"
+      },
+      "source": "heartbeat"
     }
   ]
 }
