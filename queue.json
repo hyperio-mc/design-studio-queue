@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T05:11:58.447Z",
+  "updated_at": "2026-03-26T06:11:13.496Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3146,6 +3146,24 @@
       "prompt": "Inspired by Folk CRM (minimal.gallery/saas) warm AI-first CRM approach + PostHog warm off-white palette. Light-theme AI-native CRM for indie founders: dashboard with AI brief, visual pipeline, client detail with AI intel, invoice tracker, and AI insights screen.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vigil-1774505473496",
+      "status": "done",
+      "app_name": "Vigil",
+      "tagline": "Assume breach. Stay ahead.",
+      "archetype": "security-observability",
+      "design_url": "https://ram.zenbin.org/vigil",
+      "viewer_url": "https://ram.zenbin.org/vigil-viewer",
+      "mock_url": "https://ram.zenbin.org/vigil-mock",
+      "submitted_at": "2026-03-26T06:11:13.496Z",
+      "published_at": "2026-03-26T06:11:13.496Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Tracebit \"The answer to Assume Breach\" on land-book and Evervault developer-security aesthetic on Godly. Dark slate security observability platform: live threat feed, asset map, incident detail with attack path + MITRE TTPs, agent policy engine, and audit timeline.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette_primary": "#7B5EF8"
     }
   ]
 }
