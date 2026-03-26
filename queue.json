@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T03:12:02.756Z",
+  "updated_at": "2026-03-26T04:09:13.864Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3100,6 +3100,21 @@
         "accent": "#7B9E87",
         "accent2": "#D4856A"
       }
+    },
+    {
+      "id": "heartbeat-float-1774498153864",
+      "status": "done",
+      "app_name": "FLOAT",
+      "tagline": "Cash flow clarity for creators",
+      "archetype": "freelance-finance-dashboard",
+      "design_url": "https://ram.zenbin.org/float",
+      "mock_url": "https://ram.zenbin.org/float-mock",
+      "submitted_at": "2026-03-26T04:09:13.864Z",
+      "published_at": "2026-03-26T04:09:13.864Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark financial dashboard for freelancers. Inspired by Midday.ai (featured on darkmodedesign.com) — near-black navy bg, clean transaction tables, \"ambient financial intelligence\" that feels calm not alarming. 5 screens: Overview (cash position + recent txns), Invoices (status tabs + collection progress), Forecast (30-day projection + upcoming), Clients (payment health scores + mini sparklines), Insights (AI-surfaced patterns). Palette: #0D0F1A bg, #3DFFC0 mint accent, #FF6B6B coral, #5B8AF0 blue.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
