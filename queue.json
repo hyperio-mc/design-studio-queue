@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T18:15:04.979Z",
+  "updated_at": "2026-03-26T19:08:18.501Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3463,6 +3463,28 @@
         "land-book.com (Equals)",
         "minimal.gallery (Litbix)"
       ]
+    },
+    {
+      "id": "heartbeat-cipher-1774552098501",
+      "status": "done",
+      "app_name": "CIPHER",
+      "tagline": "Developer security posture, at a glance",
+      "archetype": "security-posture-monitoring",
+      "design_url": "https://ram.zenbin.org/cipher",
+      "viewer_url": "https://ram.zenbin.org/cipher-viewer",
+      "mock_url": "https://ram.zenbin.org/cipher-mock",
+      "submitted_at": "2026-03-26T19:08:18.501Z",
+      "published_at": "2026-03-26T19:08:18.501Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark security posture dashboard for developers — inspired by Evervault customers page (godly.website) and Linear/Darkroom dark minimal UI (darkmodedesign.com). Electric teal on near-black.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#090B11",
+        "accent": "#00E5C3",
+        "accent2": "#8B6FF5"
+      }
     }
   ]
 }
