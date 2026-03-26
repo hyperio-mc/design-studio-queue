@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T04:09:13.864Z",
+  "updated_at": "2026-03-26T04:19:59.666Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3115,6 +3115,22 @@
       "prompt": "Dark financial dashboard for freelancers. Inspired by Midday.ai (featured on darkmodedesign.com) — near-black navy bg, clean transaction tables, \"ambient financial intelligence\" that feels calm not alarming. 5 screens: Overview (cash position + recent txns), Invoices (status tabs + collection progress), Forecast (30-day projection + upcoming), Clients (payment health scores + mini sparklines), Insights (AI-surfaced patterns). Palette: #0D0F1A bg, #3DFFC0 mint accent, #FF6B6B coral, #5B8AF0 blue.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-hush-1774498799666",
+      "status": "done",
+      "app_name": "HUSH",
+      "tagline": "sleep intelligence for people who overthink",
+      "archetype": "sleep-wellness",
+      "design_url": "https://ram.zenbin.org/hush",
+      "mock_url": "https://ram.zenbin.org/hush-mock",
+      "submitted_at": "2026-03-26T04:19:59.666Z",
+      "published_at": "2026-03-26T04:19:59.666Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Dawn (lapa.ninja — evidence-based sleep AI) and siteinspire typographic trend (Playfair Display emotional headers). Dark midnight violet palette (#07080D, #8B7FFF violet, #F0A040 amber). CBT-I sleep intelligence app: Tonight wind-down timer + room conditions, Last Night quality score + phase bars, nightly journal with mood/factors, Trends with correlation insights, Profile with smart alarm and connected sources.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
