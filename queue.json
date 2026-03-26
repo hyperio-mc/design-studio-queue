@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T22:09:38.415Z",
+  "updated_at": "2026-03-26T23:12:38.326Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3532,6 +3532,23 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Paperclip \"open-source orchestration for zero-human companies\" (lapa.ninja), Linear/Tracebit dark cinematic dashboards (darkmodedesign.com + land-book.com), Codegen \"The OS for Code Agents\" (land-book.com). DARK theme. Deep navy-black bg (#070B10), electric teal accent (#00E8C6), amber alerts (#F5A623), violet orchestration (#7B5CF0). 5 screens: Fleet overview with live agent grid + health summary + sparkline, Agent detail with CPU/token sparklines + task queue, Mission feed with real-time event log + timeline connector, Alert centre with severity triage, Orchestration pipeline visual graph.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-fold-1774566758327",
+      "status": "done",
+      "app_name": "FOLD",
+      "tagline": "Financial clarity for freelancers",
+      "archetype": "freelance-finance-tracker",
+      "theme": "light",
+      "design_url": "https://ram.zenbin.org/fold",
+      "viewer_url": "https://ram.zenbin.org/fold-viewer",
+      "mock_url": "https://ram.zenbin.org/fold-mock",
+      "submitted_at": "2026-03-26T23:12:38.326Z",
+      "published_at": "2026-03-26T23:12:38.326Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Equals.com (land-book.com) — editorial warm off-white (#FAF9F5), condensed serif display type, yellow+purple accents. Light theme: freelance finance tool with mono numerics, oversized Georgia headlines, and warm editorial neutrals.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
