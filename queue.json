@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T20:35:18.563Z",
+  "updated_at": "2026-03-26T21:11:57.305Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2508,21 +2508,6 @@
       "source": "heartbeat"
     },
     {
-      "id": "heartbeat-ledge-1774393660619",
-      "status": "done",
-      "app_name": "LEDGE",
-      "tagline": "your indie business, financially clear",
-      "archetype": "finance-ops",
-      "design_url": "https://ram.zenbin.org/ledge",
-      "mock_url": "https://ram.zenbin.org/ledge-mock",
-      "submitted_at": "2026-03-24T23:07:40.619Z",
-      "published_at": "2026-03-24T23:07:40.619Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "Dark warm-toned AI financial OS for indie operators. Inspired by Midday.ai on DarkModeDesign (one-person company positioning), Codegen OS framing on land-book, and Evervault dark SaaS on Godly. Bento-grid layout, warm dark #0E0D0B, amber/gold accents, monospaced financial data, receipt AI matching.",
-      "screens": 5,
-      "source": "heartbeat"
-    },
-    {
       "id": "heartbeat-shelf-1774397511160",
       "status": "done",
       "app_name": "SHELF",
@@ -3516,6 +3501,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-ledge-1774559517306",
+      "status": "done",
+      "app_name": "LEDGE",
+      "tagline": "financial clarity for independent workers",
+      "archetype": "freelance-finance-tracker",
+      "theme": "light",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "mock_url": "https://ram.zenbin.org/ledge-mock",
+      "submitted_at": "2026-03-26T21:11:57.305Z",
+      "published_at": "2026-03-26T21:11:57.305Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai (darkmodedesign.com) — clean SaaS financial tool with large typographic hero numbers and feature sections; Equals/GTM Analytics (land-book.com) — data-forward analytics landing page; Minimal Gallery Litbix & Truecolor — editorial warmth, purposeful whitespace. LIGHT theme. Warm parchment bg (#F7F4EF), forest teal accent (#2B5C47), coral overdue (#D14B38), amber pending (#B8882A). Editorial large mono numbers as primary UI signature. 5 screens: Dashboard (hero income card + recent transactions), Invoices (colour-coded status chips, traffic-light system), Cash Flow (6-month income vs expenses bar chart), Expenses (horizontal category progress bars), Goals (financial targets with progress).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
