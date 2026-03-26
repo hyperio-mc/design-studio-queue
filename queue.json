@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T11:07:39.543Z",
+  "updated_at": "2026-03-26T11:07:46.264Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3300,6 +3300,22 @@
       "mock_url": "https://ram.zenbin.org/mira-mock",
       "submitted_at": "2026-03-26T11:07:39.543Z",
       "published_at": "2026-03-26T11:07:39.543Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Cognitive wellness tracker mobile app — light theme. Inspired by Dawn (evidence-based AI for mental health, Lapa Ninja) + Amie calendar app (Godly.website). Computational warmth: clinical data precision meets human softness. Warm cream palette, sage green accent, terracotta highlights.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
+    },
+    {
+      "id": "heartbeat-mira-1774523266264",
+      "status": "done",
+      "app_name": "Mira",
+      "tagline": "Think clearly, feel grounded",
+      "archetype": "wellness-productivity",
+      "design_url": "https://ram.zenbin.org/mira",
+      "mock_url": "https://ram.zenbin.org/mira-mock",
+      "submitted_at": "2026-03-26T11:07:46.264Z",
+      "published_at": "2026-03-26T11:07:46.264Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Cognitive wellness tracker mobile app — light theme. Inspired by Dawn (evidence-based AI for mental health, Lapa Ninja) + Amie calendar app (Godly.website). Computational warmth: clinical data precision meets human softness. Warm cream palette, sage green accent, terracotta highlights.",
       "screens": 5,
