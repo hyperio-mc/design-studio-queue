@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T17:11:24.199Z",
+  "updated_at": "2026-03-26T18:15:04.979Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3436,6 +3436,33 @@
         "accent": "#4F6EF7",
         "accent2": "#10B981"
       }
+    },
+    {
+      "id": "heartbeat-glow-1774548904979",
+      "status": "done",
+      "app_name": "Glow",
+      "tagline": "Your morning energy operating system",
+      "archetype": "wellness-productivity",
+      "design_url": "https://ram.zenbin.org/glow",
+      "viewer_url": "https://ram.zenbin.org/glow-viewer",
+      "mock_url": "https://ram.zenbin.org/glow-mock",
+      "submitted_at": "2026-03-26T18:15:04.979Z",
+      "published_at": "2026-03-26T18:15:04.979Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-mode morning energy OS for founders — inspired by Dawn mental health app (lapa.ninja) warm amber palette, Equals editorial SaaS dashboard (land-book.com), and Litbix warm cream minimalism (minimal.gallery)",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#FBF7F3",
+        "accent": "#E8713C",
+        "accent2": "#7AAD83"
+      },
+      "inspiration": [
+        "lapa.ninja (Dawn app)",
+        "land-book.com (Equals)",
+        "minimal.gallery (Litbix)"
+      ]
     }
   ]
 }
