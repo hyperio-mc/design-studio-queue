@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T11:07:46.264Z",
+  "updated_at": "2026-03-26T12:07:02.734Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3321,6 +3321,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-yield-1774526822733",
+      "status": "done",
+      "app_name": "Yield",
+      "tagline": "Know exactly where your money comes from",
+      "archetype": "finance-analytics-dashboard",
+      "design_url": "https://ram.zenbin.org/yield",
+      "mock_url": "https://ram.zenbin.org/yield-mock",
+      "submitted_at": "2026-03-26T12:07:02.733Z",
+      "published_at": "2026-03-26T12:07:02.734Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Revenue intelligence dashboard for indie makers — dark theme. Inspired by Midday.ai (darkmodedesign.com) + Equals GTM analytics (land-book.com) + Mixpanel (godly.website). \"Quiet Clarity\": monospace number typography, electric violet/mint accent system, floating cards on near-black deep space background.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
