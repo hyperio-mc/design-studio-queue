@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T00:07:31.378Z",
+  "updated_at": "2026-03-27T00:08:33.635Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3593,6 +3593,22 @@
       "mock_url": "https://ram.zenbin.org/cove-mock",
       "submitted_at": "2026-03-27T00:07:31.378Z",
       "published_at": "2026-03-27T00:07:31.378Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by \"Chus Retro OS Portfolio\" (minimal.gallery) — retro OS windowed panels trending as an aesthetic for dev/design tools — combined with Evervault dark tech UI (Godly). Dark theme: deep navy #040810, cyan #00D4FF, violet #9B59FF, monospace typography, OS-style window chrome with traffic lights.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
+    },
+    {
+      "id": "heartbeat-cove-1774570113635",
+      "status": "done",
+      "app_name": "COVE",
+      "tagline": "Private team documentation hub",
+      "archetype": "productivity-tools",
+      "design_url": "https://ram.zenbin.org/cove",
+      "mock_url": "https://ram.zenbin.org/cove-mock",
+      "submitted_at": "2026-03-27T00:08:33.635Z",
+      "published_at": "2026-03-27T00:08:33.635Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by \"Chus Retro OS Portfolio\" (minimal.gallery) — retro OS windowed panels trending as an aesthetic for dev/design tools — combined with Evervault dark tech UI (Godly). Dark theme: deep navy #040810, cyan #00D4FF, violet #9B59FF, monospace typography, OS-style window chrome with traffic lights.",
       "screens": 5,
