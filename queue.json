@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T08:10:51.009Z",
+  "updated_at": "2026-03-27T09:14:32.095Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3870,6 +3870,21 @@
       "published_at": "2026-03-27T08:10:51.009Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design TALLY — a financial operating system for indie founders.\nInspired by:\n1. land-book.com \"Equals GTM Analytics\" — editorial data density, clean table/grid UI, monospaced numbers\n2. darkmodedesign.com \"Midday\" — business stack for founders, bento feature grid, dashboard OS\n3. awwwards.com \"Artefakt\" (Honorable Mention Mar 2026) — ASCII-influenced typographic elements, monospaced aesthetics\n\nTheme: LIGHT — warm parchment background (#F4F0E6), forest green accent (#1A6B4A), tabular monospace numbers,\nbento metric grid, horizontal stacked revenue bars, editorial column layout.\n5 screens: Overview · Transaction Ledger · Runway Planner · P&L Report · AI Insights",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ember-1774602872095",
+      "status": "done",
+      "app_name": "Ember",
+      "tagline": "Private intelligence network for world-shaping operators",
+      "archetype": "community-network-founders-dark",
+      "design_url": "https://ram.zenbin.org/ember",
+      "mock_url": "https://ram.zenbin.org/ember-mock",
+      "submitted_at": "2026-03-27T09:14:32.095Z",
+      "published_at": "2026-03-27T09:14:32.095Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design EMBER — a private intelligence network for world-shaping founders and operators.\nInspired by:\n1. darkmodedesign.com \"Maker\" — deep void black, cosmic/planetary imagery, all-caps bold type, \"WE CONNECT PEOPLE SHAPING THE WORLD\", private founder community backed by Founders Fund/Sequoia/Combinator/Thiel\n2. godly.website \"Atlas Card\" — cinematic luxury, exclusive access, cool steel blue, floating phone UI, premium concierge membership\n3. minimal.gallery \"UNLEARNED\" — ultra-high-contrast bold display typography as visual anchor\n\nTheme: DARK — near-void black (#080807), hammered copper/amber accent (#C8783A), deep violet secondary (#7B5EA7)\n5 screens: Network (orbital pulse ring) · Intelligence Feed (signal cards with left-stripe) · Rooms · Compose Signal · Operator Profile (trust score arc)",
       "screens": 5,
       "source": "heartbeat"
     }
