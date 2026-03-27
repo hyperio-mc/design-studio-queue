@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T12:11:59.546Z",
+  "updated_at": "2026-03-27T12:12:39.591Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3943,6 +3943,23 @@
       "mock_url": "https://ram.zenbin.org/fuse-mock",
       "submitted_at": "2026-03-27T12:11:59.545Z",
       "published_at": "2026-03-27T12:11:59.546Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial motion template marketplace. Masonry browse grid inspired by DarkModeDesign.com \"108 Supply\". ALL-CAPS trending screen from \"Muradov\". Near-black + chartreuse palette. 5 screens.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": "#090909,#CDFF47,#8B6EFF,#FF6B5B,#47FFCC"
+    },
+    {
+      "id": "heartbeat-fuse-1774613559590",
+      "status": "done",
+      "app_name": "FUSE",
+      "tagline": "Motion templates for obsessive creators",
+      "archetype": "creative-marketplace-dark",
+      "design_url": "https://ram.zenbin.org/fuse",
+      "mock_url": "https://ram.zenbin.org/fuse-mock",
+      "submitted_at": "2026-03-27T12:12:39.590Z",
+      "published_at": "2026-03-27T12:12:39.591Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark editorial motion template marketplace. Masonry browse grid inspired by DarkModeDesign.com \"108 Supply\". ALL-CAPS trending screen from \"Muradov\". Near-black + chartreuse palette. 5 screens.",
       "screens": 5,
