@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T13:17:51.085Z",
+  "updated_at": "2026-03-27T14:10:13.257Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3998,6 +3998,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-nexus-1774620613257",
+      "status": "done",
+      "app_name": "NEXUS",
+      "tagline": "Real-time AI agent operations",
+      "archetype": "ops-dashboard",
+      "design_url": "https://ram.zenbin.org/nexus",
+      "viewer_url": "https://ram.zenbin.org/nexus-viewer",
+      "mock_url": "https://ram.zenbin.org/nexus-mock",
+      "submitted_at": "2026-03-27T14:10:13.257Z",
+      "published_at": "2026-03-27T14:10:13.257Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI agent orchestration dashboard — dark theme, electric teal, real-time status indicators, tool call inspector",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
