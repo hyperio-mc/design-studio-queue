@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T04:09:22.893Z",
+  "updated_at": "2026-03-27T04:12:24.496Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3746,6 +3746,21 @@
       "mock_url": "https://ram.zenbin.org/reed-mock",
       "submitted_at": "2026-03-27T04:09:22.893Z",
       "published_at": "2026-03-27T04:09:22.893Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Deep reading & annotation mobile app — dark theme. Inspired by \"Current — A River of Reading\" (Land-book, 10 saves, Mar 2026) and Obsidian on DarkModeDesign: near-black warm canvas #0D0F0C, sage green accent, amber highlights, editorial Lora serif typography, river/flow reading queue metaphor, immersive reading mode with inline annotation.",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-reed-1774584744496",
+      "status": "done",
+      "app_name": "REED",
+      "tagline": "Your river of long reads",
+      "archetype": "reading-intelligence",
+      "design_url": "https://ram.zenbin.org/reed",
+      "mock_url": "https://ram.zenbin.org/reed-mock",
+      "submitted_at": "2026-03-27T04:12:24.496Z",
+      "published_at": "2026-03-27T04:12:24.496Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Deep reading & annotation mobile app — dark theme. Inspired by \"Current — A River of Reading\" (Land-book, 10 saves, Mar 2026) and Obsidian on DarkModeDesign: near-black warm canvas #0D0F0C, sage green accent, amber highlights, editorial Lora serif typography, river/flow reading queue metaphor, immersive reading mode with inline annotation.",
       "screens": 6,
