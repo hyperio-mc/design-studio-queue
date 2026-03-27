@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T15:09:22.021Z",
+  "updated_at": "2026-03-27T16:15:24.314Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4027,6 +4027,21 @@
       "published_at": "2026-03-27T15:09:22.021Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Mindfulness & daily ritual tracker — light parchment theme, editorial serif type, organic arc progress, morning intentions",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ghost-1774628124312",
+      "status": "done",
+      "app_name": "Ghost",
+      "tagline": "Intelligence briefing for builders",
+      "archetype": "intelligence-feed",
+      "design_url": "https://ram.zenbin.org/ghost",
+      "mock_url": "https://ram.zenbin.org/ghost-mock",
+      "submitted_at": "2026-03-27T16:15:24.312Z",
+      "published_at": "2026-03-27T16:15:24.314Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark typographic-maximalist signal briefing app — pure black void, 88px display headlines, single teal accent per screen, 4-tier white opacity system",
       "screens": 5,
       "source": "heartbeat"
     }
