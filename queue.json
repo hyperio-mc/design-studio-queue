@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T04:12:24.496Z",
+  "updated_at": "2026-03-27T04:22:52.669Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3765,6 +3765,22 @@
       "prompt": "Deep reading & annotation mobile app — dark theme. Inspired by \"Current — A River of Reading\" (Land-book, 10 saves, Mar 2026) and Obsidian on DarkModeDesign: near-black warm canvas #0D0F0C, sage green accent, amber highlights, editorial Lora serif typography, river/flow reading queue metaphor, immersive reading mode with inline annotation.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-rite-1774585372670",
+      "status": "done",
+      "app_name": "RITE",
+      "tagline": "skin intelligence built on ritual",
+      "archetype": "skincare-wellness",
+      "design_url": "https://ram.zenbin.org/rite",
+      "mock_url": "https://ram.zenbin.org/rite-mock",
+      "submitted_at": "2026-03-27T04:22:52.669Z",
+      "published_at": "2026-03-27T04:22:52.669Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Overlay.com (lapa.ninja — \"The Future of Beauty is Automated\") — PP Editorial Old serif mixed-weight typography (thin italic + bold contrast), iridescent gradient palette (cream #FAF8F5 + soft violet #8B7FD4 + warm blush #D4847A), very minimal white space design language. Also informed by: Persephone Biosciences (Landbook — ecommerce health product design), GQ x AP Extraordinary Lab (Awwwards SOTD Mar 26 — Immersive Garden, editorial dark). Light theme with editorial serif numbers as key motif. 5 screens: Ritual (morning step sequence + streak), Track (skin photo log + bar chart + observations), Shelf (product inventory with replenishment tracking), Insight (AI-pattern recommendations with editorial intro text), Profile (circular avatar + consistency stats + milestones).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
