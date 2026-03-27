@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T01:15:30.314Z",
+  "updated_at": "2026-03-27T02:11:35.036Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3688,6 +3688,21 @@
       "published_at": "2026-03-27T01:15:30.314Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-themed AI-native design specification tool. Inspired by Equals.so \"What's after Excel?\" (land-book.com) — AI-first workflow replacement, warm parchment palette. Plus 108 Supply editorial typography (darkmodedesign.com) — condensed serif + monospace for numbered spec IDs. Arcteryx x Re grid-paper technical precision (land-book.com). Terracotta accent, cobalt blue for AI/data, warm near-black type.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-halo-1774577495036",
+      "status": "done",
+      "app_name": "Halo",
+      "tagline": "Your body's natural rhythm, made visible",
+      "archetype": "health-wellness-companion",
+      "design_url": "https://ram.zenbin.org/halo",
+      "mock_url": "https://ram.zenbin.org/halo-mock",
+      "submitted_at": "2026-03-27T02:11:35.036Z",
+      "published_at": "2026-03-27T02:11:35.036Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-themed circadian health companion app. Inspired by Voy \"Your Proactive Companion for Healthy Living\" (most-saved on land-book.com, 17 saves) combined with Overlay's 2026 trend of editorial serif (PP Editorial Old style) on warm cream/white with gradient accents (tagged White, Serif Fonts, Gradient on lapa.ninja). Warm cream palette #FAF7F2, terra cotta #C8714A accent, sage green #4E7C51, bento-grid card layouts, circadian energy forecast bar chart, sleep stages visualization.",
       "screens": 5,
       "source": "heartbeat"
     }
