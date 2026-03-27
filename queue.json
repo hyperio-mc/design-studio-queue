@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T12:23:08.921Z",
+  "updated_at": "2026-03-27T13:17:51.085Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3982,6 +3982,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-tenor-1774617471086",
+      "status": "done",
+      "app_name": "TENOR",
+      "tagline": "Deal intelligence for independent consultants",
+      "archetype": "deal-management",
+      "design_url": "https://ram.zenbin.org/tenor",
+      "mock_url": "https://ram.zenbin.org/tenor-mock",
+      "submitted_at": "2026-03-27T13:17:51.085Z",
+      "published_at": "2026-03-27T13:17:51.085Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by: Interfere.ai (Lapa Ninja) — numbered steps 01/02/03 woven into hero prose; The Footprint Firm (Siteinspire) — ADVISORY/INVESTMENT clean professional structure; Cardless.com (Land-Book) — warm cream white fintech palette. Light theme: #F4F1ED bg, #1E3A5F navy, #C96B2A amber copper. 5 screens: Dashboard (deal cards with numbered stage bar indicators + 3 metric tiles), Pipeline (stage-grouped deal list with filtered view), Deal Detail (numbered milestone timeline 01-05), Clients (roster with stage badges and lifetime value), Revenue (bar chart + invoice queue). Core innovation: numbered stage badges (01-05) as primary navigation metaphor throughout the app.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
