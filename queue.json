@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T18:10:19.454Z",
+  "updated_at": "2026-03-27T19:09:32.904Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4073,6 +4073,21 @@
       "published_at": "2026-03-27T18:10:19.454Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode AI agent orchestration mobile app — near-black palette, electric teal accent, violet for AI-type labelling. Inspired by JetBrains Air \"agents in control\" paradigm and Obsidian.os command centre pattern.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ledge-1774638572904",
+      "status": "done",
+      "app_name": "Ledge",
+      "tagline": "Your wealth, in focus",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "mock_url": "https://ram.zenbin.org/ledge-mock",
+      "submitted_at": "2026-03-27T19:09:32.904Z",
+      "published_at": "2026-03-27T19:09:32.904Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal investment portfolio tracker — warm parchment palette, emerald accent for gains, bento-grid layout. Inspired by Equals GTM analytics (landbook.com) editorial number hero and Midday.ai bento grid inverted to light mode.",
       "screens": 5,
       "source": "heartbeat"
     }
