@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T07:14:00.275Z",
+  "updated_at": "2026-03-27T08:10:51.009Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3855,6 +3855,21 @@
       "published_at": "2026-03-27T07:14:00.275Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design Conclave — a dark luxury travel concierge app for private members. Inspired by:\n\n1. Atlas Card (godly.website) — luxury concierge card app with near-black backgrounds, editorial section-per-feature layout, warm ivory type, full-bleed imagery panels. Exclusive membership vibes with \"Dining\", \"Hotels\", \"Experiences\", \"Benefits\" sections.\n2. Maker (darkmodedesign.com) — exclusive founders community, editorial dark, invitation-only feel, bold sans headings.\n\nTrend: \"Luxury Editorial Dark\" — obsidian near-black (#0D0D0F), warm gold accent (#C8A96E), warm ivory text (#F0EDE6), full-bleed moody imagery panels, bold display numerics, section-per-feature reveal. 5 screens: Home · Discover · Trip Planner · Concierge Chat · Member Profile.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tally-1774599051009",
+      "status": "done",
+      "app_name": "Tally",
+      "tagline": "Financial clarity for indie founders",
+      "archetype": "fintech-dashboard-founders",
+      "design_url": "https://ram.zenbin.org/tally",
+      "mock_url": "https://ram.zenbin.org/tally-mock",
+      "submitted_at": "2026-03-27T08:10:51.009Z",
+      "published_at": "2026-03-27T08:10:51.009Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design TALLY — a financial operating system for indie founders.\nInspired by:\n1. land-book.com \"Equals GTM Analytics\" — editorial data density, clean table/grid UI, monospaced numbers\n2. darkmodedesign.com \"Midday\" — business stack for founders, bento feature grid, dashboard OS\n3. awwwards.com \"Artefakt\" (Honorable Mention Mar 2026) — ASCII-influenced typographic elements, monospaced aesthetics\n\nTheme: LIGHT — warm parchment background (#F4F0E6), forest green accent (#1A6B4A), tabular monospace numbers,\nbento metric grid, horizontal stacked revenue bars, editorial column layout.\n5 screens: Overview · Transaction Ledger · Runway Planner · P&L Report · AI Insights",
       "screens": 5,
       "source": "heartbeat"
     }
