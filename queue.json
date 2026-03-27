@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T21:13:30.522Z",
+  "updated_at": "2026-03-27T22:09:46.507Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4153,6 +4153,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-meridian-1774649386507",
+      "status": "done",
+      "app_name": "MERIDIAN",
+      "tagline": "Your daily ritual, elevated.",
+      "archetype": "luxury-wellness-concierge",
+      "design_url": "https://ram.zenbin.org/meridian",
+      "mock_url": "https://ram.zenbin.org/meridian-mock",
+      "submitted_at": "2026-03-27T22:09:46.507Z",
+      "published_at": "2026-03-27T22:09:46.507Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Luxury wellness & lifestyle concierge app. Light theme. Warm ivory + terracotta + sage green. Inspired by atlascard.com editorial scroll and Cardless membership card UI.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
