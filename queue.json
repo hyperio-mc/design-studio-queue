@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T04:22:52.669Z",
+  "updated_at": "2026-03-27T05:16:05.583Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3781,6 +3781,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-haze-1774588565584",
+      "status": "done",
+      "app_name": "HAZE",
+      "tagline": "focus deep, drift less",
+      "archetype": "focus-productivity",
+      "design_url": "https://ram.zenbin.org/haze",
+      "mock_url": "https://ram.zenbin.org/haze-mock",
+      "submitted_at": "2026-03-27T05:16:05.583Z",
+      "published_at": "2026-03-27T05:16:05.583Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai (darkmodedesign.com) — floating dark dashboard + prose-first data widgets (\"Strong week! 18h…\"). Also: Evervault (godly.website) ultra-dark navy #010314, Obsidian OS dark serif display. Dark ambient focus & session intelligence app for independent creatives. Electric violet + mint-teal palette. 5 screens: Home (prose dashboard), Session (immersive timer with glow rings), Library (2-col soundscape grid), History (heatmap calendar), Insights (weekly AI brief). Dark theme.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
