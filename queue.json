@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T19:09:32.904Z",
+  "updated_at": "2026-03-27T20:08:24.115Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4088,6 +4088,21 @@
       "published_at": "2026-03-27T19:09:32.904Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal investment portfolio tracker — warm parchment palette, emerald accent for gains, bento-grid layout. Inspired by Equals GTM analytics (landbook.com) editorial number hero and Midday.ai bento grid inverted to light mode.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-slate-1774642104115",
+      "status": "done",
+      "app_name": "Slate",
+      "tagline": "Every surface, perfectly specified.",
+      "archetype": "material-design-tool",
+      "design_url": "https://ram.zenbin.org/slate",
+      "mock_url": "https://ram.zenbin.org/slate-mock",
+      "submitted_at": "2026-03-27T20:08:24.115Z",
+      "published_at": "2026-03-27T20:08:24.115Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme material intelligence platform for product designers — inspired by Darkroom's monochromatic finish-selector UI (darkmodedesign.com), viewport-spanning bold display typography from GQ & AP Extraordinary Lab (awwwards SOTD Mar 26), and numbered feature sections from Veo Sports Cameras (land-book.com). Near-black palette with warm brass accents.",
       "screens": 5,
       "source": "heartbeat"
     }
