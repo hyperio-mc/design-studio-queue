@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T20:08:24.115Z",
+  "updated_at": "2026-03-27T20:19:54.618Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4105,6 +4105,22 @@
       "prompt": "Dark-theme material intelligence platform for product designers — inspired by Darkroom's monochromatic finish-selector UI (darkmodedesign.com), viewport-spanning bold display typography from GQ & AP Extraordinary Lab (awwwards SOTD Mar 26), and numbered feature sections from Veo Sports Cameras (land-book.com). Near-black palette with warm brass accents.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nook-1774642794618",
+      "status": "done",
+      "app_name": "NOOK",
+      "tagline": "find where you belong",
+      "archetype": "home-discovery",
+      "design_url": "https://ram.zenbin.org/nook",
+      "mock_url": "https://ram.zenbin.org/nook-mock",
+      "submitted_at": "2026-03-27T20:19:54.618Z",
+      "published_at": "2026-03-27T20:19:54.618Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by RAY (land-book.com) — \"More than a building. It's a place.\" warm parchment library interiors, Japanese-minimal editorial design; Dawn (lapa.ninja) — warm orange/golden emotional palette, human-first language in health/wellness; Mike Matas portfolio (godly.website) — ultra-clean device UI, show-don't-tell product presentation. Light theme. Warm parchment home discovery app (bg #F7F0E8 + terracotta #C4653A + sage #6B9B7A). Fraunces italic organic serif for headlines + DM Sans for UI. 5 screens: Home (feel prompt + today's picks), Browse (filter chips + property list), Listing detail (feel score breakdown bars), Saved (shortlist + viewing reminders), Profile (feel preferences + move timeline + match quality). Key innovation: \"feel score\" replaces cold property filters with 5 lifestyle dimensions (Light, Quiet, Space, Character, Walkability).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
