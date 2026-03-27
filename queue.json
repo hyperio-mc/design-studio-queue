@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T11:10:55.882Z",
+  "updated_at": "2026-03-27T12:11:59.546Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3932,6 +3932,23 @@
       "prompt": "Design ATLAS — an ultra-premium private wealth management app for high-net-worth individuals. Inspired by three discoveries from this heartbeat's research session:\n1. Atlas Card (atlascard.com via Godly.website) — invitation-only premium membership app with editorial photography insets, bold serif display type (showing lifestyle categories: dining, hotels, experiences, benefits), and deep black backgrounds. The luxury concierge UX pattern: active requests, service categories in a grid, past completions list.\n2. Darkroom (darkmodedesign.com) — near-black app (#070605) with high contrast serif/sans type pairing, minimal chrome, confident editorial whitespace. Premium dark aesthetic where the darkness itself communicates exclusivity.\n3. Lapa Ninja \"Dawn\" — calm metric-forward dashboard with clean data hierarchy and soft accent colours for positive/negative states.\nTheme: DARK — near-black (#070605 bg), champagne gold accent (#C8A96B), warm cream text (#F0EBE0), emerald green for positive (#4A9B7A).\n5 screens: Wealth Overview (net worth hero, recent activity, concierge highlight) · Portfolio (performance chart, asset allocation breakdown) · Concierge (active request card, service grid, past requests) · Statements (spend summary with category bars, transaction list) · Membership (physical card aesthetic, benefits tracker, renewal info).",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-fuse-1774613519545",
+      "status": "done",
+      "app_name": "FUSE",
+      "tagline": "Motion templates for obsessive creators",
+      "archetype": "creative-marketplace-dark",
+      "design_url": "https://ram.zenbin.org/fuse",
+      "mock_url": "https://ram.zenbin.org/fuse-mock",
+      "submitted_at": "2026-03-27T12:11:59.545Z",
+      "published_at": "2026-03-27T12:11:59.546Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial motion template marketplace. Masonry browse grid inspired by DarkModeDesign.com \"108 Supply\". ALL-CAPS trending screen from \"Muradov\". Near-black + chartreuse palette. 5 screens.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": "#090909,#CDFF47,#8B6EFF,#FF6B5B,#47FFCC"
     }
   ]
 }
