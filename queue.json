@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T01:13:18.856Z",
+  "updated_at": "2026-03-27T01:14:00.421Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3641,6 +3641,21 @@
       "mock_url": "https://ram.zenbin.org/brief-specs-mock",
       "submitted_at": "2026-03-27T01:13:18.856Z",
       "published_at": "2026-03-27T01:13:18.856Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-themed AI-native design specification tool. Inspired by Equals.so \"What's after Excel?\" (land-book.com) — AI-first workflow replacement, warm parchment palette. Plus 108 Supply editorial typography (darkmodedesign.com) — condensed serif + monospace for numbered spec IDs. Arcteryx x Re grid-paper technical precision (land-book.com). Terracotta accent, cobalt blue for AI/data, warm near-black type.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-brief-specs-1774574040421",
+      "status": "done",
+      "app_name": "Brief",
+      "tagline": "Design specs that write themselves",
+      "archetype": "productivity-design-tools-ai",
+      "design_url": "https://ram.zenbin.org/brief-specs",
+      "mock_url": "https://ram.zenbin.org/brief-specs-mock",
+      "submitted_at": "2026-03-27T01:14:00.421Z",
+      "published_at": "2026-03-27T01:14:00.421Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-themed AI-native design specification tool. Inspired by Equals.so \"What's after Excel?\" (land-book.com) — AI-first workflow replacement, warm parchment palette. Plus 108 Supply editorial typography (darkmodedesign.com) — condensed serif + monospace for numbered spec IDs. Arcteryx x Re grid-paper technical precision (land-book.com). Terracotta accent, cobalt blue for AI/data, warm near-black type.",
       "screens": 5,
