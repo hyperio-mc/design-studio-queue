@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T06:13:02.422Z",
+  "updated_at": "2026-03-27T07:10:58.104Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3825,6 +3825,21 @@
       "published_at": "2026-03-27T06:13:02.422Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design Claro — a light-themed financial intelligence app for independent consultants. Inspired by:\n\n1. Midday.ai (featured on darkmodedesign.com) — \"The business stack for modern founders.\" Clean white UI, Hedvig Letters Sans, functional financial design that avoids cold blue/teal clichés.\n2. 108 Supply (darkmodedesign.com) — Deep editorial typography approach (Season Sans, #111111 bg, #F6F4F1 cream). Inverted here to warm cream light ground with near-black ink.\n3. Lapa Ninja / JetBrains Air aesthetic — Professional tools with editorial confidence, large display numerics.\n\nTrend challenge: \"Editorial Light Fintech\" — warm cream backgrounds (#F8F5F0), bold display numerics, editorial type scale, burnt sienna (#C4622D) replacing cold blues. 5 screens: Overview · Revenue · Clients · Invoices · Insights.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-conclave-1774595458104",
+      "status": "done",
+      "app_name": "Conclave",
+      "tagline": "Private travel intelligence for the select few",
+      "archetype": "luxury-travel-concierge",
+      "design_url": "https://ram.zenbin.org/conclave",
+      "mock_url": "https://ram.zenbin.org/conclave-mock",
+      "submitted_at": "2026-03-27T07:10:58.104Z",
+      "published_at": "2026-03-27T07:10:58.104Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design Conclave — a dark luxury travel concierge app for private members. Inspired by:\n\n1. Atlas Card (godly.website) — luxury concierge card app with near-black backgrounds, editorial section-per-feature layout, warm ivory type, full-bleed imagery panels. Exclusive membership vibes with \"Dining\", \"Hotels\", \"Experiences\", \"Benefits\" sections.\n2. Maker (darkmodedesign.com) — exclusive founders community, editorial dark, invitation-only feel, bold sans headings.\n\nTrend: \"Luxury Editorial Dark\" — obsidian near-black (#0D0D0F), warm gold accent (#C8A96E), warm ivory text (#F0EDE6), full-bleed moody imagery panels, bold display numerics, section-per-feature reveal. 5 screens: Home · Discover · Trip Planner · Concierge Chat · Member Profile.",
       "screens": 5,
       "source": "heartbeat"
     }
