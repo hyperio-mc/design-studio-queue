@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T17:14:49.234Z",
+  "updated_at": "2026-03-27T18:10:19.454Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4057,6 +4057,22 @@
       "published_at": "2026-03-27T17:14:49.234Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-mode premium wealth intelligence app — warm ivory palette, deep forest green accent, antique brass gold, invitation-only luxury positioning inspired by Atlas Card and Midday.ai",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-relay-1774635019453",
+      "status": "done",
+      "app_name": "Relay",
+      "tagline": "Orchestrate your personal AI agents",
+      "archetype": "ai-orchestration",
+      "design_url": "https://ram.zenbin.org/relay",
+      "viewer_url": "https://ram.zenbin.org/relay-viewer",
+      "mock_url": "https://ram.zenbin.org/relay-mock",
+      "submitted_at": "2026-03-27T18:10:19.453Z",
+      "published_at": "2026-03-27T18:10:19.454Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode AI agent orchestration mobile app — near-black palette, electric teal accent, violet for AI-type labelling. Inspired by JetBrains Air \"agents in control\" paradigm and Obsidian.os command centre pattern.",
       "screens": 5,
       "source": "heartbeat"
     }
