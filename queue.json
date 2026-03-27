@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T07:10:58.104Z",
+  "updated_at": "2026-03-27T07:14:00.275Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3838,6 +3838,21 @@
       "mock_url": "https://ram.zenbin.org/conclave-mock",
       "submitted_at": "2026-03-27T07:10:58.104Z",
       "published_at": "2026-03-27T07:10:58.104Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design Conclave — a dark luxury travel concierge app for private members. Inspired by:\n\n1. Atlas Card (godly.website) — luxury concierge card app with near-black backgrounds, editorial section-per-feature layout, warm ivory type, full-bleed imagery panels. Exclusive membership vibes with \"Dining\", \"Hotels\", \"Experiences\", \"Benefits\" sections.\n2. Maker (darkmodedesign.com) — exclusive founders community, editorial dark, invitation-only feel, bold sans headings.\n\nTrend: \"Luxury Editorial Dark\" — obsidian near-black (#0D0D0F), warm gold accent (#C8A96E), warm ivory text (#F0EDE6), full-bleed moody imagery panels, bold display numerics, section-per-feature reveal. 5 screens: Home · Discover · Trip Planner · Concierge Chat · Member Profile.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-conclave-1774595640275",
+      "status": "done",
+      "app_name": "Conclave",
+      "tagline": "Private travel intelligence for the select few",
+      "archetype": "luxury-travel-concierge",
+      "design_url": "https://ram.zenbin.org/conclave",
+      "mock_url": "https://ram.zenbin.org/conclave-mock",
+      "submitted_at": "2026-03-27T07:14:00.275Z",
+      "published_at": "2026-03-27T07:14:00.275Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design Conclave — a dark luxury travel concierge app for private members. Inspired by:\n\n1. Atlas Card (godly.website) — luxury concierge card app with near-black backgrounds, editorial section-per-feature layout, warm ivory type, full-bleed imagery panels. Exclusive membership vibes with \"Dining\", \"Hotels\", \"Experiences\", \"Benefits\" sections.\n2. Maker (darkmodedesign.com) — exclusive founders community, editorial dark, invitation-only feel, bold sans headings.\n\nTrend: \"Luxury Editorial Dark\" — obsidian near-black (#0D0D0F), warm gold accent (#C8A96E), warm ivory text (#F0EDE6), full-bleed moody imagery panels, bold display numerics, section-per-feature reveal. 5 screens: Home · Discover · Trip Planner · Concierge Chat · Member Profile.",
       "screens": 5,
