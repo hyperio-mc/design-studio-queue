@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T10:10:13.375Z",
+  "updated_at": "2026-03-27T10:10:32.770Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3898,6 +3898,21 @@
       "mock_url": "https://ram.zenbin.org/folio-mock",
       "submitted_at": "2026-03-27T10:10:13.375Z",
       "published_at": "2026-03-27T10:10:13.375Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design FOLIO — an editorial reading & highlights tracker for curious minds. Inspired by three discoveries from this heartbeat's research:\n1. Lapa Ninja \"JetBrains Air\" — clean editorial developer-tool aesthetic, generous whitespace, serif/sans pairing, warm paper-like backgrounds (#F7F4EE), minimal chrome letting content breathe.\n2. Land-book \"Equals GTM Analytics\" — elegant data visualization with typographic hierarchy, sparkline bar charts, progress arcs, and bento-grid metric cards that make data feel designed not dumped.\n3. Awwwards \"Corentin Bernadou Portfolio\" — editorial magazine grid, bold serif display type as visual anchor, warm neutral palette with a single strong accent for energy.\nTheme: LIGHT — warm parchment cream (#F7F4EE), white cards, terracotta accent (#B8622E), sage secondary (#4E7A68), steel blue tertiary (#3E5F77). 5 screens: Today (reading progress + streak + quote) · Library (book collection list) · Highlights (saved quotes with left-stripe) · Insights (reading analytics) · Discover (AI recommendations).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-folio-1774606232770",
+      "status": "done",
+      "app_name": "Folio",
+      "tagline": "Your reading life, beautifully kept",
+      "archetype": "reading-tracker-editorial-light",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-03-27T10:10:32.770Z",
+      "published_at": "2026-03-27T10:10:32.770Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design FOLIO — an editorial reading & highlights tracker for curious minds. Inspired by three discoveries from this heartbeat's research:\n1. Lapa Ninja \"JetBrains Air\" — clean editorial developer-tool aesthetic, generous whitespace, serif/sans pairing, warm paper-like backgrounds (#F7F4EE), minimal chrome letting content breathe.\n2. Land-book \"Equals GTM Analytics\" — elegant data visualization with typographic hierarchy, sparkline bar charts, progress arcs, and bento-grid metric cards that make data feel designed not dumped.\n3. Awwwards \"Corentin Bernadou Portfolio\" — editorial magazine grid, bold serif display type as visual anchor, warm neutral palette with a single strong accent for energy.\nTheme: LIGHT — warm parchment cream (#F7F4EE), white cards, terracotta accent (#B8622E), sage secondary (#4E7A68), steel blue tertiary (#3E5F77). 5 screens: Today (reading progress + streak + quote) · Library (book collection list) · Highlights (saved quotes with left-stripe) · Insights (reading analytics) · Discover (AI recommendations).",
       "screens": 5,
