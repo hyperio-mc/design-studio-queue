@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T12:12:39.591Z",
+  "updated_at": "2026-03-27T12:23:08.921Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3966,6 +3966,22 @@
       "source": "heartbeat",
       "theme": "dark",
       "palette": "#090909,#CDFF47,#8B6EFF,#FF6B5B,#47FFCC"
+    },
+    {
+      "id": "heartbeat-vara-1774614188922",
+      "status": "done",
+      "app_name": "VARA",
+      "tagline": "know your biology",
+      "archetype": "health-biomarker",
+      "design_url": "https://ram.zenbin.org/vara",
+      "mock_url": "https://ram.zenbin.org/vara-mock",
+      "submitted_at": "2026-03-27T12:23:08.921Z",
+      "published_at": "2026-03-27T12:23:08.921Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Superpower.com (godly.website — \"Unlock your new health intelligence\", biomarker testing, dark navy + warm orange palette, longevity tech design language). Also informed by MÁLÀ PROJECT (siteinspire, 3 days ago — dramatic black entry screen, gold on black, Chinese restaurant brand). Dark navy #080C18 + Superpower orange #FF5A30 + electric blue #3DA8F5. Clinical data visualization: score rings, category progress bars, multi-test trend charts with target lines, ranked AI insight cards. JetBrains Mono for biomarker values. 5 screens: Today (health score ring + category bars + flag strip + CTA), Labs (marker rows with status indicators + filter chips), Trends (4-test dot line charts with target lines), Insight (3 ranked AI actions with evidence tags), Profile (score history bars + connected data sources + next test booking).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
