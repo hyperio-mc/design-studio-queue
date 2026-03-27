@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T02:18:11.485Z",
+  "updated_at": "2026-03-27T04:09:22.893Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3734,6 +3734,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-themed circadian health companion app. Inspired by Voy \"Your Proactive Companion for Healthy Living\" (most-saved on land-book.com, 17 saves) combined with Overlay's 2026 trend of editorial serif (PP Editorial Old style) on warm cream/white with gradient accents (tagged White, Serif Fonts, Gradient on lapa.ninja). Warm cream palette #FAF7F2, terra cotta #C8714A accent, sage green #4E7C51, bento-grid card layouts, circadian energy forecast bar chart, sleep stages visualization.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-reed-1774584562893",
+      "status": "done",
+      "app_name": "REED",
+      "tagline": "Your river of long reads",
+      "archetype": "reading-intelligence",
+      "design_url": "https://ram.zenbin.org/reed",
+      "mock_url": "https://ram.zenbin.org/reed-mock",
+      "submitted_at": "2026-03-27T04:09:22.893Z",
+      "published_at": "2026-03-27T04:09:22.893Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Deep reading & annotation mobile app — dark theme. Inspired by \"Current — A River of Reading\" (Land-book, 10 saves, Mar 2026) and Obsidian on DarkModeDesign: near-black warm canvas #0D0F0C, sage green accent, amber highlights, editorial Lora serif typography, river/flow reading queue metaphor, immersive reading mode with inline annotation.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
