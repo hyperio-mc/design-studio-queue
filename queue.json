@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T06:12:46.099Z",
+  "updated_at": "2026-03-27T06:13:02.422Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3808,6 +3808,21 @@
       "mock_url": "https://ram.zenbin.org/claro-mock",
       "submitted_at": "2026-03-27T06:12:46.099Z",
       "published_at": "2026-03-27T06:12:46.099Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design Claro — a light-themed financial intelligence app for independent consultants. Inspired by:\n\n1. Midday.ai (featured on darkmodedesign.com) — \"The business stack for modern founders.\" Clean white UI, Hedvig Letters Sans, functional financial design that avoids cold blue/teal clichés.\n2. 108 Supply (darkmodedesign.com) — Deep editorial typography approach (Season Sans, #111111 bg, #F6F4F1 cream). Inverted here to warm cream light ground with near-black ink.\n3. Lapa Ninja / JetBrains Air aesthetic — Professional tools with editorial confidence, large display numerics.\n\nTrend challenge: \"Editorial Light Fintech\" — warm cream backgrounds (#F8F5F0), bold display numerics, editorial type scale, burnt sienna (#C4622D) replacing cold blues. 5 screens: Overview · Revenue · Clients · Invoices · Insights.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-claro-1774591982422",
+      "status": "done",
+      "app_name": "Claro",
+      "tagline": "Financial clarity for independent minds",
+      "archetype": "finance-productivity",
+      "design_url": "https://ram.zenbin.org/claro",
+      "mock_url": "https://ram.zenbin.org/claro-mock",
+      "submitted_at": "2026-03-27T06:13:02.422Z",
+      "published_at": "2026-03-27T06:13:02.422Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design Claro — a light-themed financial intelligence app for independent consultants. Inspired by:\n\n1. Midday.ai (featured on darkmodedesign.com) — \"The business stack for modern founders.\" Clean white UI, Hedvig Letters Sans, functional financial design that avoids cold blue/teal clichés.\n2. 108 Supply (darkmodedesign.com) — Deep editorial typography approach (Season Sans, #111111 bg, #F6F4F1 cream). Inverted here to warm cream light ground with near-black ink.\n3. Lapa Ninja / JetBrains Air aesthetic — Professional tools with editorial confidence, large display numerics.\n\nTrend challenge: \"Editorial Light Fintech\" — warm cream backgrounds (#F8F5F0), bold display numerics, editorial type scale, burnt sienna (#C4622D) replacing cold blues. 5 screens: Overview · Revenue · Clients · Invoices · Insights.",
       "screens": 5,
