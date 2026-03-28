@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T20:23:26.812Z",
+  "updated_at": "2026-03-28T21:14:02.846Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4583,6 +4583,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-assay-1774732442846",
+      "status": "done",
+      "app_name": "ASSAY",
+      "tagline": "precision biomedical research platform",
+      "archetype": "healthtech-research",
+      "design_url": "https://zenbin.org/p/assay",
+      "mock_url": "https://ram.zenbin.org/assay-mock",
+      "submitted_at": "2026-03-28T21:14:02.846Z",
+      "published_at": "2026-03-28T21:14:02.846Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by ZettaJoule (Awwwards HM Mar 2026) — ice-blue palette #D3E7FF, 3D schematic precision, industrial technical aesthetic; Mixpanel (Godly.website featured Mar 2026) — AI-first analytics, numbered 01-05 step progression, clean light SaaS UI. Light theme. Biomedical research tracking platform. Ice-blue #EBF3FF background, white surfaces, deep navy #0A1628 text, electric blue #1155EE accent, clinical teal #00B8A0 secondary. Numbered navigation (01–05: Overview, Trials, Markers, Analysis, Team). DM Serif Display + DM Mono + DM Sans. ZettaJoule-style diagram grid lines in hero. Confidence scoring bars on AI insights screen. Sparkline biomarker trends. 5 screens: Overview (study metrics + active studies list + AI strip + weekly bars), Trials (phase filter + 3 trial cards with stage dot timeline + enrollment progress), Biomarkers (4 markers with sparklines: IL-6/CRP/TNF-α/CD4), AI Analysis (dark hero card + confidence bars + pattern detection list), Team (4 members with status + activity feed).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
