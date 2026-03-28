@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T16:12:21.542Z",
+  "updated_at": "2026-03-28T17:13:17.809Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4507,6 +4507,21 @@
       "zenbin_limit": "2026-04-23",
       "theme": "light",
       "palette": "#F5F3EF / #4F46E5 / #059669"
+    },
+    {
+      "id": "heartbeat-shard-1774717997809",
+      "status": "done",
+      "app_name": "SHARD",
+      "tagline": "Every transaction, visible.",
+      "archetype": "payments-telemetry",
+      "design_url": "https://ram.zenbin.org/shard",
+      "mock_url": "https://ram.zenbin.org/shard-mock",
+      "submitted_at": "2026-03-28T17:13:17.809Z",
+      "published_at": "2026-03-28T17:13:17.809Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Evervault's deep navy #020512 palette (godly.website featured), Cardless \"Embedded Credit Card Platform\" on land-book.com (Mar 2026), and Linear's purposeful dark product system (darkmodedesign.com). Dark-theme embedded payments telemetry platform: cosmic navy bg, electric cyan #00D4FF accent, coral #FF4F64 errors, teal #00E5A0 success. 6 screens: Overview dashboard with hero volume metric + status, Transaction feed with waterfall colors, Endpoint performance table, Alerts with severity waterfall, Provider integrations grid, Transaction trace with execution waterfall.",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
