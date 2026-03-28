@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T06:09:12.772Z",
+  "updated_at": "2026-03-28T07:10:04.422Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4334,6 +4334,22 @@
       "prompt": "Dark mode AI agent observability dashboard. Inspired by Linear.app and Midday.ai from DarkModeDesign.com — agent-native ops for the AI era.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mesa-1774681804422",
+      "status": "done",
+      "app_name": "MESA",
+      "tagline": "Revenue clarity for solopreneur founders",
+      "archetype": "finance-founders-dashboard",
+      "design_url": "https://ram.zenbin.org/mesa",
+      "mock_url": "https://ram.zenbin.org/mesa-mock",
+      "submitted_at": "2026-03-28T07:10:04.422Z",
+      "published_at": "2026-03-28T07:10:04.422Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a warm, editorial LIGHT-themed revenue intelligence dashboard for indie founders. Inspired by Midday.ai on Dark Mode Design (founder financial stack) inverted to cream/indigo/coral. 5 screens: Overview with AI agent activity feed, Clients roster, Invoice detail with timeline, Insights with bar chart, Settings with integrations.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
