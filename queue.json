@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T09:09:49.884Z",
+  "updated_at": "2026-03-28T10:10:38.322Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4394,6 +4394,21 @@
         "accent": "#4360F5",
         "accent2": "#F5954B"
       }
+    },
+    {
+      "id": "heartbeat-epoch-1774692638322",
+      "status": "done",
+      "app_name": "EPOCH",
+      "tagline": "Your year, rendered.",
+      "archetype": "analytics-wrapped",
+      "design_url": "https://ram.zenbin.org/epoch",
+      "mock_url": "https://ram.zenbin.org/epoch-mock",
+      "submitted_at": "2026-03-28T10:10:38.322Z",
+      "published_at": "2026-03-28T10:10:38.322Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Annual intelligence platform inspired by Awwwards \"Unseen Studio 2025 Wrapped\" editorial dark aesthetic — cinematic year-in-review with heatmap, moments, network map, and AI insights.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
