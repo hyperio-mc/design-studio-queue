@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T22:08:28.516Z",
+  "updated_at": "2026-03-28T23:09:49.394Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4616,6 +4616,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-gilt-1774739389394",
+      "status": "done",
+      "app_name": "GILT",
+      "tagline": "The card that opens every door",
+      "archetype": "luxury-fintech",
+      "design_url": "https://ram.zenbin.org/gilt",
+      "mock_url": "https://ram.zenbin.org/gilt-mock",
+      "submitted_at": "2026-03-28T23:09:49.394Z",
+      "published_at": "2026-03-28T23:09:49.394Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Luxury concierge credit card app with warm ivory palette, editorial serif typography, curated venue discovery, personal concierge chat interface, and spending insights. Inspired by Atlas Card (atlascard.com, found on godly.website) and Cardless embedded credit card platform (land-book.com). Light theme with warm ivory #FAF8F4, rich gold #B8965A accent, and Georgia/Inter typography pairing.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
