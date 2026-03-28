@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T04:18:29.610Z",
+  "updated_at": "2026-03-28T04:28:25.960Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4288,6 +4288,22 @@
       "prompt": "Light-themed Founder OS for AI-native teams — dual human+agent workload view. Inspired by Linear \"teams and agents\" era (darkmodedesign.com), Equals GTM AI Analyst (land-book.com), and Dawn calm evidence-based UI (lapa.ninja). Warm parchment white #F7F5F1, indigo-violet accent #5B5EF0, amber agents #F97316. Shows today view, agent status, OKRs, finance, sprint with workload split between humans and AI agents.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-form-1774672105961",
+      "status": "done",
+      "app_name": "FORM",
+      "tagline": "train with intention",
+      "archetype": "fitness-training",
+      "design_url": "https://ram.zenbin.org/form",
+      "mock_url": "https://ram.zenbin.org/form-mock",
+      "submitted_at": "2026-03-28T04:28:25.960Z",
+      "published_at": "2026-03-28T04:28:25.960Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Equinox (equinox.com) — pure black background, enormous all-caps Syne grotesque type, \"YOU'VE LEFT YOUR COMFORT ZONE\" typographic confidence, zero decoration; Guarding Your Dawns by Qream (Awwwards SOTD) — dark drama, bold red/dark silhouette aesthetic; DVTK ASCII art (Siteinspire) — monospace-as-design, DM Mono texture. Dark theme. Near-black #080808 + electric lime #C8F044 accent (premium athletic, like a racing stripe). Syne 800 all-caps for UI + DM Mono for all data/labels. 5 screens: Today (push day session card + exercise checklist + coach message), Live Session (huge exercise name, set counter, rest timer, tabular set log), Program (12-week grid blocks, phase card, weekly day list), Progress (personal records, volume bar chart, key lifts table with % gains), Coach (avatar + notes with tags + message thread + send input).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
