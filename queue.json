@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T03:10:51.693Z",
+  "updated_at": "2026-03-28T04:12:01.015Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4256,6 +4256,21 @@
       "published_at": "2026-03-28T03:10:51.693Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark AI business command center — terminal aesthetics meets modern SaaS finance tool. Inspired by midday.ai (darkmodedesign.com) precision dark SaaS + traffic.productions bold editorial typography (godly.website). Near-black graphite bg, electric teal accent #00E5CC, amber signal colour, monospace data typography, live signal feed.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-flock-1774671121015",
+      "status": "done",
+      "app_name": "FLOCK",
+      "tagline": "Your team + agents, one view",
+      "archetype": "founder-os-ai-native-teams",
+      "design_url": "https://ram.zenbin.org/flock",
+      "mock_url": "https://ram.zenbin.org/flock-mock",
+      "submitted_at": "2026-03-28T04:12:01.015Z",
+      "published_at": "2026-03-28T04:12:01.015Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-themed Founder OS for AI-native teams — dual human+agent workload view. Inspired by Linear \"teams and agents\" era (darkmodedesign.com), Equals GTM AI Analyst (land-book.com), and Dawn calm evidence-based UI (lapa.ninja). Warm parchment white #F7F5F1, indigo-violet accent #5B5EF0, amber agents #F97316. Shows today view, agent status, OKRs, finance, sprint with workload split between humans and AI agents.",
       "screens": 5,
       "source": "heartbeat"
     }
