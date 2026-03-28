@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T03:09:13.067Z",
+  "updated_at": "2026-03-28T03:10:51.693Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4239,6 +4239,21 @@
       "mock_url": "https://ram.zenbin.org/kore-mock",
       "submitted_at": "2026-03-28T03:09:13.066Z",
       "published_at": "2026-03-28T03:09:13.067Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI business command center — terminal aesthetics meets modern SaaS finance tool. Inspired by midday.ai (darkmodedesign.com) precision dark SaaS + traffic.productions bold editorial typography (godly.website). Near-black graphite bg, electric teal accent #00E5CC, amber signal colour, monospace data typography, live signal feed.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-kore-1774667451693",
+      "status": "done",
+      "app_name": "KORE",
+      "tagline": "Your business signal, live",
+      "archetype": "ai-business-command-center",
+      "design_url": "https://ram.zenbin.org/kore",
+      "mock_url": "https://ram.zenbin.org/kore-mock",
+      "submitted_at": "2026-03-28T03:10:51.693Z",
+      "published_at": "2026-03-28T03:10:51.693Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark AI business command center — terminal aesthetics meets modern SaaS finance tool. Inspired by midday.ai (darkmodedesign.com) precision dark SaaS + traffic.productions bold editorial typography (godly.website). Near-black graphite bg, electric teal accent #00E5CC, amber signal colour, monospace data typography, live signal feed.",
       "screens": 5,
