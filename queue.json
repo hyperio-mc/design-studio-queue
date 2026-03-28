@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T04:28:25.960Z",
+  "updated_at": "2026-03-28T05:09:25.449Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4304,6 +4304,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-mill-1774674565449",
+      "status": "done",
+      "app_name": "MILL",
+      "tagline": "set tasks in motion",
+      "archetype": "ai-task-orchestrator",
+      "design_url": "https://ram.zenbin.org/mill",
+      "mock_url": "https://ram.zenbin.org/mill-mock",
+      "submitted_at": "2026-03-28T05:09:25.449Z",
+      "published_at": "2026-03-28T05:09:25.449Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal AI task orchestrator. Delegate to agents in natural language. Inspired by JetBrains Air (lapa.ninja, 2026) — light functional agent UI, and Old Tom Capital (minimal.gallery, 2026) — warm paper ledger editorial serif aesthetic. Warm parchment #F5F1EB + forest green #2D6A4F + amber #C4741A. 5 screens: Home dashboard, Tasks board, Agents roster, New task input, Insights analytics.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
