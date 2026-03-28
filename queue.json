@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T13:30:16.201Z",
+  "updated_at": "2026-03-28T14:18:12.407Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4456,6 +4456,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-ledge-1774707492408",
+      "status": "done",
+      "app_name": "LEDGE",
+      "tagline": "Clear finances for solo builders",
+      "archetype": "business-finance",
+      "design_url": "https://ram.zenbin.org/ledge",
+      "mock_url": "https://ram.zenbin.org/ledge-mock",
+      "submitted_at": "2026-03-28T14:18:12.407Z",
+      "published_at": "2026-03-28T14:18:12.407Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai (featured on darkmodedesign.com) clarity-first business stack UX + Cardless embedded credit from land-book.com + Awwwards SOTD SUTÉRA editorial minimalism. Light theme: warm #F6F4F1 paper-white. 5 screens: Dashboard with blue balance hero card + spark bars, Transactions with smart matching status, Insights with trend line + category bars, Invoicing with summary strip + invoice list, Reports with P&L card + export options + accountant share link.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
