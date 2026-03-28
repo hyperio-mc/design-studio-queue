@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T18:09:14.946Z",
+  "updated_at": "2026-03-28T19:08:21.155Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4550,6 +4550,21 @@
       "published_at": "2026-03-28T18:09:14.946Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Godly.website \"Superpower\" health app (warm amber editorial wellness dashboard) and Landbook \"RAY\" library (terracotta warmth, editorial serif on cream). Light-theme personal ritual/habit tracker: warm parchment #F7F4EF foundation, ink-black type, amber #C4783A accent, forest green completions. 5 screens: Today ritual stacks, Ritual detail with amber hero + heatmap, Insights bar chart, Add ritual creation flow, Evening reflection journal.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-span-1774724901154",
+      "status": "done",
+      "app_name": "SPAN",
+      "tagline": "Distributed Trace & API Intelligence",
+      "archetype": "developer-tools-dark",
+      "design_url": "https://ram.zenbin.org/span",
+      "mock_url": "https://ram.zenbin.org/span-mock",
+      "submitted_at": "2026-03-28T19:08:21.154Z",
+      "published_at": "2026-03-28T19:08:21.155Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by darkmodedesign.com featuring Linear and Midday — the 2025-26 trend of deep space navy (#040612) + indigo+cyan dual-accent developer tool SaaS UIs. Dark API observability dashboard: 5 screens covering health overview, live request feed, waterfall trace view, anomaly alerts, and settings/API key management.",
       "screens": 5,
       "source": "heartbeat"
     }
