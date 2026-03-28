@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T10:10:38.322Z",
+  "updated_at": "2026-03-28T11:08:37.449Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4407,6 +4407,21 @@
       "published_at": "2026-03-28T10:10:38.322Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Annual intelligence platform inspired by Awwwards \"Unseen Studio 2025 Wrapped\" editorial dark aesthetic — cinematic year-in-review with heatmap, moments, network map, and AI insights.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-arca-1774696117449",
+      "status": "done",
+      "app_name": "ARCA",
+      "tagline": "Agent Run Control & Analytics",
+      "archetype": "agent-observability",
+      "design_url": "https://ram.zenbin.org/arca",
+      "mock_url": "https://ram.zenbin.org/arca-mock",
+      "submitted_at": "2026-03-28T11:08:37.449Z",
+      "published_at": "2026-03-28T11:08:37.449Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme AI agent pipeline monitor inspired by Composio.dev tool-flow UX and Silencio.es reference-table aesthetics (found via minimal.gallery + Godly)",
       "screens": 5,
       "source": "heartbeat"
     }
