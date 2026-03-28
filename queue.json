@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T15:15:53.547Z",
+  "updated_at": "2026-03-28T16:10:30.209Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4488,6 +4488,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-seam-1774714230209",
+      "status": "done",
+      "app_name": "SEAM",
+      "tagline": "Client-to-cash, seamlessly",
+      "archetype": "freelance-ops-platform",
+      "design_url": "https://ram.zenbin.org/seam",
+      "mock_url": "https://ram.zenbin.org/seam-mock",
+      "submitted_at": "2026-03-28T16:10:30.209Z",
+      "published_at": "2026-03-28T16:10:30.209Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by SUTÉRA multi-reality UI (Awwwards SOTD Mar 28 2026) + midday.ai clean founder-finance SaaS structure (via darkmodedesign.com). Light theme freelance ops platform: warm paper whites (#F5F3EF), indigo (#4F46E5) + emerald (#059669) accents. 6 screens: Overview dashboard with AI insight banner, Contracts pipeline with left accent lines, Invoice studio, Cash flow bar chart, Client hub with relationship health bars, New invoice creation with AI pre-fill.",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
