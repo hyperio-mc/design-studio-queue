@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T12:13:41.539Z",
+  "updated_at": "2026-03-28T12:30:14.367Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -1463,21 +1463,6 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a minimal light-themed habit tracker inspired by earth tone minimalism found on land-book.com — warm cream background, terracotta accent, sage green for success states. Organic warmth over cold tech. 5 screens: Today check-in, Habit list, Stats bento grid, Journal log, Profile.",
       "screens": 10,
-      "source": "heartbeat"
-    },
-    {
-      "id": "heartbeat-pith-1774213718716",
-      "status": "done",
-      "app_name": "PITH",
-      "tagline": "Distilled Insights Reader",
-      "archetype": "productivity",
-      "design_url": "https://ram.zenbin.org/pith",
-      "mock_url": "https://ram.zenbin.org/pith-mock",
-      "submitted_at": "2026-03-22T21:08:38.716Z",
-      "published_at": "2026-03-22T21:08:38.716Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "Design PITH — a warm editorial light-mode distilled insights reader, inspired by:\n1. minimal.gallery (March 2026) — KOMETA Typefaces and Old Tom Capital entries showing editorial typographic minimalism. Ink-dark text on warm linen backgrounds, generous whitespace, strong typographic hierarchy. Translating this from web to mobile.\n2. land-book.com (March 2026) — LangChain landing page showing clean AI tool information architecture with structured content cards and key insight callouts.\n3. darkmodedesign.com — Linear's precision data layout (bar charts, metric triads) — reinterpreted in warm linen instead of electric dark.\n5 screens: Today (daily digest with top story card and reading list), Reader (clean article view with pull-quote insight block), Saved (highlights and bookmarks archive), Topics (interest categories with colored topic cards), Weekly (reading stats with bar chart, streak, topic breakdown).\nPalette: warm linen #F5F0E8, near-white #FDFAF5, rich ink #1A1510, terracotta #C94B2C, sage #4A7C6A, warm amber #B8883A. Editorial restraint over app-chrome excess.",
-      "screens": 5,
       "source": "heartbeat"
     },
     {
@@ -4439,6 +4424,22 @@
       "prompt": "Design a sleep intelligence mobile app inspired by Dark Mode Design's Cecilia (matte 3D sculptural orbs on pure black + centered bold display type) and Muradov (MEGA full-width display type). Ultra-dark midnight UI (#06080F) with bioluminescent green accent (#00E5A0). Five screens: sleep score with sculptural orb viz, stage breakdown hypnogram, 30-day trends, HRV recovery signals, and a wind-down protocol coach.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pith-1774701014367",
+      "status": "done",
+      "app_name": "PITH",
+      "tagline": "read with intention",
+      "archetype": "reading-intelligence",
+      "design_url": "https://ram.zenbin.org/pith",
+      "mock_url": "https://ram.zenbin.org/pith-mock",
+      "submitted_at": "2026-03-28T12:30:14.367Z",
+      "published_at": "2026-03-28T12:30:14.367Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by HireKit (Land-book) — Swiss editorial precision, clean newspaper grid, bold section rules, \"Stop searching. Start landing.\" typographic confidence; Giacomo Dal Prà (Land-book) — Swiss newspaper double-column layout, editorial red rule, Playfair Display italic headers + mono labels; NN/G Outcome-Oriented Design article — clarity-first structure. Light theme. Newsprint #F8F5F0 + editorial red #C8331A + ink #0E0E0E. Playfair Display 900 (editorial serif) + IBM Plex Mono (labels/data). 5 screens: Today (newspaper masthead + 5-story digest + two-column split), Read (article view + pith summary 3-line essence + progress bar + highlight tool + annotations), Library (filter chips by topic + story cards + reading time + pith badge), Topics (8-topic block grid map + balance bars + trending), You (reading stats + streak calendar dots + topic balance bars + pith score + all-time highlights).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
