@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T08:11:35.980Z",
+  "updated_at": "2026-03-28T09:09:49.884Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4371,6 +4371,28 @@
         "bg": "#080B12",
         "accent": "#6B4FE8",
         "gold": "#B8984A"
+      }
+    },
+    {
+      "id": "heartbeat-bloc-1774688989884",
+      "status": "done",
+      "app_name": "BLOC",
+      "tagline": "every team, in one grid",
+      "archetype": "productivity-dashboard",
+      "design_url": "https://ram.zenbin.org/bloc",
+      "viewer_url": "https://ram.zenbin.org/bloc-viewer",
+      "mock_url": "https://ram.zenbin.org/bloc-mock",
+      "submitted_at": "2026-03-28T09:09:49.884Z",
+      "published_at": "2026-03-28T09:09:49.884Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Bento grid team project health dashboard — light theme. Inspired by herding.app (Godly #966) bento grid trend + ZettaJoule ice-blue palette (Awwwards SOTD).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#EFF2F8",
+        "accent": "#4360F5",
+        "accent2": "#F5954B"
       }
     }
   ]
