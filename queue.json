@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T14:18:12.407Z",
+  "updated_at": "2026-03-28T15:15:53.547Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4472,6 +4472,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-kern-1774710953547",
+      "status": "done",
+      "app_name": "Kern",
+      "tagline": "Read deep. Think wider.",
+      "archetype": "knowledge-tool",
+      "design_url": "https://ram.zenbin.org/kern",
+      "mock_url": "https://ram.zenbin.org/kern-mock",
+      "submitted_at": "2026-03-28T15:15:53.547Z",
+      "published_at": "2026-03-28T15:15:53.547Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode AI reading intelligence for researchers. Inspired by: Linear (darkmodedesign.com) ambient product-preview UX + Obsidian (darkmodedesign.com) violet-on-black graph metaphor + 108 Supply editorial counted-item typography. Violet #7B5EA7 + teal #3ECFCF accent duo on near-black #0C0C10. 5 screens: Home with streak sparkline + AI resurface card + reading queue, Immersive reader with inline AI annotation + highlight glow, Highlights feed with connection badges + filter chips, Knowledge graph with node/edge visualization + dot-grid ambient, Daily spaced-repetition review with SRS buttons + synthesis prompt.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
