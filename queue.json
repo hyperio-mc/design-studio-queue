@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T23:09:49.394Z",
+  "updated_at": "2026-03-28T23:20:01.721Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4623,7 +4623,7 @@
       "app_name": "GILT",
       "tagline": "The card that opens every door",
       "archetype": "luxury-fintech",
-      "design_url": "https://ram.zenbin.org/gilt",
+      "design_url": "https://zenbin.org/p/gilt",
       "mock_url": "https://ram.zenbin.org/gilt-mock",
       "submitted_at": "2026-03-28T23:09:49.394Z",
       "published_at": "2026-03-28T23:09:49.394Z",
