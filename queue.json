@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T17:19:59.591Z",
+  "updated_at": "2026-03-28T18:09:14.946Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4536,6 +4536,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Evervault's deep navy #020512 palette (godly.website featured), Cardless \"Embedded Credit Card Platform\" on land-book.com (Mar 2026), and Linear's purposeful dark product system (darkmodedesign.com). Dark-theme embedded payments telemetry platform: cosmic navy bg, electric cyan #00D4FF accent, coral #FF4F64 errors, teal #00E5A0 success. 6 screens: Overview dashboard with hero volume metric + status, Transaction feed with waterfall colors, Endpoint performance table, Alerts with severity waterfall, Provider integrations grid, Transaction trace with execution waterfall.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grove-1774721354946",
+      "status": "done",
+      "app_name": "GROVE",
+      "tagline": "Rituals worth keeping",
+      "archetype": "wellness-light",
+      "design_url": "https://ram.zenbin.org/grove",
+      "mock_url": "https://ram.zenbin.org/grove-mock",
+      "submitted_at": "2026-03-28T18:09:14.946Z",
+      "published_at": "2026-03-28T18:09:14.946Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Godly.website \"Superpower\" health app (warm amber editorial wellness dashboard) and Landbook \"RAY\" library (terracotta warmth, editorial serif on cream). Light-theme personal ritual/habit tracker: warm parchment #F7F4EF foundation, ink-black type, amber #C4783A accent, forest green completions. 5 screens: Today ritual stacks, Ritual detail with amber hero + heatmap, Insights bar chart, Add ritual creation flow, Evening reflection journal.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
