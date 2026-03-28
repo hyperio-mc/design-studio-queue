@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T21:14:02.846Z",
+  "updated_at": "2026-03-28T22:08:28.516Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4599,6 +4599,23 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-shade-1774735708516",
+      "status": "done",
+      "app_name": "SHADE",
+      "tagline": "cloud cost intelligence",
+      "archetype": "devops-finops",
+      "design_url": "https://ram.zenbin.org/shade",
+      "viewer_url": "https://ram.zenbin.org/shade-viewer",
+      "mock_url": "https://ram.zenbin.org/shade-mock",
+      "submitted_at": "2026-03-28T22:08:28.516Z",
+      "published_at": "2026-03-28T22:08:28.516Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark cloud infrastructure cost monitoring & anomaly detection platform. Inspired by Evervault's deep navy #010314 aesthetic discovered on godly.website. Features real-time cost tracking, ML-powered anomaly detection, spend forecasting, and team alerts.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
