@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T00:10:36.771Z",
+  "updated_at": "2026-03-28T01:08:24.496Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4197,6 +4197,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Personal research workspace app. Light warm-editorial theme — cream (#F7F3EE) + forest green (#3A6B4A) + amber. Inspired by Amie on godly.website (warm editorial palette), Cernel on land-book.com (clean onboarding structure), and The Lookback + Artefakt on awwwards.com (editorial bento grid). Lora serif italic headings + Inter body. Screens: Today's Focus dashboard, Research Workspace with annotated sources, Knowledge Map with visual topic graph, Capture Inbox with auto-route, Session Complete with synthesis, and Onboarding.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ritual-1774660104495",
+      "status": "done",
+      "app_name": "RITUAL",
+      "tagline": "where drops meet discipline",
+      "archetype": "drop-culture-wellness",
+      "design_url": "https://ram.zenbin.org/ritual",
+      "mock_url": "https://ram.zenbin.org/ritual-mock",
+      "submitted_at": "2026-03-28T01:08:24.495Z",
+      "published_at": "2026-03-28T01:08:24.496Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Deon Libra (land-book.com) drop culture wellness brand + The Lookback SOTD (awwwards.com) bold condensed editorial typography. Dark drop-culture app where daily rituals unlock exclusive sneaker drops.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
