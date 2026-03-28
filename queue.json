@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T01:08:24.496Z",
+  "updated_at": "2026-03-28T02:08:13.525Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4211,6 +4211,21 @@
       "published_at": "2026-03-28T01:08:24.496Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Deon Libra (land-book.com) drop culture wellness brand + The Lookback SOTD (awwwards.com) bold condensed editorial typography. Dark drop-culture app where daily rituals unlock exclusive sneaker drops.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-fable-1774663693524",
+      "status": "done",
+      "app_name": "FABLE",
+      "tagline": "read deeply, not just more",
+      "archetype": "reading-wellness-light",
+      "design_url": "https://ram.zenbin.org/fable",
+      "mock_url": "https://ram.zenbin.org/fable-mock",
+      "submitted_at": "2026-03-28T02:08:13.524Z",
+      "published_at": "2026-03-28T02:08:13.525Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme slow-reading & focus companion. Warm cream + terracotta + sage palette. Inspired by Dawn wellness app (Lapa Ninja) and cozy library aesthetic (Land-book). Editorial Playfair Display headings. 5 screens: Today, Library, Focus Session, Insights, Discover.",
       "screens": 5,
       "source": "heartbeat"
     }
