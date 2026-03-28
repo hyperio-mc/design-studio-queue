@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T07:10:04.422Z",
+  "updated_at": "2026-03-28T08:11:35.980Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4350,6 +4350,28 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-lore-1774685495980",
+      "status": "done",
+      "app_name": "LORE",
+      "tagline": "Story intelligence workspace for screenwriters and narrative designers",
+      "archetype": "story-intelligence",
+      "design_url": "https://ram.zenbin.org/lore",
+      "viewer_url": "https://ram.zenbin.org/lore-viewer",
+      "mock_url": "https://ram.zenbin.org/lore-mock",
+      "submitted_at": "2026-03-28T08:11:35.980Z",
+      "published_at": "2026-03-28T08:11:35.980Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark cinematic story intelligence platform for screenwriters, inspired by Obsidian's knowledge graph patterns and Atlas Card's luxury editorial dark aesthetic — featuring universe dashboard, character tracking, dramatic arc timeline, lore compendium, and plot thread management.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#080B12",
+        "accent": "#6B4FE8",
+        "gold": "#B8984A"
+      }
     }
   ]
 }
