@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T11:08:37.449Z",
+  "updated_at": "2026-03-28T12:13:41.539Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4422,6 +4422,21 @@
       "published_at": "2026-03-28T11:08:37.449Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme AI agent pipeline monitor inspired by Composio.dev tool-flow UX and Silencio.es reference-table aesthetics (found via minimal.gallery + Godly)",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mare-1774700021538",
+      "status": "done",
+      "app_name": "MARE",
+      "tagline": "Sleep Intelligence Platform",
+      "archetype": "sleep-health-wearable",
+      "design_url": "https://ram.zenbin.org/mare",
+      "mock_url": "https://ram.zenbin.org/mare-mock",
+      "submitted_at": "2026-03-28T12:13:41.538Z",
+      "published_at": "2026-03-28T12:13:41.539Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a sleep intelligence mobile app inspired by Dark Mode Design's Cecilia (matte 3D sculptural orbs on pure black + centered bold display type) and Muradov (MEGA full-width display type). Ultra-dark midnight UI (#06080F) with bioluminescent green accent (#00E5A0). Five screens: sleep score with sculptural orb viz, stage breakdown hypnogram, 30-day trends, HRV recovery signals, and a wind-down protocol coach.",
       "screens": 5,
       "source": "heartbeat"
     }
