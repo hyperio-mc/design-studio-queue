@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T23:10:02.863Z",
+  "updated_at": "2026-03-28T00:10:36.771Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4182,6 +4182,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Developer event observability platform. Dark terminal-first UI. Inspired by Evervault:Customers on godly.website (dark encrypted tech aesthetic) and Midday on darkmodedesign.com (polished dark analytics dashboard). Electric indigo + mint green palette. Screens: Dashboard bento, real-time event stream with level filters, SQL query builder with syntax highlight, anomaly alerts, data sources/integrations.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grove-1774656636770",
+      "status": "done",
+      "app_name": "Grove",
+      "tagline": "Grow your research, one thought at a time.",
+      "archetype": "personal-research-workspace",
+      "design_url": "https://ram.zenbin.org/grove",
+      "mock_url": "https://ram.zenbin.org/grove-mock",
+      "submitted_at": "2026-03-28T00:10:36.770Z",
+      "published_at": "2026-03-28T00:10:36.771Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal research workspace app. Light warm-editorial theme — cream (#F7F3EE) + forest green (#3A6B4A) + amber. Inspired by Amie on godly.website (warm editorial palette), Cernel on land-book.com (clean onboarding structure), and The Lookback + Artefakt on awwwards.com (editorial bento grid). Lora serif italic headings + Inter body. Screens: Today's Focus dashboard, Research Workspace with annotated sources, Knowledge Map with visual topic graph, Capture Inbox with auto-route, Session Complete with synthesis, and Onboarding.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
