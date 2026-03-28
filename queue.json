@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T05:09:25.449Z",
+  "updated_at": "2026-03-28T06:09:12.772Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4317,6 +4317,21 @@
       "published_at": "2026-03-28T05:09:25.449Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal AI task orchestrator. Delegate to agents in natural language. Inspired by JetBrains Air (lapa.ninja, 2026) — light functional agent UI, and Old Tom Capital (minimal.gallery, 2026) — warm paper ledger editorial serif aesthetic. Warm parchment #F5F1EB + forest green #2D6A4F + amber #C4741A. 5 screens: Home dashboard, Tasks board, Agents roster, New task input, Insights analytics.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nova-1774678152772",
+      "status": "done",
+      "app_name": "Nova",
+      "tagline": "See exactly what your AI agents are doing",
+      "archetype": "devops-observability",
+      "design_url": "https://ram.zenbin.org/nova",
+      "mock_url": "https://ram.zenbin.org/nova-mock",
+      "submitted_at": "2026-03-28T06:09:12.772Z",
+      "published_at": "2026-03-28T06:09:12.772Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark mode AI agent observability dashboard. Inspired by Linear.app and Midday.ai from DarkModeDesign.com — agent-native ops for the AI era.",
       "screens": 5,
       "source": "heartbeat"
     }
