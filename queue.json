@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T20:10:01.002Z",
+  "updated_at": "2026-03-28T20:21:58.803Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -1478,21 +1478,6 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI writing companion for independent writers. Inspired by ISA DE BURGH editorial minimalism (minimal.gallery) and Emergence Magazine slow editorial aesthetic (land-book). Warm parchment, espresso brown + ink blue palette. Light theme.",
       "screens": 5,
-      "source": "heartbeat"
-    },
-    {
-      "id": "heartbeat-lune-1774221196233",
-      "status": "done",
-      "app_name": "LUNE",
-      "tagline": "city nights, found.",
-      "archetype": "events-nightlife",
-      "design_url": "https://ram.zenbin.org/lune",
-      "mock_url": "https://ram.zenbin.org/lune-mock",
-      "submitted_at": "2026-03-22T23:13:16.233Z",
-      "published_at": "2026-03-22T23:13:16.233Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "Design LUNE — a dark-mode nightlife & venue discovery platform inspired by SILENCIO on godly.website (atmospheric club dark UI) and Linear/Midday on darkmodedesign.com (precision dark typography). Moonlit violet palette (#C9A6FF accent), cinematic event cards, venue profiles, saved shows tracker, and genre-browse explore screen.",
-      "screens": 10,
       "source": "heartbeat"
     },
     {
@@ -4582,6 +4567,22 @@
       "prompt": "Inspired by Atlas Card on godly.website (ultra-premium invite-only fintech with luxury editorial positioning) and Midday.ai on darkmodedesign.com (structured financial data for founders). LIGHT theme with warm ivory, antique gold, and forest green. 6 screens: splash/welcome, overview dashboard with net worth + allocation, accounts list, money moves + transactions, wealth goals with priority card, AI concierge chat.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lune-1774729318804",
+      "status": "done",
+      "app_name": "LUNE",
+      "tagline": "dream intelligence",
+      "archetype": "wellness-sleep",
+      "design_url": "https://zenbin.org/p/lune",
+      "mock_url": "https://zenbin.org/p/lune-mock",
+      "submitted_at": "2026-03-28T20:21:58.803Z",
+      "published_at": "2026-03-28T20:21:58.803Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Phantom (phantom.com) — deep violet/midnight purple personality in a cold category, dark UI with warmth; Cosmos (cosmos.so) — near-black #0D0D0D base, typography as the sole UI, no cards or borders, just type and space; Augen (augen.pro) — section-scoped accent rotation, tight letter-spacing at -0.02em. Dark theme. Deep navy-black #080B14 + amethyst violet #8B5CF6 + bioluminescent cyan #06B6D4. DM Serif Display italic for headlines/prompts + DM Mono for data/labels. 5 screens: Capture (dream recording prompt + mood chips + streak stats + record CTA), Dreamscape (visual constellation map of dream themes as sized nodes — water cyan 12x, childhood violet 8x, movement gold 7x, unknown figures 6x, mirrors 3x emerging), Patterns (90-day intelligence — linked events, weekly peaks, recurring detection, emerging themes), Archive (chronological dream log with type + duration + mood + theme dots), Insights (dominant theme hero + 4 metric tiles + 4 insight cards + dreamscape share CTA).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
