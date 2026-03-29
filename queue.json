@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T11:10:56.328Z",
+  "updated_at": "2026-03-29T12:12:12.300Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5007,6 +5007,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme financial nerve center for lean teams and indie founders. Tabular editorial aesthetic — thin-weight large numerals, small-caps labels, warm cream paper-like background. Inspired by: Cardless.com (land-book.com, Mar 2026); Midday.ai (Godly.website + darkmodedesign.com); Paperclip (Lapa Ninja, Mar 2026). 6 screens.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-crest-1774786332300",
+      "status": "done",
+      "app_name": "Crest",
+      "tagline": "Freelance cashflow, well-edited",
+      "archetype": "finance-cashflow-freelancer",
+      "design_url": "https://ram.zenbin.org/crest",
+      "mock_url": "https://ram.zenbin.org/crest-mock",
+      "submitted_at": "2026-03-29T12:12:12.300Z",
+      "published_at": "2026-03-29T12:12:12.300Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial cashflow app for freelancers — LIGHT theme. Inspired by land-book.com: Equals (\"What's after Excel?\"), UglyCash brutalist fintech typography, Deon Libra all-caps editorial headings applied to finance, and Maker (\"For the new wave of one-person companies\"). Warm cream palette (#F5F2EC), near-black, electric chartreuse (#BAFF4F) accent. Magazine-editorial treatment of financial data.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
