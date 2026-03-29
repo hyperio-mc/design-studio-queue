@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T00:09:20.581Z",
+  "updated_at": "2026-03-29T01:10:28.617Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4659,6 +4659,21 @@
       "published_at": "2026-03-29T00:09:20.581Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by godly.website (Reflect, Amie, Stripe Sessions) and awwwards.com nominees \"The Lookback\" and \"Unseen Studio 2025 Wrapped\" — the 2025-26 trend of editorial information architecture: magazine-scale display typography contrasted with dense structured lists, warm paper-tone backgrounds replacing cold white. Light-theme async writing and knowledge distillation studio for distributed teams: 5 screens covering writing studio dashboard, quick capture with AI suggestions, thread browser, weekly AI insights digest, and searchable archive.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-brim-1774746628617",
+      "status": "done",
+      "app_name": "BRIM",
+      "tagline": "Your money, finally intelligent.",
+      "archetype": "fintech-ai-dark",
+      "design_url": "https://ram.zenbin.org/brim",
+      "mock_url": "https://ram.zenbin.org/brim-mock",
+      "submitted_at": "2026-03-29T01:10:28.617Z",
+      "published_at": "2026-03-29T01:10:28.617Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by darkmodedesign.com Muradov portfolio — massive bold condensed display type on electric-violet-on-near-black, plus Cecilia climate-tech centred minimal layout on pure black. Dark AI-powered personal finance intelligence app: 5 screens covering a command-centre dashboard with editorial 52px net-worth number, spending pulse with category breakdown, portfolio intelligence with allocation bar + holdings, BRIM AI insights hub with health score + three insight cards, and goals tracker. Palette: near-black #080810, surface #0F0F1C, electric violet #7B5CF0, teal mint #00E5B4.",
       "screens": 5,
       "source": "heartbeat"
     }
