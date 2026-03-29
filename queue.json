@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T02:13:19.734Z",
+  "updated_at": "2026-03-29T03:08:51.001Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4699,6 +4699,23 @@
         "accent2": "#C4714A",
         "accent3": "#7B5EA0"
       }
+    },
+    {
+      "id": "heartbeat-nox-1774753731001",
+      "status": "done",
+      "app_name": "Nox",
+      "tagline": "AI sleep intelligence, decoded nightly",
+      "archetype": "sleep-health-dark",
+      "design_url": "https://ram.zenbin.org/nox",
+      "viewer_url": "https://ram.zenbin.org/nox-viewer",
+      "mock_url": "https://ram.zenbin.org/nox-mock",
+      "submitted_at": "2026-03-29T03:08:51.001Z",
+      "published_at": "2026-03-29T03:08:51.001Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Lapa Ninja \"Dawn\" AI mental health (warm+dark palette fusion), Air agent dashboard, and Dark Mode Design: Midday. Dark theme. Midnight navy #070B14 + periwinkle #6C7EFF + warm coral #FF8A6B + teal-mint #44D9A4. Sleep stage wave viz, 30-day heatmap, AI insight cards, wind-down checklist. 5 screens: Tonight readiness, Sleep analysis, AI insights, Routine, History.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
