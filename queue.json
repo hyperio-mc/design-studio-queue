@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T03:08:51.001Z",
+  "updated_at": "2026-03-29T04:09:12.478Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4716,6 +4716,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-coda-1774757352478",
+      "status": "done",
+      "app_name": "CODA",
+      "tagline": "Financial intelligence for independent consultants",
+      "archetype": "finance-light",
+      "design_url": "https://ram.zenbin.org/coda",
+      "mock_url": "https://ram.zenbin.org/coda-mock",
+      "submitted_at": "2026-03-29T04:09:12.478Z",
+      "published_at": "2026-03-29T04:09:12.478Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai on darkmodedesign.com (\"business stack for modern founders\") and GTM Analytics/Equals on land-book.com — a light-theme financial intelligence app for independent consultants. Warm cream paper palette, cognac amber accent, editorial typographic hierarchy. 5 screens: daily snapshot, client health scores, deal pipeline, invoice detail, and month-close readiness checklist.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
