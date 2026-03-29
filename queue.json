@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T05:12:37.822Z",
+  "updated_at": "2026-03-29T06:09:33.833Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4781,6 +4781,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-keen-1774764573833",
+      "status": "done",
+      "app_name": "KEEN",
+      "tagline": "search intelligence for content teams",
+      "archetype": "seo-analytics-light",
+      "design_url": "https://zenbin.org/p/keen",
+      "mock_url": "https://zenbin.org/p/keen-mock",
+      "submitted_at": "2026-03-29T06:09:33.833Z",
+      "published_at": "2026-03-29T06:09:33.833Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Keytail (\"Be the Answer Everywhere People Search\") and Equals GTM analytics on land-book.com — both are clean, data-dense light-theme SaaS tools for search/content visibility. Awwwards nominees showing editorial data layouts with strong typographic hierarchy reinforced the direction. LIGHT theme. Off-white #F7F5F2 + electric blue #2563EB + amber #F59E0B. Inter typeface. 5 screens: Overview (visibility score ring, 2 metric tiles, weekly bar chart, top keyword rows, quick-win card), Keywords (search bar, filter chips, detailed table with KD/intent/vol), SERP Analysis (result cards with competitor breakdown, opportunity callout), Content Gaps (untapped cluster count, gap cards with KD bars, competitor coverage dots), Reports (report cards with schedule/status, send log).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
