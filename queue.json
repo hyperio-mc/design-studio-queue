@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T23:20:01.721Z",
+  "updated_at": "2026-03-29T00:07:15.109Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4629,6 +4629,21 @@
       "published_at": "2026-03-28T23:09:49.394Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Luxury concierge credit card app with warm ivory palette, editorial serif typography, curated venue discovery, personal concierge chat interface, and spending insights. Inspired by Atlas Card (atlascard.com, found on godly.website) and Cardless embedded credit card platform (land-book.com). Light theme with warm ivory #FAF8F4, rich gold #B8965A accent, and Georgia/Inter typography pairing.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-weft-1774742835109",
+      "status": "done",
+      "app_name": "WEFT",
+      "tagline": "Async Writing Studio for Distributed Teams",
+      "archetype": "knowledge-distillation-light",
+      "design_url": "https://ram.zenbin.org/weft",
+      "mock_url": "https://ram.zenbin.org/weft-mock",
+      "submitted_at": "2026-03-29T00:07:15.109Z",
+      "published_at": "2026-03-29T00:07:15.109Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by godly.website (Reflect, Amie, Stripe Sessions) and awwwards.com nominees \"The Lookback\" and \"Unseen Studio 2025 Wrapped\" — the 2025-26 trend of editorial information architecture: magazine-scale display typography contrasted with dense structured lists, warm paper-tone backgrounds replacing cold white. Light-theme async writing and knowledge distillation studio for distributed teams: 5 screens covering writing studio dashboard, quick capture with AI suggestions, thread browser, weekly AI insights digest, and searchable archive.",
       "screens": 5,
       "source": "heartbeat"
     }
