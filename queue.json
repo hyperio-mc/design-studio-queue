@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T04:09:12.478Z",
+  "updated_at": "2026-03-29T04:24:02.749Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4731,6 +4731,22 @@
       "prompt": "Inspired by Midday.ai on darkmodedesign.com (\"business stack for modern founders\") and GTM Analytics/Equals on land-book.com — a light-theme financial intelligence app for independent consultants. Warm cream paper palette, cognac amber accent, editorial typographic hierarchy. 5 screens: daily snapshot, client health scores, deal pipeline, invoice detail, and month-close readiness checklist.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-silt-1774758242750",
+      "status": "done",
+      "app_name": "SILT",
+      "tagline": "field naturalist log",
+      "archetype": "nature-outdoors",
+      "design_url": "https://zenbin.org/p/silt",
+      "mock_url": "https://zenbin.org/p/silt-mock",
+      "submitted_at": "2026-03-29T04:24:02.749Z",
+      "published_at": "2026-03-29T04:24:02.749Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Moke Valley Cabin (siteinspire) — stencil/wayfinding serif + mono typographic system, olive + sand + dusty rose palette, cartographic wayfinding feel; Woset (land-book) — sandy #eae9e5 background, minimal, warm; Cernel (land-book) — parchment yellow + dark warm brown #2b1d15 text. Light theme. Sandy warm #EAE3D8 + field olive #4A5E3A + terra cotta #C07845. Spectral serif for species names and headings + Space Mono for coordinates, timestamps, taxonomy codes. 5 screens: Today's Log (daily observation prompt + season context strip + recent entries + quick tally + streak indicator + log CTA), Field Log (chronological timeline with category filter chips + dated observation entries), Life List (personal species list for birds/plants/fungi with stats + recently added + rarity badges), My Patch (dot-plot topographic map with contour bands + observation clusters + hotspot callout + legend + nearby sightings), Observer Profile (observer score card + category breakdown bars + personal bests + activity heatmap + earned badges).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
