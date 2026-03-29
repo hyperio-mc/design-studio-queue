@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T10:15:12.715Z",
+  "updated_at": "2026-03-29T11:10:56.328Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4993,6 +4993,21 @@
         "accent": "#2D6A4F",
         "accent2": "#52B788"
       }
+    },
+    {
+      "id": "heartbeat-float-app-1774782656327",
+      "status": "done",
+      "app_name": "Float",
+      "tagline": "Your money, self-managing",
+      "archetype": "fintech-ops-dashboard",
+      "design_url": "https://ram.zenbin.org/float-app",
+      "mock_url": "https://ram.zenbin.org/float-app-mock",
+      "submitted_at": "2026-03-29T11:10:56.327Z",
+      "published_at": "2026-03-29T11:10:56.328Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme financial nerve center for lean teams and indie founders. Tabular editorial aesthetic — thin-weight large numerals, small-caps labels, warm cream paper-like background. Inspired by: Cardless.com (land-book.com, Mar 2026); Midday.ai (Godly.website + darkmodedesign.com); Paperclip (Lapa Ninja, Mar 2026). 6 screens.",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
