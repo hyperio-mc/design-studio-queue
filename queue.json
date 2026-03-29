@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T01:10:28.617Z",
+  "updated_at": "2026-03-29T02:13:19.734Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4676,6 +4676,29 @@
       "prompt": "Inspired by darkmodedesign.com Muradov portfolio — massive bold condensed display type on electric-violet-on-near-black, plus Cecilia climate-tech centred minimal layout on pure black. Dark AI-powered personal finance intelligence app: 5 screens covering a command-centre dashboard with editorial 52px net-worth number, spending pulse with category breakdown, portfolio intelligence with allocation bar + holdings, BRIM AI insights hub with health score + three insight cards, and goals tracker. Palette: near-black #080810, surface #0F0F1C, electric violet #7B5CF0, teal mint #00E5B4.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mend-1774750399734",
+      "status": "done",
+      "app_name": "MEND",
+      "tagline": "Recovery intelligence for smart wearables",
+      "archetype": "health-wearable-light",
+      "design_url": "https://ram.zenbin.org/mend",
+      "viewer_url": "https://ram.zenbin.org/mend-viewer",
+      "mock_url": "https://ram.zenbin.org/mend-mock",
+      "submitted_at": "2026-03-29T02:13:19.734Z",
+      "published_at": "2026-03-29T02:13:19.734Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Dribbble #1 popular \"Smart Ring App — Health Tracking Mobile UI\" (12.8k views) and Dawn AI mental health (lapa.ninja). Light theme. Warm parchment #F5F2EC base with forest green #3E6B4A accent and terra cotta #C4714A. Editorial serif number hierarchy, organic HRV wave visualizations, sleep hypnogram, AI focus windows, insights feed. 5 screens.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F5F2EC",
+        "accent": "#3E6B4A",
+        "accent2": "#C4714A",
+        "accent3": "#7B5EA0"
+      }
     }
   ]
 }
