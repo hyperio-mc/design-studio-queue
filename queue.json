@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T07:11:43.806Z",
+  "updated_at": "2026-03-29T08:08:40.040Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4811,6 +4811,22 @@
       "prompt": "Inspired by Godly.website (Evervault: Customers — dark developer UI with encrypted data motifs, Twingate — dense network security grid) and DarkMode Design (Linear ultra-minimal dark chrome, Midday clean data density) — the 2025-26 trend of \"terminal-to-product\" aesthetic: monospace log data meeting modern product UI, deep navy replacing pure black, electric teal accent for developer observability tools. Dark-theme developer log intelligence & AI anomaly detection platform: 5 screens covering real-time overview with health metrics and log volume chart, live log stream with severity filtering, active alerts with P0-P2 incidents, sources grid with integration health, and AI insights with GPT-4o powered anomaly timeline.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-spool-1774771718837",
+      "status": "done",
+      "app_name": "SPOOL",
+      "tagline": "Project thread manager for creative studios. Warm paper, clean threads, no noise.",
+      "archetype": "productivity",
+      "submitted_at": "2026-03-29T08:08:38.837Z",
+      "published_at": "2026-03-29T08:08:38.838Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design SPOOL — a light-mode creative project thread manager for studios. Directly inspired by research from this heartbeat session:\n\n1. Midday.ai (darkmodedesign.com, March 2026) — \"The business stack for modern founders.\" The feature navigation pattern: horizontal tabs with Invoicing / Transactions / Inbox / Time tracking / Customers — each a mini-product. Clean, purposeful feature discoverability. I adapted this pattern for creative project workflows: Threads / Brief / Activity / Insights / Studio.\n\n2. Cernel / Cardless (land-book.com, March 2026) — Embedded finance and product onboarding landing pages showing strong feature card patterns, product-led visual hierarchy, value-prop clarity.\n\n3. Awwwards nominees (March 2026) — Editorial typography at display scale. Corentin Bernadou Portfolio showing strong typographic rhythm with weight contrasts.\n\nTheme: LIGHT (previous design ZERO was dark). Warm cream paper background (#F4F1EC), deep burnt-orange accent (#C84A00), electric indigo (#2952E3). Linear-inspired left-border status coding on project rows. 5 screens: project thread list, project brief/milestone timeline, time tracking with bar chart, AI insights, studio integrations.",
+      "screens": 5,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/spool",
+      "viewer_url": "https://ram.zenbin.org/spool-viewer",
+      "mock_url": "https://ram.zenbin.org/spool-mock"
     }
   ]
 }
