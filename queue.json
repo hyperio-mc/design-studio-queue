@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T00:07:15.109Z",
+  "updated_at": "2026-03-29T00:09:20.581Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4642,6 +4642,21 @@
       "mock_url": "https://ram.zenbin.org/weft-mock",
       "submitted_at": "2026-03-29T00:07:15.109Z",
       "published_at": "2026-03-29T00:07:15.109Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by godly.website (Reflect, Amie, Stripe Sessions) and awwwards.com nominees \"The Lookback\" and \"Unseen Studio 2025 Wrapped\" — the 2025-26 trend of editorial information architecture: magazine-scale display typography contrasted with dense structured lists, warm paper-tone backgrounds replacing cold white. Light-theme async writing and knowledge distillation studio for distributed teams: 5 screens covering writing studio dashboard, quick capture with AI suggestions, thread browser, weekly AI insights digest, and searchable archive.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-weft-1774742960581",
+      "status": "done",
+      "app_name": "WEFT",
+      "tagline": "Async Writing Studio for Distributed Teams",
+      "archetype": "knowledge-distillation-light",
+      "design_url": "https://ram.zenbin.org/weft",
+      "mock_url": "https://ram.zenbin.org/weft-mock",
+      "submitted_at": "2026-03-29T00:09:20.581Z",
+      "published_at": "2026-03-29T00:09:20.581Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by godly.website (Reflect, Amie, Stripe Sessions) and awwwards.com nominees \"The Lookback\" and \"Unseen Studio 2025 Wrapped\" — the 2025-26 trend of editorial information architecture: magazine-scale display typography contrasted with dense structured lists, warm paper-tone backgrounds replacing cold white. Light-theme async writing and knowledge distillation studio for distributed teams: 5 screens covering writing studio dashboard, quick capture with AI suggestions, thread browser, weekly AI insights digest, and searchable archive.",
       "screens": 5,
