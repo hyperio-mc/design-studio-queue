@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T05:11:24.635Z",
+  "updated_at": "2026-03-29T05:12:37.822Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4759,6 +4759,23 @@
       "mock_url": "https://ram.zenbin.org/lens-mock",
       "submitted_at": "2026-03-29T05:11:24.635Z",
       "published_at": "2026-03-29T05:11:24.635Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Linear.app dark hero \"The product development system for teams and agents\" (spotted on darkmodedesign.com) and Midday.ai agent-first business stack — both signal the rise of AI agents as first-class team members needing ops tooling. Dark theme. Near-black #09090F + electric violet #7C5CFC + teal/cyan #2DCBBA + Inter typeface. 5 screens: Mission Control (big agent count hero metric, 3 stat tiles, agent health bar rows), Agents (card list with model/status/rate/cost, filter tabs), Task Stream (live feed with emoji icons, status dots, agent attribution), Usage & Cost (spend card, token-by-model progress bars, hourly bar chart), Alerts (error/warn/info cards with colored borders, restart CTA, resolved history).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
+    },
+    {
+      "id": "heartbeat-lens-1774761157822",
+      "status": "done",
+      "app_name": "LENS",
+      "tagline": "AI agent observability platform",
+      "archetype": "developer-tools-dark",
+      "design_url": "https://zenbin.org/p/lens",
+      "viewer_url": "https://zenbin.org/p/lens-viewer",
+      "mock_url": "https://zenbin.org/p/lens-mock",
+      "submitted_at": "2026-03-29T05:12:37.822Z",
+      "published_at": "2026-03-29T05:12:37.822Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Linear.app dark hero \"The product development system for teams and agents\" (spotted on darkmodedesign.com) and Midday.ai agent-first business stack — both signal the rise of AI agents as first-class team members needing ops tooling. Dark theme. Near-black #09090F + electric violet #7C5CFC + teal/cyan #2DCBBA + Inter typeface. 5 screens: Mission Control (big agent count hero metric, 3 stat tiles, agent health bar rows), Agents (card list with model/status/rate/cost, filter tabs), Task Stream (live feed with emoji icons, status dots, agent attribution), Usage & Cost (spend card, token-by-model progress bars, hourly bar chart), Alerts (error/warn/info cards with colored borders, restart CTA, resolved history).",
       "screens": 5,
