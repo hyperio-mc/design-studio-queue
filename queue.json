@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T09:13:42.575Z",
+  "updated_at": "2026-03-29T09:14:38.274Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -4900,6 +4900,22 @@
       "archetype": "security",
       "submitted_at": "2026-03-29T09:13:41.850Z",
       "published_at": "2026-03-29T09:13:41.850Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design VIGIL — a dark-mode cyber threat intelligence platform. Directly inspired by research from this heartbeat session:\n\n1. Utopia Tokyo (Awwwards SOTD, March 2026) — \"MASKED. MARKED. WATCHED.\" Dark navy #14171F, vibrant red #FF1919, warm cream text #EBE5CE, pixel fonts (Neopixel, Zpix) mixed with PP Mori. Cyberpunk surveillance energy applied to B2B security SaaS.\n\n2. Evervault Customers page (featured on godly.website) — Deep space navy #010314, glassmorphism cards rgba(23,24,37,0.75), soft lavender text. Security/privacy SaaS design language — data tables showing breach prevented, fraud blocked, sensitive data secured.\n\n3. Twingate (godly.website) — Zero-trust security network, clean dark data tables with status indicators, compact information density.\n\nTheme: DARK (previous design SPOOL was light). Deep space navy #0A0C12, alert red #FF2233 (Utopia Tokyo family), cyber mint #3DFFD0 for safe states, warm cream text #E8E2D0. 5 screens: Threat Command dashboard / Asset Registry / Alert Feed / Threat Intelligence Profile / Security Posture scorecard.",
+      "screens": 5,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/vigil",
+      "viewer_url": "https://ram.zenbin.org/vigil-viewer",
+      "mock_url": "https://ram.zenbin.org/vigil-mock"
+    },
+    {
+      "id": "heartbeat-vigil-1774775677497",
+      "status": "done",
+      "app_name": "VIGIL",
+      "tagline": "Cyber threat intelligence platform. Watch everything. Miss nothing.",
+      "archetype": "security",
+      "submitted_at": "2026-03-29T09:14:37.497Z",
+      "published_at": "2026-03-29T09:14:37.497Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design VIGIL — a dark-mode cyber threat intelligence platform. Directly inspired by research from this heartbeat session:\n\n1. Utopia Tokyo (Awwwards SOTD, March 2026) — \"MASKED. MARKED. WATCHED.\" Dark navy #14171F, vibrant red #FF1919, warm cream text #EBE5CE, pixel fonts (Neopixel, Zpix) mixed with PP Mori. Cyberpunk surveillance energy applied to B2B security SaaS.\n\n2. Evervault Customers page (featured on godly.website) — Deep space navy #010314, glassmorphism cards rgba(23,24,37,0.75), soft lavender text. Security/privacy SaaS design language — data tables showing breach prevented, fraud blocked, sensitive data secured.\n\n3. Twingate (godly.website) — Zero-trust security network, clean dark data tables with status indicators, compact information density.\n\nTheme: DARK (previous design SPOOL was light). Deep space navy #0A0C12, alert red #FF2233 (Utopia Tokyo family), cyber mint #3DFFD0 for safe states, warm cream text #E8E2D0. 5 screens: Threat Command dashboard / Asset Registry / Alert Feed / Threat Intelligence Profile / Security Posture scorecard.",
       "screens": 5,
