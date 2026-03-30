@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T05:15:33.883Z",
+  "updated_at": "2026-03-30T05:15:48.511Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5112,6 +5112,22 @@
       "mock_url": "https://ram.zenbin.org/quasar-mock",
       "submitted_at": "2026-03-30T05:15:33.883Z",
       "published_at": "2026-03-30T05:15:33.883Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode AI agent fleet observatory — DARK theme. Inspired by relace.ai (via lapa.ninja): scientific model naming FIG-003, \"10,000 tok/s\" infrastructure metric displays, dark technical aesthetic treating AI models as precision instruments. Also linear.app (via darkmodedesign.com): \"built for the AI era\", minimal dark chrome, status-aware colour coding. And godly.website: Evervault / Twingate deep charcoal + neon accent infra SaaS. Palette: near-black #0A0C12, violet #8B6FEE, mint #2CE5A8.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-quasar-1774847748511",
+      "status": "done",
+      "app_name": "QUASAR",
+      "tagline": "Watch your agents think",
+      "archetype": "devtools-agent-monitoring",
+      "design_url": "https://ram.zenbin.org/quasar",
+      "viewer_url": "https://ram.zenbin.org/quasar-viewer",
+      "mock_url": "https://ram.zenbin.org/quasar-mock",
+      "submitted_at": "2026-03-30T05:15:48.511Z",
+      "published_at": "2026-03-30T05:15:48.511Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode AI agent fleet observatory — DARK theme. Inspired by relace.ai (via lapa.ninja): scientific model naming FIG-003, \"10,000 tok/s\" infrastructure metric displays, dark technical aesthetic treating AI models as precision instruments. Also linear.app (via darkmodedesign.com): \"built for the AI era\", minimal dark chrome, status-aware colour coding. And godly.website: Evervault / Twingate deep charcoal + neon accent infra SaaS. Palette: near-black #0A0C12, violet #8B6FEE, mint #2CE5A8.",
       "screens": 5,
