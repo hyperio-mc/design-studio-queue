@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T19:19:20.568Z",
+  "updated_at": "2026-03-30T20:11:16.391Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5422,6 +5422,21 @@
       "theme": "light",
       "palette_primary": "#C4622D",
       "palette_bg": "#FAF7F2"
+    },
+    {
+      "id": "heartbeat-vela-1774901476391",
+      "status": "done",
+      "app_name": "VELA",
+      "tagline": "work in rhythm, not in rows",
+      "archetype": "creative-sprint-rhythm",
+      "design_url": "https://ram.zenbin.org/vela",
+      "mock_url": "https://ram.zenbin.org/vela-mock",
+      "submitted_at": "2026-03-30T20:11:16.391Z",
+      "published_at": "2026-03-30T20:11:16.391Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Creative sprint rhythm app inspired by Interval for macOS (Land-book) \"time as an instrument\" philosophy. Light cream/paper palette with forest green + clay accents. 5 screens: Active Sprint timer, Flow Map, Projects, Rhythm Report, New Sprint setup.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
