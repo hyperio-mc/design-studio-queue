@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T22:14:24.463Z",
+  "updated_at": "2026-03-30T23:11:24.310Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5666,6 +5666,25 @@
       "fonts": "Inter + Space Mono",
       "inspiration": "Evervault (Godly.website Mar 30 2026) + Linear (DarkModeDesign.com Mar 30 2026)",
       "notes": "mock_url updated to echo-viewer (ZenBin 100-page limit reached for echo-mock)"
+    },
+    {
+      "id": "heartbeat-gather-1774912284310",
+      "status": "done",
+      "app_name": "GATHER",
+      "tagline": "Developer conference companion — schedule-first, speaker-focused",
+      "archetype": "event-companion",
+      "design_url": "https://ram.zenbin.org/gather",
+      "mock_url": "https://ram.zenbin.org/gather-mock",
+      "submitted_at": "2026-03-30T23:11:24.310Z",
+      "published_at": "2026-03-30T23:11:24.310Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Stripe Sessions 2026 (stripesessions.com, found via godly.website Mar 30 2026) — warm off-white #F9F7F7 background, editorial Söhne variable font, conference-section hierarchy (Why attend / See what's next / Expand your skills), typography-first layout pattern. Also Land-book.com curations showing strong serif-meets-UI-sans editorial contrasts in light themes. Developer conference companion app: schedule-first with time-axis session blocks, speaker grid, personal agenda with conflict detection, venue floor map. Novel pattern: Vertical time-axis schedule with color-coded track columns (Design=teal, Engineering=blue, Product=grape) + split-track side-by-side sessions. First use of Playfair Display (editorial serif) paired with Inter (UI sans) in heartbeat series. Light theme: warm paper cream #F9F7F5 + ember amber accent #E8632A + ember tint cards #FDF1EB. 5 screens: Today (schedule timeline), Session Detail (editorial big title + speaker + stats), Speakers (2-col card grid with track badges), My Agenda (personal saved sessions with conflict detection), Venue (floor map with room states).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "#F9F7F5 + #FFFFFF + #E8632A + #18140E (Warm Paper + Surface + Ember Amber + Deep Ink)",
+      "fonts": "Playfair Display + Inter + JetBrains Mono",
+      "inspiration": "Stripe Sessions 2026 (stripesessions.com via godly.website Mar 30 2026) + Land-book.com (Mar 30 2026)"
     }
   ]
 }
