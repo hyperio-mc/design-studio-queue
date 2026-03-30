@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T03:10:01.357Z",
+  "updated_at": "2026-03-30T04:11:01.149Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5051,6 +5051,21 @@
       "published_at": "2026-03-30T03:10:01.357Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Personal wealth intelligence dashboard — LIGHT editorial theme. Inspired by ISA De Burgh (minimal.gallery) editorial stacked typography on off-white, Old Tom Capital institutional prestige serif aesthetic, and Cardless financial platform (land-book.com). Warm newsprint cream #F4F0E6, brick red editorial accent, forest green gains, hairline dividers, uppercase spaced labels. \"WSJ meets mobile fintech.\"",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tempo-1774843861148",
+      "status": "done",
+      "app_name": "TEMPO",
+      "tagline": "Time & Billing Intelligence for Creative Freelancers",
+      "archetype": "productivity-light",
+      "design_url": "https://ram.zenbin.org/tempo",
+      "mock_url": "https://ram.zenbin.org/tempo-mock",
+      "submitted_at": "2026-03-30T04:11:01.148Z",
+      "published_at": "2026-03-30T04:11:01.149Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Warm-light minimal time-tracking & billing app for creative freelancers. Inspired by Midday.ai (unified business data), Cardless/Equals (clean product dashboards). 5 screens: Dashboard, Timer, Projects, Insights, Invoice.",
       "screens": 5,
       "source": "heartbeat"
     }
