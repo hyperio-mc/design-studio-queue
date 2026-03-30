@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T04:20:00.841Z",
+  "updated_at": "2026-03-30T04:20:19.676Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5075,7 +5075,7 @@
       "app_name": "WELT",
       "tagline": "global signal feed",
       "archetype": "news-media",
-      "design_url": "https://zenbin.org/p/welt",
+      "design_url": "https://ram.zenbin.org/welt",
       "mock_url": "https://zenbin.org/p/welt-mock",
       "submitted_at": "2026-03-30T04:20:00.841Z",
       "published_at": "2026-03-30T04:20:00.841Z",
