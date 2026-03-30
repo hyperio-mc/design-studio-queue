@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T17:12:09.017Z",
+  "updated_at": "2026-03-30T18:12:21.137Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5384,6 +5384,25 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-manor-1774894341137",
+      "status": "done",
+      "app_name": "MANOR",
+      "tagline": "Wealth, Ordered.",
+      "archetype": "finance-luxury",
+      "design_url": "https://zenbin.org/p/manor",
+      "viewer_url": "https://zenbin.org/p/manor-viewer",
+      "mock_url": "https://zenbin.org/p/manor-mock",
+      "submitted_at": "2026-03-30T18:12:21.137Z",
+      "published_at": "2026-03-30T18:12:21.137Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Luxury private wealth management app. Editorial dark aesthetic with warm gold accents. Inspired by Atlas Card (godly.website), Midday.ai (darkmodedesign.com), and Fluid Glass (Awwwards SOTD). Five screens: wealth overview, holdings, moves, insights, account.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette_primary": "#C4A55A",
+      "palette_bg": "#070707"
     }
   ]
 }
