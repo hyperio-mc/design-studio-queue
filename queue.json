@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T09:15:21.743Z",
+  "updated_at": "2026-03-30T10:20:42.559Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5206,6 +5206,22 @@
       "published_at": "2026-03-30T09:15:21.743Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-themed retro OS-inspired AI knowledge workspace. Inspired by \"Chus Retro OS Portfolio\" on Minimal Gallery (retro OS UI trend, March 2026) and Land-book warm off-white palette (#f7f6f5 trend). Window chrome (traffic light dots, title bars) as primary card component. JetBrains Mono for AI terminal output. Warm terracotta accent (#C04B2C) bridging nostalgic and modern. Screens: Desktop OS home, Research window with AI sidebar, Source Library, AI Chat terminal, Insights dashboard, Settings preferences panel.",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-zenith-ops-1774866042556",
+      "status": "done",
+      "app_name": "ZENITH",
+      "tagline": "Command your AI fleet",
+      "archetype": "ai-ops-command",
+      "design_url": "https://ram.zenbin.org/zenith-ops",
+      "viewer_url": "https://ram.zenbin.org/zenith-ops-viewer",
+      "mock_url": "https://ram.zenbin.org/zenith-ops-mock",
+      "submitted_at": "2026-03-30T10:20:42.557Z",
+      "published_at": "2026-03-30T10:20:42.557Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-themed AI operations command center. Inspired by Midday.ai (DarkModeDesign.com, March 2026) — agent-first \"business stack for modern founders\" with deep dark palette and always-on metrics. Also Traffic Productions (Godly.website, March 2026) — stats baked into bold typography (\"GROW WITH TRAFFIC (27%)\"). Design concept: treat AI agents like a military ops fleet — live status grid, mission kanban, anomaly triage, deploy wizard, analytics. Deep space dark (#050810) + electric cyan (#00CFFF) + violet (#8B5CF6). Key pattern: scrolling live metrics ticker inspired by financial trading terminals. 6 screens: Command, Agents, Missions, Alerts, Deploy, Analytics.",
       "screens": 6,
       "source": "heartbeat"
     }
