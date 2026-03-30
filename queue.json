@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T15:14:11.672Z",
+  "updated_at": "2026-03-30T16:12:01.519Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5336,6 +5336,22 @@
         "land-book.com/Interfere",
         "darkmodedesign.com/Midday"
       ]
+    },
+    {
+      "id": "heartbeat-leaf-1774887121519",
+      "status": "done",
+      "app_name": "Leaf",
+      "tagline": "Your reading life, beautifully kept",
+      "archetype": "reading-companion",
+      "design_url": "https://ram.zenbin.org/leaf",
+      "mock_url": "https://ram.zenbin.org/leaf-mock",
+      "submitted_at": "2026-03-30T16:12:01.519Z",
+      "published_at": "2026-03-30T16:12:01.519Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Reading companion app — warm parchment light theme inspired by minimal.gallery Litbix (for book lovers) + KOMETA Typefaces editorial typography trend. Playfair Display serif, terracotta accent, shelf/detail/session/quotes/stats screens.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
