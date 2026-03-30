@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T14:16:11.594Z",
+  "updated_at": "2026-03-30T15:14:11.672Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5308,6 +5308,34 @@
       "source": "heartbeat",
       "theme": "light",
       "inspiration": "Awwwards SOTD \"Fluid Glass\" by Exo Ape — Mar 30 2026"
+    },
+    {
+      "id": "heartbeat-uplink-1774883651671",
+      "status": "done",
+      "app_name": "Uplink",
+      "tagline": "Your API's nervous system.",
+      "archetype": "monitoring-dashboard",
+      "design_url": "https://zenbin.org/p/uplink",
+      "mock_url": "https://zenbin.org/p/uplink-mock",
+      "viewer_url": "https://zenbin.org/p/uplink-viewer",
+      "submitted_at": "2026-03-30T15:14:11.671Z",
+      "published_at": "2026-03-30T15:14:11.672Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "API health monitoring dashboard for indie developers. Inspired by Godly Status tool (featured Mar 2026), Land-book Interfere reliability branding, and Dark Mode Design Midday business dashboard. Dark navy + electric blue + emerald. Monospace data aesthetic with 5 screens: Status, Routes, Incidents, Analytics, Alerts.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#0B0D14",
+        "accent": "#4F7EFF",
+        "accent2": "#FF4F6A",
+        "green": "#3DCA8A"
+      },
+      "inspired_by": [
+        "godly.website/Status",
+        "land-book.com/Interfere",
+        "darkmodedesign.com/Midday"
+      ]
     }
   ]
 }
