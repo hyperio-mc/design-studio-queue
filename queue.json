@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T11:10:55.697Z",
+  "updated_at": "2026-03-30T12:10:25.334Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5243,6 +5243,28 @@
       "theme": "light",
       "palette_accent": "#2563EB",
       "palette_accent2": "#10B981"
+    },
+    {
+      "id": "heartbeat-stillpoint-1774872625334",
+      "status": "done",
+      "app_name": "STILLPOINT",
+      "tagline": "Enter the stillness.",
+      "archetype": "focus-session",
+      "design_url": "https://zenbin.org/p/stillpoint",
+      "mock_url": "https://zenbin.org/p/stillpoint-mock",
+      "submitted_at": "2026-03-30T12:10:25.334Z",
+      "published_at": "2026-03-30T12:10:25.334Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Cinematic dark focus-session app inspired by supercommon systems (land-book.com) — \"stillness vs motion\" philosophy, ultra-minimal near-black bg, ice-blue accent, sparse negative space.",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#06060E",
+        "accent": "#8BB8FF",
+        "accent2": "#C4A882"
+      },
+      "inspiration": "supercommon systems via land-book.com — stillness vs motion"
     }
   ]
 }
