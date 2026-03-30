@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T20:26:02.735Z",
+  "updated_at": "2026-03-30T20:36:26.837Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
       "slug": "cura",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CURA",
       "tagline": "Your longevity OS, distilled",
       "archetype": "health-longevity",
@@ -23,7 +23,8 @@
         "fg": "#F5F0E8",
         "accent": "#E8821A",
         "accent2": "#4ADE80"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.831Z"
     },
     {
       "id": "heartbeat-meridian-1774451586264",
@@ -45,7 +46,7 @@
     },
     {
       "id": "heartbeat-wire",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "WIRE",
       "tagline": "Connect agents. Route everything.",
       "archetype": "Developer Tools / MCP Infrastructure",
@@ -56,11 +57,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design WIRE — a dark-mode MCP Server Router & AI Agent Orchestration platform. Inspired by land-book.com (March 22, 2026) where MCP/agent infrastructure is an emerging hot category (Runlayer \"Enterprise MCPs, Skills & Agents\", LangChain, Cerve \"Turn trading data into superintelligence\"), Linear.app's near-black #08090A calmer UI refresh with numbered feature reveals and AI-first framing (darkmodedesign.com), and Atlas Card's cinematic pure-black editorial luxury (godly.website). Palette: #08090A near-black bg, #111316 surface, #6366F1 indigo accent, #22D3EE cyan for data flows. 5 screens: Dashboard (system status, live traffic sparkline, active agents), Servers (12 MCP server list with health indicators), Routes (agent pipeline rules), Analytics (request volume chart, latency distribution, error breakdown), API Keys (token management, quota usage).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-nemesis",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "NEMESIS",
       "tagline": "Tactical UAV swarm commander. Intercept hostile drones. Protect the front.",
       "archetype": "productivity",
@@ -71,11 +73,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design NEMESIS — a tactical UAV swarm commander mobile app for interceptor drone operations. Directly inspired by Darknode (Awwwards SOTD March 21, 2026 — \"mission-like site blending minimal UI and stealth\" for Ukraine's 412th Nemesis brigade), Dark Mode Design showcase trend of near-black + single electric accent, and the military operator aesthetic seen in Land-book's Runlayer enterprise AI tools landing. Palette: void black #080A0A + electric teal #00E5B0 (strict 2-color Darknode principle). Monospace typography. 5 mobile screens: Mission Ops Overview · Tactical Grid Map · Swarm Status · Mission Brief · Alert Log.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-tint-1774120501617",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "TINT",
       "tagline": "Personal finance as a beauty ritual — blush+indigo bento dashboard",
       "archetype": "finance",
@@ -85,11 +88,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design TINT — a personal finance wellness app treating money management like a beauty ritual. Inspired by overlay.com's blush white #FBF9FB + deep indigo #2E2F53 palette (lapa.ninja, March 2026, \"The Future of Beauty is Automated\") and interfere.com's dense bento grid of feature cards (lapa.ninja, March 2026). Roboto Flex variable font. 5 mobile screens: Welcome / Onboarding · Daily Dashboard (bento grid) · Spending Ritual (category breakdown) · Spending Rhythms (weekly pattern analysis) · Goal Garden (savings trackers).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-lattice",
-      "status": "done",
+      "status": "unavailable",
       "prompt": "Design LATTICE — an AI developer experience analytics platform for engineering teams. Inspired by Evervault's ultra-deep navy #010314 background seen on godly.website (enterprise security SaaS aesthetic), LangChain's AI developer tool landing page trending on land-book.com (March 2026), Linear's hyper-refined dark UI from darkmodedesign.com, and Good Fella's brutalist motion-forward portfolio on Awwwards. Palette: void navy #010610 with electric blue #4F8EFF, teal #00C896, amber #FFB340. 5 mobile screens: Dashboard (DORA metrics bento) · PR Analytics (cycle time chart + review queue) · Alerts (incident intelligence) · Code Health (tech debt + coverage) · Team (contributor dashboard).",
       "submitted_at": "2026-03-20T13:09:18.689Z",
       "credit": "RAM Design Heartbeat",
@@ -99,14 +103,15 @@
       "tagline": "AI-powered developer experience analytics. DORA metrics, PR cycle time, code health, and team insights — in one ultra-dark dashboard.",
       "app_name": "LATTICE",
       "published_at": "2026-03-20T13:09:18.689Z",
-      "mock_url": "https://ram.zenbin.org/lattice-mock"
+      "mock_url": "https://ram.zenbin.org/lattice-mock",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-lumen",
       "prompt": "Design LUMEN — a dark-mode developer conference discovery & live streaming platform. Inspired by Stripe Sessions 2026's ultra-thin variable font typography at weight 250 on massive 90px display headings (land-book.com / lapa.ninja), Evervault's cosmic near-black #010314 with glassmorphism panels (godly.website), and Twingate's confident minimal developer-tool aesthetic on dark #0E0F11 (godly.website). Palette: cosmic void #07070F, warm cream text #EDE9E0, electric acid lime #C8F03D accent, soft violet #8B7FFF interactive. 5 mobile screens: Home Feed · Conference Detail · Session Browser · My Schedule · Live Now.",
       "design_url": "https://ram.zenbin.org/lumen",
       "submitted_at": "2026-03-20T12:10:06.180Z",
-      "status": "done",
+      "status": "unavailable",
       "credit": "RAM Design Heartbeat",
       "tags": [
         "conference",
@@ -116,14 +121,15 @@
         "developer-tools"
       ],
       "published_at": "2026-03-20T12:10:06.180Z",
-      "archetype": "studio"
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-trace",
       "prompt": "Design TRACE — an AI Observability Platform for engineers monitoring autonomous agents in production. Inspired by Good Fella (Awwwards SOTD Mar 18, 2026 — #FB460D / #141314 two-color extreme minimalism, flat design, WebGL, editorial typography), Evervault Customers on Godly (dark gradient SaaS, Inter + Roobert, clean animation), and Linear on darkmodedesign.com (precision dark UI, monospace data density, hairline dividers). Single violent accent #FB460D does all the work. 6 mobile screens: Traces · Waterfall · Dashboard · Agents · Alert Detail · Settings.",
       "design_url": "https://ram.zenbin.org/trace",
       "submitted_at": "2026-03-20T11:10:06.847Z",
-      "status": "done",
+      "status": "unavailable",
       "credit": "RAM Design Heartbeat",
       "tags": [
         "ai-observability",
@@ -134,11 +140,12 @@
         "warm-dark"
       ],
       "published_at": "2026-03-20T11:10:06.847Z",
-      "archetype": "studio"
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-proxy",
-      "status": "done",
+      "status": "unavailable",
       "prompt": "Design PROXY — a dark-mode AI Agent Control Room for solo founders. Inspired by: (1) Belka.ai (darkmodedesign.com, March 2026) — near-dark #181818 with editorial bold serif typography for an AI industrial product, an unexpected Times New Roman move; (2) Linear (darkmodedesign.com) — near-black #08090A agent-native positioning, \"for teams and agents\"; (3) Stripe Sessions 2026 (godly.website) — deep violet accent on darkness. Palette: near-black #0A0A0F + electric violet #6B5EFF + cyber teal #3DFFC0. 5 mobile screens: Mission Control · Agent Detail · Task Queue · Audit Log · Deploy Agent.",
       "submitted_at": "2026-03-20T08:10:55.109Z",
       "credit": "RAM Design Heartbeat",
@@ -147,14 +154,15 @@
       "appName": "PROXY",
       "tagline": "Real-time AI Agent Control Room for solo founders. Monitor, orchestrate, and audit the AI agents running your business.",
       "app_name": "PROXY",
-      "published_at": "2026-03-20T08:10:55.109Z"
+      "published_at": "2026-03-20T08:10:55.109Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-sable",
       "prompt": "Design SABLE — a dark-mode personal finance app with bento-grid layout. Inspired by AuthKit's modular bento panel architecture and gradient depth (godly.website #991), Silencio's stark all-caps Neue Haas Grotesk brutalist type hierarchy (godly.website #964), and the dark finance UI wave trending on darkmodedesign.com (Midday, Forge, Flomodia). Palette: void black #080A0F + electric amber #F59E0B + income green #10B981 + expense red #EF4444. 5 mobile screens: Home Bento Dashboard · Spending Breakdown · Transaction History · Add Transaction · Budget Goals.",
       "design_url": "https://ram.zenbin.org/sable",
       "submitted_at": "2026-03-20T00:08:56.695Z",
-      "status": "done",
+      "status": "unavailable",
       "credit": "RAM Design Heartbeat",
       "tags": [
         "finance",
@@ -164,7 +172,8 @@
         "amber"
       ],
       "published_at": "2026-03-20T00:08:56.695Z",
-      "archetype": "studio"
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-meridian-1773954543712",
@@ -212,8 +221,9 @@
       "screens": 6,
       "submitted_at": "2026-03-19T09:10:55.261Z",
       "source": "heartbeat",
-      "status": "done",
-      "published_at": "2026-03-19T09:10:55.261Z"
+      "status": "unavailable",
+      "published_at": "2026-03-19T09:10:55.261Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-strand-1773900733788",
@@ -231,8 +241,9 @@
       "screens": 10,
       "submitted_at": "2026-03-19T06:12:13.788Z",
       "source": "heartbeat",
-      "status": "done",
-      "published_at": "2026-03-19T06:12:13.788Z"
+      "status": "unavailable",
+      "published_at": "2026-03-19T06:12:13.788Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-ledge-1773886314171",
@@ -250,8 +261,9 @@
       "screens": 10,
       "submitted_at": "2026-03-19T02:11:54.171Z",
       "source": "heartbeat",
-      "status": "done",
-      "published_at": "2026-03-19T02:11:54.171Z"
+      "status": "unavailable",
+      "published_at": "2026-03-19T02:11:54.171Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-sentry-1773857428693",
@@ -270,8 +282,9 @@
       "screens": 6,
       "submitted_at": "2026-03-18T18:10:28.693Z",
       "source": "heartbeat",
-      "status": "done",
-      "published_at": "2026-03-18T18:10:28.693Z"
+      "status": "unavailable",
+      "published_at": "2026-03-18T18:10:28.693Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-refract-1773843274341",
@@ -289,8 +302,9 @@
       "screens": 10,
       "submitted_at": "2026-03-18T14:14:34.341Z",
       "source": "heartbeat",
-      "status": "done",
-      "published_at": "2026-03-18T14:14:34.341Z"
+      "status": "unavailable",
+      "published_at": "2026-03-18T14:14:34.341Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "ds-req-hljr0",
@@ -564,7 +578,7 @@
       "design_url": "https://ram.zenbin.org/grid",
       "created_at": "2026-03-18T14:00:00.000Z",
       "published_at": "2026-03-18T14:00:00.000Z",
-      "status": "done",
+      "status": "unavailable",
       "credit": "RAM Studio",
       "inspiration": "Yamauchi No.10 Family Office (y-n10.com) — pixel-grid gaming aesthetic on institutional finance, via Siteinspire",
       "skills_used": [
@@ -574,7 +588,8 @@
         "pixel sparkline",
         "pen-utils.js"
       ],
-      "viewer_url": "https://ram.zenbin.org/grid-viewer"
+      "viewer_url": "https://ram.zenbin.org/grid-viewer",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-pulse-1773850233877",
@@ -583,9 +598,10 @@
       "archetype": "developer-tools",
       "credit": "RAM Studio Heartbeat",
       "submitted_at": "2026-03-18T16:10:33.877Z",
-      "status": "done",
+      "status": "unavailable",
       "design_url": "https://ram.zenbin.org/pulse-code-review",
-      "published_at": "2026-03-18T16:10:33.877Z"
+      "published_at": "2026-03-18T16:10:33.877Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-phantom-1773861381013",
@@ -594,9 +610,10 @@
       "archetype": "developer-tools",
       "credit": "RAM Studio Heartbeat",
       "submitted_at": "2026-03-18T19:16:21.013Z",
-      "status": "done",
+      "status": "unavailable",
       "design_url": "https://ram.zenbin.org/phantom-ai-coder",
-      "published_at": "2026-03-18T19:16:21.013Z"
+      "published_at": "2026-03-18T19:16:21.013Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "ds-req-hlo0k",
@@ -616,12 +633,13 @@
       "app_type": "health",
       "credit": "RAM Studio",
       "submitted_at": "2026-03-18T20:22:54.065Z",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "PURA",
       "archetype": "health",
       "design_url": "https://ram.zenbin.org/pura",
       "viewer_url": "https://ram.zenbin.org/pura-viewer",
-      "published_at": "2026-03-18T20:22:55.634Z"
+      "published_at": "2026-03-18T20:22:55.634Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-signal-1773866341482",
@@ -629,12 +647,13 @@
       "app_type": "social",
       "credit": "RAM Studio",
       "submitted_at": "2026-03-18T20:39:01.482Z",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SIGNAL",
       "archetype": "social",
       "design_url": "https://ram.zenbin.org/signal",
       "viewer_url": "https://ram.zenbin.org/signal-viewer",
-      "published_at": "2026-03-18T20:39:03.150Z"
+      "published_at": "2026-03-18T20:39:03.150Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-cipher-1742299200000",
@@ -642,11 +661,12 @@
       "app_type": "developer-tools",
       "credit": "RAM Studio",
       "submitted_at": "2026-03-18T21:10:14.603Z",
-      "status": "done",
+      "status": "unavailable",
       "design_url": "https://ram.zenbin.org/cipher",
       "app_name": "CIPHER",
       "archetype": "developer-tools",
-      "published_at": "2026-03-18T21:10:14.603Z"
+      "published_at": "2026-03-18T21:10:14.603Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-mnemo-1742299200000",
@@ -654,11 +674,12 @@
       "app_type": "productivity",
       "credit": "RAM Studio",
       "submitted_at": "2026-03-18T22:09:20.668Z",
-      "status": "done",
+      "status": "unavailable",
       "design_url": "https://ram.zenbin.org/mnemo",
       "app_name": "MNEMO",
       "archetype": "productivity",
-      "published_at": "2026-03-18T22:09:20.668Z"
+      "published_at": "2026-03-18T22:09:20.668Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-swarm-1773889712564",
@@ -667,9 +688,10 @@
       "archetype": "developer-tools",
       "credit": "RAM Studio Heartbeat",
       "submitted_at": "2026-03-19T03:08:32.564Z",
-      "status": "done",
+      "status": "unavailable",
       "design_url": "https://ram.zenbin.org/swarm-agent-dashboard",
-      "published_at": "2026-03-19T03:08:32.564Z"
+      "published_at": "2026-03-19T03:08:32.564Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-forge-1773893903961",
@@ -680,8 +702,9 @@
       "tagline": "Your AI dev team. One monthly subscription.",
       "archetype": "developer-tools",
       "credit": "RAM Studio",
-      "status": "done",
-      "published_at": "2026-03-19T04:18:23.961Z"
+      "status": "unavailable",
+      "published_at": "2026-03-19T04:18:23.961Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-meter-1773897197796",
@@ -699,7 +722,7 @@
       "screens": 6,
       "submitted_at": "2026-03-19T05:13:17.796Z",
       "source": "heartbeat",
-      "status": "pending",
+      "status": "unavailable",
       "tags": [
         "developer-tool",
         "finops",
@@ -708,7 +731,8 @@
         "ai"
       ],
       "heartbeat": 13,
-      "published_at": "2026-03-19T05:13:17.796Z"
+      "published_at": "2026-03-19T05:13:17.796Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "daedalus-pipeline-builder",
@@ -727,8 +751,9 @@
         "node-graph"
       ],
       "created_at": "2026-03-19T15:29:44.281Z",
-      "status": "published",
-      "archetype": "studio"
+      "status": "unavailable",
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-sentinel-1773940356972",
@@ -759,8 +784,9 @@
         "indigo"
       ],
       "created_at": "2026-03-19T20:09:10.744Z",
-      "status": "published",
-      "archetype": "studio"
+      "status": "unavailable",
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-relay-1773958318201",
@@ -781,7 +807,8 @@
       },
       "inspiration": "Linear (darkmodedesign.com), Runlayer (land-book.com), Silencio.es (godly.website)",
       "published_at": "2026-03-19T22:11:58.201Z",
-      "status": "done"
+      "status": "unavailable",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-till-1773962045158",
@@ -800,12 +827,13 @@
       },
       "screens": 10,
       "prompt": "Design a dark-mode micro-revenue dashboard for solo freelancers — inspired by Midday.ai's near-void dark financial UI and Moneda's \"money that finally works for you\" fintech aesthetic. Amber gold on aubergine-black. Tabular data meets warmth.",
-      "status": "done",
-      "published_at": "2026-03-19T23:14:05.916Z"
+      "status": "unavailable",
+      "published_at": "2026-03-19T23:14:05.916Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-1773968876521",
-      "status": "done",
+      "status": "unavailable",
       "submitted_at": "2026-03-20T01:07:56.521Z",
       "prompt": "Design a dark-mode editorial journaling app inspired by Linear's manifesto aesthetic. App name: VERSE.",
       "credit": "RAM Design Studio (Heartbeat)",
@@ -815,11 +843,12 @@
       "tagline": "Editorial dark journaling. Every day deserves a page.",
       "archetype": "dark-mobile-journaling",
       "screens": 5,
-      "published_at": "2026-03-20T01:07:56.521Z"
+      "published_at": "2026-03-20T01:07:56.521Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-orbiter-1773972542897",
-      "status": "done",
+      "status": "unavailable",
       "submitted_at": "2026-03-20T02:09:02.897Z",
       "prompt": "Design a dark-mode AI code orchestration dashboard called ORBITER — parallel agents, terminal UI, diff view, fleet dashboard.",
       "credit": "RAM Design Studio (Heartbeat)",
@@ -829,7 +858,8 @@
       "tagline": "Orchestrate parallel AI agents across your entire codebase",
       "archetype": "dark-mobile-devtools",
       "screens": 5,
-      "published_at": "2026-03-20T02:09:02.897Z"
+      "published_at": "2026-03-20T02:09:02.897Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "hb-evalpro-1773998080227",
@@ -838,9 +868,10 @@
       "archetype": "developer-tools",
       "credit": "RAM Studio Heartbeat",
       "submitted_at": "2026-03-20T09:14:40.227Z",
-      "status": "done",
+      "status": "unavailable",
       "design_url": "https://ram.zenbin.org/evalpro-eval",
-      "published_at": "2026-03-20T09:14:40.228Z"
+      "published_at": "2026-03-20T09:14:40.228Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "lore",
@@ -861,20 +892,22 @@
         "campaign"
       ],
       "created_at": "2026-03-20T14:11:55.133Z",
-      "status": "published",
-      "archetype": "studio"
+      "status": "unavailable",
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-synapse",
       "app_name": "SYNAPSE",
       "archetype": "productivity",
-      "status": "done",
+      "status": "unavailable",
       "credit": "RAM Heartbeat",
       "submitted_at": "2026-03-20T19:12:19.000Z",
       "design_url": "https://ram.zenbin.org/synapse",
       "viewer_url": null,
       "prompt": "SYNAPSE — AI Agent Workflow Orchestration Platform.",
-      "published_at": "2026-03-20T19:12:19.000Z"
+      "published_at": "2026-03-20T19:12:19.000Z",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "vestry-heartbeat-1774080814141",
@@ -900,8 +933,9 @@
       "source": "heartbeat",
       "app_name": "VESTRY",
       "published_at": "2026-03-21",
-      "status": "done",
-      "archetype": "studio"
+      "status": "unavailable",
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "velox-1774062656981",
@@ -931,12 +965,13 @@
       "source": "heartbeat",
       "app_name": "VELOX",
       "published_at": "March 20, 2026",
-      "status": "done",
-      "archetype": "studio"
+      "status": "unavailable",
+      "archetype": "studio",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-sift-1774109443371",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SIFT",
       "tagline": "AI research intelligence that searches, synthesizes, and surfaces evidence your arguments need.",
       "archetype": "productivity",
@@ -946,11 +981,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SIFT — a LIGHT-MODE editorial AI research intelligence platform. Challenge: Most AI tools are dark-mode. SIFT deliberately goes light — warm off-white editorial paper (#F2F1EC) + ink black (#111111) + single deep-blue accent (#0046D5). Inspired by: (1) Factory.ai (minimal.gallery/tag/ai, March 2026) — \"Agent-Native Software Development\", off-white bg, Geist font, near-zero decoration — the editorial restraint and agent-native positioning is the design canon; (2) Einride (minimal.gallery, March 2026) — bold confident display typography for an intelligent-systems brand; (3) Forge (darkmodedesign.com, March 2026) — precision developer productivity tool grid structure, inverted into light mode. 5 mobile screens: Landing · Dashboard · Source Review · Evidence · Export.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-sift-1774109461176",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SIFT",
       "tagline": "AI research intelligence that searches, synthesizes, and surfaces evidence your arguments need.",
       "archetype": "productivity",
@@ -960,11 +996,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SIFT — a LIGHT-MODE editorial AI research intelligence platform. Challenge: Most AI tools are dark-mode. SIFT deliberately goes light — warm off-white editorial paper (#F2F1EC) + ink black (#111111) + single deep-blue accent (#0046D5). Inspired by: (1) Factory.ai (minimal.gallery/tag/ai, March 2026) — \"Agent-Native Software Development\", off-white bg, Geist font, near-zero decoration — the editorial restraint and agent-native positioning is the design canon; (2) Einride (minimal.gallery, March 2026) — bold confident display typography for an intelligent-systems brand; (3) Forge (darkmodedesign.com, March 2026) — precision developer productivity tool grid structure, inverted into light mode. 5 mobile screens: Landing · Dashboard · Source Review · Evidence · Export.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-sift-1774109518865",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SIFT",
       "tagline": "AI research intelligence that searches, synthesizes, and surfaces evidence your arguments need.",
       "archetype": "productivity",
@@ -974,11 +1011,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SIFT — a LIGHT-MODE editorial AI research intelligence platform. Challenge: Most AI tools are dark-mode. SIFT deliberately goes light — warm off-white editorial paper (#F2F1EC) + ink black (#111111) + single deep-blue accent (#0046D5). Inspired by: (1) Factory.ai (minimal.gallery/tag/ai, March 2026) — \"Agent-Native Software Development\", off-white bg, Geist font, near-zero decoration — the editorial restraint and agent-native positioning is the design canon; (2) Einride (minimal.gallery, March 2026) — bold confident display typography for an intelligent-systems brand; (3) Forge (darkmodedesign.com, March 2026) — precision developer productivity tool grid structure, inverted into light mode. 5 mobile screens: Landing · Dashboard · Source Review · Evidence · Export.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-aegis-1774112885306",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "AEGIS",
       "tagline": "Counter-UAV command platform for real-time drone threat detection, intercept coordination, and mission debrief.",
       "archetype": "productivity",
@@ -988,11 +1026,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design AEGIS — a military-grade counter-drone operations SaaS platform. Directly inspired by the Awwwards Site of the Day, March 21 2026: \"Darknode\" by Qream (Ukraine's 412th Nemesis drone-intercept brigade). Darknode palette: #F90000 blood-red + #14181E near-black, stealth-minimal UI, GSAP scroll animations, Blender 3D aesthetics. AEGIS applies this exact visual language — void dark bg, red-as-danger-and-action, radar-cyan for scan data — to a 5-screen SaaS command center: Command Overview · Radar Map · Fleet Status · Mission Log · After Action Report. Secondary inspiration: Linear.app (AI agent workflow density from darkmodedesign.com) and TRIONN (#121315 dark, Syne font, from darkmodedesign.com). Challenge: translate a single-page award-winning portfolio site's aesthetic into a functional multi-screen operations product.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-orbit-1774116604050",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ORBIT",
       "tagline": "AI model performance observatory. Monitor, compare, and route across LLM providers in real time — on a cosmic void dashboard.",
       "archetype": "productivity",
@@ -1002,11 +1041,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design ORBIT — a dark-mode AI model performance observatory for engineering teams routing across LLM providers. Inspired by Linear's ultra-clean near-black UI and OWO's radial orbital layout (darkmodedesign.com), Evervault Customers' concentric glow halos with cosmic void backgrounds (godly.website), and Locomotive.ca's immersive editorial dark aesthetic (godly.website). Trend: AI DevOps SaaS embracing radial/orbital data visualizations on deep cosmic backgrounds, moving away from rectangular bar charts. Palette: void #080B14 · electric indigo #5B5EF4 · cyan #06B6D4 · amber #F59E0B. 5 mobile screens: Constellation Dashboard · Model Probe · Routing Policy · Model Compare · Degradation Alert.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-recon-1774123817849",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "RECON",
       "tagline": "AI-Powered Competitive Intelligence Platform",
       "archetype": "productivity",
@@ -1017,11 +1057,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-mode competitive intelligence dashboard for \"RECON\" inspired by:\n1. Superset.sh (darkmodedesign.com) — terminal-aesthetic multi-agent bento UI, deep near-black bg, electric violet/indigo accent, parallel workflow cards showing live agent activity\n2. Linear.app (darkmodedesign.com) — near-black #08090A, systematic product UI, indigo accents, clean dense information hierarchy\n3. Midday.ai (land-book.com) — \"run without manual work\" AI-first financial philosophy applied to competitive intelligence\n\n5 mobile screens: bento-grid intelligence overview dashboard, rival profiles with AI health scores, live signal feed with priority filters, AI-generated reports library, and data source integrations manager.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-nocturne-1774124364868",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "NOCTURNE",
       "tagline": "AI-powered sleep & recovery intelligence for high performers.",
       "archetype": "health",
@@ -1032,11 +1073,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design NOCTURNE — an AI-powered sleep & recovery intelligence app for high performers. Inspired by Flomodia's deep crimson-dark aesthetic on darkmodedesign.com (March 2026) and the Superpower personal health app trending on Godly.website. Palette: near-black #0A0608 with deep maroon surface, warm cream text, crimson #C9302A accent, amber #E8913A glow. 5 mobile screens: Tonight (readiness ring 87) · Sleep Analysis (score 91, stages) · Recovery (body battery, 7-day trend) · Insights (AI correlations, journal) · Optimize (habits, environment, supplement stack).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-styx-1774127406162",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "STYX",
       "tagline": "AI Threat Intelligence & Security Operations",
       "archetype": "productivity",
@@ -1046,7 +1088,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark AI threat intelligence & security operations platform for \"STYX\" inspired by:\n1. Evervault.com/customers (godly.website) — deep cosmic near-black #010314 background, Evervault violet #6633EE accent, cool off-white #DFE1F4 text. Security-forward SaaS aesthetic with glow halos and precise information density.\n2. Superset.sh (darkmodedesign.com) — terminal-embedded live data feeds, parallel agent orchestration UI, real-time activity panels baked into the interface.\n3. Darknode.io (Awwwards) — dark AI automation agency aesthetic with kinetic data streams and cosmic glow system.\n\n5 mobile screens: Command Center with live threat gauge + terminal feed, Real-time Threat Feed with severity filtering, Incident Deep-dive with attack timeline + AI analysis, Playbooks with running workflow progress, and Threat Intel with actor profiles + IOC database.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-nova-1774130887065",
@@ -1065,7 +1108,7 @@
     },
     {
       "id": "heartbeat-dusk-1774134835685",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DUSK",
       "tagline": "Privacy-First Web Analytics",
       "archetype": "productivity",
@@ -1076,11 +1119,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-glassmorphism web analytics dashboard — directly inspired by Fathom Analytics' 3D globe data visualization featured on godly.website (\"Web analytics in 2026 should look like this\") and the explosive hot-pink-on-black contrast seen on OWO at darkmodedesign.com. DUSK is a privacy-first analytics platform with a deep violet-black glassmorphism UI (bg: #08000F, surface: rgba glass cards), a neon hot-pink accent (#FF2D78) used sparingly on live metrics and CTAs, and a geographic globe view as its signature screen. Oversized condensed KPI numbers (inspired by Flomodia on darkmodedesign.com) dominate the overview. 5 screens: overview dashboard, traffic sources donut + bars, top pages table with sparklines, geographic globe view with country breakdown, and privacy settings.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-dusk-1774134902856",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DUSK",
       "tagline": "Privacy-First Web Analytics",
       "archetype": "productivity",
@@ -1091,11 +1135,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-glassmorphism web analytics dashboard — directly inspired by Fathom Analytics' 3D globe data visualization featured on godly.website (\"Web analytics in 2026 should look like this\") and the explosive hot-pink-on-black contrast seen on OWO at darkmodedesign.com. DUSK is a privacy-first analytics platform with a deep violet-black glassmorphism UI (bg: #08000F, surface: rgba glass cards), a neon hot-pink accent (#FF2D78) used sparingly on live metrics and CTAs, and a geographic globe view as its signature screen. Oversized condensed KPI numbers (inspired by Flomodia on darkmodedesign.com) dominate the overview. 5 screens: overview dashboard, traffic sources donut + bars, top pages table with sparklines, geographic globe view with country breakdown, and privacy settings.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-vega-1774138392846",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "VEGA",
       "tagline": "AI-Powered DeFi Portfolio Intelligence",
       "archetype": "finance",
@@ -1106,11 +1151,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode DeFi Portfolio Intelligence mobile app — VEGA — directly inspired by Nixtio's \"Crypto Trading App UI\" trending #1 on Dribbble popular (108 saves, 9.7k views, March 2026) and the ultra-refined near-black panel aesthetic of Midday, Forge, and Superset featured on darkmodedesign.com. VEGA gives crypto traders ambient, AI-powered portfolio awareness across multiple wallets. Palette: deep space navy-black (#070B12), electric violet accent (#6C47FF), teal-mint for gains (#00D4AA), coral for losses (#FF4D6A). 5 screens: Portfolio Overview (bento-grid with hero value, 24h sparkline chart, 2×2 metric cards, live token rows), Market Intelligence (search + global stats bar + sortable token table with mini sparklines), Trade (pair selector + candlestick chart + token swap with AI-optimised route), AI Signals (sentiment bar + 4 signal cards with confidence bars), Profile & Wallets (avatar, net worth stats, 3 connected wallets, risk score).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-lucid-1774142217837",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LUCID",
       "tagline": "AI Research Workspace",
       "archetype": "productivity",
@@ -1121,11 +1167,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-mode AI research workspace app — directly inspired by the glassmorphism style category on Saaspo (saaspo.com/style/glassmorphism), the dominant AI SaaS bento grid aesthetic (219+ AI SaaS entries on Saaspo), and the deep space dark palette of Linear and Midday.ai featured on Dark Mode Design. LUCID is an AI-powered research companion that aggregates academic sources, synthesizes findings with AI, and organizes knowledge into threaded collections. Palette: deep violet-black cosmos (bg: #06041C) + electric indigo accent (#7C6FF7) + sky-blue cyan (#38D9F5). Frosted glass depth layers for cards. Bento grid dashboard as the hub screen. Inter typeface with tight -0.02em tracking throughout. 5 screens: Research Hub (bento grid), Thread View (AI synthesis), Ask Mode (AI chat), Source Explorer, Library (collections).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-wren-1774148855668",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "WREN",
       "tagline": "Minimal API health monitoring. Big numbers, zero noise.",
       "archetype": "productivity",
@@ -1136,11 +1183,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design WREN — a minimal dark-mode API health and monitoring platform for developer teams. Directly inspired by three sources found in this heartbeat research session:\n1. Linear.app (darkmodedesign.com) — functional dark precision, dense data hierarchies with 4px grid discipline, type as primary information vehicle\n2. Obsidian (darkmodedesign.com) — near-black minimalism, zero decoration, only data has form\n3. land-book.com \"Big Type\" trend — oversized numerals used as the primary hero element (99.97% uptime IS the UI)\nThe palette is near-true-black (#080808) with warm cream text (#E4DFD3) and acid yellow-green (#BFFF00) as the sole \"up/healthy\" signal, vivid red (#FF3A4E) for failures. The challenge: let uptime numbers be the visual hero — design the monitoring dashboard where the data IS the art, no icons or decoration needed. 5 screens: Overview (99.97% uptime hero) · Endpoints (method badges + latency) · Incidents (severity timeline) · Analytics (84ms latency hero + charts) · Alerts (toggle rules + channel config).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-cast-1774152607521",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CAST",
       "tagline": "Parallel AI agent orchestration. Run your fleet at full power.",
       "archetype": "productivity",
@@ -1151,11 +1199,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design CAST — a parallel AI agent orchestration dashboard for developers managing multi-model workflows. Directly inspired by three sources found during research:\n1. Superset.sh (darkmodedesign.com, March 2026) — the definitive terminal-dark AI agent orchestration UI, showing Claude/Codex/GPT agents running in parallel with compact status cards, progress bars, and live step logs\n2. Linear.app (darkmodedesign.com) — disciplined 4px grid, type-as-information-hierarchy, restrained accent usage against near-black\n3. godly.website — deep blue-violet void backgrounds (Atlas Card, Lusion) pushing \"space-tech dark\" as the dominant 2026 palette direction\n\nThe palette: deep blue-black (#080810) with cool off-white text (#E4E2FF). Dual accent system: violet (#7655FF) for brand/identity, electric cyan (#00CFFF) for live/streaming states. 5 screens: Fleet Overview (2×2 bento agent cards + global metrics) · Active Runs (task list with progress) · Run Detail (step-by-step execution log) · Analytics (success rate hero + daily chart + cost breakdown) · Config (model toggles + API keys + concurrency slider).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-mesh-1774153146687",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "MESH",
       "tagline": "Run multiple AI agents side by side. One dashboard to orchestrate them all.",
       "archetype": "productivity",
@@ -1166,11 +1215,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design MESH — an AI multi-agent task orchestration dashboard for solo developers. Inspired by JetBrains Air (air.dev) on lapa.ninja (March 2026): dark #0C0D10 with teal gradient header stripe, neon cyan #00E5C0 accent, terminal-style panels. 5 screens: Agents (live progress, status summary) · Tasks (active/completed kanban) · Logs (live terminal feed, colour-coded by agent) · Projects (repo list with agent counts) · Config (model toggles, token budget).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-neuralvault-1774156138800",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "NeuralVault",
       "tagline": "AI-Powered DeFi Portfolio Intelligence.",
       "archetype": "finance",
@@ -1181,11 +1231,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode DeFi AI portfolio tracker inspired by the #1 trending Dribbble shot \"Crypto Trading App UI – DeFi Mobile Design\" (Nixtio, 12.7k views) and Superset.sh's terminal/matrix aesthetic from darkmodedesign.com. Void black (#0A0B0F), neon emerald (#00FF88), electric cyan (#00D4FF), bento-grid card layout, monospace number typography, neural confidence segment bars for AI signals. Screens: Portfolio Overview, Markets Feed, Trade/Swap, Analytics, AI Signals.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-zero-1774159798977",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ZERO",
       "tagline": "Autonomous drone fleet intelligence. Minimal UI, maximum situational awareness.",
       "archetype": "productivity",
@@ -1196,11 +1247,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design ZERO — a dark-mode autonomous drone fleet intelligence platform for tactical operations. Directly inspired by research from this heartbeat session:\n\n1. DARKNODE (Awwwards SOTD March 21, 2026) — \"mission-like site blending minimal UI and stealth\" for Ukraine's 412th Nemesis interceptor drone brigade. Only a 2-color palette, hero video, 3D animation, extreme restraint. The site IS the mission brief.\n\n2. Linear.app (darkmodedesign.com) — \"The product development system for teams and agents / Designed for the AI era.\" Functional dark precision, dense data hierarchies, sidebar navigation done right.\n\n3. Evervault (godly.website featured, March 2026) — Clean, authoritative security-product dark UI. \"Leading companies build on Evervault.\" Understated trust through design restraint.\n\nThe challenge: apply the Darknode stealth aesthetic to a real operational tool. Near-void-black (#080810) canvas, neon mint (#00FFAA) as the sole \"nominal/active\" signal color — like a phosphor HUD screen — and alert red (#FF3158) reserved only for threats. Military time, coordinate displays, tactical left-border coding on cards. 5 screens covering the full ops cycle: Mission Control (fleet hero stat) · Fleet Status (drone cards) · Active Mission (waypoint timeline) · Alerts Feed (threat severity stream) · Operator Profile.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-stratum-1774163351402",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "STRATUM",
       "tagline": "MCP Agent Orchestration Hub",
       "archetype": "productivity",
@@ -1211,11 +1263,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode MCP Agent Orchestration Hub — STRATUM — directly inspired by Linear.app's ultra-minimal design language (featured on darkmodedesign.com, March 2026: #08090A background, #5E6AD2 purple-blue accent, Inter Variable variable font, extreme information density with zero decorative noise) and the emerging \"agentic infrastructure\" product category on land-book.com (Runlayer: \"Enterprise MCPs, Skills & Agents\", March 2026). STRATUM gives developer teams real-time visibility and control over their AI agent fleet and MCP tool connections. Palette: ultra-dark #08090A bg, #5E6AD2 Linear accent, #2DB37F health green, #E5484D error red, #E09A21 warning amber. 5 screens: Hub Overview (bento grid with active agents counter, tool calls/min sparkline tiles, system health %, activity feed), Agent Fleet (filtered list of agents with status badges, model labels, call counts, uptime), MCP Connections (2-column tool grid: GitHub/Slack/Linear/Postgres/Stripe/Notion with health dots and call rate sparklines), Event Stream (live feed of TOOL_CALL/LLM_CALL/ERROR events with type badges and latency indicators), Usage & Quotas (month-to-date spend hero, token usage bars by agent, quota progress bars).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-stratum-1774163491219",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "STRATUM",
       "tagline": "MCP Agent Orchestration Hub",
       "archetype": "productivity",
@@ -1226,11 +1279,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode MCP Agent Orchestration Hub — STRATUM — directly inspired by Linear.app's ultra-minimal design language (featured on darkmodedesign.com, March 2026: #08090A background, #5E6AD2 purple-blue accent, Inter Variable variable font, extreme information density with zero decorative noise) and the emerging \"agentic infrastructure\" product category on land-book.com (Runlayer: \"Enterprise MCPs, Skills & Agents\", March 2026). STRATUM gives developer teams real-time visibility and control over their AI agent fleet and MCP tool connections. Palette: ultra-dark #08090A bg, #5E6AD2 Linear accent, #2DB37F health green, #E5484D error red, #E09A21 warning amber. 5 screens: Hub Overview (bento grid with active agents counter, tool calls/min sparkline tiles, system health %, activity feed), Agent Fleet (filtered list of agents with status badges, model labels, call counts, uptime), MCP Connections (2-column tool grid: GitHub/Slack/Linear/Postgres/Stripe/Notion with health dots and call rate sparklines), Event Stream (live feed of TOOL_CALL/LLM_CALL/ERROR events with type badges and latency indicators), Usage & Quotas (month-to-date spend hero, token usage bars by agent, quota progress bars).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-driftwood-1774166852145",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DRIFTWOOD",
       "tagline": "Slow living journal. A sanctuary for reflection.",
       "archetype": "health",
@@ -1241,11 +1295,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode slow-living journal app — DRIFTWOOD — inspired by:\n1. \"with.radiance\" (Awwwards nominees, March 2026) — natural-material bioluminescent glow aesthetic\n   entering digital interfaces: warm organic forms, luminous amber glows\n2. \"Minimalism Life\" (darkmodedesign.com) — slow-living dark UI with generous whitespace,\n   zero visual noise, serif-adjacent typography\n3. \"Kyn & Folk\" artisan ceramics + \"Zia Tile\" handcrafted tile (land-book.com) —\n   translating warmth of handmade objects into digital UI feel\nDRIFTWOOD is a mindful daily journaling app that feels like a candlelit notebook rather than a productivity tool.\nPalette: deep forest night #0E1209 bg, #C4843A aged amber accent, #4A7C59 sage secondary, #F0E6C8 parchment text.\n5 screens: Today (streak + quick-entry + recent entries), Write (full writing surface with keyboard + mood),\nTimeline (dot-calendar heatmap + week entries), Insights (streak hero + mood chart + writing patterns + themes), Profile (avatar + milestones + intentions + settings).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-soma-1774170568765",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SOMA",
       "tagline": "Flow state intelligence. Know when you're at your best.",
       "archetype": "health",
@@ -1256,11 +1311,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a 5-screen dark-mode flow state tracker — SOMA — inspired by:\n1. Flomodia (darkmodedesign.com, March 2026) — a flow-state dark UI with purposeful minimal\n   chrome, immersive session design, and intentional restraint\n2. NNG \"The Most Exciting Development in GenUI: Buttons and Checkboxes\" (nngroup.com, March 2026)\n   — AI that generates contextual UI components to reduce cognitive load — reflected in SOMA's\n   AI suggestion chips and adaptive session configuration\n3. Land-book AI tool landing pages (LangChain, Runlayer MCP orchestration, March 2026) —\n   lean, precision interfaces for intelligent systems — informing SOMA's information density\n4. Godly.website — bold typographic hierarchy and organic restraint as primary design language\nSOMA is a flow state intelligence app: it learns your peak performance windows and helps you\nprotect and recreate them. Deep void + electric indigo + fresh mint palette.\n5 screens: Now (score + state + recent sessions), Session (start + type + duration + AI suggestion),\nPatterns (week chart + heatmap + peak windows), Insights (AI correlations + trend + triggers),\nProfile (stats + milestones + goal + settings).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-lyra-1774174341331",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LYRA",
       "tagline": "AI Agent Orchestration. Command your fleet.",
       "archetype": "productivity",
@@ -1271,11 +1327,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design LYRA — a 5-screen dark-mode AI Agent Operations Center for engineering teams, inspired by:\n1. Haptic.app on godly.website (#965) — \"Clean, Dark, Large Type, Single Page, Inter + SF Pro Display, Scrolling Animation\" — oversized hero numerals on near-void black bg\n2. Linear.app on darkmodedesign.com — \"The product development system for teams and agents\" — AI-era precision dark SaaS, 4px-grid discipline, type IS the information hierarchy\n3. Forge + Flomodia on darkmodedesign.com — dense dark productivity tool panels; status colors are the only decoration\n4. Runlayer \"Enterprise MCPs, Skills & Agents\" (land-book.com, March 2026) — AI agent orchestration is the dominant emerging UX category\n\nPalette: near-void indigo-black (#05060F) + electric indigo (#5548FF) + teal-mint (#00DDB5) + red (#FF3D5E) + amber (#FFB93E)\n5 screens: Command (Haptic-style big-number overview) · Fleet (agent cards) · Task Detail (step timeline + log stream) · Analytics (success rate hero + charts) · Configure (new agent wizard)",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-bastion-1774177895422",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "BASTION",
       "tagline": "Your Personal Data Vault & Identity Shield",
       "archetype": "productivity",
@@ -1286,11 +1343,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-mode personal security vault app inspired by Evervault floating 3D card aesthetic (godly.website) and Linear minimal dark UI (darkmodedesign.com). 5 mobile screens: shield dashboard, encrypted vault, threat alerts, identity manager, analytics.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-stratum-1774185086540",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "STRATUM",
       "tagline": "AI-Powered Design System Intelligence",
       "archetype": "studio",
@@ -1301,11 +1359,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design STRATUM — an AI-powered design system intelligence platform for design teams, inspired by:\n1. Diffusion Studio (minimal.gallery/saas, March 2026): pure minimal B&W palette with single electric accent. \"Edit faster than ever, right in your browser.\" Browser-editor paradigm.\n2. Haptic + Twingate (godly.website, March 2026): node/layer UI patterns, enterprise dark SaaS aesthetic.\n3. Ape AI + Paperclip (lapa.ninja, March 2026): AI-first bold typography, electric single-color accent approach.\n5 screens: Token Library (searchable token catalog), Component Audit (AI health grid), Change History (versioned timeline), Dependency Map (node graph), AI Insights (recommendations).\nPalette: deep charcoal #0F0F12 + electric lime #B4FF4C + AI purple #9D7FFF. The lime accent is a deliberate departure from safe blue/purple design-tool defaults.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-stratum-1774185240878",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "STRATUM",
       "tagline": "AI-Powered Design System Intelligence",
       "archetype": "studio",
@@ -1316,7 +1375,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design STRATUM — an AI-powered design system intelligence platform for design teams, inspired by:\n1. Diffusion Studio (minimal.gallery/saas, March 2026): pure minimal B&W palette with single electric accent. \"Edit faster than ever, right in your browser.\" Browser-editor paradigm.\n2. Haptic + Twingate (godly.website, March 2026): node/layer UI patterns, enterprise dark SaaS aesthetic.\n3. Ape AI + Paperclip (lapa.ninja, March 2026): AI-first bold typography, electric single-color accent approach.\n5 screens: Token Library (searchable token catalog), Component Audit (AI health grid), Change History (versioned timeline), Dependency Map (node graph), AI Insights (recommendations).\nPalette: deep charcoal #0F0F12 + electric lime #B4FF4C + AI purple #9D7FFF. The lime accent is a deliberate departure from safe blue/purple design-tool defaults.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-verdant-1774188643123",
@@ -1335,7 +1395,7 @@
     },
     {
       "id": "heartbeat-signal-1774192163341",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SIGNAL",
       "tagline": "AI Pipeline Observability",
       "archetype": "developer-tools",
@@ -1346,11 +1406,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design an AI pipeline observability platform for monitoring LLM agents in production — traces, latency, token budgets, cost comparison. Dark theme inspired by Darknode (Awwwards SOTD) and Runlayer from Land-book. Electric blue accent on near-void navy-black.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-harvest-1774195862306",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "HARVEST",
       "tagline": "Freelance Financial Intelligence",
       "archetype": "fintech",
@@ -1361,7 +1422,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a freelance financial intelligence app for independent creatives — invoices, time tracking, client health, income analytics. Light theme: warm parchment (#FAF8F3), copper accent (#C4612A), editorial serif headlines. Inspired by Midday.ai one-person company aesthetic and Typeform editorial off-white SaaS from land-book and Dark Mode Design.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-folio-1774199552213",
@@ -1410,7 +1472,7 @@
     },
     {
       "id": "heartbeat-sylvan-1774206636567",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SYLVAN",
       "tagline": "Slow Living, Daily Reflection",
       "archetype": "wellness",
@@ -1421,11 +1483,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SYLVAN — a warm artisanal light-mode daily reflection and habit tracker, inspired by:\n1. Idle Hour Matcha (Lapa.ninja, March 2026 featured) — earthy editorial aesthetic, cream/terracotta palette. The trend of \"slow brands\" moving into digital products.\n2. Emergence Magazine (Siteinspire + Lapa.ninja) — typographic editorial layouts, serif headlines mixed with clean grotesque body text, vast breathing whitespace.\n3. Mike Matas Portfolio (Godly #959) — minimal clean interactive layouts, Lab Grotesque typography, strong use of negative space.\n4. Typographic category on Siteinspire (2,052 sites!) — type-led design where the headline IS the hero.\n5 screens: Today (morning intentions + mood), Journal (reflection entries), Habits (ritual tracker), Garden (28-day visual blooms), Insights (mood patterns + AI observations).\nPalette: warm ivory #FAF8F3, terracotta #C8614A, sage green #8FAF78, amber gold #D4A84B. Explicit rebellion against blue/purple wellness app clichés.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-cipher-1774210183550",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CIPHER",
       "tagline": "Seal every secret. Audit every call.",
       "archetype": "security",
@@ -1436,11 +1499,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design CIPHER — a dark-mode AI secrets & API security platform, inspired by Runlayer.com (Land-book, March 2026) — enterprise MCP security command & control aesthetic; Linear (Dark Mode Design gallery) — precision monospace data with ghost borders; Darknode (Awwwards nominee) — deep navy-black with electric blue glow. 5 screens: Shield Dashboard (threat score + live API feed), Secret Vault (key management + rotation alerts), Audit Log (tamper-proof real-time stream), Threat Intel (AI risk cards), Integrations (tool connection graph). Palette: deep navy-black #08101E + electric blue #3D7EFF + violet #8B5CF6 + emerald #10B981.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-grove-1774210597859",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "GROVE",
       "tagline": "Build rituals that stick.",
       "archetype": "health",
@@ -1451,11 +1515,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a minimal light-themed habit tracker inspired by earth tone minimalism found on land-book.com — warm cream background, terracotta accent, sage green for success states. Organic warmth over cold tech. 5 screens: Today check-in, Habit list, Stats bento grid, Journal log, Profile.",
       "screens": 10,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-draft-1774217738219",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DRAFT",
       "tagline": "Your words, your way.",
       "archetype": "editorial-productivity",
@@ -1466,11 +1531,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI writing companion for independent writers. Inspired by ISA DE BURGH editorial minimalism (minimal.gallery) and Emergence Magazine slow editorial aesthetic (land-book). Warm parchment, espresso brown + ink blue palette. Light theme.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
     {
       "id": "heartbeat-pilot-1774224607343",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "PILOT",
       "tagline": "your agents, in formation.",
       "archetype": "agent-fleet-manager",
@@ -1487,11 +1553,12 @@
         "bg": "#F5F1EB",
         "accent": "#2D5BFF",
         "accent2": "#FF4F1A"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-nocturn-1774227978918",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "NOCTURN",
       "tagline": "Protect your deep work",
       "archetype": "focus-productivity",
@@ -1509,11 +1576,12 @@
         "bg": "#0B0C0F",
         "accent": "#F5A623",
         "accent2": "#8B6FFF"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-nocturn-1774228023254",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "NOCTURN",
       "tagline": "Protect your deep work",
       "archetype": "focus-productivity",
@@ -1531,11 +1599,12 @@
         "bg": "#0B0C0F",
         "accent": "#F5A623",
         "accent2": "#8B6FFF"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-grove-1774232035557",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "GROVE",
       "tagline": "Know what's working.",
       "archetype": "creator-analytics",
@@ -1546,7 +1615,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Sprout Social lime-green accent + Typeform warm-cream editorial base (land-book.com). Light-theme creator growth analytics for indie creators tracking reach, engagement, and follower growth across platforms.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-folio-1774239144600",
@@ -1565,7 +1635,7 @@
     },
     {
       "id": "heartbeat-cipher-1774239646507",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CIPHER",
       "tagline": "Music that finds you.",
       "archetype": "music",
@@ -1576,11 +1646,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark typographic music discovery platform inspired by siteinspire editorial/typographic category — stark near-black background, electric violet accent, expressive large type as hero element. Genre-coded color system: violet for electronic, green for ambient, red for experimental, blue for drone. 5 screens: Discover, Search bento genre tiles, Library, Charts, Profile.",
       "screens": 10,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-pulse-signal-1774242718617",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "PULSE",
       "tagline": "Real-time media intelligence.",
       "archetype": "media-intelligence",
@@ -1591,11 +1662,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme AI news monitoring terminal. 5 screens: Feed, Topics, Sources, Alerts, Digest. Warm parchment #F5F2EB, signal red #C94828, data blue #1D4ED8. IBM Plex Mono for data. Inspired by NewsCatcher (Awwwards), Runlayer (land-book), Superset.sh (darkmodedesign).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-mesh-1774246130039",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "MESH",
       "tagline": "Command your AI agent fleet.",
       "archetype": "developer-tools",
@@ -1606,11 +1678,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design MESH — a dark-mode AI agent orchestration dashboard for developers running autonomous coding agents. Directly inspired by:\n\n1. Relace (lapa.ninja, March 23 2026) — \"purpose-built AI models for coding agents, scalable infrastructure, ultra-fast code retrieval, merging, and autonomous workflows.\" A sleek dark landing page with electric indigo/teal accents and monospaced metric callouts. The concept of a \"fleet\" of AI agents working autonomously is the core metaphor.\n\n2. LangChain landing page (land-book, March 23 2026) — \"Observe, Evaluate, and Deploy Reliable AI Agents\" — showed real-time agent monitoring patterns: health indicators, task streams, evaluation panels. Clean dark UI with a strong grid.\n\n3. Linear / Forge (darkmodedesign.com, March 23 2026) — Dark developer tool UIs with razor-sharp typography hierarchy, monospaced data values on dark surfaces, minimal chrome.\n\nChallenge: What does a \"mission control\" feel like for your AI developer workforce? 5 screens: Agents (fleet status), Activity (live event stream), Tasks (queue management), Analytics (performance), Config (model + budget settings). Near-black (#080A0F) canvas with electric indigo (#6366F1) accent and matrix teal (#10D9A0) for success states. Monospaced agent IDs create a terminal/code aesthetic within a polished dark UI.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-dwell-1774249826531",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DWELL",
       "tagline": "Your deep work, made visible.",
       "archetype": "productivity-wellness",
@@ -1621,11 +1694,12 @@
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/dwell",
-      "mock_url": "https://ram.zenbin.org/dwell-mock"
+      "mock_url": "https://ram.zenbin.org/dwell-mock",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-croft-1774254444411",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Croft",
       "tagline": "Your reading life, beautifully kept",
       "archetype": "personal-productivity",
@@ -1636,11 +1710,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Searchable.com warm rust palette + Span.app bento metrics + Cadmus editorial cream — a personal reading tracker with word-block hero and bento stats grid",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-croft-1774254567550",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Croft",
       "tagline": "Your reading life, beautifully kept",
       "archetype": "personal-productivity",
@@ -1651,7 +1726,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Searchable.com warm rust palette + Span.app bento metrics + Cadmus editorial cream — a personal reading tracker with word-block hero and bento stats grid",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-vela-1774256898193",
@@ -1685,7 +1761,7 @@
     },
     {
       "id": "heartbeat-canopy-1774260906507",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CANOPY",
       "tagline": "Know your carbon. Prove your progress.",
       "archetype": "sustainability",
@@ -1696,11 +1772,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Relace.ai (lapa.ninja featured March 2026, warm cream #FAF7F0 editorial aesthetic, large display type, amber CTA) + The Footprint Firm (siteinspire SOTD March 23 2026, sustainability advisory). Enterprise carbon intelligence platform tracking Scope 1/2/3 emissions, auditing 24 suppliers, offset marketplace, and GHG Protocol compliance reports. Light theme: warm ivory + deep forest green + terracotta.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-prism-1774264153750",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "PRISM",
       "tagline": "Unified Threat Intelligence",
       "archetype": "security-ops",
@@ -1719,11 +1796,12 @@
         "surface": "#0E1118",
         "accent": "#00E8D6",
         "accent2": "#F59E0B"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-carta-1774267779531",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CARTA",
       "tagline": "Your Reading Life, Composed",
       "archetype": "editorial-reader",
@@ -1735,7 +1813,8 @@
       "prompt": "Inspired by Litbix (minimal.gallery) — warm minimal book curation grid with drag-drop collection interface, and Old Tom Capital (minimal.gallery) — editorial institutional design with large serif display numerals and modular \"platform built to compound\" framing. A personal reading tracker with warm parchment light theme, burnt-sienna accent, serif headings, and annual reading stats displayed in an editorial/institutional grid style. 5 screens: Shelf (book grid + streak), Reading (chapter progress tracker), Stats (editorial large-numeral data display), Discover (curated recommendations), Notes (pulled-quote highlights journal).",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-folio-1774268352425",
@@ -1754,7 +1833,7 @@
     },
     {
       "id": "heartbeat-span-1774271505897",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SPAN",
       "tagline": "Run every idea in parallel.",
       "archetype": "productivity",
@@ -1765,11 +1844,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SPAN — a light-themed parallel AI research engine. Challenge inspired by this heartbeat session's research:\n\n1. Superset.sh (darkmodedesign.com, March 2026) — \"Run 10+ parallel coding agents on your machine.\" Multi-pane terminal grid showing simultaneous agents. The key insight: visualizing parallelism IS the UI. Challenge taken: flip this aesthetic from dark terminal to warm editorial light.\n\n2. Silencio.es (godly.website, March 2026) — Avant-garde visual identity studio using REF: SHH-0001 reference numbering as a design element. Minimalist, brutalist, every task is a numbered artifact.\n\n3. Lapa.ninja (March 2026) — Flim \"AI image research, multi-source synthesis.\" Dawn \"evidence-based AI.\" The AI research tool category is exploding — but all trend dark or clinical.\n\nThe challenge: a warm cream editorial UI for parallel AI task orchestration. Chartreuse (#8FBD1F) as the sole \"active/running\" signal — like a botanical print's accent. Silencio-style REF-XXXX numbering for each task artifact. Light, warm, anti-terminal. 5 screens: Task Board (compose + status) · Live Runs (4-agent grid + progress) · Results (synthesis view) · Agent Library (12 available) · Archive (history + stats).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-span-1774271606382",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SPAN",
       "tagline": "Run every idea in parallel.",
       "archetype": "productivity",
@@ -1780,11 +1860,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SPAN — a light-themed parallel AI research engine. Challenge inspired by this heartbeat session's research:\n\n1. Superset.sh (darkmodedesign.com, March 2026) — \"Run 10+ parallel coding agents on your machine.\" Multi-pane terminal grid showing simultaneous agents. The key insight: visualizing parallelism IS the UI. Challenge taken: flip this aesthetic from dark terminal to warm editorial light.\n\n2. Silencio.es (godly.website, March 2026) — Avant-garde visual identity studio using REF: SHH-0001 reference numbering as a design element. Minimalist, brutalist, every task is a numbered artifact.\n\n3. Lapa.ninja (March 2026) — Flim \"AI image research, multi-source synthesis.\" Dawn \"evidence-based AI.\" The AI research tool category is exploding — but all trend dark or clinical.\n\nThe challenge: a warm cream editorial UI for parallel AI task orchestration. Chartreuse (#8FBD1F) as the sole \"active/running\" signal — like a botanical print's accent. Silencio-style REF-XXXX numbering for each task artifact. Light, warm, anti-terminal. 5 screens: Task Board (compose + status) · Live Runs (4-agent grid + progress) · Results (synthesis view) · Agent Library (12 available) · Archive (history + stats).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-orbit2-1774275073382",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ORBIT",
       "tagline": "Mission control for autonomous agents.",
       "archetype": "productivity",
@@ -1797,11 +1878,12 @@
       "prompt": "Dark AI agent mission control. Linear dark mode + JetBrains Air agent orchestration category + Paperclip zero-human companies. #0D0D10 near-black, electric indigo #7B6EF6, teal #34C8A0. ORB-numbered runs. 5 screens: Command, Agents, Run Detail, Pipeline, Signals.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-orbit2-1774275138035",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ORBIT",
       "tagline": "Mission control for autonomous agents.",
       "archetype": "productivity",
@@ -1814,11 +1896,12 @@
       "prompt": "Dark AI agent mission control. Linear dark mode + JetBrains Air agent orchestration category + Paperclip zero-human companies. #0D0D10 near-black, electric indigo #7B6EF6, teal #34C8A0. ORB-numbered runs. 5 screens: Command, Agents, Run Detail, Pipeline, Signals.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-verso-1774278672097",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Verso",
       "tagline": "Your life, in quarterly review.",
       "archetype": "personal-analytics",
@@ -1831,11 +1914,12 @@
       "prompt": "Light editorial personal quarterly review OS. Warm cream #F5F1EA palette, Georgia serif display type, amber #C27A3C + sage #3A6358 accents. Inspired by Obsidian (dark editorial from darkmodedesign.com) inverted to luxury light, and Midday one-person company editorial aesthetic. 5 screens: Quarter Overview, Wealth, Health, Work, Quarterly Review.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-thread-1774282876195",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "THREAD",
       "tagline": "Watch every agent think.",
       "archetype": "observability",
@@ -1846,11 +1930,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI agent observability platform — light editorial theme inspired by shed.design extreme typography, land-book.com trending agent tools (Runlayer, LangChain), and evervault.com single-accent B2B aesthetic. Warm parchment + electric indigo + acid chartreuse.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-strata-1774285889568",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "STRATA",
       "tagline": "Soil intelligence, season after season.",
       "archetype": "precision-agriculture",
@@ -1863,11 +1948,12 @@
       "prompt": "Dark-mode precision soil intelligence platform. Inspired by Genesis Soil Intelligence (land-book.com trending 2025) and Locomotive large-type editorial style (godly.website #958). Ultra-dark olive (#060A05) with electric chartreuse accent (#A3E635). 5 screens: Fields overview, Soil Profile, Live Sensors, AI Recommendations, Season Report.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-sole-1774289413261",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SOLE",
       "tagline": "Financial OS for one-person companies",
       "archetype": "finance-solo",
@@ -1881,11 +1967,12 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light",
-      "palette": "warm-cream-gold"
+      "palette": "warm-cream-gold",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-scope-1774293141625",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SCOPE",
       "tagline": "LLM Observability for Production AI",
       "archetype": "developer-tools",
@@ -1896,11 +1983,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SCOPE — a dark-mode LLM Observability platform for production AI.\nDirectly inspired by research from this heartbeat session:\n\n1. Rezky developer portfolio (darkmodedesign.com) — stark white-on-black brutalist layout,\n   \"What do you want to bug today?\" — text-forward, high-contrast, zero decoration.\n   The interface IS the information.\n\n2. Runlayer (land-book.com) — \"Enterprise MCPs, Skills & Agents\" — AI agent orchestration\n   tooling entering mainstream SaaS; the developer tool space needs monitoring.\n\n3. LangChain (land-book.com) — \"Observe, Evaluate, and Deploy Reliable AI Agents\" —\n   the three pillars of production LLM ops: observation, evaluation, deployment.\n\nChallenge: Apply Rezky's brutalist text density to a real developer operations tool.\nNear-void-black (#08080F) with electric medium-slate-blue (#7B68EE) accents.\nMonospace type for data, dense information hierarchy, terminal-meets-dashboard aesthetic.\n5 screens: Overview (health + live calls) · Traces (call chain explorer) ·\nEvals (regression scores) · Deploy (rollout timeline) · Alerts (anomaly feed).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-flare-1774296692257",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FLARE",
       "tagline": "Premium lifestyle card & concierge companion",
       "archetype": "fintech-lifestyle",
@@ -1911,11 +1999,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design FLARE — a premium lifestyle card & concierge companion app.\nDirectly inspired by research from this heartbeat session:\n\n1. Atlas Card (godly.website) — \"You want to eat at great restaurants. So does everyone else.\n   The difference is—you've got Atlas.\" Premium concierge card with dining, hotels, experiences.\n   Luxury-tier product design: editorial layout, confident typography, exclusivity framing.\n\n2. Shed SOTD (awwwards.com, March 23 2026) — Single-color palette of deep electric indigo\n   #0F00B0 with scrolling/interactive identity. The palette's confidence inspired FLARE's\n   bold electric indigo (#1507D6) accent on a warm cream canvas.\n\n3. Protean Funds Scandinavia (land-book.com) — Nordic minimalism in finance: clean\n   whitespace, editorial type hierarchy, financial data treated as content not noise.\n\nChallenge: Design a light-mode luxury card companion that merges editorial warmth\n(cream/ivory palette) with bold electric indigo accents. AI concierge integration,\npremium tier system, curated lifestyle experiences.\n5 screens: Home (card + concierge) · Spend (AI categorization) ·\nDiscover (curated experiences) · Rewards (points system) · Profile (account settings).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-helm-1774300318675",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "HELM",
       "tagline": "Command your agents. Ship faster.",
       "archetype": "ai-agent-orchestration",
@@ -1926,11 +2015,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark AI agent orchestration dashboard inspired by Linear's \"teams and agents\" feature and Mixpanel's AI-first analytics aesthetic. 5 screens: Overview, Agent Detail, Queue, Activity Feed, Settings.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-bask-1774303922685",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "BASK",
       "tagline": "Ambient work rhythm companion. Deep focus, without the noise.",
       "archetype": "productivity",
@@ -1941,11 +2031,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design BASK — an ambient work rhythm companion for makers and designers. Inspired by three discoveries from this heartbeat's research:\n1. Amie.so (godly.website) — \"AI Note Taker without a bot\" framing: a clean LIGHT theme product that positions AI as invisible, woven-in, never chatbot-intrusive. Warm off-white backgrounds, restrained typography, AI-enhanced but ambient.\n2. AuthKit by WorkOS (godly.website) — ultra-minimal auth card UI: white cards on off-white backgrounds, soft box shadows, clean 12px border radii, gentle hairline borders. That card-on-linen surface pattern drives BASK's entire design system.\n3. land-book.com light SaaS trend (Voy, Sanity): warm linen-white backgrounds (#F5F1EC), large hero numerals as primary UI element (session timer = 34px bold), thin supporting labels with generous tracking.\nTheme: LIGHT. Warm linen background (#F5F1EC), white cards (#FFFFFF), terracotta amber accent (#C47A40), forest-green success (#3D8B5F), calm blue (#4674B8). The challenge: design an AI productivity tool that feels like a quiet notebook rather than a dashboard. AI insight appears as ambient whispers, not popups. 5 screens: Today (intention + focus blocks) · Focus (active session timer, ambient AI nudge) · Insights (weekly chart + AI patterns) · Log (session history) · Settings (AI toggles + quiet hours).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-sanctum-1774307405633",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SANCTUM",
       "tagline": "A ritual for deep work.",
       "archetype": "productivity-focus",
@@ -1956,11 +2047,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SANCTUM — a dark deep-work focus companion. Inspired by Linear's \"calmer, more consistent interface\" (Mar 11 2026) and Flomodia's spaced editorial typography seen on godly.website. 5 screens: Sanctuary (home), Ritual (setup), Chamber (active session with orbital ring timer), Harvest (session complete), Codex (history and patterns).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-kite-1774311015398",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "KITE",
       "tagline": "Real-time API health monitoring. Zero blind spots.",
       "archetype": "devtools",
@@ -1971,11 +2063,12 @@
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/kite",
-      "mock_url": "https://ram.zenbin.org/kite-mock"
+      "mock_url": "https://ram.zenbin.org/kite-mock",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-kite-1774311051904",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "KITE",
       "tagline": "Real-time API health monitoring. Zero blind spots.",
       "archetype": "devtools",
@@ -1986,11 +2079,12 @@
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/kite",
-      "mock_url": "https://ram.zenbin.org/kite-mock"
+      "mock_url": "https://ram.zenbin.org/kite-mock",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-draft-1774314660666",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DRAFT",
       "tagline": "Proposals that close. Pipeline that pays.",
       "archetype": "freelance-crm",
@@ -2001,11 +2095,12 @@
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/draft",
-      "mock_url": "https://ram.zenbin.org/draft-mock"
+      "mock_url": "https://ram.zenbin.org/draft-mock",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-aeon-1774318204721",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "AEON",
       "tagline": "Persistent memory for production AI agents.",
       "archetype": "ai-devtools",
@@ -2016,11 +2111,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI agent memory inspector — dark, data-dense. Inspired by Letta (persistent agents) on minimal.gallery + Linear dense dark UI on darkmodedesign.com.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-locale-1774321665493",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Locale",
       "tagline": "Discover your neighbourhood's hidden gems.",
       "archetype": "community-discovery",
@@ -2031,11 +2127,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Neighbourhood discovery app — warm artisanal light theme. Inspired by \"Idle Hour Matcha\" (land-book.com) earthy ecommerce aesthetic, \"Good Fella\" editorial grid layouts (awwwards.com), and the wave of slow/local-first consumer apps.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-locale-1774321760446",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Locale",
       "tagline": "Discover your neighbourhood's hidden gems.",
       "archetype": "community-discovery",
@@ -2046,11 +2143,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Neighbourhood discovery app — warm artisanal light theme. Inspired by \"Idle Hour Matcha\" (land-book.com) earthy ecommerce aesthetic, \"Good Fella\" editorial grid layouts (awwwards.com), and the wave of slow/local-first consumer apps.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-strobe-1774325482331",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "STROBE",
       "tagline": "Live venue analytics. Every show, every dollar, live.",
       "archetype": "event-analytics",
@@ -2062,11 +2160,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Live venue event analytics dashboard — dark, energetic. Inspired by Saaspo \"gamified UI depth\" trend (layered panels, glow effects, HUD energy) + Dark Mode Design featured sites mixed typography (editorial serif italic for hero numbers, tight geometric sans for labels).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-grit-1774325900396",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "GRIT",
       "tagline": "Strength, stripped down",
       "archetype": "fitness-tracker",
@@ -2078,7 +2177,8 @@
       "prompt": "Brutalist dark strength training tracker. Inspired by SiteInspire typographic trend (2052 typographic designs — #1 style category) and Godly dark developer infrastructure sites (Evervault, Linear). Heavy bold numerals as hero elements, near-black background, ember accent, zero rounded corners. PRs and weight values rendered at 56–68px.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-folio-1774328964144",
@@ -2097,7 +2197,7 @@
     },
     {
       "id": "heartbeat-noctua-1774332478362",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "NOCTUA",
       "tagline": "Calm AI revenue & focus companion for independent workers.",
       "archetype": "productivity",
@@ -2108,11 +2208,12 @@
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/noctua",
-      "mock_url": "https://ram.zenbin.org/noctua-mock"
+      "mock_url": "https://ram.zenbin.org/noctua-mock",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-noctua-1774332558698",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "NOCTUA",
       "tagline": "Calm AI revenue & focus companion for independent workers.",
       "archetype": "productivity",
@@ -2123,11 +2224,12 @@
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/noctua",
-      "mock_url": "https://ram.zenbin.org/noctua-mock"
+      "mock_url": "https://ram.zenbin.org/noctua-mock",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-lane-1774336249161",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LANE",
       "tagline": "AI workflow builder & run scheduler for production agent pipelines.",
       "archetype": "developer-tools",
@@ -2138,7 +2240,8 @@
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/lane",
-      "mock_url": "https://ram.zenbin.org/lane-mock"
+      "mock_url": "https://ram.zenbin.org/lane-mock",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-tempo-1774339854402",
@@ -2157,7 +2260,7 @@
     },
     {
       "id": "heartbeat-diff-1774343426510",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DIFF",
       "tagline": "Every merge, made smarter.",
       "archetype": "developer-tools-ai",
@@ -2168,11 +2271,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design DIFF — a dark-themed AI Pull Request Intelligence dashboard.\nInspired by:\n1. Linear / Codex integration (darkmodedesign.com) — AI agents shown working inline alongside humans, deep near-black palette, electric violet accent, sidebar nav + card issue layout\n2. Relace AI (lapa.ninja) — \"purpose-built AI models for coding agents, ultra-fast code retrieval and merging\" — AI-native developer tooling aesthetic\n3. Evervault customers (godly.website) — deep security-focused dark UI, monospace data rendering\nDark palette: near-black #0C0D12 + electric violet #7C6DFA + teal #00D4A8 for diff additions.\n5 screens: Feed (PR list + agent activity) · Review (AI-annotated diff) · Insights (code quality trends) · Team (contributor velocity) · Rules (AI policy config)",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-diff-1774343675015",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DIFF",
       "tagline": "Every merge, made smarter.",
       "archetype": "developer-tools-ai",
@@ -2183,11 +2287,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design DIFF — a dark-themed AI Pull Request Intelligence dashboard.\nInspired by:\n1. Linear / Codex integration (darkmodedesign.com) — AI agents shown working inline alongside humans, deep near-black palette, electric violet accent, sidebar nav + card issue layout\n2. Relace AI (lapa.ninja) — \"purpose-built AI models for coding agents, ultra-fast code retrieval and merging\" — AI-native developer tooling aesthetic\n3. Evervault customers (godly.website) — deep security-focused dark UI, monospace data rendering\nDark palette: near-black #0C0D12 + electric violet #7C6DFA + teal #00D4A8 for diff additions.\n5 screens: Feed (PR list + agent activity) · Review (AI-annotated diff) · Insights (code quality trends) · Team (contributor velocity) · Rules (AI policy config)",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-sole-1774347323520",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SOLE",
       "tagline": "Your whole business, one view",
       "archetype": "productivity-finance",
@@ -2198,11 +2303,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SOLE — a light-themed business OS for one-person companies.\nInspired by:\n1. Midday.ai (darkmodedesign.com) — \"For the new wave of one-person companies\" — clean financial OS, beautifully typeset data, monospace numbers\n2. Locomotive (godly.website) — editorial grid layouts, large typographic hierarchy, numbers as design elements\n3. Lapa.ninja recent — Overlay, Paperclip, Ape AI — warm off-white precision utility apps\nLight palette: warm parchment #F5F0E8 + ink black #1C1A16 + terracotta #C25234 + sage #4A7256 + amber #C07020\n6 screens: Today (dashboard), Money (P&L + cashflow), Clients (portfolio), Work (projects), Invoices, You (report card)",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-sole-1774347345076",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SOLE",
       "tagline": "Your whole business, one view",
       "archetype": "productivity-finance",
@@ -2213,11 +2319,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design SOLE — a light-themed business OS for one-person companies.\nInspired by:\n1. Midday.ai (darkmodedesign.com) — \"For the new wave of one-person companies\" — clean financial OS, beautifully typeset data, monospace numbers\n2. Locomotive (godly.website) — editorial grid layouts, large typographic hierarchy, numbers as design elements\n3. Lapa.ninja recent — Overlay, Paperclip, Ape AI — warm off-white precision utility apps\nLight palette: warm parchment #F5F0E8 + ink black #1C1A16 + terracotta #C25234 + sage #4A7256 + amber #C07020\n6 screens: Today (dashboard), Money (P&L + cashflow), Clients (portfolio), Work (projects), Invoices, You (report card)",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-grove-1774350723067",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "GROVE",
       "tagline": "Tend your thoughts, harvest insight",
       "archetype": "reading-knowledge-garden",
@@ -2228,7 +2335,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "A personal reading & knowledge cultivation app. Dark navy-purple + amber gold + sage green. Inspired by Litbix (minimal.gallery) dark book UI, Hemispherical Stacks deep purple editorial, and Obsidian knowledge graph (darkmodedesign.com).",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-weave-1774354327346",
@@ -2247,7 +2355,7 @@
     },
     {
       "id": "heartbeat-lull-1774354705787",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LULL",
       "tagline": "A space to arrive in yourself",
       "archetype": "mindfulness-journal",
@@ -2259,11 +2367,12 @@
       "prompt": "Calm daily reflection and mindfulness journal. Inspired by lapa.ninja health/fitness category (Dawn — evidence-based AI for mental health; Super Chill — a fresh and calm mind) and minimal.gallery editorial aesthetic (KO Collective, Old Tom Capital). Light warm palette: off-white #F7F4EF, sage green #5A7856, warm clay #A0694A. Serif headings, generous whitespace, breath as a design principle.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-prism-1774357965466",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "PRISM",
       "tagline": "Developer code intelligence at a glance",
       "archetype": "developer-analytics",
@@ -2276,7 +2385,8 @@
       "prompt": "Developer code intelligence platform. Inspired by darkmodedesign.com: 108 Supply bento editorial grid on dark background, Cecilia bold white type on near-black sculptural space, Linear-style dark navy with vivid violet accent and data-forward minimal chrome. Also lapa.ninja: Mobbin utility-forward dark UI with strong typographic hierarchy. Dark theme: space-black #080B14, electric violet #7C5CFC, teal success #06D6A0, amber warning, monospace readouts for metrics. Bento-box data grid meets Linear SaaS confidence.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-olia-1774361342807",
@@ -2295,7 +2405,7 @@
     },
     {
       "id": "heartbeat-cord-1774362378667",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CORD",
       "tagline": "See every agent. Every run. Every decision.",
       "archetype": "agent-orchestration",
@@ -2307,11 +2417,12 @@
       "prompt": "Dark AI agent orchestration dashboard. Inspired by biotxai ML Mobile Patterns (Dribbble #1 save this week — dense tabular dark UI with status chips and tool call traces), darkmodedesign.com featured Linear and Midday (dark utility-first professional tools), and land-book Runlayer (Enterprise MCPs, Skills & Agents trending). 5 screens: Overview with live run status, Agent Registry, Run Log, Tool Call Inspector, and Cost/Performance Metrics.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-folio-reading-1774365642084",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FOLIO",
       "tagline": "Read deeper, not just more.",
       "archetype": "reading-intelligence",
@@ -2322,11 +2433,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal reading intelligence app. Inspired by \"Current - A River of Reading\" (land-book.com, Mar 2026) showing the reading app renaissance trend, and editorial typography from isadeburgh.com (minimal.gallery). 5 screens: Today (current book hero, streak, goal), Library (book grid with progress indicators), Reading View (immersive reader with highlight toolbar), Highlights (quote collection with margin-annotation cards), Stats (page charts, genre breakdown, reading window insights). Warm cream palette, terracotta accent, serif headline typography.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-runr-agent-1774368479117",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "RUNR",
       "tagline": "Your agents, in production.",
       "archetype": "ai-runtime-platform",
@@ -2337,11 +2449,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-theme AI agent runtime dashboard. Inspired by Land-book trend \"Codegen — The OS for Code Agents\" and DarkModeDesign gallery (Linear/Midday aesthetic). 5 screens: Fleet overview, Live run trace, Execution traces, Log stream, API keys & rate limits.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-lull-1774372347582",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LULL",
       "tagline": "A space to arrive in yourself",
       "archetype": "mindfulness-journal",
@@ -2353,11 +2466,12 @@
       "prompt": "Calm daily reflection and mindfulness journal. Inspired by lapa.ninja health/fitness category (Dawn — evidence-based AI for mental health; Super Chill — a fresh and calm mind) and minimal.gallery editorial aesthetic (KO Collective, Old Tom Capital). Light warm palette: off-white #F7F4EF, sage green #5A7856, warm clay #A0694A. Serif headings, generous whitespace, breath as a design principle.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-bloom-1774373083814",
-      "status": "queued",
+      "status": "unavailable",
       "pending_publish": true,
       "zenbin_limit": "2026-04-22",
       "app_name": "BLOOM",
@@ -2372,11 +2486,12 @@
       "screens": 6,
       "source": "heartbeat",
       "theme": "light",
-      "palette": "#F8F5F0 / #2A5A3A / #D4884A"
+      "palette": "#F8F5F0 / #2A5A3A / #D4884A",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-arc-1774375978770",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ARC",
       "tagline": "AI Agent Orchestration Console",
       "archetype": "agent-orchestration-os",
@@ -2387,11 +2502,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-theme AI Agent Orchestration OS. Inspired by Linear UI refresh (darkmodedesign.com) + Codegen OS for Code Agents (land-book.com). Network graph pipeline visualization. Midnight palette, violet #8B5CF6, teal #2DD4BF. 6 screens: Hub, Agents, Network Graph, Agent Detail, Logs, Settings.",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-relay-1774383050857",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Relay",
       "tagline": "The OS for AI Agent Orchestration",
       "archetype": "agent-orchestration-dashboard",
@@ -2402,11 +2518,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode agent orchestration OS inspired by Codegen.com ultra-light weight-300 headlines on #131315 charcoal, and the agent OS trend from land-book. Violet accent #7C6FFF, teal secondary #3ECFCF, lavender-gray muted text. 5 screens: Fleet dashboard, Pipelines, Agents catalog, Run history, Settings.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-forge-1774386562111",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FORGE",
       "tagline": "your codebase, understood",
       "archetype": "devtools",
@@ -2417,7 +2534,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark devtools: AI code intelligence dashboard inspired by Codegen OS (land-book) and JetBrains Air (lapa.ninja). Agent orchestration, tech debt analysis, live terminal. Midnight navy + electric violet + terminal cyan.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-folio-1774390263712",
@@ -2451,7 +2569,7 @@
     },
     {
       "id": "heartbeat-volt-1774401196984",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "VOLT",
       "tagline": "live wire. dead threats.",
       "archetype": "security-observability",
@@ -2462,11 +2580,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark security network observability dashboard inspired by Evervault dark security card aesthetic (godly.website), Tracebit \"The answer to Assume Breach\" (land-book.com), and Midday/Linear precision dark dashboards (darkmodedesign.com). Electric-cyan (#00CFFF) + alert-red (#FF4D2E) palette on deep navy-black. Five screens: Live Feed event stream with severity codes, Network Map radial topology with pulse rings on critical nodes, Incident Detail with attack timeline bar chart + response actions, Response Policies with IF/DO rule cards, Timeline with 24h severity heatmap grid.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-vitro-1774404522996",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "VITRO",
       "tagline": "know your biology. own your future.",
       "archetype": "longevity-health-tracker",
@@ -2477,11 +2596,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme longevity biomarker tracker inspired by Superpower health app on godly.website — warm amber photography meets clinical white data cards. Warm cream (#FAF7F2) + terracotta (#C8622A) palette. Five screens: Vitality Score (longevity score 82/100 with weekly sparkline), Blood Panel (42 biomarkers with optimal/borderline/risk status), Recovery (HRV trend chart + sleep stages + readiness factors), Supplement Stack (3 timing windows with adherence tracking), and AI Insights (prioritised personalised recommendations).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-vitro-1774404567327",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "VITRO",
       "tagline": "know your biology. own your future.",
       "archetype": "longevity-health-tracker",
@@ -2492,11 +2612,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme longevity biomarker tracker inspired by Superpower health app on godly.website — warm amber photography meets clinical white data cards. Warm cream (#FAF7F2) + terracotta (#C8622A) palette. Five screens: Vitality Score (longevity score 82/100 with weekly sparkline), Blood Panel (42 biomarkers with optimal/borderline/risk status), Recovery (HRV trend chart + sleep stages + readiness factors), Supplement Stack (3 timing windows with adherence tracking), and AI Insights (prioritised personalised recommendations).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-roam-1774408556087",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ROAM",
       "tagline": "your money, anywhere in the world",
       "archetype": "nomad-finance",
@@ -2507,11 +2628,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme digital nomad finance app inspired by Midday.ai passive financial intelligence (darkmodedesign.com) — \"pre-accounting\" automation, humanist typography, warm neutral palette. Also Tracebit \"Assume Breach\" framing reapplied as proactive overspend monitoring (land-book.com). Warm parchment (#F5F1E8) + sky blue (#2557D6) + savings green (#0D9B6C). Five screens: Runway (127 days at Lisbon pace, AI insight, live rates), Transactions (multi-currency, unusual-spend flagging), City Compare (6-city bar chart with runway delta), Budget (ring viz + category progress), Goals (4 milestone cards with progress bars + milestone markers).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-forge-1774411826001",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FORGE",
       "tagline": "Engineering Velocity Dashboard",
       "archetype": "dev-team-dashboard",
@@ -2522,11 +2644,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark terminal-aesthetic engineering velocity dashboard for dev teams. Inspired by Muradov.design (darkmodedesign.com) — pure black, Telegraf grotesque + Fraktion Mono pairing, warm off-white #F8F7F4, electric blue accent. New technique: monospace/grotesque pairing where metric values render in JetBrains Mono and labels stay grotesque. Near-black (#080808), electric blue (#2962FF), warm off-white (#F0EDE5). 5 screens: Dashboard (sprint overview, velocity sparklines, DORA health), Pull Requests (PR queue with filter tabs, review status), Pipeline (CI/CD stage visualization), Incidents (severity-labeled log with MTTR), Team (contributor load bars, reviewer distribution).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-thread-1774412341533",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "THREAD",
       "tagline": "every thought, connected",
       "archetype": "pkm-knowledge-graph",
@@ -2538,11 +2661,12 @@
       "prompt": "Dark PKM knowledge graph tool. Inspired by Reflect.app (Godly) and Midday dark surfaces on darkmodedesign.com. Near-black bg #0C0B0F, violet #8B6FE8, mint #52B88A. Screens: daily note with backlinks, graph view with node clusters, note detail with highlights, quick capture with AI link suggestions, semantic search.",
       "screens": 10,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-apex-1774415793243",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "APEX",
       "tagline": "Peak code quality, every sprint.",
       "archetype": "code-quality-saas",
@@ -2553,11 +2677,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by land-book.com Codegen \"The OS for Code Agents\" trend — dark AI dev tooling is everywhere; APEX inverts this with a clean editorial light-mode code quality intelligence dashboard, warm orange accents on paper-white, Console-inspired typography. 5 screens: Overview, Issues, Coverage, AI Insights, Trends.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-ledge-1774419096368",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Ledge",
       "tagline": "Know your worth, down to the minute.",
       "archetype": "finance-dark",
@@ -2571,7 +2696,8 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark",
-      "inspiration": "darkmodedesign.com (Darkroom editorial), awwwards.com (Corentin Bernadou SOTD)"
+      "inspiration": "darkmodedesign.com (Darkroom editorial), awwwards.com (Corentin Bernadou SOTD)",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-podium-1774422883170",
@@ -2590,7 +2716,7 @@
     },
     {
       "id": "heartbeat-ligature-1774427215650",
-      "status": "queued",
+      "status": "unavailable",
       "pending_publish": true,
       "zenbin_limit": "2026-04-23",
       "app_name": "Ligature",
@@ -2605,11 +2731,12 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light",
-      "palette": "#FAF8F5 / #C9853A / #4A7C6F"
+      "palette": "#FAF8F5 / #C9853A / #4A7C6F",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-signal-1774429984132",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SIGNAL",
       "tagline": "Real-time market intelligence for serious traders",
       "archetype": "finance-dark-editorial",
@@ -2634,11 +2761,12 @@
         "green": "#00C896",
         "red": "#FF3B5C",
         "gold": "#C8A250"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-rally-1774433325778",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Rally",
       "tagline": "Your humans and agents, in sync",
       "archetype": "productivity-ai-light",
@@ -2665,11 +2793,12 @@
         "greenSoft": "#E3F6EF",
         "amber": "#F59E0B",
         "amberSoft": "#FEF3C7"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-rally-1774433339019",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Rally",
       "tagline": "Your humans and agents, in sync",
       "archetype": "productivity-ai-light",
@@ -2696,11 +2825,12 @@
         "greenSoft": "#E3F6EF",
         "amber": "#F59E0B",
         "amberSoft": "#FEF3C7"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-rune-1774437257201",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Rune",
       "tagline": "Zero-config secret management for teams",
       "archetype": "developer-security",
@@ -2711,11 +2841,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode developer secret management app. Inspired by Twingate zero-trust (godly.website) and Evervault encryption tooling + Midday.ai financial clarity UI (darkmodedesign.com).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-rune-1774437274321",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Rune",
       "tagline": "Zero-config secret management for teams",
       "archetype": "developer-security",
@@ -2726,11 +2857,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode developer secret management app. Inspired by Twingate zero-trust (godly.website) and Evervault encryption tooling + Midday.ai financial clarity UI (darkmodedesign.com).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-tome-1774440818868",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Tome",
       "tagline": "Your reading life, beautifully tracked",
       "archetype": "reading-tracker",
@@ -2744,11 +2876,12 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light",
-      "inspiration": "Current (land-book.com), Litbix (minimal.gallery)"
+      "inspiration": "Current (land-book.com), Litbix (minimal.gallery)",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-drift-1774441236157",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DRIFT",
       "tagline": "explore at your own pace",
       "archetype": "local-discovery",
@@ -2760,11 +2893,12 @@
       "prompt": "Light-theme local discovery and slow travel app. Inspired by peach/terracotta travel app trending on Dribbble and Korsa clean editorial UI. Warm terracotta #E07848, forest green #3B7A5E on warm white bg. Screens: Discover (category-filtered place cards), Place detail, Day plan timeline, Saved collections, City guides.",
       "screens": 10,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-ledger-1774444573027",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LEDGER",
       "tagline": "Money that thinks for you",
       "archetype": "fintech-ai-dashboard",
@@ -2775,11 +2909,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Midday.ai (darkmodedesign.com): dark AI-powered financial clarity app for solo founders and freelancers. 5 screens: Dashboard, Transactions, Invoices, Analytics, AI Insights. Deep blue-black palette with electric mint and indigo accents.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-char-1774447841129",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CHAR",
       "tagline": "your codebase, distilled",
       "archetype": "developer-analytics",
@@ -2791,11 +2926,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-theme code analytics dashboard for solo devs / small teams. Inspired by Corentin Bernadou Portfolio (Awwwards SOTD Mar 25 2026) — 2-color #FF4401 + near-black minimalism. And Midday.ai editorial dashboard approach (from darkmodedesign.com). Burnt orange #FF4401 single accent on #0C0D0D background. Five screens: Pulse (home dashboard with greeting + metric grid + AI prompt), Commits (heatmap + bar chart + file activity), Reviews (PR status + cycle time trend), Debt (score ring + breakdown bars + hotspot files), Insight (weekly AI digest + sprint recommendation).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-char-1774447860166",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CHAR",
       "tagline": "your codebase, distilled",
       "archetype": "developer-analytics",
@@ -2807,11 +2943,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-theme code analytics dashboard for solo devs / small teams. Inspired by Corentin Bernadou Portfolio (Awwwards SOTD Mar 25 2026) — 2-color #FF4401 + near-black minimalism. And Midday.ai editorial dashboard approach (from darkmodedesign.com). Burnt orange #FF4401 single accent on #0C0D0D background. Five screens: Pulse (home dashboard with greeting + metric grid + AI prompt), Commits (heatmap + bar chart + file activity), Reviews (PR status + cycle time trend), Debt (score ring + breakdown bars + hotspot files), Insight (weekly AI digest + sprint recommendation).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-flint-1774458474860",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Flint",
       "tagline": "PR review load, made legible",
       "archetype": "developer-tools",
@@ -2823,11 +2960,12 @@
       "prompt": "Inspired by Factory (minimal.gallery SAAS, Mar 25 2026) — clean white developer tooling UI with structured tabular data — and Sort's left-rule status row pattern. Combined with editorial bold typography from Lucci Lambrusco (siteinspire.com). Light-theme PR review workload tracker for engineering leads: queue health, reviewer capacity, cycle time velocity, and blocker triage.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-conductor-1774462200681",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Conductor",
       "tagline": "Orchestrate your AI agents, effortlessly",
       "archetype": "ai-ops-dashboard",
@@ -2838,7 +2976,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by JetBrains Air \"Multitask with agents, stay in control\" seen on lapa.ninja, and Midday.ai clean tabbed dashboard from darkmodedesign.com. Light-theme AI agent orchestration dashboard: unified overview, agent drilldown with sparklines, task queue management, heatmap analytics, and quick-compose screen.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-tempo-1774465827953",
@@ -2873,7 +3012,7 @@
     },
     {
       "id": "heartbeat-canary-1774473088080",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CANARY",
       "tagline": "know when they're inside",
       "archetype": "deception-security",
@@ -2889,11 +3028,12 @@
       "palette_primary": "#F5C842",
       "palette_bg": "#070B14",
       "viewer_url": "https://ram.zenbin.org/canary-viewer",
-      "note": "Hero + mock saved locally; ZenBin at 100-page cap (resets 2026-04-23). Viewer live at ram.zenbin.org/canary-viewer."
+      "note": "Hero + mock saved locally; ZenBin at 100-page cap (resets 2026-04-23). Viewer live at ram.zenbin.org/canary-viewer.",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-haven-1774476437326",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "HAVEN",
       "tagline": "your financial safe harbor",
       "archetype": "finance-tracker",
@@ -2905,11 +3045,12 @@
       "prompt": "Investment portfolio tracker. Light cream parchment theme. Serif + sans hierarchy. Forest green accents. Inspired by Old Tom Capital (minimal.gallery) and Vecton AI-BFSI (land-book). 5 screens: overview, holdings, markets, insights, profile.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-haven-1774476545240",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "HAVEN",
       "tagline": "your financial safe harbor",
       "archetype": "finance-tracker",
@@ -2921,11 +3062,12 @@
       "prompt": "Investment portfolio tracker. Light cream parchment theme. Serif + sans hierarchy. Forest green accents. Inspired by Old Tom Capital (minimal.gallery) and Vecton AI-BFSI (land-book). 5 screens: overview, holdings, markets, insights, profile.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-loom-1774480357995",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LOOM",
       "tagline": "build AI workflows visually",
       "archetype": "ai-workflow-builder",
@@ -2937,11 +3079,12 @@
       "prompt": "Visual AI workflow builder. Dark indigo theme. Violet + mint palette. Inspired by Codegen OS for Code Agents (land-book), LangChain Observe/Evaluate/Deploy (land-book), Evervault (godly). 5 screens: dashboard, canvas, run log, node config, hub.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-habitat-1774483760502",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "HABITAT",
       "tagline": "deep work, compounded daily",
       "archetype": "habit-tracker",
@@ -2959,7 +3102,8 @@
         "accent": "#E8490A",
         "accent2": "#2A6B8C"
       },
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-sage-1774487395914",
@@ -2978,7 +3122,7 @@
     },
     {
       "id": "heartbeat-cipher-1774491280291",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CIPHER",
       "tagline": "your codebase's immune system",
       "archetype": "security-intelligence",
@@ -2989,7 +3133,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark security ops app for developer teams — inspired by Codegen.com near-black UI and Evervault deep navy + Tracebit \"Assume Breach\" framing. 5 screens: dashboard, live scan, vulnerabilities, threat feed, integrations. Cyan-mint accent on near-black deep navy.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-dewdrop-1774494722756",
@@ -3015,7 +3160,7 @@
     },
     {
       "id": "heartbeat-float-1774498153864",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FLOAT",
       "tagline": "Cash flow clarity for creators",
       "archetype": "freelance-finance-dashboard",
@@ -3026,7 +3171,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark financial dashboard for freelancers. Inspired by Midday.ai (featured on darkmodedesign.com) — near-black navy bg, clean transaction tables, \"ambient financial intelligence\" that feels calm not alarming. 5 screens: Overview (cash position + recent txns), Invoices (status tabs + collection progress), Forecast (30-day projection + upcoming), Clients (payment health scores + mini sparklines), Insights (AI-surfaced patterns). Palette: #0D0F1A bg, #3DFFC0 mint accent, #FF6B6B coral, #5B8AF0 blue.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-hush-1774498799666",
@@ -3079,7 +3225,7 @@
     },
     {
       "id": "heartbeat-tendril-1774509177461",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Tendril",
       "tagline": "small habits. exponential growth.",
       "archetype": "wellness-tracker",
@@ -3090,11 +3236,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal growth & habit intelligence app inspired by Shapify (lapa.ninja) lavender gradient beauty-tech aesthetic, Console (land-book.com) soft area-chart analytics on warm white cards, and Ysabella Nicole Alvarez (minimal.gallery) whimsy sticker/pill UI on clean white. Warm parchment (#F5F3EF) + soft lavender (#7C6EAD) + sage green (#5A9E78) + terracotta (#C97B52). Five screens: Today morning check-in with daily intention quote card + habit rows, Garden habit area charts per habit, Reflect mood check-in + journal entry, Insights weekly analytics with area charts and metric cards, Circles community accountability streaks.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-tendril-1774509260914",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Tendril",
       "tagline": "small habits. exponential growth.",
       "archetype": "wellness-tracker",
@@ -3105,11 +3252,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal growth & habit intelligence app inspired by Shapify (lapa.ninja) lavender gradient beauty-tech aesthetic, Console (land-book.com) soft area-chart analytics on warm white cards, and Ysabella Nicole Alvarez (minimal.gallery) whimsy sticker/pill UI on clean white. Warm parchment (#F5F3EF) + soft lavender (#7C6EAD) + sage green (#5A9E78) + terracotta (#C97B52). Five screens: Today morning check-in with daily intention quote card + habit rows, Garden habit area charts per habit, Reflect mood check-in + journal entry, Insights weekly analytics with area charts and metric cards, Circles community accountability streaks.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-tendril-1774509275434",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Tendril",
       "tagline": "small habits. exponential growth.",
       "archetype": "wellness-tracker",
@@ -3120,11 +3268,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal growth & habit intelligence app inspired by Shapify (lapa.ninja) lavender gradient beauty-tech aesthetic, Console (land-book.com) soft area-chart analytics on warm white cards, and Ysabella Nicole Alvarez (minimal.gallery) whimsy sticker/pill UI on clean white. Warm parchment (#F5F3EF) + soft lavender (#7C6EAD) + sage green (#5A9E78) + terracotta (#C97B52). Five screens: Today morning check-in with daily intention quote card + habit rows, Garden habit area charts per habit, Reflect mood check-in + journal entry, Insights weekly analytics with area charts and metric cards, Circles community accountability streaks.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-tendril-1774509385779",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Tendril",
       "tagline": "small habits. exponential growth.",
       "archetype": "wellness-tracker",
@@ -3135,11 +3284,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal growth & habit intelligence app inspired by Shapify (lapa.ninja) lavender gradient beauty-tech aesthetic, Console (land-book.com) soft area-chart analytics on warm white cards, and Ysabella Nicole Alvarez (minimal.gallery) whimsy sticker/pill UI on clean white. Warm parchment (#F5F3EF) + soft lavender (#7C6EAD) + sage green (#5A9E78) + terracotta (#C97B52). Five screens: Today morning check-in with daily intention quote card + habit rows, Garden habit area charts per habit, Reflect mood check-in + journal entry, Insights weekly analytics with area charts and metric cards, Circles community accountability streaks.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-alloy-1774512434213",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ALLOY",
       "tagline": "Wealth composition, forged with precision",
       "archetype": "fintech-dark",
@@ -3152,7 +3302,8 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark",
-      "palette": "#0B0C10,#7C5CFC,#FF6B6B,#48C778,#FFB340"
+      "palette": "#0B0C10,#7C5CFC,#FF6B6B,#48C778,#FFB340",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-quill-1774516236585",
@@ -3173,7 +3324,7 @@
     },
     {
       "id": "heartbeat-axon-1774519831385",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Axon",
       "tagline": "Route your AI workflows",
       "archetype": "ai-automation",
@@ -3184,7 +3335,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI workflow router mobile app — dark. Inspired by Codegen.com (OS for Code Agents) on darkmodedesign.com: deep near-black #13 13 15 bg, integration badge UX, neon teal accent, developer pipeline node layout.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-mira-1774523243943",
@@ -3236,7 +3388,7 @@
     },
     {
       "id": "heartbeat-yield-1774526822733",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Yield",
       "tagline": "Know exactly where your money comes from",
       "archetype": "finance-analytics-dashboard",
@@ -3247,7 +3399,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Revenue intelligence dashboard for indie makers — dark theme. Inspired by Midday.ai (darkmodedesign.com) + Equals GTM analytics (land-book.com) + Mixpanel (godly.website). \"Quiet Clarity\": monospace number typography, electric violet/mint accent system, floating cards on near-black deep space background.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-keel-1774527314566",
@@ -3267,7 +3420,7 @@
     },
     {
       "id": "heartbeat-cashline-1774530484411",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Cashline",
       "tagline": "Cash flow intelligence for independent consultants",
       "archetype": "finance-intelligence",
@@ -3278,7 +3431,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI-first cash flow dashboard for solopreneurs inspired by Midday.ai (godly.website) and Linear agent-tasks UX paradigm",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-folio-1774534370754",
@@ -3297,7 +3451,7 @@
     },
     {
       "id": "heartbeat-delta-1774538241475",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DELTA",
       "tagline": "Ship winning experiments, not hunches.",
       "archetype": "growth-experimentation",
@@ -3309,11 +3463,12 @@
       "prompt": "Inspired by Land-book \"Codegen | The OS for Code Agents\" (treats workflows as intelligent systems) + Linear (darkmodedesign.com) dark minimal SaaS aesthetic + Awwwards bento-grid layouts seen in SaaS nominees Mar 2026. New pattern: bento grid dashboard with asymmetric 2-col varied-height cards. Dark theme: near-black #08090F + electric violet #7C5CF4 + cyan win-state #22D3EE. 5 screens: bento dashboard, experiments list, experiment detail, create form, insights.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-axon-1774541870613",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LARDER",
       "tagline": "Know every ingredient, from soil to plate.",
       "archetype": "food-provenance-intelligence",
@@ -3325,7 +3480,8 @@
       "prompt": "Inspired by Lucci Lambrusco (siteinspire.com) warm cream + terracotta editorial style with marquee ticker strip; KOMETA Typefaces (minimal.gallery) clean white + bold accent block; Isa de Burgh (lapa.ninja) editorial whitespace and minimal label system. LIGHT theme. Farm-to-table provenance platform for premium kitchens. 5 screens: dashboard+ticker, supplier directory, ingredient detail+provenance chain, seasonal calendar with bar chart, orders & procurement. New pattern: time-column layout on list items, editorial color-block hero cards.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-glow-1774548904979",
@@ -3356,7 +3512,7 @@
     },
     {
       "id": "heartbeat-cipher-1774552098501",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CIPHER",
       "tagline": "Developer security posture, at a glance",
       "archetype": "security-posture-monitoring",
@@ -3374,11 +3530,12 @@
         "bg": "#090B11",
         "accent": "#00E5C3",
         "accent2": "#8B6FF5"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-cuvee-1774556319754",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Cuvée",
       "tagline": "Wine discovery with an editorial eye",
       "archetype": "wine-discovery-cellar",
@@ -3389,7 +3546,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light editorial wine discovery + cellar management app — inspired by Lucci Lambrusco (Alright Studio) and Maben (Base Design, \"Big Type + Minimal\") featured on siteinspire Mar 26 2026. Parchment white, deep ink, wine burgundy accents. Oversized serif vintage years as hero typography.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-tend-1774557318563",
@@ -3409,7 +3567,7 @@
     },
     {
       "id": "heartbeat-ledge-1774559517306",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LEDGE",
       "tagline": "financial clarity for independent workers",
       "archetype": "freelance-finance-tracker",
@@ -3421,7 +3579,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Midday.ai (darkmodedesign.com) — clean SaaS financial tool with large typographic hero numbers and feature sections; Equals/GTM Analytics (land-book.com) — data-forward analytics landing page; Minimal Gallery Litbix & Truecolor — editorial warmth, purposeful whitespace. LIGHT theme. Warm parchment bg (#F7F4EF), forest teal accent (#2B5C47), coral overdue (#D14B38), amber pending (#B8882A). Editorial large mono numbers as primary UI signature. 5 screens: Dashboard (hero income card + recent transactions), Invoices (colour-coded status chips, traffic-light system), Cash Flow (6-month income vs expenses bar chart), Expenses (horizontal category progress bars), Goals (financial targets with progress).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-nerve-1774562978416",
@@ -3825,7 +3984,7 @@
     },
     {
       "id": "heartbeat-atlas-1774609855882",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Atlas",
       "tagline": "Wealth, privately commanded",
       "archetype": "private-wealth-luxury-dark",
@@ -3836,7 +3995,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design ATLAS — an ultra-premium private wealth management app for high-net-worth individuals. Inspired by three discoveries from this heartbeat's research session:\n1. Atlas Card (atlascard.com via Godly.website) — invitation-only premium membership app with editorial photography insets, bold serif display type (showing lifestyle categories: dining, hotels, experiences, benefits), and deep black backgrounds. The luxury concierge UX pattern: active requests, service categories in a grid, past completions list.\n2. Darkroom (darkmodedesign.com) — near-black app (#070605) with high contrast serif/sans type pairing, minimal chrome, confident editorial whitespace. Premium dark aesthetic where the darkness itself communicates exclusivity.\n3. Lapa Ninja \"Dawn\" — calm metric-forward dashboard with clean data hierarchy and soft accent colours for positive/negative states.\nTheme: DARK — near-black (#070605 bg), champagne gold accent (#C8A96B), warm cream text (#F0EBE0), emerald green for positive (#4A9B7A).\n5 screens: Wealth Overview (net worth hero, recent activity, concierge highlight) · Portfolio (performance chart, asset allocation breakdown) · Concierge (active request card, service grid, past requests) · Statements (spend summary with category bars, transaction list) · Membership (physical card aesthetic, benefits tracker, renewal info).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-fuse-1774613519545",
@@ -3890,7 +4050,7 @@
     },
     {
       "id": "heartbeat-tenor-1774617471086",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "TENOR",
       "tagline": "Deal intelligence for independent consultants",
       "archetype": "deal-management",
@@ -3902,7 +4062,8 @@
       "prompt": "Inspired by: Interfere.ai (Lapa Ninja) — numbered steps 01/02/03 woven into hero prose; The Footprint Firm (Siteinspire) — ADVISORY/INVESTMENT clean professional structure; Cardless.com (Land-Book) — warm cream white fintech palette. Light theme: #F4F1ED bg, #1E3A5F navy, #C96B2A amber copper. 5 screens: Dashboard (deal cards with numbered stage bar indicators + 3 metric tiles), Pipeline (stage-grouped deal list with filtered view), Deal Detail (numbered milestone timeline 01-05), Clients (roster with stage badges and lifetime value), Revenue (bar chart + invoice queue). Core innovation: numbered stage badges (01-05) as primary navigation metaphor throughout the app.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-nexus-1774620613257",
@@ -3922,7 +4083,7 @@
     },
     {
       "id": "heartbeat-fern-1774624162021",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Fern",
       "tagline": "Daily rituals & gentle wellness",
       "archetype": "wellness-tracker",
@@ -3933,11 +4094,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Mindfulness & daily ritual tracker — light parchment theme, editorial serif type, organic arc progress, morning intentions",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-ghost-1774628124312",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Ghost",
       "tagline": "Intelligence briefing for builders",
       "archetype": "intelligence-feed",
@@ -3948,7 +4110,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark typographic-maximalist signal briefing app — pure black void, 88px display headlines, single teal accent per screen, 4-tier white opacity system",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-meridian-1774631689233",
@@ -3967,7 +4130,7 @@
     },
     {
       "id": "heartbeat-relay-1774635019453",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Relay",
       "tagline": "Orchestrate your personal AI agents",
       "archetype": "ai-orchestration",
@@ -3979,11 +4142,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode AI agent orchestration mobile app — near-black palette, electric teal accent, violet for AI-type labelling. Inspired by JetBrains Air \"agents in control\" paradigm and Obsidian.os command centre pattern.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-ledge-1774638572904",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Ledge",
       "tagline": "Your wealth, in focus",
       "archetype": "personal-finance",
@@ -3994,11 +4158,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal investment portfolio tracker — warm parchment palette, emerald accent for gains, bento-grid layout. Inspired by Equals GTM analytics (landbook.com) editorial number hero and Midday.ai bento grid inverted to light mode.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-slate-1774642104115",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Slate",
       "tagline": "Every surface, perfectly specified.",
       "archetype": "material-design-tool",
@@ -4009,7 +4174,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-theme material intelligence platform for product designers — inspired by Darkroom's monochromatic finish-selector UI (darkmodedesign.com), viewport-spanning bold display typography from GQ & AP Extraordinary Lab (awwwards SOTD Mar 26), and numbered feature sections from Veo Sports Cameras (land-book.com). Near-black palette with warm brass accents.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-nook-1774642794618",
@@ -4029,7 +4195,7 @@
     },
     {
       "id": "heartbeat-cipher-1774645946110",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CIPHER",
       "tagline": "see every threat before it sees you",
       "archetype": "security-intelligence",
@@ -4041,11 +4207,12 @@
       "prompt": "Inspired by Isidor.ai binary-as-decoration aesthetic on minimal.gallery. Dark security intel platform. Binary strings as ambient texture, electric green #00FF88 on near-black #040608. 5 screens: Dashboard, Threats, Assets, Intel Feed, Incidents.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-cipher-1774646010523",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CIPHER",
       "tagline": "see every threat before it sees you",
       "archetype": "security-intelligence",
@@ -4057,7 +4224,8 @@
       "prompt": "Inspired by Isidor.ai binary-as-decoration aesthetic on minimal.gallery. Dark security intel platform. Binary strings as ambient texture, electric green #00FF88 on near-black #040608. 5 screens: Dashboard, Threats, Assets, Intel Feed, Incidents.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-meridian-1774649386507",
@@ -4076,7 +4244,7 @@
     },
     {
       "id": "heartbeat-logr-1774653002862",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LOGR",
       "tagline": "Every event. Every insight. Zero noise.",
       "archetype": "developer-observability",
@@ -4087,11 +4255,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Developer event observability platform. Dark terminal-first UI. Inspired by Evervault:Customers on godly.website (dark encrypted tech aesthetic) and Midday on darkmodedesign.com (polished dark analytics dashboard). Electric indigo + mint green palette. Screens: Dashboard bento, real-time event stream with level filters, SQL query builder with syntax highlight, anomaly alerts, data sources/integrations.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-grove-1774656636770",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Grove",
       "tagline": "Grow your research, one thought at a time.",
       "archetype": "personal-research-workspace",
@@ -4102,11 +4271,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Personal research workspace app. Light warm-editorial theme — cream (#F7F3EE) + forest green (#3A6B4A) + amber. Inspired by Amie on godly.website (warm editorial palette), Cernel on land-book.com (clean onboarding structure), and The Lookback + Artefakt on awwwards.com (editorial bento grid). Lora serif italic headings + Inter body. Screens: Today's Focus dashboard, Research Workspace with annotated sources, Knowledge Map with visual topic graph, Capture Inbox with auto-route, Session Complete with synthesis, and Onboarding.",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-ritual-1774660104495",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "RITUAL",
       "tagline": "where drops meet discipline",
       "archetype": "drop-culture-wellness",
@@ -4117,11 +4287,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Deon Libra (land-book.com) drop culture wellness brand + The Lookback SOTD (awwwards.com) bold condensed editorial typography. Dark drop-culture app where daily rituals unlock exclusive sneaker drops.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-fable-1774663693524",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FABLE",
       "tagline": "read deeply, not just more",
       "archetype": "reading-wellness-light",
@@ -4132,11 +4303,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme slow-reading & focus companion. Warm cream + terracotta + sage palette. Inspired by Dawn wellness app (Lapa Ninja) and cozy library aesthetic (Land-book). Editorial Playfair Display headings. 5 screens: Today, Library, Focus Session, Insights, Discover.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-kore-1774667353066",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "KORE",
       "tagline": "Your business signal, live",
       "archetype": "ai-business-command-center",
@@ -4147,11 +4319,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark AI business command center — terminal aesthetics meets modern SaaS finance tool. Inspired by midday.ai (darkmodedesign.com) precision dark SaaS + traffic.productions bold editorial typography (godly.website). Near-black graphite bg, electric teal accent #00E5CC, amber signal colour, monospace data typography, live signal feed.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-kore-1774667451693",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "KORE",
       "tagline": "Your business signal, live",
       "archetype": "ai-business-command-center",
@@ -4162,11 +4335,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark AI business command center — terminal aesthetics meets modern SaaS finance tool. Inspired by midday.ai (darkmodedesign.com) precision dark SaaS + traffic.productions bold editorial typography (godly.website). Near-black graphite bg, electric teal accent #00E5CC, amber signal colour, monospace data typography, live signal feed.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-flock-1774671121015",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FLOCK",
       "tagline": "Your team + agents, one view",
       "archetype": "founder-os-ai-native-teams",
@@ -4177,11 +4351,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-themed Founder OS for AI-native teams — dual human+agent workload view. Inspired by Linear \"teams and agents\" era (darkmodedesign.com), Equals GTM AI Analyst (land-book.com), and Dawn calm evidence-based UI (lapa.ninja). Warm parchment white #F7F5F1, indigo-violet accent #5B5EF0, amber agents #F97316. Shows today view, agent status, OKRs, finance, sprint with workload split between humans and AI agents.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-flock-1774671509610",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "FLOCK",
       "tagline": "Your team + agents, one view",
       "archetype": "founder-os-ai-native-teams",
@@ -4192,7 +4367,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-themed Founder OS for AI-native teams — dual human+agent workload view. Inspired by Linear \"teams and agents\" era (darkmodedesign.com), Equals GTM AI Analyst (land-book.com), and Dawn calm evidence-based UI (lapa.ninja). Warm parchment white #F7F5F1, indigo-violet accent #5B5EF0, amber agents #F97316. Shows today view, agent status, OKRs, finance, sprint with workload split between humans and AI agents.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-form-1774672105961",
@@ -4212,7 +4388,7 @@
     },
     {
       "id": "heartbeat-mill-1774674565449",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "MILL",
       "tagline": "set tasks in motion",
       "archetype": "ai-task-orchestrator",
@@ -4223,11 +4399,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal AI task orchestrator. Delegate to agents in natural language. Inspired by JetBrains Air (lapa.ninja, 2026) — light functional agent UI, and Old Tom Capital (minimal.gallery, 2026) — warm paper ledger editorial serif aesthetic. Warm parchment #F5F1EB + forest green #2D6A4F + amber #C4741A. 5 screens: Home dashboard, Tasks board, Agents roster, New task input, Insights analytics.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-nova-1774678152772",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Nova",
       "tagline": "See exactly what your AI agents are doing",
       "archetype": "devops-observability",
@@ -4238,11 +4415,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark mode AI agent observability dashboard. Inspired by Linear.app and Midday.ai from DarkModeDesign.com — agent-native ops for the AI era.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-mesa-1774681804422",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "MESA",
       "tagline": "Revenue clarity for solopreneur founders",
       "archetype": "finance-founders-dashboard",
@@ -4254,11 +4432,12 @@
       "prompt": "Design a warm, editorial LIGHT-themed revenue intelligence dashboard for indie founders. Inspired by Midday.ai on Dark Mode Design (founder financial stack) inverted to cream/indigo/coral. 5 screens: Overview with AI agent activity feed, Clients roster, Invoice detail with timeline, Insights with bar chart, Settings with integrations.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-lore-1774685495980",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LORE",
       "tagline": "Story intelligence workspace for screenwriters and narrative designers",
       "archetype": "story-intelligence",
@@ -4276,11 +4455,12 @@
         "bg": "#080B12",
         "accent": "#6B4FE8",
         "gold": "#B8984A"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-bloc-1774688989884",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "BLOC",
       "tagline": "every team, in one grid",
       "archetype": "productivity-dashboard",
@@ -4298,11 +4478,12 @@
         "bg": "#EFF2F8",
         "accent": "#4360F5",
         "accent2": "#F5954B"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-epoch-1774692638322",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "EPOCH",
       "tagline": "Your year, rendered.",
       "archetype": "analytics-wrapped",
@@ -4313,11 +4494,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Annual intelligence platform inspired by Awwwards \"Unseen Studio 2025 Wrapped\" editorial dark aesthetic — cinematic year-in-review with heatmap, moments, network map, and AI insights.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-arca-1774696117449",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "ARCA",
       "tagline": "Agent Run Control & Analytics",
       "archetype": "agent-observability",
@@ -4328,11 +4510,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme AI agent pipeline monitor inspired by Composio.dev tool-flow UX and Silencio.es reference-table aesthetics (found via minimal.gallery + Godly)",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-mare-1774700021538",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "MARE",
       "tagline": "Sleep Intelligence Platform",
       "archetype": "sleep-health-wearable",
@@ -4343,7 +4526,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a sleep intelligence mobile app inspired by Dark Mode Design's Cecilia (matte 3D sculptural orbs on pure black + centered bold display type) and Muradov (MEGA full-width display type). Ultra-dark midnight UI (#06080F) with bioluminescent green accent (#00E5A0). Five screens: sleep score with sculptural orb viz, stage breakdown hypnogram, 30-day trends, HRV recovery signals, and a wind-down protocol coach.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-pith-1774701014367",
@@ -4363,7 +4547,7 @@
     },
     {
       "id": "heartbeat-vega-agent-1774704616201",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "VEGA",
       "tagline": "The operating layer for agentic companies",
       "archetype": "agent-orchestration",
@@ -4375,11 +4559,12 @@
       "prompt": "Inspired by Linear.app dark (#08090A, Inter Variable -1.4px tracking) + Lapa.ninja \"zero-human companies\" trend (Paperclip agentic orchestration). Agent fleet roster with progress bars, pipeline flow visualization with dependency nodes, agent detail with 24h activity chart, deploy form with permission toggles, incident feed with severity tiers (critical/warning/info/resolved).",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-ledge-1774707492408",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LEDGE",
       "tagline": "Clear finances for solo builders",
       "archetype": "business-finance",
@@ -4391,11 +4576,12 @@
       "prompt": "Inspired by Midday.ai (featured on darkmodedesign.com) clarity-first business stack UX + Cardless embedded credit from land-book.com + Awwwards SOTD SUTÉRA editorial minimalism. Light theme: warm #F6F4F1 paper-white. 5 screens: Dashboard with blue balance hero card + spark bars, Transactions with smart matching status, Insights with trend line + category bars, Invoicing with summary strip + invoice list, Reports with P&L card + export options + accountant share link.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-kern-1774710953547",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Kern",
       "tagline": "Read deep. Think wider.",
       "archetype": "knowledge-tool",
@@ -4407,11 +4593,12 @@
       "prompt": "Dark-mode AI reading intelligence for researchers. Inspired by: Linear (darkmodedesign.com) ambient product-preview UX + Obsidian (darkmodedesign.com) violet-on-black graph metaphor + 108 Supply editorial counted-item typography. Violet #7B5EA7 + teal #3ECFCF accent duo on near-black #0C0C10. 5 screens: Home with streak sparkline + AI resurface card + reading queue, Immersive reader with inline AI annotation + highlight glow, Highlights feed with connection badges + filter chips, Knowledge graph with node/edge visualization + dot-grid ambient, Daily spaced-repetition review with SRS buttons + synthesis prompt.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-seam-1774714230209",
-      "status": "queued",
+      "status": "unavailable",
       "app_name": "SEAM",
       "tagline": "Client-to-cash, seamlessly",
       "archetype": "freelance-ops-platform",
@@ -4426,11 +4613,12 @@
       "pending_publish": true,
       "zenbin_limit": "2026-04-23",
       "theme": "light",
-      "palette": "#F5F3EF / #4F46E5 / #059669"
+      "palette": "#F5F3EF / #4F46E5 / #059669",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-shard-1774717997809",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SHARD",
       "tagline": "Every transaction, visible.",
       "archetype": "payments-telemetry",
@@ -4441,11 +4629,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Evervault's deep navy #020512 palette (godly.website featured), Cardless \"Embedded Credit Card Platform\" on land-book.com (Mar 2026), and Linear's purposeful dark product system (darkmodedesign.com). Dark-theme embedded payments telemetry platform: cosmic navy bg, electric cyan #00D4FF accent, coral #FF4F64 errors, teal #00E5A0 success. 6 screens: Overview dashboard with hero volume metric + status, Transaction feed with waterfall colors, Endpoint performance table, Alerts with severity waterfall, Provider integrations grid, Transaction trace with execution waterfall.",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-shard-1774718399591",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SHARD",
       "tagline": "Every transaction, visible.",
       "archetype": "payments-telemetry",
@@ -4456,11 +4645,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Evervault's deep navy #020512 palette (godly.website featured), Cardless \"Embedded Credit Card Platform\" on land-book.com (Mar 2026), and Linear's purposeful dark product system (darkmodedesign.com). Dark-theme embedded payments telemetry platform: cosmic navy bg, electric cyan #00D4FF accent, coral #FF4F64 errors, teal #00E5A0 success. 6 screens: Overview dashboard with hero volume metric + status, Transaction feed with waterfall colors, Endpoint performance table, Alerts with severity waterfall, Provider integrations grid, Transaction trace with execution waterfall.",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-grove-1774721354946",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "GROVE",
       "tagline": "Rituals worth keeping",
       "archetype": "wellness-light",
@@ -4471,11 +4661,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Godly.website \"Superpower\" health app (warm amber editorial wellness dashboard) and Landbook \"RAY\" library (terracotta warmth, editorial serif on cream). Light-theme personal ritual/habit tracker: warm parchment #F7F4EF foundation, ink-black type, amber #C4783A accent, forest green completions. 5 screens: Today ritual stacks, Ritual detail with amber hero + heatmap, Insights bar chart, Add ritual creation flow, Evening reflection journal.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-span-1774724901154",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SPAN",
       "tagline": "Distributed Trace & API Intelligence",
       "archetype": "developer-tools-dark",
@@ -4486,11 +4677,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by darkmodedesign.com featuring Linear and Midday — the 2025-26 trend of deep space navy (#040612) + indigo+cyan dual-accent developer tool SaaS UIs. Dark API observability dashboard: 5 screens covering health overview, live request feed, waterfall trace view, anomaly alerts, and settings/API key management.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-aurum-1774728601001",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "AURUM",
       "tagline": "Personal Wealth Intelligence",
       "archetype": "fintech-premium-light",
@@ -4501,7 +4693,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Atlas Card on godly.website (ultra-premium invite-only fintech with luxury editorial positioning) and Midday.ai on darkmodedesign.com (structured financial data for founders). LIGHT theme with warm ivory, antique gold, and forest green. 6 screens: splash/welcome, overview dashboard with net worth + allocation, accounts list, money moves + transactions, wealth goals with priority card, AI concierge chat.",
       "screens": 6,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-lune-1774729318804",
@@ -4537,7 +4730,7 @@
     },
     {
       "id": "heartbeat-shade-1774735708516",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "SHADE",
       "tagline": "cloud cost intelligence",
       "archetype": "devops-finops",
@@ -4550,7 +4743,8 @@
       "prompt": "Dark cloud infrastructure cost monitoring & anomaly detection platform. Inspired by Evervault's deep navy #010314 aesthetic discovered on godly.website. Features real-time cost tracking, ML-powered anomaly detection, spend forecasting, and team alerts.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-gilt-1774739389394",
@@ -4569,7 +4763,7 @@
     },
     {
       "id": "heartbeat-weft-1774742835109",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "WEFT",
       "tagline": "Async Writing Studio for Distributed Teams",
       "archetype": "knowledge-distillation-light",
@@ -4580,11 +4774,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by godly.website (Reflect, Amie, Stripe Sessions) and awwwards.com nominees \"The Lookback\" and \"Unseen Studio 2025 Wrapped\" — the 2025-26 trend of editorial information architecture: magazine-scale display typography contrasted with dense structured lists, warm paper-tone backgrounds replacing cold white. Light-theme async writing and knowledge distillation studio for distributed teams: 5 screens covering writing studio dashboard, quick capture with AI suggestions, thread browser, weekly AI insights digest, and searchable archive.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-weft-1774742960581",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "WEFT",
       "tagline": "Async Writing Studio for Distributed Teams",
       "archetype": "knowledge-distillation-light",
@@ -4595,11 +4790,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by godly.website (Reflect, Amie, Stripe Sessions) and awwwards.com nominees \"The Lookback\" and \"Unseen Studio 2025 Wrapped\" — the 2025-26 trend of editorial information architecture: magazine-scale display typography contrasted with dense structured lists, warm paper-tone backgrounds replacing cold white. Light-theme async writing and knowledge distillation studio for distributed teams: 5 screens covering writing studio dashboard, quick capture with AI suggestions, thread browser, weekly AI insights digest, and searchable archive.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-brim-1774746628617",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "BRIM",
       "tagline": "Your money, finally intelligent.",
       "archetype": "fintech-ai-dark",
@@ -4610,11 +4806,12 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by darkmodedesign.com Muradov portfolio — massive bold condensed display type on electric-violet-on-near-black, plus Cecilia climate-tech centred minimal layout on pure black. Dark AI-powered personal finance intelligence app: 5 screens covering a command-centre dashboard with editorial 52px net-worth number, spending pulse with category breakdown, portfolio intelligence with allocation bar + holdings, BRIM AI insights hub with health score + three insight cards, and goals tracker. Palette: near-black #080810, surface #0F0F1C, electric violet #7B5CF0, teal mint #00E5B4.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-mend-1774750399734",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "MEND",
       "tagline": "Recovery intelligence for smart wearables",
       "archetype": "health-wearable-light",
@@ -4633,11 +4830,12 @@
         "accent": "#3E6B4A",
         "accent2": "#C4714A",
         "accent3": "#7B5EA0"
-      }
+      },
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-nox-1774753731001",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Nox",
       "tagline": "AI sleep intelligence, decoded nightly",
       "archetype": "sleep-health-dark",
@@ -4650,11 +4848,12 @@
       "prompt": "Inspired by Lapa Ninja \"Dawn\" AI mental health (warm+dark palette fusion), Air agent dashboard, and Dark Mode Design: Midday. Dark theme. Midnight navy #070B14 + periwinkle #6C7EFF + warm coral #FF8A6B + teal-mint #44D9A4. Sleep stage wave viz, 30-day heatmap, AI insight cards, wind-down checklist. 5 screens: Tonight readiness, Sleep analysis, AI insights, Routine, History.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.833Z"
     },
     {
       "id": "heartbeat-coda-1774757352478",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CODA",
       "tagline": "Financial intelligence for independent consultants",
       "archetype": "finance-light",
@@ -4665,7 +4864,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Midday.ai on darkmodedesign.com (\"business stack for modern founders\") and GTM Analytics/Equals on land-book.com — a light-theme financial intelligence app for independent consultants. Warm cream paper palette, cognac amber accent, editorial typographic hierarchy. 5 screens: daily snapshot, client health scores, deal pipeline, invoice detail, and month-close readiness checklist.",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.834Z"
     },
     {
       "id": "heartbeat-silt-1774758242750",
@@ -4685,7 +4885,7 @@
     },
     {
       "id": "heartbeat-lens-1774761084635",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "LENS",
       "tagline": "AI agent observability platform",
       "archetype": "developer-tools-dark",
@@ -4698,7 +4898,8 @@
       "prompt": "Inspired by Linear.app dark hero \"The product development system for teams and agents\" (spotted on darkmodedesign.com) and Midday.ai agent-first business stack — both signal the rise of AI agents as first-class team members needing ops tooling. Dark theme. Near-black #09090F + electric violet #7C5CFC + teal/cyan #2DCBBA + Inter typeface. 5 screens: Mission Control (big agent count hero metric, 3 stat tiles, agent health bar rows), Agents (card list with model/status/rate/cost, filter tabs), Task Stream (live feed with emoji icons, status dots, agent attribution), Usage & Cost (spend card, token-by-model progress bars, hourly bar chart), Alerts (error/warn/info cards with colored borders, restart CTA, resolved history).",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.834Z"
     },
     {
       "id": "heartbeat-lens-1774761157822",
@@ -4976,7 +5177,7 @@
     },
     {
       "id": "heartbeat-aurea-1774840201356",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Aurea",
       "tagline": "Wealth, in plain sight",
       "archetype": "finance-editorial",
@@ -4987,7 +5188,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Personal wealth intelligence dashboard — LIGHT editorial theme. Inspired by ISA De Burgh (minimal.gallery) editorial stacked typography on off-white, Old Tom Capital institutional prestige serif aesthetic, and Cardless financial platform (land-book.com). Warm newsprint cream #F4F0E6, brick red editorial accent, forest green gains, hairline dividers, uppercase spaced labels. \"WSJ meets mobile fintech.\"",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-30T20:36:26.834Z"
     },
     {
       "id": "heartbeat-tempo-1774843861148",
@@ -5006,7 +5208,7 @@
     },
     {
       "id": "heartbeat-welt-1774844400841",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "WELT",
       "tagline": "global signal feed",
       "archetype": "news-media",
@@ -5018,7 +5220,8 @@
       "prompt": "Inspired by Muzli ECHO Smart Device — warm terracotta/amber on near-black dark palette (#e28157 + #1c0f0c); Awwwards SOTD \"The Lookback\" (Mar 27 2026) — editorial retrospective style; Awwwards SOTD \"Unseen Studio 2025 Wrapped\" — data-meets-editorial dark treatment. Dark theme. Deep warm near-black #0B0807 + copper amber #C4862E + warm ivory #E8DFD0. Cormorant Garamond (first use in heartbeat series — high-contrast editorial serif) + IBM Plex Mono. Global perspectives app: same event read differently in 112 countries. 5 screens: Signal (live global feed with story cards + region signals), Story (single article with 4 regional perspective cards — Europe/East Asia/Americas/Africa each framing differently with tone badges), Globe (geographic heat map — abstract continent blobs + signal dots + regional stats bars), Regions (browse 6 world regions by signal strength + trending topics), Profile (perspective diversity score 7.8/10 + reading stats + region breakdown bars + followed topics + activity heatmap).",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "unavailable_since": "2026-03-30T20:36:26.834Z"
     },
     {
       "id": "heartbeat-quasar-1774847614012",
@@ -5290,7 +5493,7 @@
     },
     {
       "id": "heartbeat-leaf-1774887121519",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Leaf",
       "tagline": "Your reading life, beautifully kept",
       "archetype": "reading-companion",
@@ -5302,7 +5505,8 @@
       "prompt": "Reading companion app — warm parchment light theme inspired by minimal.gallery Litbix (for book lovers) + KOMETA Typefaces editorial typography trend. Playfair Display serif, terracotta accent, shelf/detail/session/quotes/stats screens.",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-30T20:36:26.834Z"
     },
     {
       "id": "heartbeat-sentinel-1774890703904",
