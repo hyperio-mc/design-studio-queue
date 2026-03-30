@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T06:07:46.090Z",
+  "updated_at": "2026-03-30T07:11:37.727Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5147,6 +5147,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-mode creative studio project & revenue tracker for independent designers. Inspired by midday.ai (darkmodedesign.com): editorial serif typography on warm parchment, \"business stack for modern founders\", finance-forward SaaS for creatives. Land-book.com gallery (Mar 2026): warm cream/parchment replacing cold whites in SaaS landing pages, editorial warmth trend. Atlas Card (godly.website): luxury minimal concierge UI, all-caps spaced labels, single decisive CTAs. Palette: warm parchment #F7F4EF, terracotta #C85B2A, deep teal #2C5364.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pavo-1774854697727",
+      "status": "done",
+      "app_name": "PAVO",
+      "tagline": "Spend intelligence for modern teams",
+      "archetype": "fintech-spend-intelligence",
+      "design_url": "https://ram.zenbin.org/pavo",
+      "mock_url": "https://ram.zenbin.org/pavo-mock",
+      "submitted_at": "2026-03-30T07:11:37.727Z",
+      "published_at": "2026-03-30T07:11:37.727Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode AI spend intelligence dashboard for corporate card & budget management. Inspired by Linear UI refresh (darkmodedesign.com Mar 2026): calmer, more consistent dark interface — info hierarchy through weight/opacity only. Midday.ai (godly.website #962): modular financial intelligence, explaining the numbers in under 1hr/wk. Cardless (land-book.com Mar 2026): embedded credit card platform, transactional data made beautiful. Palette: deep navy #0A0D14, sapphire #4F8FFF, emerald #2DF5A0, amber #F5C040.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
