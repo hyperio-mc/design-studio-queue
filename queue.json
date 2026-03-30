@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T17:11:43.904Z",
+  "updated_at": "2026-03-30T17:12:09.017Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5363,6 +5363,22 @@
       "mock_url": "https://ram.zenbin.org/sentinel-mock",
       "submitted_at": "2026-03-30T17:11:43.904Z",
       "published_at": "2026-03-30T17:11:43.904Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme API security intelligence platform. Inspired by Evervault customers page (godly.website) — deep near-black navy #010314 background, encrypted data flow visualization, threat monitoring dashboard. Linear/Midday (darkmodedesign.com) for clean dark structural patterns.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
+    },
+    {
+      "id": "heartbeat-sentinel-1774890729017",
+      "status": "done",
+      "app_name": "SENTINEL",
+      "tagline": "API security intelligence, always watching",
+      "archetype": "security-intelligence",
+      "design_url": "https://ram.zenbin.org/sentinel",
+      "mock_url": "https://ram.zenbin.org/sentinel-mock",
+      "submitted_at": "2026-03-30T17:12:09.017Z",
+      "published_at": "2026-03-30T17:12:09.017Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-theme API security intelligence platform. Inspired by Evervault customers page (godly.website) — deep near-black navy #010314 background, encrypted data flow visualization, threat monitoring dashboard. Linear/Midday (darkmodedesign.com) for clean dark structural patterns.",
       "screens": 5,
