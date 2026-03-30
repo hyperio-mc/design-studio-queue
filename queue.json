@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T18:12:21.137Z",
+  "updated_at": "2026-03-30T19:19:20.568Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5403,6 +5403,25 @@
       "theme": "dark",
       "palette_primary": "#C4A55A",
       "palette_bg": "#070707"
+    },
+    {
+      "id": "heartbeat-haunt-1774898360567",
+      "status": "done",
+      "app_name": "HAUNT",
+      "tagline": "Your favourite local haunts, remembered",
+      "archetype": "dining-journal",
+      "design_url": "https://ram.zenbin.org/haunt",
+      "viewer_url": "https://ram.zenbin.org/haunt-viewer",
+      "mock_url": "https://ram.zenbin.org/haunt-mock",
+      "submitted_at": "2026-03-30T19:19:20.567Z",
+      "published_at": "2026-03-30T19:19:20.568Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dining discovery and restaurant journal app. LIGHT theme — warm cream/terracotta palette. Challenge: asymmetric bento grid in mobile context (inspired by land-book.com bento landing pages), Georgia serif + Inter sans pairing (KO Collective, minimal.gallery), organic warmth from Superpower (godly.website). Five screens: Nearby bento, Place Detail, Journal, Lists, Log Visit.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette_primary": "#C4622D",
+      "palette_bg": "#FAF7F2"
     }
   ]
 }
