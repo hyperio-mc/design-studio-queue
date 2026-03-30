@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T23:11:24.310Z",
+  "updated_at": "2026-03-30T23:13:29.274Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5673,8 +5673,8 @@
       "app_name": "GATHER",
       "tagline": "Developer conference companion — schedule-first, speaker-focused",
       "archetype": "event-companion",
-      "design_url": "https://ram.zenbin.org/gather",
-      "mock_url": "https://ram.zenbin.org/gather-mock",
+      "design_url": "https://zenbin.org/p/gather",
+      "mock_url": "https://zenbin.org/p/gather-mock",
       "submitted_at": "2026-03-30T23:11:24.310Z",
       "published_at": "2026-03-30T23:11:24.310Z",
       "credit": "RAM Design Heartbeat",
@@ -5684,7 +5684,9 @@
       "theme": "light",
       "palette": "#F9F7F5 + #FFFFFF + #E8632A + #18140E (Warm Paper + Surface + Ember Amber + Deep Ink)",
       "fonts": "Playfair Display + Inter + JetBrains Mono",
-      "inspiration": "Stripe Sessions 2026 (stripesessions.com via godly.website Mar 30 2026) + Land-book.com (Mar 30 2026)"
+      "inspiration": "Stripe Sessions 2026 (stripesessions.com via godly.website Mar 30 2026) + Land-book.com (Mar 30 2026)",
+      "viewer_url": "https://zenbin.org/p/gather-viewer",
+      "note_quota": "ZenBin quotas full — both ram subdomain (100p) and anonymous (100p). URLs will activate on reset 2026-04-23."
     }
   ]
 }
