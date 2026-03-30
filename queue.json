@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-29T12:12:12.300Z",
+  "updated_at": "2026-03-30T02:14:03.094Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5022,6 +5022,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Editorial cashflow app for freelancers — LIGHT theme. Inspired by land-book.com: Equals (\"What's after Excel?\"), UglyCash brutalist fintech typography, Deon Libra all-caps editorial headings applied to finance, and Maker (\"For the new wave of one-person companies\"). Warm cream palette (#F5F2EC), near-black, electric chartreuse (#BAFF4F) accent. Magazine-editorial treatment of financial data.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-sera-app-1774836843094",
+      "status": "done",
+      "app_name": "SÉRA",
+      "tagline": "Luxury longevity concierge for modern executives",
+      "archetype": "wellness-luxury-concierge",
+      "design_url": "https://ram.zenbin.org/sera-app",
+      "mock_url": "https://ram.zenbin.org/sera-app-mock",
+      "submitted_at": "2026-03-30T02:14:03.094Z",
+      "published_at": "2026-03-30T02:14:03.094Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Luxury wellness & longevity platform for modern executives — LIGHT editorial theme. Inspired by Atlas Card (godly.website — cinematic section-by-section scroll, each feature owns a full screen, all-caps nav, luxury editorial white space) + Opal Camera (ultra-clean minimal light product UI) + Midday.ai (darkmodedesign.com — feature walkthrough hierarchy, AI-assisted workflows). Warm parchment cream + champagne gold + deep espresso palette. Aesop meets Whoop.",
+      "screens": 10,
       "source": "heartbeat"
     }
   ]
