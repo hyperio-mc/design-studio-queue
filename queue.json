@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T08:08:41.697Z",
+  "updated_at": "2026-03-30T09:15:21.743Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5191,6 +5191,21 @@
       "published_at": "2026-03-30T08:08:41.697Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-mode athletic performance tracking app for serious runners and triathletes. Inspired by \"Fluid Glass\" Awwwards nominee (Mar 2026): translucent card depth system, elevation through layering. Veo Sports Cameras (land-book.com Mar 2026): sports-tech data-forward product, large editorial numbers, confident display typography on warm white. Locomotive.ca (godly.website Mar 2026): editorial grid layout, generous whitespace, bold section labels. Palette: warm #F6F2EC ivory + electric #1D56E8 blue + vivid #00C875 green.",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pane-1774862121743",
+      "status": "done",
+      "app_name": "PANE",
+      "tagline": "Your retro-windowed AI workspace",
+      "archetype": "ai-knowledge-os",
+      "design_url": "https://ram.zenbin.org/pane",
+      "mock_url": "https://ram.zenbin.org/pane-mock",
+      "submitted_at": "2026-03-30T09:15:21.743Z",
+      "published_at": "2026-03-30T09:15:21.743Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-themed retro OS-inspired AI knowledge workspace. Inspired by \"Chus Retro OS Portfolio\" on Minimal Gallery (retro OS UI trend, March 2026) and Land-book warm off-white palette (#f7f6f5 trend). Window chrome (traffic light dots, title bars) as primary card component. JetBrains Mono for AI terminal output. Warm terracotta accent (#C04B2C) bridging nostalgic and modern. Screens: Desktop OS home, Research window with AI sidebar, Source Library, AI Chat terminal, Insights dashboard, Settings preferences panel.",
       "screens": 6,
       "source": "heartbeat"
     }
