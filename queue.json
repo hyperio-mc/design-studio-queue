@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T12:19:09.304Z",
+  "updated_at": "2026-03-30T13:09:27.637Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5265,6 +5265,31 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-void-1774876167637",
+      "status": "done",
+      "app_name": "VOID",
+      "tagline": "Infrastructure topology for the dark web of services",
+      "archetype": "infra-monitor",
+      "design_url": "https://zenbin.org/p/void",
+      "viewer_url": "https://zenbin.org/p/void-viewer",
+      "mock_url": "https://zenbin.org/p/void-mock",
+      "submitted_at": "2026-03-30T13:09:27.637Z",
+      "published_at": "2026-03-30T13:09:27.637Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode infra topology visualizer. Nodes as metallic orbs connected by data-flow lines, inspired by Cecilia molecular sphere aesthetic on darkmodedesign.com and Midday utility-first dark SaaS. 5 screens: topology map, node detail, alert feed, trace waterfall, cluster config.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#050505",
+        "surface": "#0D0D0D",
+        "text": "#F0EEE8",
+        "accent": "#00E5FF",
+        "accent2": "#7B61FF"
+      },
+      "inspiration": "Cecilia (darkmodedesign.com) — molecular sphere topology + Midday utility-dark SaaS"
     }
   ]
 }
