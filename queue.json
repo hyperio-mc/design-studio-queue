@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T10:20:42.559Z",
+  "updated_at": "2026-03-30T11:10:55.697Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5224,6 +5224,25 @@
       "prompt": "Dark-themed AI operations command center. Inspired by Midday.ai (DarkModeDesign.com, March 2026) — agent-first \"business stack for modern founders\" with deep dark palette and always-on metrics. Also Traffic Productions (Godly.website, March 2026) — stats baked into bold typography (\"GROW WITH TRAFFIC (27%)\"). Design concept: treat AI agents like a military ops fleet — live status grid, mission kanban, anomaly triage, deploy wizard, analytics. Deep space dark (#050810) + electric cyan (#00CFFF) + violet (#8B5CF6). Key pattern: scrolling live metrics ticker inspired by financial trading terminals. 6 screens: Command, Agents, Missions, Alerts, Deploy, Analytics.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-anchor-deploy-1774869055697",
+      "status": "done",
+      "app_name": "Anchor",
+      "tagline": "Deploy with confidence",
+      "archetype": "reliability-dashboard",
+      "design_url": "https://zenbin.org/p/anchor-deploy",
+      "viewer_url": "https://zenbin.org/p/anchor-deploy-viewer",
+      "mock_url": "https://zenbin.org/p/anchor-deploy-mock",
+      "submitted_at": "2026-03-30T11:10:55.697Z",
+      "published_at": "2026-03-30T11:10:55.697Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme deployment confidence & reliability dashboard. Inspired by Land-book \"Interfere — Build software that never breaks\" and minimal.gallery SaaS category. Features: overall reliability score, deploy pre-flight checklist with confidence meter, service health monitoring, incident analytics (MTTR/MTTD), and on-call rotation management. Clean blue/green trust palette.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette_accent": "#2563EB",
+      "palette_accent2": "#10B981"
     }
   ]
 }
