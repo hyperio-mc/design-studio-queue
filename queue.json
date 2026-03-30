@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T04:11:01.149Z",
+  "updated_at": "2026-03-30T04:20:00.841Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5068,6 +5068,22 @@
       "prompt": "Warm-light minimal time-tracking & billing app for creative freelancers. Inspired by Midday.ai (unified business data), Cardless/Equals (clean product dashboards). 5 screens: Dashboard, Timer, Projects, Insights, Invoice.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-welt-1774844400841",
+      "status": "done",
+      "app_name": "WELT",
+      "tagline": "global signal feed",
+      "archetype": "news-media",
+      "design_url": "https://zenbin.org/p/welt",
+      "mock_url": "https://zenbin.org/p/welt-mock",
+      "submitted_at": "2026-03-30T04:20:00.841Z",
+      "published_at": "2026-03-30T04:20:00.841Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Muzli ECHO Smart Device — warm terracotta/amber on near-black dark palette (#e28157 + #1c0f0c); Awwwards SOTD \"The Lookback\" (Mar 27 2026) — editorial retrospective style; Awwwards SOTD \"Unseen Studio 2025 Wrapped\" — data-meets-editorial dark treatment. Dark theme. Deep warm near-black #0B0807 + copper amber #C4862E + warm ivory #E8DFD0. Cormorant Garamond (first use in heartbeat series — high-contrast editorial serif) + IBM Plex Mono. Global perspectives app: same event read differently in 112 countries. 5 screens: Signal (live global feed with story cards + region signals), Story (single article with 4 regional perspective cards — Europe/East Asia/Americas/Africa each framing differently with tone badges), Globe (geographic heat map — abstract continent blobs + signal dots + regional stats bars), Regions (browse 6 world regions by signal strength + trending topics), Profile (perspective diversity score 7.8/10 + reading stats + region breakdown bars + followed topics + activity heatmap).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
