@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T21:10:28.166Z",
+  "updated_at": "2026-03-30T21:11:36.576Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5619,6 +5619,25 @@
       "mock_url": "https://ram.zenbin.org/glaze-mock",
       "submitted_at": "2026-03-30T21:10:28.166Z",
       "published_at": "2026-03-30T21:10:28.166Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by fluid.glass (Awwwards SOTD March 30 2026) — structural/architectural glazing company, ultra-minimal 2-color palette (\"palette of 2 colors\"), mask wipe transitions on scroll, product collection grid, luxury precision aesthetic. \"Trusted by architects who demand precision, beauty, and care.\" Also Land-book nominees — clean SaaS landing pages with generous whitespace, product catalog grids, editorial typography. Light theme. Warm parchment #F5F2EC + deep ink #1C1814 + warm bronze #9B7B5C accent. Cormorant Garamond (display serif, editorial luxury) + Inter (body sans). Premium material specification tool for architects — curate, spec, and quote architectural glass & material systems. 5 screens: Projects (active projects list with completion bars, summary stats strip, quick actions), Library (48 material systems in 2-column grid with swatch textures, code badges, filter strip), Detail (SL-7 hero swatch with vertical texture lines, full spec table: thickness/max pane/U-value/light trans/fire rating/lead time, CTA), Specify (quote builder: project badge, dimension inputs, option tags, pricing estimate £8,640), Profile (AS avatar, stats strip, recent activity log).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "#F5F2EC + #1C1814 + #9B7B5C (Parchment + Ink + Bronze)",
+      "fonts": "Cormorant Garamond + Inter",
+      "inspiration": "fluid.glass — Awwwards SOTD 30 March 2026"
+    },
+    {
+      "id": "heartbeat-glaze-1774905096577",
+      "status": "done",
+      "app_name": "GLAZE",
+      "tagline": "material specification platform for architects",
+      "archetype": "professional-tool",
+      "design_url": "https://ram.zenbin.org/glaze",
+      "mock_url": "https://ram.zenbin.org/glaze-mock",
+      "submitted_at": "2026-03-30T21:11:36.576Z",
+      "published_at": "2026-03-30T21:11:36.576Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by fluid.glass (Awwwards SOTD March 30 2026) — structural/architectural glazing company, ultra-minimal 2-color palette (\"palette of 2 colors\"), mask wipe transitions on scroll, product collection grid, luxury precision aesthetic. \"Trusted by architects who demand precision, beauty, and care.\" Also Land-book nominees — clean SaaS landing pages with generous whitespace, product catalog grids, editorial typography. Light theme. Warm parchment #F5F2EC + deep ink #1C1814 + warm bronze #9B7B5C accent. Cormorant Garamond (display serif, editorial luxury) + Inter (body sans). Premium material specification tool for architects — curate, spec, and quote architectural glass & material systems. 5 screens: Projects (active projects list with completion bars, summary stats strip, quick actions), Library (48 material systems in 2-column grid with swatch textures, code badges, filter strip), Detail (SL-7 hero swatch with vertical texture lines, full spec table: thickness/max pane/U-value/light trans/fire rating/lead time, CTA), Specify (quote builder: project badge, dimension inputs, option tags, pricing estimate £8,640), Profile (AS avatar, stats strip, recent activity log).",
       "screens": 5,
