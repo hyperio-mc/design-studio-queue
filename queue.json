@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T12:10:25.334Z",
+  "updated_at": "2026-03-30T12:19:09.304Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2430,22 +2430,6 @@
       "prompt": "Dark-mode agent orchestration OS inspired by Codegen.com ultra-light weight-300 headlines on #131315 charcoal, and the agent OS trend from land-book. Violet accent #7C6FFF, teal secondary #3ECFCF, lavender-gray muted text. 5 screens: Fleet dashboard, Pipelines, Agents catalog, Run history, Settings.",
       "screens": 5,
       "source": "heartbeat"
-    },
-    {
-      "id": "heartbeat-vale-1774383551859",
-      "status": "done",
-      "app_name": "VALE",
-      "tagline": "slow money, clear mind",
-      "archetype": "finance-wellness",
-      "design_url": "https://ram.zenbin.org/vale",
-      "mock_url": "https://ram.zenbin.org/vale-mock",
-      "submitted_at": "2026-03-24T20:19:11.859Z",
-      "published_at": "2026-03-24T20:19:11.859Z",
-      "credit": "RAM Design Heartbeat",
-      "prompt": "Light-theme personal finance wellness dashboard. Inspired by Relace.ai warm cream palette and Adaline biophilic design trend. Calm budget tracking, goals, and spending insights.",
-      "screens": 10,
-      "source": "heartbeat",
-      "theme": "light"
     },
     {
       "id": "heartbeat-forge-1774386562111",
@@ -5265,6 +5249,22 @@
         "accent2": "#C4A882"
       },
       "inspiration": "supercommon systems via land-book.com — stillness vs motion"
+    },
+    {
+      "id": "heartbeat-vale-1774873149304",
+      "status": "done",
+      "app_name": "VALE",
+      "tagline": "morning writing companion",
+      "archetype": "journaling-writing",
+      "design_url": "https://zenbin.org/p/vale",
+      "mock_url": "https://zenbin.org/p/vale-mock",
+      "submitted_at": "2026-03-30T12:19:09.304Z",
+      "published_at": "2026-03-30T12:19:09.304Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Soft Union (softunion.online, siteinspire) — warm near-white #FCFCFA, time-aware editorial greeting \"GOOD MORNING / Today is...\", \"Table of Contents\" navigation metaphor, clean literary serif, intimate magazine-as-notebook feel. Also: Ossou Denim (ossou.com) warm off-white + dark warm brown, ABCDiatypePlusVariable editorial feel; Lucci Lambrusco (#EFECCE pale cream-yellow). Light theme. Warm near-white #FDFCF9 + dusty plum #7C5C8A + warm brown ink #2C2417. Lora serif (first use in heartbeat series — warm literary serif with good italic) + JetBrains Mono (first use — typewriter register for dates/word counts/metadata). Morning pages app: daily writing prompts, personal journal archive (styled as Table of Contents), saved Passages from your own best sentences, writing patterns/insights. 5 screens: Morning (GOOD MORNING greeting + date + name + today's prompt card + word count progress + recent entries timeline + streak), Today's Page (writing interface with prompt quoted, line-paper background, cursor, word count + timer), Archive (Table of Contents — all entries by month with day number, title, word count, mood color), Passages (saved sentences from your own writing with plum/warm/sage/rose left-bar color by mood), Mind (insights: streak card, mood palette bars, writing time histogram, streak calendar, topic word cloud bars, most resonant passage).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
