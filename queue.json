@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T07:11:37.727Z",
+  "updated_at": "2026-03-30T08:08:22.794Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5161,6 +5161,21 @@
       "published_at": "2026-03-30T07:11:37.727Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode AI spend intelligence dashboard for corporate card & budget management. Inspired by Linear UI refresh (darkmodedesign.com Mar 2026): calmer, more consistent dark interface — info hierarchy through weight/opacity only. Midday.ai (godly.website #962): modular financial intelligence, explaining the numbers in under 1hr/wk. Cardless (land-book.com Mar 2026): embedded credit card platform, transactional data made beautiful. Palette: deep navy #0A0D14, sapphire #4F8FFF, emerald #2DF5A0, amber #F5C040.",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-stride-1774858102794",
+      "status": "done",
+      "app_name": "STRIDE",
+      "tagline": "Athletic Performance OS",
+      "archetype": "sports-performance",
+      "design_url": "https://ram.zenbin.org/stride",
+      "mock_url": "https://ram.zenbin.org/stride-mock",
+      "submitted_at": "2026-03-30T08:08:22.794Z",
+      "published_at": "2026-03-30T08:08:22.794Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-mode athletic performance tracking app for serious runners and triathletes. Inspired by \"Fluid Glass\" Awwwards nominee (Mar 2026): translucent card depth system, elevation through layering. Veo Sports Cameras (land-book.com Mar 2026): sports-tech data-forward product, large editorial numbers, confident display typography on warm white. Locomotive.ca (godly.website Mar 2026): editorial grid layout, generous whitespace, bold section labels. Palette: warm #F6F2EC ivory + electric #1D56E8 blue + vivid #00C875 green.",
       "screens": 6,
       "source": "heartbeat"
     }
