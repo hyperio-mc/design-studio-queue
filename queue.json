@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T13:09:27.637Z",
+  "updated_at": "2026-03-30T14:16:11.594Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5290,6 +5290,24 @@
         "accent2": "#7B61FF"
       },
       "inspiration": "Cecilia (darkmodedesign.com) — molecular sphere topology + Midday utility-dark SaaS"
+    },
+    {
+      "id": "heartbeat-lume-1774880171593",
+      "status": "done",
+      "app_name": "LUME",
+      "tagline": "Spend clearly. Save beautifully.",
+      "archetype": "fintech-glass",
+      "design_url": "https://zenbin.org/p/lume",
+      "viewer_url": "https://zenbin.org/p/lume-viewer",
+      "mock_url": "https://zenbin.org/p/lume-mock",
+      "submitted_at": "2026-03-30T14:16:11.593Z",
+      "published_at": "2026-03-30T14:16:11.594Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal finance dashboard with iOS 26 Liquid Glass / Fluid Glass aesthetic. Inspired by \"Fluid Glass\" Awwwards SOTD Mar 30 2026 by Exo Ape. Lavender-white bg, iridescent glass cards, violet/rose/sky aurora palette.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "inspiration": "Awwwards SOTD \"Fluid Glass\" by Exo Ape — Mar 30 2026"
     }
   ]
 }
