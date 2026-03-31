@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:37:18.370Z",
+  "updated_at": "2026-03-31T12:38:03.380Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2975,7 +2975,7 @@
       "app_name": "CANARY",
       "tagline": "know when they're inside",
       "archetype": "deception-security",
-      "design_url": "https://ram.zenbin.org/canary",
+      "design_url": "https://zenbin.org/p/canary",
       "mock_url": "https://zenbin.org/p/canary-mock",
       "submitted_at": "2026-03-25T21:11:28.080Z",
       "published_at": "2026-03-25T21:11:28.080Z",
