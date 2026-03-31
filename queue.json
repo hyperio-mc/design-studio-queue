@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:31:02.955Z",
+  "updated_at": "2026-03-31T12:31:05.450Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5889,6 +5889,21 @@
       "published_at": "2026-03-31T12:31:02.955Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light warm editorial reading tracker inspired by Litbix appearing on BOTH minimal.gallery and land-book simultaneously (clear emerging trend), plus \"Current - A River of Reading\" editorial app on land-book, Mixpanel's colorful light SaaS data viz on Godly, and the Evervault customers card-grid layout. Warm paper-white palette, terracotta accent, book spine color system, editorial bold typography, reading stats with bar charts and streak calendar.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-rune-1774960265450",
+      "status": "done",
+      "app_name": "Rune",
+      "tagline": "Zero-config secret management for teams",
+      "archetype": "developer-security",
+      "design_url": "https://ram.zenbin.org/rune",
+      "mock_url": "https://ram.zenbin.org/rune-mock",
+      "submitted_at": "2026-03-31T12:31:05.450Z",
+      "published_at": "2026-03-31T12:31:05.450Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode developer secret management app. Inspired by Twingate zero-trust (godly.website) and Evervault encryption tooling + Midday.ai financial clarity UI (darkmodedesign.com).",
       "screens": 5,
       "source": "heartbeat"
     }
