@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:31:08.488Z",
+  "updated_at": "2026-03-31T12:31:15.106Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5923,6 +5923,21 @@
       "source": "heartbeat",
       "theme": "light",
       "palette": "#F4EFE4,#2E7D52,#C44B2B,#FDFAF3,#1C1810"
+    },
+    {
+      "id": "heartbeat-tally-1774960275107",
+      "status": "done",
+      "app_name": "Tally",
+      "tagline": "Financial clarity for indie founders",
+      "archetype": "fintech-dashboard-founders",
+      "design_url": "https://ram.zenbin.org/tally",
+      "mock_url": "https://ram.zenbin.org/tally-mock",
+      "submitted_at": "2026-03-31T12:31:15.106Z",
+      "published_at": "2026-03-31T12:31:15.106Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design TALLY — a financial operating system for indie founders.\nInspired by:\n1. land-book.com \"Equals GTM Analytics\" — editorial data density, clean table/grid UI, monospaced numbers\n2. darkmodedesign.com \"Midday\" — business stack for founders, bento feature grid, dashboard OS\n3. awwwards.com \"Artefakt\" (Honorable Mention Mar 2026) — ASCII-influenced typographic elements, monospaced aesthetics\n\nTheme: LIGHT — warm parchment background (#F4F0E6), forest green accent (#1A6B4A), tabular monospace numbers,\nbento metric grid, horizontal stacked revenue bars, editorial column layout.\n5 screens: Overview · Transaction Ledger · Runway Planner · P&L Report · AI Insights",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
