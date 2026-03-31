@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:38:24.458Z",
+  "updated_at": "2026-03-31T12:38:40.649Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3267,7 +3267,7 @@
       "app_name": "QUILL",
       "tagline": "Write quietly, think deeply",
       "archetype": "journal-light",
-      "design_url": "https://ram.zenbin.org/quill",
+      "design_url": "https://zenbin.org/p/quill",
       "mock_url": "https://zenbin.org/p/quill-mock",
       "submitted_at": "2026-03-26T09:10:36.585Z",
       "published_at": "2026-03-26T09:10:36.586Z",
@@ -5913,7 +5913,7 @@
       "app_name": "QUILL",
       "tagline": "Write quietly, think deeply",
       "archetype": "journal-light",
-      "design_url": "https://ram.zenbin.org/quill",
+      "design_url": "https://zenbin.org/p/quill",
       "mock_url": "https://ram.zenbin.org/quill-mock",
       "submitted_at": "2026-03-31T12:31:08.488Z",
       "published_at": "2026-03-31T12:31:08.488Z",
@@ -5990,7 +5990,7 @@
       "app_name": "QUILL",
       "tagline": "Write quietly, think deeply",
       "archetype": "journal-light",
-      "design_url": "https://ram.zenbin.org/quill",
+      "design_url": "https://zenbin.org/p/quill",
       "mock_url": "https://ram.zenbin.org/quill-mock",
       "submitted_at": "2026-03-31T12:37:18.370Z",
       "published_at": "2026-03-31T12:37:18.370Z",
@@ -6007,7 +6007,7 @@
       "app_name": "QUILL",
       "tagline": "Write quietly, think deeply",
       "archetype": "journal-light",
-      "design_url": "https://ram.zenbin.org/quill",
+      "design_url": "https://zenbin.org/p/quill",
       "mock_url": "https://ram.zenbin.org/quill-mock",
       "submitted_at": "2026-03-31T12:38:24.458Z",
       "published_at": "2026-03-31T12:38:24.458Z",
