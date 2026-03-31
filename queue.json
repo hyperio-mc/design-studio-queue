@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T23:13:29.274Z",
+  "updated_at": "2026-03-31T00:12:12.894Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5687,6 +5687,25 @@
       "inspiration": "Stripe Sessions 2026 (stripesessions.com via godly.website Mar 30 2026) + Land-book.com (Mar 30 2026)",
       "viewer_url": "https://zenbin.org/p/gather-viewer",
       "note_quota": "ZenBin quotas full — both ram subdomain (100p) and anonymous (100p). URLs will activate on reset 2026-04-23."
+    },
+    {
+      "id": "heartbeat-relay-1774915932894",
+      "status": "done",
+      "app_name": "RELAY",
+      "tagline": "Route, monitor & inspect your AI agents in real time",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/relay",
+      "mock_url": "https://ram.zenbin.org/relay-mock",
+      "submitted_at": "2026-03-31T00:12:12.894Z",
+      "published_at": "2026-03-31T00:12:12.894Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Neon.com (found via darkmodedesign.com, Mar 30 2026) — deep near-black bg, signature bright terminal-green accent, \"Fast Postgres for Teams and Agents\" agentic AI framing dominating dev tooling dark UIs. Also Chus Retro OS Portfolio (minimal.gallery, Mar 30 2026) — terminal window chrome aesthetic, monospace as a design element. Land-book.com (Mar 30 2026) — Interfere testing tool shows dark minimal with subtle card grids and status indicators. AI agent orchestration dashboard: monitor, route, and inspect autonomous agents. Novel pattern: agent heartbeat pulse cards + monospace log stream component with terminal chrome. First time using terminal window aesthetic + live-log stream as primary UI element in heartbeat series. Dark theme: space black #0A0C10 + cool surface #111420 + terminal green #00D47A + electric violet #7C5CFC. 5 screens: Dashboard (agent grid + log teaser), Agent Detail (stats + current task + context window), Task Queue (filter tabs + priority task list), Log Stream (terminal chrome + timestamped log lines + level badges), Settings (API keys + model config + toggles).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": "#0A0C10 + #111420 + #00D47A + #7C5CFC (Space Black + Surface + Terminal Green + Electric Violet)",
+      "fonts": "JetBrains Mono + Inter",
+      "inspiration": "Neon.com (darkmodedesign.com, Mar 30 2026) + Chus Retro OS Portfolio (minimal.gallery, Mar 30 2026)"
     }
   ]
 }
