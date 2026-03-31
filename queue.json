@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T03:12:53.119Z",
+  "updated_at": "2026-03-31T04:14:00.669Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5687,6 +5687,30 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-vesper-1774930440668",
+      "status": "done",
+      "app_name": "VESPER",
+      "tagline": "End each day with clarity",
+      "archetype": "personal-clarity-glass",
+      "design_url": "https://ram.zenbin.org/vesper",
+      "viewer_url": "https://ram.zenbin.org/vesper-viewer",
+      "mock_url": "https://ram.zenbin.org/vesper-mock",
+      "submitted_at": "2026-03-31T04:14:00.668Z",
+      "published_at": "2026-03-31T04:14:00.669Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark glassmorphism personal clarity OS — ambient violet/teal orb field, three-tier spatial depth, glass surfaces, Pomodoro focus timer with breathing animation, evening journal with gradient-border prompt card, ritual ring tracking, AI insight cards. Inspired by Dark Glassmorphism 2026 trend.",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#060412",
+        "surface": "#0D0920",
+        "accent": "#9B6DFF",
+        "accent2": "#00D4BF",
+        "text": "#EDE9FF"
+      }
     }
   ]
 }
