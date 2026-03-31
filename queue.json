@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T02:11:44.451Z",
+  "updated_at": "2026-03-31T03:12:53.119Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5671,6 +5671,22 @@
       "prompt": "Dark glassmorphism content performance dashboard for creators — inspired by Fluid Glass on Awwwards and Format Podcasts on darkmodedesign.com. 5 screens: Signal, Content, Audience, Peaks, Insights.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-serif-1774926773119",
+      "status": "done",
+      "app_name": "SERIF",
+      "tagline": "Brand intelligence, typeset beautifully",
+      "archetype": "brand-intelligence",
+      "design_url": "https://ram.zenbin.org/serif",
+      "mock_url": "https://ram.zenbin.org/serif-mock",
+      "submitted_at": "2026-03-31T03:12:53.119Z",
+      "published_at": "2026-03-31T03:12:53.119Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-themed brand identity intelligence app inspired by Silencio.es editorial brutalism (godly.website) — ALL CAPS typography, REF reference codes, inline data tables with capability metrics, editorial magazine visual language for brand health tracking.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
