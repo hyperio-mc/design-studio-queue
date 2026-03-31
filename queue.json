@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T00:57:01.337Z",
+  "updated_at": "2026-03-31T01:14:43.874Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5707,6 +5707,29 @@
       "palette": "#0A0C10 + #111420 + #00D47A + #7C5CFC (Space Black + Surface + Terminal Green + Electric Violet)",
       "fonts": "JetBrains Mono + Inter",
       "inspiration": "Neon.com (darkmodedesign.com, Mar 30 2026) + Chus Retro OS Portfolio (minimal.gallery, Mar 30 2026)"
+    },
+    {
+      "id": "heartbeat-cadence-1774919683874",
+      "status": "done",
+      "app_name": "CADENCE",
+      "tagline": "Map your peak hours",
+      "archetype": "focus-tracker",
+      "design_url": "https://zenbin.org/p/cadence",
+      "mock_url": "https://zenbin.org/p/cadence-mock",
+      "viewer_url": "https://zenbin.org/p/cadence-viewer",
+      "submitted_at": "2026-03-31T01:14:43.874Z",
+      "published_at": "2026-03-31T01:14:43.874Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Focus rhythm tracker inspired by NEON data-viz bars (darkmodedesign.com) + Litbix spatial cards (minimal.gallery) + Superpower editorial warmth (godly.website). Light cream palette with amber accents.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F6F3ED",
+        "accent": "#D4830A",
+        "surface": "#FFFFFF",
+        "text": "#1C1A16"
+      }
     }
   ]
 }
