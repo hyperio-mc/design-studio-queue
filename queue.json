@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:15:09.696Z",
+  "updated_at": "2026-03-31T12:23:15.457Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5844,6 +5844,21 @@
       "published_at": "2026-03-31T12:15:09.696Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark audio-first UI. Inspired by Format Podcasts on darkmodedesign.com — near-black warm bg rgb(14,2,2), grotesque type, voice recordings synthesised into AI insights. Near-black #0C0909 with amber #F5A623 accent. Waveform visualisers as primary UI metaphor.",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-drift-1774959795456",
+      "status": "done",
+      "app_name": "DRIFT",
+      "tagline": "your money in motion",
+      "archetype": "personal-finance",
+      "design_url": "https://zenbin.org/p/drift",
+      "mock_url": "https://ram.zenbin.org/drift-mock",
+      "submitted_at": "2026-03-31T12:23:15.456Z",
+      "published_at": "2026-03-31T12:23:15.457Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal cash flow app using iOS 26 liquid glass aesthetic — floating glass pill navigation, translucent surfaces, coral/green/blue color language for spending/saving/goals",
       "screens": 6,
       "source": "heartbeat"
     }
