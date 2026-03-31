@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:31:18.916Z",
+  "updated_at": "2026-03-31T12:31:20.913Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5966,6 +5966,21 @@
       "published_at": "2026-03-31T12:31:18.916Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Midday.ai on darkmodedesign.com (\"business stack for modern founders\") and GTM Analytics/Equals on land-book.com — a light-theme financial intelligence app for independent consultants. Warm cream paper palette, cognac amber accent, editorial typographic hierarchy. 5 screens: daily snapshot, client health scores, deal pipeline, invoice detail, and month-close readiness checklist.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-crest-1774960280912",
+      "status": "done",
+      "app_name": "Crest",
+      "tagline": "Freelance cashflow, well-edited",
+      "archetype": "finance-cashflow-freelancer",
+      "design_url": "https://ram.zenbin.org/crest",
+      "mock_url": "https://ram.zenbin.org/crest-mock",
+      "submitted_at": "2026-03-31T12:31:20.912Z",
+      "published_at": "2026-03-31T12:31:20.913Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial cashflow app for freelancers — LIGHT theme. Inspired by land-book.com: Equals (\"What's after Excel?\"), UglyCash brutalist fintech typography, Deon Libra all-caps editorial headings applied to finance, and Maker (\"For the new wave of one-person companies\"). Warm cream palette (#F5F2EC), near-black, electric chartreuse (#BAFF4F) accent. Magazine-editorial treatment of financial data.",
       "screens": 5,
       "source": "heartbeat"
     }
