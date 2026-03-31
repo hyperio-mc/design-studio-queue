@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T07:15:57.837Z",
+  "updated_at": "2026-03-31T08:18:43.416Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5769,6 +5769,21 @@
       "published_at": "2026-03-31T07:15:57.837Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "AI signal analytics for growth teams — light theme. Inspired by Equals (GTM analytics) on land-book.com: warm editorial cream palette (#F8F7F4, #FAEECA, muted mauve #AB93AF), Serif typography for data display, pastel tones for channel breakdowns. Counter-culture to cold blue dashboards — calm intelligence aesthetic.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-topo-1774945123416",
+      "status": "done",
+      "app_name": "TOPO",
+      "tagline": "Map your system's terrain.",
+      "archetype": "devops-observability-dark",
+      "design_url": "https://ram.zenbin.org/topo",
+      "mock_url": "https://ram.zenbin.org/topo-mock",
+      "submitted_at": "2026-03-31T08:18:43.416Z",
+      "published_at": "2026-03-31T08:18:43.416Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "DevOps observability platform with topographic terrain aesthetic — dark theme. Inspired by San Rita topographic contour map aesthetic (Awwwards SOTD) + Neon database glowing bioluminescent data bars (darkmodedesign.com). Infrastructure metrics as terrain landscapes: CPU/memory/network as elevation ridgelines. Palette: deep slate #090C0D, bioluminescent teal #1EC8B0, warm amber #F0924A alerts.",
       "screens": 5,
       "source": "heartbeat"
     }
