@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T19:22:47.068Z",
+  "updated_at": "2026-03-31T20:26:32.071Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6125,6 +6125,21 @@
       "published_at": "2026-03-31T19:22:47.068Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark UI voice messaging app for async teams, inspired by Format Podcasts (darkmodedesign.com) and Haptic (godly.website). Pure-black foundation, electric violet/teal accents, waveform as central design motif.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grove-carbon-1774988792071",
+      "status": "done",
+      "app_name": "Grove",
+      "tagline": "Carbon intelligence for engineering teams",
+      "archetype": "sustainability-saas-light",
+      "design_url": "https://ram.zenbin.org/grove-carbon",
+      "mock_url": "https://ram.zenbin.org/grove-carbon-mock",
+      "submitted_at": "2026-03-31T20:26:32.071Z",
+      "published_at": "2026-03-31T20:26:32.071Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme carbon/sustainability dashboard for engineering teams, inspired by Neon (neon.tech) on darkmodedesign.com — vertical bar data-viz aesthetic transposed to warm parchment palette. Forest green + amber accents, ambient bar texture motif throughout.",
       "screens": 5,
       "source": "heartbeat"
     }
