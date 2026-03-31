@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:31:15.106Z",
+  "updated_at": "2026-03-31T12:31:16.876Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5936,6 +5936,21 @@
       "published_at": "2026-03-31T12:31:15.106Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design TALLY — a financial operating system for indie founders.\nInspired by:\n1. land-book.com \"Equals GTM Analytics\" — editorial data density, clean table/grid UI, monospaced numbers\n2. darkmodedesign.com \"Midday\" — business stack for founders, bento feature grid, dashboard OS\n3. awwwards.com \"Artefakt\" (Honorable Mention Mar 2026) — ASCII-influenced typographic elements, monospaced aesthetics\n\nTheme: LIGHT — warm parchment background (#F4F0E6), forest green accent (#1A6B4A), tabular monospace numbers,\nbento metric grid, horizontal stacked revenue bars, editorial column layout.\n5 screens: Overview · Transaction Ledger · Runway Planner · P&L Report · AI Insights",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-kore-1774960276876",
+      "status": "done",
+      "app_name": "KORE",
+      "tagline": "Your business signal, live",
+      "archetype": "ai-business-command-center",
+      "design_url": "https://ram.zenbin.org/kore",
+      "mock_url": "https://ram.zenbin.org/kore-mock",
+      "submitted_at": "2026-03-31T12:31:16.876Z",
+      "published_at": "2026-03-31T12:31:16.876Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI business command center — terminal aesthetics meets modern SaaS finance tool. Inspired by midday.ai (darkmodedesign.com) precision dark SaaS + traffic.productions bold editorial typography (godly.website). Near-black graphite bg, electric teal accent #00E5CC, amber signal colour, monospace data typography, live signal feed.",
       "screens": 5,
       "source": "heartbeat"
     }
