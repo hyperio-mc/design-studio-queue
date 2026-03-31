@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:42:24.030Z",
+  "updated_at": "2026-03-31T12:42:35.043Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -1359,7 +1359,7 @@
     },
     {
       "id": "heartbeat-verdant-1774188643123",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "VERDANT",
       "tagline": "Tend your growth. Track your seasons.",
       "archetype": "wellness",
@@ -1370,7 +1370,8 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design VERDANT — a biophilic personal growth & wellness garden app inspired by:\n1. FC Porto Memorial (Awwwards SOTD, 22 Mar 2026) by Significa — editorial memorial storytelling, warm 2-colour palette #F4F3F1 + #01060F, scroll animation, seasonal narrative approach to honoring legacy.\n2. Emergence Magazine (Land-book, 22 Mar 2026) — \"connecting threads between ecology, culture, and spirituality\" — biophilic editorial aesthetic.\n3. Kyn & Folk (Land-book, 22 Mar 2026) — handcrafted ceramic artisanal warmth, organic material textures.\n4. Midday (Dark Mode Design / Godly featured) — temporal habit tracking, ritual-based wellness UX patterns.\nLight theme. Warm botanical palette: parchment bg, forest green accent, terra cotta secondary. Serif headline moments. 5 screens: Garden dashboard (streak metrics, season hero card), Practices (habit cards with progress), Journal (mood selector, gratitude, free write), Growth Timeline (editorial milestone scroll), Insights (pattern analytics + seasonal summary).",
       "screens": 5,
-      "source": "heartbeat"
+      "source": "heartbeat",
+      "unavailable_since": "2026-03-31"
     },
     {
       "id": "heartbeat-signal-1774192163341",
@@ -1775,7 +1776,7 @@
     },
     {
       "id": "heartbeat-carta-1774267779531",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "CARTA",
       "tagline": "Your Reading Life, Composed",
       "archetype": "editorial-reader",
@@ -1787,7 +1788,8 @@
       "prompt": "Inspired by Litbix (minimal.gallery) — warm minimal book curation grid with drag-drop collection interface, and Old Tom Capital (minimal.gallery) — editorial institutional design with large serif display numerals and modular \"platform built to compound\" framing. A personal reading tracker with warm parchment light theme, burnt-sienna accent, serif headings, and annual reading stats displayed in an editorial/institutional grid style. 5 screens: Shelf (book grid + streak), Reading (chapter progress tracker), Stats (editorial large-numeral data display), Discover (curated recommendations), Notes (pulled-quote highlights journal).",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-31"
     },
     {
       "id": "heartbeat-folio-1774268352425",
@@ -2840,7 +2842,7 @@
     },
     {
       "id": "heartbeat-drift-1774441236157",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "DRIFT",
       "tagline": "explore at your own pace",
       "archetype": "local-discovery",
@@ -2852,7 +2854,8 @@
       "prompt": "Light-theme local discovery and slow travel app. Inspired by peach/terracotta travel app trending on Dribbble and Korsa clean editorial UI. Warm terracotta #E07848, forest green #3B7A5E on warm white bg. Screens: Discover (category-filtered place cards), Place detail, Day plan timeline, Saved collections, City guides.",
       "screens": 10,
       "source": "heartbeat",
-      "theme": "light"
+      "theme": "light",
+      "unavailable_since": "2026-03-31"
     },
     {
       "id": "heartbeat-ledger-1774444573027",
