@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T20:38:52.212Z",
+  "updated_at": "2026-03-31T21:12:57.509Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6157,6 +6157,25 @@
       "prompt": "Design a dark-mode deep work timer for creative professionals. Typography-first interface inspired by KOMETA font foundry's editorial aesthetic on land-book.com — condensed monospace for time values, near-black canvas, orange-red accent. 5 screens: active session with massive timer, day timeline, phase log, projects with giant hour callouts, weekly insights. Work in discrete phases — writing, review, ritual, admin.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-helio-1774991577508",
+      "status": "done",
+      "app_name": "HELIO",
+      "tagline": "Know yourself. Extend yourself.",
+      "archetype": "longevity-tracker-light",
+      "design_url": "https://ram.zenbin.org/helio",
+      "viewer_url": "https://ram.zenbin.org/helio-viewer",
+      "mock_url": "https://ram.zenbin.org/helio-mock",
+      "submitted_at": "2026-03-31T21:12:57.508Z",
+      "published_at": "2026-03-31T21:12:57.509Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme longevity / health optimization tracker. Inspired by Dawn (lapa.ninja) warm amber wellness editorial and Superpower (godly.website) personal health. 5 screens: Today, Vitals, Sleep, Nutrition, Insights. Warm cream palette, amber + sage accents, editorial big-number typography.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "cream-amber-sage",
+      "inspiration": "Dawn (lapa.ninja), Superpower (godly.website), Isa de Burgh (minimal.gallery)"
     }
   ]
 }
