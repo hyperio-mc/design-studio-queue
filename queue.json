@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T21:51:15.405Z",
+  "updated_at": "2026-03-31T22:14:31.876Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6176,6 +6176,21 @@
       "theme": "light",
       "palette": "cream-amber-sage",
       "inspiration": "Dawn (lapa.ninja), Superpower (godly.website), Isa de Burgh (minimal.gallery)"
+    },
+    {
+      "id": "heartbeat-vanta-1774995271875",
+      "status": "done",
+      "app_name": "VANTA",
+      "tagline": "AI model control room",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/vanta",
+      "mock_url": "https://ram.zenbin.org/vanta-mock",
+      "submitted_at": "2026-03-31T22:14:31.875Z",
+      "published_at": "2026-03-31T22:14:31.876Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode AI model registry control room. Inspired by JetBrains Air agentic IDE concepts and warm dark aesthetics from darkmodedesign.com (Salt&Bits #171514 warm dark, Mortons #101011). 5 screens: Discovery, Model Detail, Compare, Deploy, Usage Analytics.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
