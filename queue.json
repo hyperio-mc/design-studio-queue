@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T01:41:33.894Z",
+  "updated_at": "2026-03-31T02:11:44.451Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5656,6 +5656,21 @@
         "surface": "#FFFFFF",
         "text": "#1C1A16"
       }
+    },
+    {
+      "id": "heartbeat-prism-1774923104451",
+      "status": "done",
+      "app_name": "PRISM",
+      "tagline": "Clarity in every signal",
+      "archetype": "content-intelligence",
+      "design_url": "https://ram.zenbin.org/prism",
+      "mock_url": "https://ram.zenbin.org/prism-mock",
+      "submitted_at": "2026-03-31T02:11:44.451Z",
+      "published_at": "2026-03-31T02:11:44.451Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark glassmorphism content performance dashboard for creators — inspired by Fluid Glass on Awwwards and Format Podcasts on darkmodedesign.com. 5 screens: Signal, Content, Audience, Peaks, Insights.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
