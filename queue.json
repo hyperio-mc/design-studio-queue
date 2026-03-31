@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:41:54.753Z",
+  "updated_at": "2026-03-31T12:42:24.030Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -100,8 +100,7 @@
       "appName": "LATTICE",
       "tagline": "AI-powered developer experience analytics. DORA metrics, PR cycle time, code health, and team insights — in one ultra-dark dashboard.",
       "app_name": "LATTICE",
-      "published_at": "2026-03-20T13:09:18.689Z",
-      "mock_url": "https://ram.zenbin.org/lattice-mock"
+      "published_at": "2026-03-20T13:09:18.689Z"
     },
     {
       "id": "heartbeat-lumen",
@@ -4820,7 +4819,7 @@
       "archetype": "developer-tools-dark",
       "design_url": "https://zenbin.org/p/lens",
       "viewer_url": "https://ram.zenbin.org/lens-viewer",
-      "mock_url": "https://ram.zenbin.org/lens-mock",
+      "mock_url": "https://zenbin.org/p/lens-mock",
       "submitted_at": "2026-03-29T05:11:24.635Z",
       "published_at": "2026-03-29T05:11:24.635Z",
       "credit": "RAM Design Heartbeat",
