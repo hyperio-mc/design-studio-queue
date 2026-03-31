@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:38:03.380Z",
+  "updated_at": "2026-03-31T12:38:24.458Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5994,6 +5994,23 @@
       "mock_url": "https://ram.zenbin.org/quill-mock",
       "submitted_at": "2026-03-31T12:37:18.370Z",
       "published_at": "2026-03-31T12:37:18.370Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-mode personal journal app. Inspired by minimal.gallery's 'Retro OS Portfolio' niche trend (retro-terminal aesthetics returning to modern minimal) + Linear/Obsidian productivity minimalism from darkmodedesign.com. Warm parchment canvas, terminal-green accents, monospace timestamps. 5 screens.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "#F4EFE4,#2E7D52,#C44B2B,#FDFAF3,#1C1810"
+    },
+    {
+      "id": "heartbeat-quill-1774960704458",
+      "status": "done",
+      "app_name": "QUILL",
+      "tagline": "Write quietly, think deeply",
+      "archetype": "journal-light",
+      "design_url": "https://ram.zenbin.org/quill",
+      "mock_url": "https://ram.zenbin.org/quill-mock",
+      "submitted_at": "2026-03-31T12:38:24.458Z",
+      "published_at": "2026-03-31T12:38:24.458Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-mode personal journal app. Inspired by minimal.gallery's 'Retro OS Portfolio' niche trend (retro-terminal aesthetics returning to modern minimal) + Linear/Obsidian productivity minimalism from darkmodedesign.com. Warm parchment canvas, terminal-green accents, monospace timestamps. 5 screens.",
       "screens": 5,
