@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T11:19:33.894Z",
+  "updated_at": "2026-03-31T12:15:09.696Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5830,6 +5830,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Warm-minimal editorial reading tracker. Inspired by Minimal.gallery archival index aesthetic (newsprint tones, single red accent, typography as primary visual) + Land-book.com bento grid patterns. Counter-trend to cold blue SaaS. Light theme with warm off-whites (#F7F3EC), dark espresso text, editorial red accent.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pulse-voice-1774959309696",
+      "status": "done",
+      "app_name": "Pulse",
+      "tagline": "Your day, in your voice",
+      "archetype": "voice-journal",
+      "design_url": "https://ram.zenbin.org/pulse-voice",
+      "mock_url": "https://ram.zenbin.org/pulse-voice-mock",
+      "submitted_at": "2026-03-31T12:15:09.696Z",
+      "published_at": "2026-03-31T12:15:09.696Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark audio-first UI. Inspired by Format Podcasts on darkmodedesign.com — near-black warm bg rgb(14,2,2), grotesque type, voice recordings synthesised into AI insights. Near-black #0C0909 with amber #F5A623 accent. Waveform visualisers as primary UI metaphor.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
