@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T00:12:12.894Z",
+  "updated_at": "2026-03-31T00:57:01.337Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5600,14 +5600,15 @@
       "tagline": "infrastructure monitoring dashboard",
       "archetype": "developer-tool",
       "design_url": "https://zenbin.org/p/flux",
-      "mock_url": "https://zenbin.org/p/flux-mock",
+      "mock_url": "https://hyperio-mc.github.io/design-studio-queue/flux-mock.html",
       "submitted_at": "2026-03-30T20:26:02.735Z",
       "published_at": "2026-03-30T20:26:02.735Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Utopia Tokyo (utopiatokyo.com, Awwwards SOTD Mar 29 2026) — dark navy #14171F, PPMori font, terminal bracket notation [ BUTTON ], scattered monospace labels [LOADING], glitch/surveillance aesthetic \"MASKED. MARKED. WATCHED.\", high-contrast structural composition. Also Sutera (sutera.ch) \"Reality, By Design\" structural XR agency aesthetic, \"BLUEPRINT REALITY\" / \"CYBER REALITY\". Dark theme. Near-black blue-tinted #0C0E14 + terminal green #00E676 + electric amber #FFB300 + info cyan #38BDF8. Geist (new to series — Vercel clean sans) + Geist Mono (new to series — matching monospace). Developer infrastructure monitoring + deployment dashboard. Terminal bracket notation for ALL labels and status: [OK] [WARN] [CRIT] [INFO] [LIVE] [CPU] [MEM] [NET] [DEPLOY] [PIPELINE] [SERVICES] [LOGS]. 5 screens: Overview (system dashboard: 3 metric cards CPU/MEM/NET + 24h load average sparkline chart + quick services list), Services (all 12 running services with CPU/MEM/uptime per card, colored left-indicator bar, filter tabs [ALL][OK][WARN][CRIT]), Logs (live event stream with timestamp + bracket level + message, [ERROR] rows in deep red with left bar indicator, filter tabs), Deploy (active deployment card + BUILD→TEST→STAGE→PROD pipeline with timing + recent deployments list), Profile (avatar/identity card + environment/alerts/API keys settings sections).",
       "screens": 5,
       "source": "heartbeat",
-      "theme": "dark"
+      "theme": "dark",
+      "mock_note": "GitHub Pages fallback (ZenBin at quota until 2026-04-23)"
     },
     {
       "id": "heartbeat-glaze-1774905028166",
