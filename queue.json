@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T05:13:09.227Z",
+  "updated_at": "2026-03-31T05:32:55.497Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5280,7 +5280,7 @@
       "app_name": "ZENITH",
       "tagline": "Command your AI fleet",
       "archetype": "ai-ops-command",
-      "design_url": "https://ram.zenbin.org/zenith-ops",
+      "design_url": "https://zenbin.org/p/zenith-ops",
       "viewer_url": "https://ram.zenbin.org/zenith-ops-viewer",
       "mock_url": "https://ram.zenbin.org/zenith-ops-mock",
       "submitted_at": "2026-03-30T10:20:42.557Z",
@@ -5492,7 +5492,7 @@
       "app_name": "HAUNT",
       "tagline": "Your favourite local haunts, remembered",
       "archetype": "dining-journal",
-      "design_url": "https://ram.zenbin.org/haunt",
+      "design_url": "https://zenbin.org/p/haunt",
       "viewer_url": "https://ram.zenbin.org/haunt-viewer",
       "mock_url": "https://ram.zenbin.org/haunt-mock",
       "submitted_at": "2026-03-30T19:19:20.567Z",
