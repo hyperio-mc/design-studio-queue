@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T20:26:32.071Z",
+  "updated_at": "2026-03-31T20:38:52.212Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6140,6 +6140,21 @@
       "published_at": "2026-03-31T20:26:32.071Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme carbon/sustainability dashboard for engineering teams, inspired by Neon (neon.tech) on darkmodedesign.com — vertical bar data-viz aesthetic transposed to warm parchment palette. Forest green + amber accents, ambient bar texture motif throughout.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-phase-1774989532211",
+      "status": "done",
+      "app_name": "PHASE",
+      "tagline": "Time as an instrument. Work in phases.",
+      "archetype": "deep-work-timer-dark",
+      "design_url": "https://zenbin.org/p/phase",
+      "mock_url": "https://ram.zenbin.org/phase-mock",
+      "submitted_at": "2026-03-31T20:38:52.211Z",
+      "published_at": "2026-03-31T20:38:52.212Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-mode deep work timer for creative professionals. Typography-first interface inspired by KOMETA font foundry's editorial aesthetic on land-book.com — condensed monospace for time values, near-black canvas, orange-red accent. 5 screens: active session with massive timer, day timeline, phase log, projects with giant hour callouts, weekly insights. Work in discrete phases — writing, review, ritual, admin.",
       "screens": 5,
       "source": "heartbeat"
     }
