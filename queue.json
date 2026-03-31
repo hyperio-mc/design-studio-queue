@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T10:13:22.247Z",
+  "updated_at": "2026-03-31T11:19:33.894Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5815,6 +5815,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI agent orchestration dashboard — DARK theme. Inspired by Darknode (Awwwards) glass-morphism node graph, Linear:Change on Godly for minimal dark SaaS, and Neon/Midday on Dark Mode Design for electric accent glow. Deep-space backgrounds with violet/teal glass cards, real-time trace logs, workflow canvas with node graph, agent fleet management, and analytics.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-verso-1774955973893",
+      "status": "done",
+      "app_name": "Verso",
+      "tagline": "Your reading life, beautifully kept",
+      "archetype": "personal-reading-library",
+      "design_url": "https://ram.zenbin.org/verso",
+      "mock_url": "https://ram.zenbin.org/verso-mock",
+      "submitted_at": "2026-03-31T11:19:33.893Z",
+      "published_at": "2026-03-31T11:19:33.894Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Warm-minimal editorial reading tracker. Inspired by Minimal.gallery archival index aesthetic (newsprint tones, single red accent, typography as primary visual) + Land-book.com bento grid patterns. Counter-trend to cold blue SaaS. Light theme with warm off-whites (#F7F3EC), dark espresso text, editorial red accent.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
