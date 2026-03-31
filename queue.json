@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:31:16.876Z",
+  "updated_at": "2026-03-31T12:31:18.916Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5951,6 +5951,21 @@
       "published_at": "2026-03-31T12:31:16.876Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark AI business command center — terminal aesthetics meets modern SaaS finance tool. Inspired by midday.ai (darkmodedesign.com) precision dark SaaS + traffic.productions bold editorial typography (godly.website). Near-black graphite bg, electric teal accent #00E5CC, amber signal colour, monospace data typography, live signal feed.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-coda-1774960278916",
+      "status": "done",
+      "app_name": "CODA",
+      "tagline": "Financial intelligence for independent consultants",
+      "archetype": "finance-light",
+      "design_url": "https://ram.zenbin.org/coda",
+      "mock_url": "https://ram.zenbin.org/coda-mock",
+      "submitted_at": "2026-03-31T12:31:18.916Z",
+      "published_at": "2026-03-31T12:31:18.916Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai on darkmodedesign.com (\"business stack for modern founders\") and GTM Analytics/Equals on land-book.com — a light-theme financial intelligence app for independent consultants. Warm cream paper palette, cognac amber accent, editorial typographic hierarchy. 5 screens: daily snapshot, client health scores, deal pipeline, invoice detail, and month-close readiness checklist.",
       "screens": 5,
       "source": "heartbeat"
     }
