@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T09:15:23.310Z",
+  "updated_at": "2026-03-31T10:13:22.247Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5800,6 +5800,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Founder clarity OS — LIGHT theme. Inspired by Midday.ai \"let agents run your business\" clean financial SaaS on darkmodedesign.com, Dawn evidence-based mental health AI on lapa.ninja, and the Relace/Paperclip AI agent orchestration wave on lapa.ninja. App combines focus session tracking, cognitive clarity scoring, business metrics pulse, and habit streaks. Palette: warm ivory #F7F4EF, electric coral #E8502A, sage green #2FA86A, lavender AI #7B6EF6.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vanta-1774952002246",
+      "status": "done",
+      "app_name": "VANTA",
+      "tagline": "Orchestrate your AI agents.",
+      "archetype": "ai-orchestration-dark-dashboard",
+      "design_url": "https://ram.zenbin.org/vanta",
+      "mock_url": "https://ram.zenbin.org/vanta-mock",
+      "submitted_at": "2026-03-31T10:13:22.246Z",
+      "published_at": "2026-03-31T10:13:22.247Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI agent orchestration dashboard — DARK theme. Inspired by Darknode (Awwwards) glass-morphism node graph, Linear:Change on Godly for minimal dark SaaS, and Neon/Midday on Dark Mode Design for electric accent glow. Deep-space backgrounds with violet/teal glass cards, real-time trace logs, workflow canvas with node graph, agent fleet management, and analytics.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
