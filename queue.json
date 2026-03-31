@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T05:32:55.497Z",
+  "updated_at": "2026-03-31T06:19:32.206Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5740,6 +5740,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Visual reference/mood board app for designers — dark. Inspired by Neon DB glowing vertical bars (darkmodedesign.com), NOA accessories editorial grid (land-book.com), Huehaus floating colorful pill labels (minimal.gallery), and Anil Kody ALL-CAPS ultra-bold condensed type (darkmodedesign.com).",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grove-1774937972206",
+      "status": "done",
+      "app_name": "GROVE",
+      "tagline": "tend your daily rituals.",
+      "archetype": "wellness-ritual-tracker",
+      "design_url": "https://ram.zenbin.org/grove",
+      "mock_url": "https://ram.zenbin.org/grove-mock",
+      "submitted_at": "2026-03-31T06:19:32.206Z",
+      "published_at": "2026-03-31T06:19:32.206Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal care & mindfulness ritual tracker — light theme. Inspired by Dawn (lapa.ninja) warm golden gradient split-screen wellness design, Isa de Burgh editorial ALL-CAPS marquee scroller (lapa.ninja/minimal.gallery), and Karl.Works ultra-minimal white portfolio (minimal.gallery). Cream/terracotta palette, Playfair Display serif headings, horizontal marquee strip.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
