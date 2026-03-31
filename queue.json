@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T16:15:06.676Z",
+  "updated_at": "2026-03-31T17:17:38.913Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6096,6 +6096,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark precision audio analysis app — inspired by Neon Postgres vertical-bar data visualization (darkmodedesign.com) and Traffic Productions extreme-space minimalism (godly.website). Spectrum analyzer, parametric EQ, session history, export.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-drift-1774977458913",
+      "status": "done",
+      "app_name": "Drift",
+      "tagline": "Market intelligence, without the noise",
+      "archetype": "market-intelligence-light",
+      "design_url": "https://ram.zenbin.org/drift",
+      "mock_url": "https://ram.zenbin.org/drift-mock",
+      "submitted_at": "2026-03-31T17:17:38.913Z",
+      "published_at": "2026-03-31T17:17:38.913Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "B2B competitive intelligence dashboard with warm editorial light palette, inspired by minimal.gallery SAAS trend (Folk, Adaline) and land-book fintech tool aesthetics",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
