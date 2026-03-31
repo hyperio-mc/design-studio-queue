@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T06:19:32.206Z",
+  "updated_at": "2026-03-31T07:15:57.837Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5754,6 +5754,21 @@
       "published_at": "2026-03-31T06:19:32.206Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Personal care & mindfulness ritual tracker — light theme. Inspired by Dawn (lapa.ninja) warm golden gradient split-screen wellness design, Isa de Burgh editorial ALL-CAPS marquee scroller (lapa.ninja/minimal.gallery), and Karl.Works ultra-minimal white portfolio (minimal.gallery). Cream/terracotta palette, Playfair Display serif headings, horizontal marquee strip.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-meridian-1774941357837",
+      "status": "done",
+      "app_name": "MERIDIAN",
+      "tagline": "read the signal, not the noise.",
+      "archetype": "analytics-saas",
+      "design_url": "https://ram.zenbin.org/meridian",
+      "mock_url": "https://ram.zenbin.org/meridian-mock",
+      "submitted_at": "2026-03-31T07:15:57.837Z",
+      "published_at": "2026-03-31T07:15:57.837Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI signal analytics for growth teams — light theme. Inspired by Equals (GTM analytics) on land-book.com: warm editorial cream palette (#F8F7F4, #FAEECA, muted mauve #AB93AF), Serif typography for data display, pastel tones for channel breakdowns. Counter-culture to cold blue dashboards — calm intelligence aesthetic.",
       "screens": 5,
       "source": "heartbeat"
     }
