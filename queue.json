@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:42:35.043Z",
+  "updated_at": "2026-03-31T13:15:37.246Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6019,6 +6019,32 @@
       "source": "heartbeat",
       "theme": "light",
       "palette": "#F4EFE4,#2E7D52,#C44B2B,#FDFAF3,#1C1810"
+    },
+    {
+      "id": "heartbeat-pace-1774962937246",
+      "status": "done",
+      "app_name": "PACE",
+      "tagline": "Precision fuel for endurance athletes",
+      "archetype": "performance-nutrition-tracker",
+      "design_url": "https://ram.zenbin.org/pace",
+      "mock_url": "https://ram.zenbin.org/pace-mock",
+      "submitted_at": "2026-03-31T13:15:37.246Z",
+      "published_at": "2026-03-31T13:15:37.246Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a light-mode endurance athlete nutrition tracker. Inspired by Athleats (land-book.com) editorial warmth and Atlas Card (godly.website) photography-driven sectioning. Warm parchment palette, forest green accent, saffron amber for energy/carbs. 5 screens: Today dashboard with calorie ring + macro bars, Macro Analysis with bar charts and goal adherence, Recipe Discovery with editorial food cards, Training Sync with ride fuel plan, Weekly Review with performance score.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F7F4EF",
+        "accent": "#2D6A4F",
+        "accent2": "#F4A621"
+      },
+      "inspiration": [
+        "Athleats (land-book.com)",
+        "Atlas Card (godly.website)",
+        "Midday.ai (darkmodedesign.com)"
+      ]
     }
   ]
 }
