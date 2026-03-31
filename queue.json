@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T12:28:20.251Z",
+  "updated_at": "2026-03-31T12:31:00.683Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5859,6 +5859,21 @@
       "published_at": "2026-03-31T12:23:15.457Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Personal cash flow app using iOS 26 liquid glass aesthetic — floating glass pill navigation, translucent surfaces, coral/green/blue color language for spending/saving/goals",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-weave-1774960260683",
+      "status": "done",
+      "app_name": "WEAVE",
+      "tagline": "Pipeline for the creative solo",
+      "archetype": "creative-studio-tracker",
+      "design_url": "https://ram.zenbin.org/weave",
+      "mock_url": "https://ram.zenbin.org/weave-mock",
+      "submitted_at": "2026-03-31T12:31:00.683Z",
+      "published_at": "2026-03-31T12:31:00.683Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by minimal.gallery \"Huehaus Studio\" + \"KOMETA Typefaces\" editorial-meets-craft aesthetic, and Midday.ai one-person company tooling trend. Light-theme creative project pipeline tracker for independent freelancers: project health, Gantt timeline, client profiles, and revenue tracking.",
       "screens": 6,
       "source": "heartbeat"
     }
