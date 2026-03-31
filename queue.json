@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T04:14:00.669Z",
+  "updated_at": "2026-03-31T04:24:59.219Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -5711,6 +5711,21 @@
         "accent2": "#00D4BF",
         "text": "#EDE9FF"
       }
+    },
+    {
+      "id": "heartbeat-still-1774931099219",
+      "status": "done",
+      "app_name": "STILL",
+      "tagline": "your brain is not a server",
+      "archetype": "wellness-mindfulness",
+      "design_url": "https://zenbin.org/p/still",
+      "mock_url": "https://ram.zenbin.org/still-mock",
+      "submitted_at": "2026-03-31T04:24:59.219Z",
+      "published_at": "2026-03-31T04:24:59.219Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a mindful recovery companion that helps knowledge workers switch between deep work and genuine rest states — inspired by supercommon systems philosophy on land-book.com",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
