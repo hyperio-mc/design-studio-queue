@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T11:14:35.358Z",
+  "updated_at": "2026-04-01T12:13:27.199Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6429,6 +6429,23 @@
       "app_name": "Create",
       "archetype": "health",
       "published_at": "2026-04-01T11:14:34.843Z"
+    },
+    {
+      "id": "heartbeat-cadence-1775045607198",
+      "status": "done",
+      "app_name": "CADENCE",
+      "tagline": "Schedule with your biology.",
+      "archetype": "cognitive-performance-scheduler",
+      "design_url": "https://ram.zenbin.org/cadence",
+      "viewer_url": "https://ram.zenbin.org/cadence-viewer",
+      "mock_url": "https://ram.zenbin.org/cadence-mock",
+      "submitted_at": "2026-04-01T12:13:27.198Z",
+      "published_at": "2026-04-01T12:13:27.199Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Cognitive performance scheduler inspired by Dawn (evidence-based AI wellness, Lapa.ninja) and Maxima Therapy precision data design (Awwwards) — maps energy rhythms, recommends optimal work blocks. Light theme: warm parchment, sage green, terracotta accent, DM Serif Display for editorial data.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
