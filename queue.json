@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T21:51:21.846Z",
+  "updated_at": "2026-04-01T22:12:28.298Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6656,6 +6656,39 @@
         "accent": "#7B6BFF",
         "accent2": "#22E5A8"
       }
+    },
+    {
+      "id": "heartbeat-solace-1775081548298",
+      "status": "done",
+      "app_name": "Solace",
+      "tagline": "Your quiet corner for reflection",
+      "archetype": "wellness-journal",
+      "design_url": "https://ram.zenbin.org/solace",
+      "mock_url": "https://ram.zenbin.org/solace-mock",
+      "submitted_at": "2026-04-01T22:12:28.298Z",
+      "published_at": "2026-04-01T22:12:28.298Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Warm editorial light-theme journaling app inspired by Dawn (land-book.com) and Maxima Therapy (Awwwards). Terracotta + sage palette, Playfair Display serif, mood heatmap, guided breathing circle.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F7F3EE",
+        "accent": "#C87860",
+        "accent2": "#7A9E82"
+      },
+      "tags": [
+        "wellness",
+        "journaling",
+        "mental-health",
+        "editorial",
+        "light-theme",
+        "serif"
+      ],
+      "inspiration": [
+        "land-book.com: Dawn (AI for Mental Health)",
+        "Awwwards: Maxima Therapy"
+      ]
     }
   ]
 }
