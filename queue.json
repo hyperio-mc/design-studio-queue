@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T04:17:15.308Z",
+  "updated_at": "2026-04-01T04:30:30.947Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6288,6 +6288,21 @@
       "published_at": "2026-04-01T04:17:15.308Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark warm photographer studio OS. Inspired by \"Darkroom\" on darkmodedesign.com and \"Mike Matas\" portfolio on Godly.website. Warm charcoal bg, film-gold accent, aperture-ring status badges, contact-sheet gallery grid. 5 screens: Dashboard, Active Shoot, Gallery Selects, Invoices, Studio Profile.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-trail-1775017830946",
+      "status": "done",
+      "app_name": "TRAIL",
+      "tagline": "Movement is memory. Log every route.",
+      "archetype": "movement-journal-light",
+      "design_url": "https://zenbin.org/p/trail",
+      "mock_url": "https://ram.zenbin.org/trail-mock",
+      "submitted_at": "2026-04-01T04:30:30.946Z",
+      "published_at": "2026-04-01T04:30:30.947Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a light-mode personal movement journal app. Warm parchment canvas (#F0ECE5), electric lime accent (#C6FF52) inspired by San Rita (sanrita.ca) trail map aesthetic — spatial topo grid, floating data labels, condensed mono caps. 5 screens: active route with live stats (distance 4.7km, pace 5:12, elapsed timer), topo map view with trail path and GPS coordinates, movement log as journal entries, saved places/waypoints with coordinates, weekly editorial recap with 47.2 km hero stat.",
       "screens": 5,
       "source": "heartbeat"
     }
