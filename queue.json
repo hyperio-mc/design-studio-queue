@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T20:37:43.521Z",
+  "updated_at": "2026-04-01T21:17:33.123Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6634,6 +6634,28 @@
       "prompt": "Design a light-mode reading tracker app. Warm parchment #FAF7F2, terracotta accent #C8522A (book spine color), sage #4E7D5B for secondary. Inspired by Dribbble mobile trending — Artspire data visualization approach (183 likes) and Ramotion card hierarchy (208 likes). 5 screens: Reading Now (current book with terracotta spine, 62% progress, daily goal ring 28/40, Up Next queue), Library (3-column book grid with spine colors, 2026 goal banner 18/30), Session (01:24:08 48px mono timer, quote capture, ambience picker), Stats (3241 pages hero, day bars, genre breakdown), Discover (personalised recs with spine cards, trending by genre).",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vigil-1775078253123",
+      "status": "done",
+      "app_name": "VIGIL",
+      "tagline": "Always-On Software Reliability Intelligence",
+      "archetype": "reliability-monitor",
+      "design_url": "https://ram.zenbin.org/vigil",
+      "viewer_url": "https://ram.zenbin.org/vigil-viewer",
+      "mock_url": "https://ram.zenbin.org/vigil-mock",
+      "submitted_at": "2026-04-01T21:17:33.123Z",
+      "published_at": "2026-04-01T21:17:33.123Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark glassmorphic reliability monitoring dashboard — inspired by \"Fluid Glass\" SOTD on Awwwards and \"Interfere\" on Land-book. Deep space palette with electric violet (#7B6BFF) + neon teal (#22E5A8) accents. 5 screens: Overview, Services, Incidents, Latency heatmap, Alerts.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#060810",
+        "accent": "#7B6BFF",
+        "accent2": "#22E5A8"
+      }
     }
   ]
 }
