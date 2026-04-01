@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T00:16:48.980Z",
+  "updated_at": "2026-04-01T01:25:21.308Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6220,6 +6220,21 @@
       "published_at": "2026-04-01T00:16:48.980Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light glassmorphism creative portfolio studio — inspired by Fluid Glass (Awwwards) + minimal.gallery airy aesthetics. Frosted glass cards over warm cream, prismatic accent glows (violet/pink/teal/gold), 5 screens: Home, Project Detail, Share, Explore, Profile.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-finch-1775006721307",
+      "status": "done",
+      "app_name": "FINCH",
+      "tagline": "Know where your money flows",
+      "archetype": "personal-finance-intelligence",
+      "design_url": "https://ram.zenbin.org/finch",
+      "mock_url": "https://ram.zenbin.org/finch-mock",
+      "submitted_at": "2026-04-01T01:25:21.307Z",
+      "published_at": "2026-04-01T01:25:21.308Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal spend intelligence app — LIGHT theme. Inspired by Capchase (land-book.com, B2B fintech clean data hierarchy), Amie (godly.website, warm cream backgrounds bento grid), Equals GTM analytics (land-book.com, financial analytics on near-white). Trend: SaaS data products shifting from cold white to warm cream backgrounds. 5 screens: Dashboard, Categories, Transactions, Budget, Insights.",
       "screens": 5,
       "source": "heartbeat"
     }
