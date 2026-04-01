@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T09:16:12.717Z",
+  "updated_at": "2026-04-01T10:17:04.120Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6385,6 +6385,21 @@
       "published_at": "2026-04-01T09:16:12.717Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark retail-catalog UX for a digital motion asset marketplace. Inspired by 108.supply (godly.website) — lot numbers, rolling counters, inventory meters, physical-goods vocabulary applied to digital motion templates.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vela-1775038624120",
+      "status": "done",
+      "app_name": "Vela",
+      "tagline": "Your AI fashion director",
+      "archetype": "ai-fashion-intelligence",
+      "design_url": "https://ram.zenbin.org/vela",
+      "mock_url": "https://ram.zenbin.org/vela-mock",
+      "submitted_at": "2026-04-01T10:17:04.120Z",
+      "published_at": "2026-04-01T10:17:04.120Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI wardrobe & style intelligence app — light editorial aesthetic inspired by Overlay (lapa.ninja) pearl-cream gradient, floating outfit arcs, serif typography. 5 screens: Home, Today's Look, Wardrobe, Style DNA, Wishlist Intelligence.",
       "screens": 5,
       "source": "heartbeat"
     }
