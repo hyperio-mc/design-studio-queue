@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T07:17:44.499Z",
+  "updated_at": "2026-04-01T08:15:24.107Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6356,6 +6356,22 @@
       "theme": "dark",
       "palette": "deep-space-navy-violet-teal",
       "inspired_by": "Evervault (godly.website), VAST SOTD (awwwards), Neon.tech (darkmodedesign)"
+    },
+    {
+      "id": "heartbeat-lumis-1775031324107",
+      "status": "done",
+      "app_name": "LUMIS",
+      "tagline": "See through your finances",
+      "archetype": "personal-finance-clarity",
+      "design_url": "https://ram.zenbin.org/lumis",
+      "viewer_url": "https://ram.zenbin.org/lumis-viewer",
+      "mock_url": "https://ram.zenbin.org/lumis-mock",
+      "submitted_at": "2026-04-01T08:15:24.107Z",
+      "published_at": "2026-04-01T08:15:24.107Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-themed personal finance clarity app. Inspired by \"Fluid Glass\" Awwwards Site of the Day (March 30 2026, by Exo Ape) — physics-based liquid glassmorphism with frosted translucent panels floating over soft lavender→peach gradient fields. Also: Neon.com featured on DarkModeDesign.com — bold typographic hierarchy in AI-era developer tools. Design concept: treat financial data like light through glass — translucent depth without harsh shadows, warm cream palette (#F3F0EC), soft violet accent (#6B4FE9), warm orange secondary (#F97316). 5 screens: Overview (net worth hero + spending donut), Accounts (glass list cards), Activity (glass tx feed), Budget (liquid progress rings), Insights (AI analysis cards + area chart).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
