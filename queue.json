@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T12:25:33.087Z",
+  "updated_at": "2026-04-01T13:14:36.254Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6461,6 +6461,31 @@
       "prompt": "Design a dark-mode personal private archive app. Pure black canvas #030303, warm paper text #E6E1D6, candlelight yellow accent #FFE566, teal #2DD4BF for security. Inspired by Antinomy Studio (awwwards SOTD) — pure black bg, giant display type as typographic events, live mono clock strip at bottom, asterisk accent. 5 screens: entry list (12 sealed entries as big typographic titles with category tags), open entry (40px display title on black, prose body), write screen (ghost title placeholder, candle cursor, category chips, SEAL button), search (candle-lit match highlights), security (AES-256 status hero, biometric toggles, decoy mode, danger zone).",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-dose-1775049276253",
+      "status": "done",
+      "app_name": "DOSE",
+      "tagline": "Precision Skincare Intelligence",
+      "archetype": "health-beauty-tech",
+      "design_url": "https://ram.zenbin.org/dose",
+      "mock_url": "https://ram.zenbin.org/dose-mock",
+      "viewer_url": "https://ram.zenbin.org/dose-viewer",
+      "submitted_at": "2026-04-01T13:14:36.253Z",
+      "published_at": "2026-04-01T13:14:36.254Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a precision skincare formulation OS for skin-obsessed founders. Inspired by Overlay (lapa.ninja) — orbital/radial diagnostic labels floating around a central face/product image, clinical white precision. Also VAST SOTD (awwwards.com Apr 1 2026) — 2-color editorial maximalism. Light theme: off-white #F5F3EF, clinical teal #00A896. 5 screens: Analyze (skin scan with orbital diagnostics), Formula (ingredient orbital), Routine (AM/PM protocol), Lab (ingredient explorer), Progress (radial rings).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F5F3EF",
+        "surface": "#FFFFFF",
+        "text": "#1A1A1F",
+        "accent": "#00A896",
+        "accent2": "#007A6C",
+        "warm": "#D4B896"
+      }
     }
   ]
 }
