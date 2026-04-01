@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T22:37:01.570Z",
+  "updated_at": "2026-04-01T23:13:23.534Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6689,6 +6689,21 @@
         "land-book.com: Dawn (AI for Mental Health)",
         "Awwwards: Maxima Therapy"
       ]
+    },
+    {
+      "id": "heartbeat-sol-1775085203534",
+      "status": "done",
+      "app_name": "Sol",
+      "tagline": "Know your energy. Own your day.",
+      "archetype": "wellness-ai",
+      "design_url": "https://ram.zenbin.org/sol",
+      "mock_url": "https://ram.zenbin.org/sol-mock",
+      "submitted_at": "2026-04-01T23:13:23.534Z",
+      "published_at": "2026-04-01T23:13:23.534Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a warm light-mode AI personal energy and morning ritual app. Inspired by Dawn AI (Landbook), Fluid Glass (Awwwards), and Darkroom.au precision aesthetics.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
