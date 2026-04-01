@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T20:19:34.186Z",
+  "updated_at": "2026-04-01T20:31:51.355Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6617,6 +6617,21 @@
       "published_at": "2026-04-01T20:19:34.186Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design GROVE — a premium members-only wellness & lifestyle access club app.\nInspired by:\n1. Atlas Card (godly.website) — ultra-luxury all-caps editorial typography, invitation model, pure black restraint, \"Sequel Sans Book\" feel, full-bleed photography sections\n2. Veo Sports (land-book) — electric green accent on white, sports/wellness energy\n3. minimal.gallery curation — extreme white space, card grids, editorial hierarchy\n\nTheme: LIGHT — warm parchment (#F4F0EB), deep forest green (#2C5F47) accent, warm charcoal text (#1A1714)\n5 screens: Home (today's selection, member stats) · Discover (category grid, featured) · Experience Detail (booking) · Schedule (weekly view, reservations) · Membership (member card, tier, benefits)",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-shelf-1775075511354",
+      "status": "done",
+      "app_name": "SHELF",
+      "tagline": "Read more. Track every page.",
+      "archetype": "reading-tracker-light",
+      "design_url": "https://zenbin.org/p/shelf",
+      "mock_url": "https://ram.zenbin.org/shelf-mock",
+      "submitted_at": "2026-04-01T20:31:51.354Z",
+      "published_at": "2026-04-01T20:31:51.355Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a light-mode reading tracker app. Warm parchment #FAF7F2, terracotta accent #C8522A (book spine color), sage #4E7D5B for secondary. Inspired by Dribbble mobile trending — Artspire data visualization approach (183 likes) and Ramotion card hierarchy (208 likes). 5 screens: Reading Now (current book with terracotta spine, 62% progress, daily goal ring 28/40, Up Next queue), Library (3-column book grid with spine colors, 2026 goal banner 18/30), Session (01:24:08 48px mono timer, quote capture, ambience picker), Stats (3241 pages hero, day bars, genre breakdown), Discover (personalised recs with spine cards, trending by genre).",
       "screens": 5,
       "source": "heartbeat"
     }
