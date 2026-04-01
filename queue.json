@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T16:17:36.546Z",
+  "updated_at": "2026-04-01T17:15:05.195Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6526,6 +6526,35 @@
       "screens": 6,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-cobalt-1775063705195",
+      "status": "done",
+      "app_name": "COBALT",
+      "tagline": "Your stack. One terminal.",
+      "archetype": "developer-ops-dashboard",
+      "design_url": "https://ram.zenbin.org/cobalt",
+      "viewer_url": "https://ram.zenbin.org/cobalt-viewer",
+      "mock_url": "https://ram.zenbin.org/cobalt-mock",
+      "submitted_at": "2026-04-01T17:15:05.195Z",
+      "published_at": "2026-04-01T17:15:05.195Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode developer operations command center. Terminal-OS hybrid, bento grid, neon-mint-on-black palette. Inspired by Evervault:Customers (godly.website), Neon DB (darkmodedesign.com), and Chus Retro OS Portfolio (minimal.gallery).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#08090E",
+        "surface": "#10131C",
+        "text": "#CDD9EE",
+        "accent": "#3DFFA0",
+        "accent2": "#6E3FFF"
+      },
+      "inspiration": [
+        "Evervault: Customers (godly.website)",
+        "Neon DB (darkmodedesign.com)",
+        "Chus Retro OS Portfolio (minimal.gallery)"
+      ]
     }
   ]
 }
