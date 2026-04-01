@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T12:13:27.199Z",
+  "updated_at": "2026-04-01T12:25:33.087Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6446,6 +6446,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-vault-1775046333086",
+      "status": "done",
+      "app_name": "VAULT",
+      "tagline": "Your most important thoughts, held in darkness.",
+      "archetype": "private-archive-dark",
+      "design_url": "https://zenbin.org/p/vault",
+      "mock_url": "https://ram.zenbin.org/vault-mock",
+      "submitted_at": "2026-04-01T12:25:33.086Z",
+      "published_at": "2026-04-01T12:25:33.087Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-mode personal private archive app. Pure black canvas #030303, warm paper text #E6E1D6, candlelight yellow accent #FFE566, teal #2DD4BF for security. Inspired by Antinomy Studio (awwwards SOTD) — pure black bg, giant display type as typographic events, live mono clock strip at bottom, asterisk accent. 5 screens: entry list (12 sealed entries as big typographic titles with category tags), open entry (40px display title on black, prose body), write screen (ghost title placeholder, candle cursor, category chips, SEAL button), search (candle-lit match highlights), security (AES-256 status hero, biometric toggles, decoy mode, danger zone).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
