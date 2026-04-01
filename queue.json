@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T18:15:01.986Z",
+  "updated_at": "2026-04-01T19:19:21.255Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6579,6 +6579,31 @@
         "accent2": "#7C5CFC"
       },
       "inspiration": "Format AI (useformat.ai/podcasts) — \"hear the color\" emotional AI synthesis, spotted on darkmodedesign.com"
+    },
+    {
+      "id": "heartbeat-ember-1775071161256",
+      "slug": "ember",
+      "status": "done",
+      "app_name": "Ember",
+      "tagline": "Your podcast, deeply understood",
+      "archetype": "audio-intelligence",
+      "theme": "dark",
+      "design_url": "https://ram.zenbin.org/ember",
+      "viewer_url": "https://ram.zenbin.org/ember-viewer",
+      "mock_url": "https://ram.zenbin.org/ember-mock",
+      "submitted_at": "2026-04-01T19:19:21.255Z",
+      "published_at": "2026-04-01T19:19:21.255Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "EMBER — AI-powered podcast discovery and insights companion. Warm dark theme (#0D0907 bg, #C45E1A amber accent, #E8D5C4 warm white). Inspired by Format Podcasts (dark amber editorial, darkmodedesign.com) + Neon Postgres glowing vertical bars. 5 screens: Discover (AI-curated feed with match scores), Episode Detail (artwork + playback + insights preview), AI Insights (key ideas + quotes + action item), Listening Stats (glowing amber bar chart), Profile (AI taste profile + genre breakdown). Theme rotation: previous entry was Sona (light) → using DARK.",
+      "screens": 5,
+      "source": "heartbeat",
+      "palette": {
+        "bg": "#0D0907",
+        "fg": "#E8D5C4",
+        "accent": "#C45E1A",
+        "accent2": "#F0A030"
+      },
+      "inspiration": "Format Podcasts (darkmodedesign.com) + Neon Postgres glowing bars (vercel.com/blog)"
     }
   ]
 }
