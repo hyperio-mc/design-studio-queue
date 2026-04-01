@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T13:14:36.254Z",
+  "updated_at": "2026-04-01T14:26:32.413Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6485,6 +6485,29 @@
         "accent": "#00A896",
         "accent2": "#007A6C",
         "warm": "#D4B896"
+      }
+    },
+    {
+      "id": "heartbeat-pyre-1775053592413",
+      "status": "done",
+      "app_name": "PYRE",
+      "tagline": "Measure what moves people",
+      "archetype": "brand-analytics",
+      "design_url": "https://ram.zenbin.org/pyre",
+      "viewer_url": "https://ram.zenbin.org/pyre-viewer",
+      "mock_url": "https://ram.zenbin.org/pyre-mock",
+      "submitted_at": "2026-04-01T14:26:32.413Z",
+      "published_at": "2026-04-01T14:26:32.413Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial brand analytics platform. Inspired by Format Podcasts (DarkModeDesign.com, Apr 2026) — warm amber photography on near-black #0E0202 with light-weight PS Times serif at 72px font-weight 350, cinematic brand language. Also Cardless (land-book.com) asymmetric layout with H1 occupying only left portion of viewport. Design concept: treat brand analytics with the quiet authority of a documentary film — amber ember palette (#080204 + #D4871C), Playfair Display at weight 300, cinematic ticker strip, editorial asymmetric stats. 6 screens: Pulse (brand health score + signal feed), Signals (top performers ranked), Creative (asset grid), Channels (platform breakdown + Venn overlap), Insights (AI observations with confidence), Report (weekly digest).",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#080204",
+        "accent": "#D4871C",
+        "accent2": "#7B4A2A",
+        "text": "#F0E6D3"
       }
     }
   ]
