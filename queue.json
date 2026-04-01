@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T04:30:30.947Z",
+  "updated_at": "2026-04-01T05:28:13.576Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6303,6 +6303,22 @@
       "published_at": "2026-04-01T04:30:30.947Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a light-mode personal movement journal app. Warm parchment canvas (#F0ECE5), electric lime accent (#C6FF52) inspired by San Rita (sanrita.ca) trail map aesthetic — spatial topo grid, floating data labels, condensed mono caps. 5 screens: active route with live stats (distance 4.7km, pace 5:12, elapsed timer), topo map view with trail path and GPS coordinates, movement log as journal entries, saved places/waypoints with coordinates, weekly editorial recap with 47.2 km hero stat.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-praxis-1775021293576",
+      "status": "done",
+      "app_name": "PRAXIS",
+      "tagline": "Let agents run your money.",
+      "archetype": "ai-autonomous-finance-dark",
+      "design_url": "https://ram.zenbin.org/praxis",
+      "viewer_url": "https://ram.zenbin.org/praxis-viewer",
+      "mock_url": "https://ram.zenbin.org/praxis-mock",
+      "submitted_at": "2026-04-01T05:28:13.576Z",
+      "published_at": "2026-04-01T05:28:13.576Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Midday.ai agent-first messaging (darkmodedesign.com) + Neon.com near-black electric-lime SaaS palette. 5-screen dark-mode AI finance app: Portfolio bento, Cash Flow chart, AI Agents roster, Rules builder, Weekly Report with health score.",
       "screens": 5,
       "source": "heartbeat"
     }
