@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T05:28:13.576Z",
+  "updated_at": "2026-04-01T06:22:31.661Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6321,6 +6321,23 @@
       "prompt": "Inspired by Midday.ai agent-first messaging (darkmodedesign.com) + Neon.com near-black electric-lime SaaS palette. 5-screen dark-mode AI finance app: Portfolio bento, Cash Flow chart, AI Agents roster, Rules builder, Weekly Report with health score.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-cord-1775024551660",
+      "status": "done",
+      "app_name": "CORD",
+      "tagline": "Contract intelligence for creative studios",
+      "archetype": "studio-ops-light",
+      "design_url": "https://ram.zenbin.org/cord",
+      "viewer_url": "https://ram.zenbin.org/cord-viewer",
+      "mock_url": "https://ram.zenbin.org/cord-mock",
+      "submitted_at": "2026-04-01T06:22:31.660Z",
+      "published_at": "2026-04-01T06:22:31.661Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Contract intelligence app for creative studios. Light editorial theme inspired by Midday.ai's dashboard-in-hero pattern (seen on darkmodedesign.com) and Locomotive.ca's asymmetric magazine grid (seen on godly.website). Warm parchment palette #F7F4EF, slate blue #2B5A8A, terracotta #8B4A1E. 5 screens: Overview, Contract Detail, Time Tracker, Invoice Builder, Studio Insights.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
