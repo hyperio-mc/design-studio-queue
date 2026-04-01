@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T11:13:36.824Z",
+  "updated_at": "2026-04-01T11:14:35.358Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -2061,7 +2061,7 @@
       "submitted_at": "2026-03-24T01:11:00.666Z",
       "published_at": "2026-03-24T01:11:00.667Z",
       "credit": "RAM Design Heartbeat",
-      "prompt": "Design DRAFT — a proposal and pipeline tool for independent creatives and freelancers. Inspired by two research finds from this heartbeat run:\n1. Midday.ai (darkmodedesign.com): \"For the new wave of one-person companies\" — ultra-clean finance tool for solo operators, with horizontal feature switcher, warm minimal typography, and purposeful whitespace. The insight: enterprise-grade tooling designed specifically for one person, not shrunk down from a team product.\n2. Tracebit (land-book.com): Spaced-out editorial typography with letter-level layout control, clean enterprise landing with a single strong concept, integration grid with logo chips, minimal two-button CTA. The insight: editorial letter-spacing as a design differentiator — \"SENT · VIEWED · SIGNED\" as status beats rather than status labels.\n\nTheme: LIGHT — warm paper white #F8F6F2, deep violet #4A3AFF (deliberately not the tired blue — violet says \"creative professional\"), forest green #00B87A for won/active, ink #18140F.\n\nChallenge: Use letter-spacing and uppercase micro-labels aggressively — make the typography feel editorial and deliberate, inspired by Tracebit's character-spaced headlines. Build a pipeline kanban that works as a list, not a board — single column with bordered left accent showing proposal stage. Include a contract screen that feels like a real legal document.\n\n5 screens: Pipeline (deal value banner + kanban list) · Proposal Detail (scope line items + payment schedule) · Contract (awaiting signature status + contract preview + activity) · Client Profile (stats + notes + project history) · Analytics (win rate hero + bar chart + lead sources).",
+      "prompt": "Design DRAFT — a proposal and pipeline tool for independent creatives and freelancers. Inspired by two research finds from this heartbeat run:\n1. Midday.ai (darkmodedesign.com): \"For the new wave of one-person companies\" — ultra-clean finance tool for solo operators, with horizontal feature switcher, warm minimal typography, and purposeful whitespace. The insight: enterprise-grade tooling designed specifically for one person, not shrunk down from a team product.\n2. Tracebit (land-book.com): Spaced-out editorial typography with letter-level layout control, clean enterprise landing with a single strong concept, integration grid with logo chips, minimal two-button CTA. The insight: editorial letter-spacing as a design differentiator — \"SENT · VIEWED · SIGNED\" as status beats rather than status labels.\n\nTheme: LIGHT — warm paper white #F8F6F2, deep violet #4A3AFF (deliberately not the tired blue ��� violet says \"creative professional\"), forest green #00B87A for won/active, ink #18140F.\n\nChallenge: Use letter-spacing and uppercase micro-labels aggressively — make the typography feel editorial and deliberate, inspired by Tracebit's character-spaced headlines. Build a pipeline kanban that works as a list, not a board — single column with bordered left accent showing proposal stage. Include a contract screen that feels like a real legal document.\n\n5 screens: Pipeline (deal value banner + kanban list) · Proposal Detail (scope line items + payment schedule) · Contract (awaiting signature status + contract preview + activity) · Client Profile (stats + notes + project history) · Analytics (win rate hero + bar chart + lead sources).",
       "screens": 5,
       "source": "heartbeat",
       "design_url": "https://ram.zenbin.org/draft",
@@ -6417,6 +6417,18 @@
       "prompt": "Dark infrastructure monitoring dashboard inspired by \"Interfere › Build software that never breaks\" (land-book.com) and neon UI category from darkmodedesign.com. 5 screens: Dashboard, Services, Incidents, Alerts, On-Call. Near-pure black #070709 with neon mint #00FFB0 accent. Monospace data density throughout.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "ds-req-hm36f",
+      "prompt": "create a life coach app, that helps you define your goals, then create a plans to accomplish goals and tracks progress along the way. Helps you capture journal entries, maybe video capture and transcribes them. Every day provides motivation advice to keep moving towards goals. the subjects are weight loss, mental health, etc",
+      "app_type": "auto",
+      "credit": "Anonymous",
+      "submitted_at": "2026-04-01T11:03:09.286Z",
+      "status": "done",
+      "design_url": "https://zenbin.org/p/community-ds-req-hm36f",
+      "app_name": "Create",
+      "archetype": "health",
+      "published_at": "2026-04-01T11:14:34.843Z"
     }
   ]
 }
