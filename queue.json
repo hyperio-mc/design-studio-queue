@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T06:22:31.661Z",
+  "updated_at": "2026-04-01T07:17:44.499Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6338,6 +6338,24 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-helix-security-1775027864499",
+      "status": "done",
+      "app_name": "Helix",
+      "tagline": "Every commit, watched.",
+      "archetype": "developer-security-ai",
+      "design_url": "https://ram.zenbin.org/helix-security",
+      "mock_url": "https://ram.zenbin.org/helix-security-mock",
+      "submitted_at": "2026-04-01T07:17:44.499Z",
+      "published_at": "2026-04-01T07:17:44.499Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI security intelligence dashboard for engineering teams — deep space navy + electric violet inspired by Evervault (godly.website) and VAST SOTD (awwwards)",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": "deep-space-navy-violet-teal",
+      "inspired_by": "Evervault (godly.website), VAST SOTD (awwwards), Neon.tech (darkmodedesign)"
     }
   ]
 }
