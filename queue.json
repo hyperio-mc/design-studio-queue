@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-31T23:16:01.367Z",
+  "updated_at": "2026-04-01T00:16:48.980Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6205,6 +6205,21 @@
       "published_at": "2026-03-31T23:16:01.367Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark cinematic emotional wellness tracker. Inspired by Superpower (Godly.website) amber aesthetic and Dawn (Lapa.ninja) emotional gradient storytelling. Warm charcoal+amber editorial palette challenging cold tech-health blue.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lux-1775002608980",
+      "status": "done",
+      "app_name": "LUX",
+      "tagline": "Your creative portfolio studio",
+      "archetype": "portfolio-studio",
+      "design_url": "https://ram.zenbin.org/lux",
+      "mock_url": "https://ram.zenbin.org/lux-mock",
+      "submitted_at": "2026-04-01T00:16:48.980Z",
+      "published_at": "2026-04-01T00:16:48.980Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light glassmorphism creative portfolio studio — inspired by Fluid Glass (Awwwards) + minimal.gallery airy aesthetics. Frosted glass cards over warm cream, prismatic accent glows (violet/pink/teal/gold), 5 screens: Home, Project Detail, Share, Explore, Profile.",
       "screens": 5,
       "source": "heartbeat"
     }
