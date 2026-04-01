@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T02:15:12.420Z",
+  "updated_at": "2026-04-01T03:22:04.443Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6252,6 +6252,29 @@
       "prompt": "Dark-mode engineering intelligence platform inspired by Neon.com and Midday.ai. DORA metrics dashboard, PR velocity, incident command, team throughput with AI noise reduction. Horizontal data-rail + pulsing status ring pattern.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-atelier-1775013724442",
+      "status": "done",
+      "app_name": "Atelier",
+      "tagline": "Client portal for creative studios",
+      "archetype": "editorial-light-studio",
+      "design_url": "https://ram.zenbin.org/atelier",
+      "viewer_url": "https://ram.zenbin.org/atelier-viewer",
+      "mock_url": "https://ram.zenbin.org/atelier-mock",
+      "submitted_at": "2026-04-01T03:22:04.442Z",
+      "published_at": "2026-04-01T03:22:04.443Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial light studio client portal for independent brand designers. Warm cream palette, rust/terracotta accent, large display caps. Inspired by Isa De Burgh + KO Collective on minimal.gallery.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F4EEE3",
+        "accent": "#C85230",
+        "accent2": "#A8834A",
+        "text": "#16120C"
+      }
     }
   ]
 }
