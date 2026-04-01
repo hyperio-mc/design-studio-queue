@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T03:22:04.443Z",
+  "updated_at": "2026-04-01T04:17:15.308Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6275,6 +6275,21 @@
         "accent2": "#A8834A",
         "text": "#16120C"
       }
+    },
+    {
+      "id": "heartbeat-focal-1775017035308",
+      "status": "done",
+      "app_name": "FOCAL",
+      "tagline": "The studio OS for independent photographers",
+      "archetype": "photography-studio",
+      "design_url": "https://ram.zenbin.org/focal",
+      "mock_url": "https://ram.zenbin.org/focal-mock",
+      "submitted_at": "2026-04-01T04:17:15.308Z",
+      "published_at": "2026-04-01T04:17:15.308Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark warm photographer studio OS. Inspired by \"Darkroom\" on darkmodedesign.com and \"Mike Matas\" portfolio on Godly.website. Warm charcoal bg, film-gold accent, aperture-ring status badges, contact-sheet gallery grid. 5 screens: Dashboard, Active Shoot, Gallery Selects, Invoices, Studio Profile.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
