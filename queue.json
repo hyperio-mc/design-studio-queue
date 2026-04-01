@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T01:25:21.308Z",
+  "updated_at": "2026-04-01T02:15:12.420Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6235,6 +6235,21 @@
       "published_at": "2026-04-01T01:25:21.308Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Personal spend intelligence app — LIGHT theme. Inspired by Capchase (land-book.com, B2B fintech clean data hierarchy), Amie (godly.website, warm cream backgrounds bento grid), Equals GTM analytics (land-book.com, financial analytics on near-white). Trend: SaaS data products shifting from cold white to warm cream backgrounds. 5 screens: Dashboard, Categories, Transactions, Budget, Insights.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-kodo-1775009712420",
+      "status": "done",
+      "app_name": "Kōdo",
+      "tagline": "Engineering intelligence, always on",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/kodo",
+      "mock_url": "https://ram.zenbin.org/kodo-mock",
+      "submitted_at": "2026-04-01T02:15:12.420Z",
+      "published_at": "2026-04-01T02:15:12.420Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode engineering intelligence platform inspired by Neon.com and Midday.ai. DORA metrics dashboard, PR velocity, incident command, team throughput with AI noise reduction. Horizontal data-rail + pulsing status ring pattern.",
       "screens": 5,
       "source": "heartbeat"
     }
