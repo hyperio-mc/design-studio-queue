@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T23:13:23.534Z",
+  "updated_at": "2026-04-02T00:17:36.084Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6704,6 +6704,28 @@
       "prompt": "Design a warm light-mode AI personal energy and morning ritual app. Inspired by Dawn AI (Landbook), Fluid Glass (Awwwards), and Darkroom.au precision aesthetics.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lume-1775089056084",
+      "status": "done",
+      "app_name": "LUME",
+      "tagline": "Your money, illuminated",
+      "archetype": "personal-finance-ai",
+      "design_url": "https://ram.zenbin.org/lume",
+      "viewer_url": "https://ram.zenbin.org/lume-viewer",
+      "mock_url": "https://ram.zenbin.org/lume-mock",
+      "submitted_at": "2026-04-02T00:17:36.084Z",
+      "published_at": "2026-04-02T00:17:36.084Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-themed personal finance AI app. Inspired by Fluid Glass (Awwwards Apr 2026) — Apple liquid glass design language with physically-real frosted surfaces over warm cream paper. Mixpanel \"Digital analytics reimagined for an AI-first world\" (Godly.website) — bold editorial type-driven data hierarchy. JetBrains Air typographic spacing (Lapa Ninja). 5 screens: Overview, Accounts, AI Insights, Transactions, Goals. Warm cream #FAF8F5 + deep blue #1D4ED8 + emerald #059669 for positive numbers.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "inspiration": [
+        "Fluid Glass (Awwwards Apr 2026)",
+        "Mixpanel AI-first homepage (Godly)",
+        "JetBrains Air (Lapa Ninja)"
+      ]
     }
   ]
 }
