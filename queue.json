@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T19:14:13.006Z",
+  "updated_at": "2026-04-03T20:15:45.269Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7121,6 +7121,21 @@
       "published_at": "2026-04-03T19:14:13.006Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-themed AI-powered freelance finance OS. Inspired by Midday.ai (\"Let agents run your business\") featured on darkmodedesign.com — agent-first financial automation trend; Evervault editorial customer story cards (godly.website); minimal.gallery SaaS tab warm off-white precision typography. Warm cream #F9F7F3, electric blue #2563EB accent, growth green #16A34A. Five screens: Dashboard with hero revenue card, Transactions with AI categorization, Projects with billable hours tracker, Invoice auto-drafted by agent, Insights with health score and forecast.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-wave-1775247345269",
+      "status": "done",
+      "app_name": "WAVE",
+      "tagline": "Your signal in the noise.",
+      "archetype": "podcast-dark-retro-terminal-violet-phosphor",
+      "design_url": "https://ram.zenbin.org/wave",
+      "mock_url": "https://ram.zenbin.org/wave-mock",
+      "submitted_at": "2026-04-03T20:15:45.269Z",
+      "published_at": "2026-04-03T20:15:45.269Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme podcast discovery & player. Inspired by \"Format Podcasts\" on darkmodedesign.com (dark podcast UI with careful typographic hierarchy), \"Chus Retro OS Portfolio\" on minimal.gallery (retro terminal/window chrome aesthetic with traffic-light dots), and Awwwards \"Fluid Glass\" winner (glass morphism on now-playing card). Near-black #0A0A0F, violet #A78BFA accent, phosphor green #34D399 secondary. Five screens: Discover with trending card and category pills, Now Playing with retro OS window chrome + waveform, Episode List with podcast header, Queue manager, Library grid.",
       "screens": 5,
       "source": "heartbeat"
     }
