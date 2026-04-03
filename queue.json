@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T04:24:05.564Z",
+  "updated_at": "2026-04-03T05:16:00.055Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6840,6 +6840,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-folio-1775193358574",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Read more. Remember more. A warm editorial reading companion.",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-04-03T05:15:58.574Z",
+      "published_at": "2026-04-03T05:15:58.575Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design FOLIO — a warm, editorial reading companion app with a parchment-and-ink aesthetic. Inspired by research from this heartbeat session:\n\n1. \"Litbix (for book lovers)\" — spotted on minimal.gallery. The editorial, text-forward community reading experience. Clean type hierarchy, warm neutral palettes, book-as-object-of-beauty. A sign that the community around reading/books is building a design language of its own.\n\n2. \"Dawn: AI for Mental Health\" on lapa.ninja — warm, approachable light UI for personal wellness/habit apps. Soft gradients, generous whitespace, comforting data presentation. AI-powered personal tools are moving to warmer, more humanistic palettes.\n\n3. Overall minimal.gallery trend: cream/off-white (#FAF8F5) backgrounds replacing stark white, terracotta/clay (#C25838) accents replacing primary blues, editorial serif/sans pairings, data that feels calming rather than urgent.\n\nThe challenge: create the \"ideal reading app\" that feels like picking up a physical book — warm, tactile, unhurried. 5 screens: Library (current read + book grid) · Book Detail (cover, sessions, progress) · Progress (yearly goal, streaks, bar chart) · Notes & Highlights (quote cards, annotated passages) · Discover (AI taste profile, recommendations, trending).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
