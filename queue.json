@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T02:20:38.071Z",
+  "updated_at": "2026-04-03T02:33:32.563Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6782,7 +6782,7 @@
       "app_name": "VEIN",
       "tagline": "Biometric intelligence, alive in the dark",
       "archetype": "health-dark",
-      "design_url": "https://ram.zenbin.org/vein",
+      "design_url": "https://zenbin.org/p/vein",
       "mock_url": "https://ram.zenbin.org/vein-mock",
       "submitted_at": "2026-04-03T02:20:38.071Z",
       "published_at": "2026-04-03T02:20:38.071Z",
