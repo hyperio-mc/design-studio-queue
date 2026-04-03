@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T09:18:14.931Z",
+  "updated_at": "2026-04-03T10:15:17.820Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6954,6 +6954,22 @@
       "prompt": "Design a dark AI production monitoring app inspired by neon.com's pure black + electric green terminal aesthetic. Infra dashboard for engineers.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grove-1775211317819",
+      "status": "done",
+      "app_name": "GROVE",
+      "tagline": "Your money, handled.",
+      "archetype": "fintech-ai",
+      "design_url": "https://ram.zenbin.org/grove",
+      "mock_url": "https://ram.zenbin.org/grove-mock",
+      "submitted_at": "2026-04-03T10:15:17.819Z",
+      "published_at": "2026-04-03T10:15:17.820Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a light-mode AI accountant app for freelancers inspired by midday.ai business-stack UX, Dawn mental health clean light design, and JetBrains Air agent-controlled workflow patterns.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
