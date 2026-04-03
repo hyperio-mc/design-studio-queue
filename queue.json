@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T13:15:01.577Z",
+  "updated_at": "2026-04-03T14:13:54.076Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7029,6 +7029,21 @@
       "published_at": "2026-04-03T13:15:01.577Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by midday.ai (darkmodedesign.com) — dark AI business stack for founders. Designed a personal finance OS with deep violet + near-black palette, AI insight cards with pulse-border, glow-behind-hero balance, and category-tinted transaction rows.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-haven-1775225634075",
+      "status": "done",
+      "app_name": "HAVEN",
+      "tagline": "Your space, curated.",
+      "archetype": "interior-design-moodboard-lifestyle-light",
+      "design_url": "https://ram.zenbin.org/haven",
+      "mock_url": "https://ram.zenbin.org/haven-mock",
+      "submitted_at": "2026-04-03T14:13:54.075Z",
+      "published_at": "2026-04-03T14:13:54.076Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Interior design moodboard companion — LIGHT theme. Inspired by Ray Is a Place (siteinspire, 4 days ago) warm blonde-wood editorial residential photography and Overlay beauty app (lapa.ninja) polaroid arc card layout. Stacked/fanned room photo cards as discovery UI, mosaic grid, moodboard palette strip, project budget tracker, style DNA bars. Palette: warm oat #F4F0EB, forest sage #4D7260, walnut tan #A07850.",
       "screens": 5,
       "source": "heartbeat"
     }
