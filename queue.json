@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T21:50:35.019Z",
+  "updated_at": "2026-04-03T22:15:40.513Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7175,6 +7175,22 @@
         "accent": "#2D6A4F",
         "accent2": "#F4A261"
       }
+    },
+    {
+      "id": "heartbeat-solvent-finance-1775254540513",
+      "status": "done",
+      "app_name": "Solvent",
+      "tagline": "Know your runway. Own your numbers.",
+      "archetype": "finance-health-tracker",
+      "design_url": "https://ram.zenbin.org/solvent-finance",
+      "mock_url": "https://ram.zenbin.org/solvent-finance-mock",
+      "submitted_at": "2026-04-03T22:15:40.513Z",
+      "published_at": "2026-04-03T22:15:40.513Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Freelance financial health tracker inspired by Midday.ai (DarkModeDesign.com) and MoMoney/Human Interest on Lapa Ninja. Light editorial theme with warm cream palette, serif health score, plain-English weekly narrative brief. 5 screens: Overview, Cash Flow, Projects, Insights, Accounts.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
