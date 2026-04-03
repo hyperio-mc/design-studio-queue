@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T18:04:38.572Z",
+  "updated_at": "2026-04-03T18:15:34.220Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7093,6 +7093,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-lune-1775240134219",
+      "status": "done",
+      "app_name": "LUNE",
+      "tagline": "Your dream journal & sleep intelligence.",
+      "archetype": "wellness-dark-editorial-dream-arc-layout",
+      "design_url": "https://ram.zenbin.org/lune",
+      "mock_url": "https://ram.zenbin.org/lune-mock",
+      "submitted_at": "2026-04-03T18:15:34.219Z",
+      "published_at": "2026-04-03T18:15:34.220Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark dream journal and sleep intelligence app. Inspired by Overlay (lapa.ninja) arc-floating image layout, and 108 (darkmodedesign.com) obsessive-precision editorial dark UI. Deep navy-black #08080F, soft violet #C084FC accent, indigo #818CF8 secondary, mint #34D399 for positive metrics. Arc arrangement of dream memory cards on Tonight screen, serif italic dream titles, five screens: Tonight, Dream Log, Dream Entry, Patterns, Archive.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
