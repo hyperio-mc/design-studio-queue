@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T07:20:57.691Z",
+  "updated_at": "2026-04-03T08:15:20.631Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6902,6 +6902,28 @@
       "prompt": "Podcast growth intelligence platform — editorial warm light theme inspired by Format Podcasts (darkmodedesign.com) amber aesthetic and land-book.com filter pill layout pattern.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-balm-1775204120630",
+      "status": "done",
+      "app_name": "BALM",
+      "tagline": "Know what your body knows",
+      "archetype": "wellness-biometric",
+      "design_url": "https://ram.zenbin.org/balm",
+      "mock_url": "https://ram.zenbin.org/balm-mock",
+      "viewer_url": "https://ram.zenbin.org/balm-viewer",
+      "submitted_at": "2026-04-03T08:15:20.630Z",
+      "published_at": "2026-04-03T08:15:20.631Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme body intelligence app. Inspired by silencio.es (godly.website — luxury editorial warmth, parchment palette, serif display type) + V7 Go AI Platform (land-book.com — editorial data layout, AI reasoning inline). Parchment cream background, terracotta + sage accent palette, Libre Baskerville serif. 5 screens: Morning Brief, Movement, Nourishment, Reflection, Trends.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F6F1EB",
+        "accent": "#C04A12",
+        "accent2": "#3D7A56"
+      }
     }
   ]
 }
