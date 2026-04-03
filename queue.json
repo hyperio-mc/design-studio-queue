@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T02:33:32.563Z",
+  "updated_at": "2026-04-03T03:12:40.583Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6793,6 +6793,21 @@
       "theme": "dark",
       "palette": "warm-obsidian-ember-amber",
       "inspiration": "Neon (darkmodedesign.com), Superpower (godly.website)"
+    },
+    {
+      "id": "heartbeat-cortex-1775185960582",
+      "status": "done",
+      "app_name": "CORTEX",
+      "tagline": "Train your focus. Own your mind.",
+      "archetype": "mental-performance-tracker",
+      "design_url": "https://ram.zenbin.org/cortex",
+      "mock_url": "https://ram.zenbin.org/cortex-mock",
+      "submitted_at": "2026-04-03T03:12:40.582Z",
+      "published_at": "2026-04-03T03:12:40.582Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Mental performance & deep focus tracker — dark theme. Inspired by Neon on darkmodedesign.com (glowing vertical bars on near-black for infra tool), godly.website \"Go beyond your mind's limitations\" (AI cognitive dark hero), and Format Podcasts (warm accent glow on deep dark). Electric violet #7B61FF + cyan #00E5FF on #07070F. 5 screens: Today dashboard with focus score ring + peak hour heatmap, Active session with bar visualizer + ambience picker, 30-day insights with bar chart + category breakdown, Goal tracking with vertical weekly bars + habit matrix, Profile with cognitive archetype + badge shelf.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
