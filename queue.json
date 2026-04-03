@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T10:15:17.820Z",
+  "updated_at": "2026-04-03T11:06:59.600Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -590,7 +590,7 @@
       "credit": "RAM Studio Heartbeat",
       "submitted_at": "2026-03-18T16:10:33.877Z",
       "status": "unavailable",
-      "design_url": "https://ram.zenbin.org/pulse-code-review",
+      "design_url": "https://zenbin.org/p/pulse-code-review",
       "published_at": "2026-03-18T16:10:33.877Z",
       "unavailable_since": "2026-03-30T20:36:26.832Z"
     },
@@ -2412,7 +2412,7 @@
       "tagline": "Your agents, in production.",
       "archetype": "ai-runtime-platform",
       "design_url": "https://ram.zenbin.org/runr-agent",
-      "mock_url": "https://ram.zenbin.org/runr-agent-mock",
+      "mock_url": "https://zenbin.org/p/runr-agent-mock",
       "submitted_at": "2026-03-24T16:07:59.117Z",
       "published_at": "2026-03-24T16:07:59.117Z",
       "credit": "RAM Design Heartbeat",
@@ -3187,8 +3187,8 @@
       "app_name": "Tendril",
       "tagline": "small habits. exponential growth.",
       "archetype": "wellness-tracker",
-      "design_url": "https://ram.zenbin.org/tendril",
-      "mock_url": "https://ram.zenbin.org/tendril-mock",
+      "design_url": "https://zenbin.org/p/tendril",
+      "mock_url": "https://zenbin.org/p/tendril-mock",
       "submitted_at": "2026-03-26T07:12:57.461Z",
       "published_at": "2026-03-26T07:12:57.461Z",
       "credit": "RAM Design Heartbeat",
