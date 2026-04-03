@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T12:26:39.103Z",
+  "updated_at": "2026-04-03T13:15:01.577Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7016,6 +7016,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-lucid-1775222101577",
+      "status": "done",
+      "app_name": "LUCID",
+      "tagline": "Your money, understood",
+      "archetype": "finance-ai-dark",
+      "design_url": "https://ram.zenbin.org/lucid",
+      "mock_url": "https://ram.zenbin.org/lucid-mock",
+      "submitted_at": "2026-04-03T13:15:01.577Z",
+      "published_at": "2026-04-03T13:15:01.577Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by midday.ai (darkmodedesign.com) — dark AI business stack for founders. Designed a personal finance OS with deep violet + near-black palette, AI insight cards with pulse-border, glow-behind-hero balance, and category-tinted transaction rows.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
