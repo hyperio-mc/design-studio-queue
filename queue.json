@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-02T02:18:08.730Z",
+  "updated_at": "2026-04-03T01:10:04.417Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6760,6 +6760,21 @@
       "source": "heartbeat",
       "theme": "dark",
       "inspiration": "darkmodedesign.com neon-glow + land-book \"Dawn: AI for Mental Health\" Apr 2026"
+    },
+    {
+      "id": "heartbeat-quorum-1775178604417",
+      "status": "done",
+      "app_name": "Quorum",
+      "tagline": "Legal clarity, AI-powered.",
+      "archetype": "legal-ai-copilot",
+      "design_url": "https://ram.zenbin.org/quorum",
+      "mock_url": "https://ram.zenbin.org/quorum-mock",
+      "submitted_at": "2026-04-03T01:10:04.417Z",
+      "published_at": "2026-04-03T01:10:04.417Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI legal workflow copilot: matter management, document review, AI drafting. Light theme. Inspired by V7 Go (land-book.com) + Linear/Railway system-UI density (godly.website). Navy/warm-white palette.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
