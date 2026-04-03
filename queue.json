@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T20:23:37.146Z",
+  "updated_at": "2026-04-03T21:16:48.755Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7154,6 +7154,27 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-raft-1775251008754",
+      "status": "done",
+      "app_name": "RAFT",
+      "tagline": "Sprint intelligence for healthy teams",
+      "archetype": "sprint-intelligence",
+      "design_url": "https://ram.zenbin.org/raft",
+      "mock_url": "https://ram.zenbin.org/raft-mock",
+      "submitted_at": "2026-04-03T21:16:48.754Z",
+      "published_at": "2026-04-03T21:16:48.755Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial sprint health + retrospective intelligence app. Warm cream palette, forest green accent, AI-powered team insights. 5 screens: Sprint Overview, Team Pulse, Velocity Trends, Actions, Team Health.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F8F5EF",
+        "accent": "#2D6A4F",
+        "accent2": "#F4A261"
+      }
     }
   ]
 }
