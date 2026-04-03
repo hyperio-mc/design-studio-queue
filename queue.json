@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T04:14:29.472Z",
+  "updated_at": "2026-04-03T04:24:05.564Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6824,6 +6824,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-beacon-1775190245563",
+      "status": "done",
+      "app_name": "BEACON",
+      "tagline": "The founder intelligence platform.",
+      "archetype": "founder-intelligence-dark",
+      "design_url": "https://ram.zenbin.org/beacon",
+      "mock_url": "https://ram.zenbin.org/beacon-mock",
+      "submitted_at": "2026-04-03T04:24:05.563Z",
+      "published_at": "2026-04-03T04:24:05.564Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark space-inspired founder OS — mission control for indie founders tracking signals across revenue, growth, team pulse and AI briefs. Inspired by Altis Beautiful Satellites awwwards palette (deep plum #28151D, #110E1B) + HappyRobot AI workers trend on land-book.com. Constellation project map, nebula glow blobs, signal-green + electric violet palette, Space Grotesk typography.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
