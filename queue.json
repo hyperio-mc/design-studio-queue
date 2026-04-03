@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T12:17:22.875Z",
+  "updated_at": "2026-04-03T12:26:39.103Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7000,6 +7000,22 @@
       "prompt": "AI creative intelligence platform for agencies — brief analyzer, asset generator, client feedback portal, campaign insights. Light warm cream theme inspired by Factory.ai minimal aesthetic on godly.website.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-issue-1775219199103",
+      "status": "done",
+      "app_name": "ISSUE",
+      "tagline": "Curated reading for the curious.",
+      "archetype": "editorial-magazine-reader",
+      "design_url": "https://ram.zenbin.org/issue",
+      "mock_url": "https://ram.zenbin.org/issue-mock",
+      "submitted_at": "2026-04-03T12:26:39.103Z",
+      "published_at": "2026-04-03T12:26:39.103Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial magazine reader app — warm paper palette (#FAF7F2), Playfair Display serif + Inter sans mix, deep terracotta (#C2420A) + forest green (#2C5445) accents. Inspired by PW Magazine and QP Magazine on siteinspire.com (editorial publications trending in curated web design) and The Lookback SOTD (Mar 27, 2026 awwwards) — digital capsule archival concept. 5 screens: Library masthead, Issue View with progress, Article reading with pull quote, Topics grid, and Reading Archive.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
