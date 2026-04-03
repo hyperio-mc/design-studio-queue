@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T08:15:20.631Z",
+  "updated_at": "2026-04-03T09:17:01.220Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6924,6 +6924,21 @@
         "accent": "#C04A12",
         "accent2": "#3D7A56"
       }
+    },
+    {
+      "id": "heartbeat-sigma-1775207821220",
+      "status": "done",
+      "app_name": "SIGMA",
+      "tagline": "Pattern before failure.",
+      "archetype": "devops-monitoring",
+      "design_url": "https://ram.zenbin.org/sigma",
+      "mock_url": "https://ram.zenbin.org/sigma-mock",
+      "submitted_at": "2026-04-03T09:17:01.220Z",
+      "published_at": "2026-04-03T09:17:01.220Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark AI production monitoring app inspired by neon.com's pure black + electric green terminal aesthetic. Infra dashboard for engineers.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
