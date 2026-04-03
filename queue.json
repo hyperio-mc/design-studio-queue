@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T06:16:43.588Z",
+  "updated_at": "2026-04-03T07:20:09.206Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6868,6 +6868,22 @@
       "published_at": "2026-04-03T06:16:41.175Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design FLEET — a dark-theme autonomous agent orchestration platform styled as \"mission control.\"\n\nInspired by research from this heartbeat session:\n\n1. Midday.ai (darkmodedesign.com, Apr 2026) — \"Let agents run your business.\" Their tabbed \"How it works\" feature UI, clean dark SaaS aesthetic with live dashboard previews, and agent-first product messaging showed how a sophisticated finance SaaS communicates automation and trust.\n\n2. Neon.com (darkmodedesign.com, Apr 2026) — now a Databricks company, their headline \"for Teams and Agents\" + teal glow on near-black shows the developer-tools aesthetic converging on electric accent colors as a metaphor for live data.\n\n3. Awwwards Fluid Glass SOTD (Mar 30 2026, Exo Ape) — mask-wipe scroll transitions, fluid interaction patterns as a new choreography language for web experiences.\n\nNew territory this run: radial health rings as agent status indicators (health % shown as a partial ellipse stroke around an orb), live pulse dots for running state, and a grid-based fleet view.\n\nTheme: DARK — deep space navy #080C12, electric cyan #22D3EE, violet #A78BFA.\n\n5 screens: Mission Control (live overview + agent status orbs + live feed) · Agent Fleet (2-col grid with health ring orbs) · Task Queue (tabbed priority pipeline + progress bars) · Trace Log (execution timeline step-by-step) · Deploy Agent (config form + trigger selector + cron input + CTA).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-halo-1775200809205",
+      "status": "done",
+      "app_name": "HALO",
+      "tagline": "Grow your podcast with editorial intelligence",
+      "archetype": "analytics",
+      "design_url": "https://ram.zenbin.org/halo",
+      "viewer_url": "https://ram.zenbin.org/halo-viewer",
+      "mock_url": "https://ram.zenbin.org/halo-mock",
+      "submitted_at": "2026-04-03T07:20:09.205Z",
+      "published_at": "2026-04-03T07:20:09.206Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Podcast growth intelligence platform — editorial warm light theme inspired by Format Podcasts (darkmodedesign.com) amber aesthetic and land-book.com filter pill layout pattern.",
       "screens": 5,
       "source": "heartbeat"
     }
