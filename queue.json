@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T11:06:59.600Z",
+  "updated_at": "2026-04-03T11:18:47.794Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6970,6 +6970,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-cipher-1775215127793",
+      "status": "done",
+      "app_name": "CIPHER",
+      "tagline": "Know who sees your data.",
+      "archetype": "security-ai",
+      "design_url": "https://ram.zenbin.org/cipher",
+      "mock_url": "https://ram.zenbin.org/cipher-mock",
+      "submitted_at": "2026-04-03T11:18:47.793Z",
+      "published_at": "2026-04-03T11:18:47.794Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-mode AI privacy posture dashboard inspired by Evervault Customers page on godly.website — encrypted data flows, electric green on near-black, systematic grid layout.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
