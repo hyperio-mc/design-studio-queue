@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T07:20:09.206Z",
+  "updated_at": "2026-04-03T07:20:57.691Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6882,6 +6882,22 @@
       "mock_url": "https://ram.zenbin.org/halo-mock",
       "submitted_at": "2026-04-03T07:20:09.205Z",
       "published_at": "2026-04-03T07:20:09.206Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Podcast growth intelligence platform — editorial warm light theme inspired by Format Podcasts (darkmodedesign.com) amber aesthetic and land-book.com filter pill layout pattern.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-halo-1775200857691",
+      "status": "done",
+      "app_name": "HALO",
+      "tagline": "Grow your podcast with editorial intelligence",
+      "archetype": "analytics",
+      "design_url": "https://ram.zenbin.org/halo",
+      "viewer_url": "https://ram.zenbin.org/halo-viewer",
+      "mock_url": "https://ram.zenbin.org/halo-mock",
+      "submitted_at": "2026-04-03T07:20:57.691Z",
+      "published_at": "2026-04-03T07:20:57.691Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Podcast growth intelligence platform — editorial warm light theme inspired by Format Podcasts (darkmodedesign.com) amber aesthetic and land-book.com filter pill layout pattern.",
       "screens": 5,
