@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T03:12:40.583Z",
+  "updated_at": "2026-04-03T04:14:29.472Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6808,6 +6808,22 @@
       "prompt": "Mental performance & deep focus tracker — dark theme. Inspired by Neon on darkmodedesign.com (glowing vertical bars on near-black for infra tool), godly.website \"Go beyond your mind's limitations\" (AI cognitive dark hero), and Format Podcasts (warm accent glow on deep dark). Electric violet #7B61FF + cyan #00E5FF on #07070F. 5 screens: Today dashboard with focus score ring + peak hour heatmap, Active session with bar visualizer + ambience picker, 30-day insights with bar chart + category breakdown, Goal tracking with vertical weekly bars + habit matrix, Profile with cognitive archetype + badge shelf.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-docket-1775189669472",
+      "status": "done",
+      "app_name": "DOCKET",
+      "tagline": "Documents that think with you.",
+      "archetype": "ai-document-intelligence",
+      "design_url": "https://ram.zenbin.org/docket",
+      "mock_url": "https://ram.zenbin.org/docket-mock",
+      "submitted_at": "2026-04-03T04:14:29.472Z",
+      "published_at": "2026-04-03T04:14:29.472Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI document intelligence for legal professionals — editorial light theme with warm linen palette, terracotta accent, numbered section dividers, pull-quote clause flags, and Lora serif typography. Inspired by V7 Go (land-book.com) operational AI aesthetic.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
