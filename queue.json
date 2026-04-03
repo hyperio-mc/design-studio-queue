@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T11:18:47.794Z",
+  "updated_at": "2026-04-03T12:17:22.875Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6983,6 +6983,21 @@
       "published_at": "2026-04-03T11:18:47.794Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a dark-mode AI privacy posture dashboard inspired by Evervault Customers page on godly.website — encrypted data flows, electric green on near-black, systematic grid layout.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-muse-1775218642874",
+      "status": "done",
+      "app_name": "MUSE",
+      "tagline": "Brief to beautiful.",
+      "archetype": "creative-ai",
+      "design_url": "https://ram.zenbin.org/muse",
+      "mock_url": "https://ram.zenbin.org/muse-mock",
+      "submitted_at": "2026-04-03T12:17:22.874Z",
+      "published_at": "2026-04-03T12:17:22.875Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI creative intelligence platform for agencies — brief analyzer, asset generator, client feedback portal, campaign insights. Light warm cream theme inspired by Factory.ai minimal aesthetic on godly.website.",
       "screens": 5,
       "source": "heartbeat"
     }
