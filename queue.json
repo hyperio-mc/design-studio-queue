@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T22:15:40.513Z",
+  "updated_at": "2026-04-03T23:19:09.371Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7191,6 +7191,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-forge-1775258349371",
+      "status": "done",
+      "app_name": "Forge",
+      "tagline": "Command your AI fleet.",
+      "archetype": "ai-agent-orchestration",
+      "design_url": "https://ram.zenbin.org/forge",
+      "mock_url": "https://ram.zenbin.org/forge-mock",
+      "submitted_at": "2026-04-03T23:19:09.371Z",
+      "published_at": "2026-04-03T23:19:09.371Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design Forge — an AI agent orchestration dashboard for developers. Inspired by JetBrains Air (Lapa.ninja \"Multitask with agents, stay in control\") and Relace (\"autonomous workflows for coding agents\"). Dark deep-navy palette (#080C14 bg, #3D8EFF electric blue accent), 5 screens: Command Center fleet overview, Agent Roster with load bars, Task Queue with in-progress tracking, Execution Logs terminal-style, Agent Config detail. Trend: AI agent control planes as the dominant 2026 SaaS category.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
