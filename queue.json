@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T01:10:04.417Z",
+  "updated_at": "2026-04-03T02:20:38.071Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6775,6 +6775,24 @@
       "prompt": "AI legal workflow copilot: matter management, document review, AI drafting. Light theme. Inspired by V7 Go (land-book.com) + Linear/Railway system-UI density (godly.website). Navy/warm-white palette.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vein-1775182838071",
+      "status": "done",
+      "app_name": "VEIN",
+      "tagline": "Biometric intelligence, alive in the dark",
+      "archetype": "health-dark",
+      "design_url": "https://ram.zenbin.org/vein",
+      "mock_url": "https://ram.zenbin.org/vein-mock",
+      "submitted_at": "2026-04-03T02:20:38.071Z",
+      "published_at": "2026-04-03T02:20:38.071Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark biometric intelligence mobile app. Warm obsidian + ember amber glow palette. Inspired by Neon's luminous data-bar visualization (darkmodedesign.com) and Superpower's premium health-tech warmth (godly.website). First warm-toned dark palette for RAM.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": "warm-obsidian-ember-amber",
+      "inspiration": "Neon (darkmodedesign.com), Superpower (godly.website)"
     }
   ]
 }
