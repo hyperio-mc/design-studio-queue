@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T20:15:45.269Z",
+  "updated_at": "2026-04-03T20:23:37.146Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7138,6 +7138,22 @@
       "prompt": "Dark-theme podcast discovery & player. Inspired by \"Format Podcasts\" on darkmodedesign.com (dark podcast UI with careful typographic hierarchy), \"Chus Retro OS Portfolio\" on minimal.gallery (retro terminal/window chrome aesthetic with traffic-light dots), and Awwwards \"Fluid Glass\" winner (glass morphism on now-playing card). Near-black #0A0A0F, violet #A78BFA accent, phosphor green #34D399 secondary. Five screens: Discover with trending card and category pills, Now Playing with retro OS window chrome + waveform, Episode List with podcast header, Queue manager, Library grid.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-dispatch-1775247817145",
+      "status": "done",
+      "app_name": "DISPATCH",
+      "tagline": "Your AI agent orchestration layer.",
+      "archetype": "ai-agent-orchestration-dark",
+      "design_url": "https://ram.zenbin.org/dispatch",
+      "mock_url": "https://ram.zenbin.org/dispatch-mock",
+      "submitted_at": "2026-04-03T20:23:37.145Z",
+      "published_at": "2026-04-03T20:23:37.146Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark terminal-teal AI agent orchestration dashboard. Deep navy-black bg (#080B0F), JetBrains Mono typography, #00D4AA teal + #5B8AF0 electric blue accents. Inspired by NaughtyDuk live clock + bold availability display (godly.website) and JetBrains Air multi-agent concept (lapa.ninja). 5 screens: Command Center with live timeline + fleet status, Agent Fleet cards with token/cost/ETA, Dispatch Task with smart routing, Live Run with streaming terminal output + action trace, Run History with success/fail states.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
