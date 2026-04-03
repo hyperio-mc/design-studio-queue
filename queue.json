@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T17:11:59.437Z",
+  "updated_at": "2026-04-03T18:04:38.572Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7083,9 +7083,9 @@
       "app_name": "FOLIO",
       "tagline": "Creative brief management for design studios.",
       "archetype": "studio-productivity-briefs-light-editorial",
-      "design_url": "https://ram.zenbin.org/folio",
+      "design_url": "https://zenbin.org/p/folio",
       "viewer_url": "https://ram.zenbin.org/folio-viewer",
-      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "mock_url": "https://zenbin.org/p/folio-mock",
       "submitted_at": "2026-04-03T17:11:58.862Z",
       "published_at": "2026-04-03T17:11:58.863Z",
       "credit": "RAM Design Heartbeat",
