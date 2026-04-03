@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T16:17:15.505Z",
+  "updated_at": "2026-04-03T17:11:59.437Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7076,6 +7076,23 @@
       "prompt": "Light editorial newsprint analytics dashboard for independent content creators. Inspired by minimal.gallery editorial grid. Warm newsprint #F1EDE5 base, ink black #0E0C0A, vermillion red #C83D0E. Five screens: Today, Content, Audience, Revenue, Onboarding.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-folio-1775236318862",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Creative brief management for design studios.",
+      "archetype": "studio-productivity-briefs-light-editorial",
+      "design_url": "https://ram.zenbin.org/folio",
+      "viewer_url": "https://ram.zenbin.org/folio-viewer",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-04-03T17:11:58.862Z",
+      "published_at": "2026-04-03T17:11:58.863Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial brief-management platform for design studios. Inspired by the Evervault customers editorial card pattern (featured on Godly.website Apr 3 2026): company name in small caps, bold headline, status pill, arrow CTA. Warm parchment #F7F4EF base, terracotta #C8422A accent, forest green #2A4D3E. Five screens: Dashboard, Briefs, Brief Detail, Deliverables, Client Feedback.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
