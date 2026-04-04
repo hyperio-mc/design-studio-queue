@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T12:58:25.022Z",
+  "updated_at": "2026-04-04T13:17:11.556Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7465,6 +7465,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-folio-1775308631556",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Every project, catalogued.",
+      "archetype": "studio-catalog",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-04-04T13:17:11.556Z",
+      "published_at": "2026-04-04T13:17:11.556Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark editorial creative-work catalog app using archival reference numbering (FOL-024 style) as primary navigation. Inspired by Silencio.es (godly.website) catalog system, Litbix dark library UI (minimal.gallery), and Format Podcasts amber editorial (darkmodedesign.com).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
