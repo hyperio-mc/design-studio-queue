@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T12:26:32.787Z",
+  "updated_at": "2026-04-04T12:47:03.093Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7449,6 +7449,22 @@
       "prompt": "AI code quality gate and PR intelligence tool for developer teams. Dark theme inspired by Neon.com and Midday.ai.",
       "screens": 4,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-serum-1775306823093",
+      "status": "done",
+      "app_name": "SERUM",
+      "tagline": "Know your skin.",
+      "archetype": "ai-skin-intelligence-light",
+      "design_url": "https://ram.zenbin.org/serum",
+      "mock_url": "https://ram.zenbin.org/serum-mock",
+      "submitted_at": "2026-04-04T12:47:03.093Z",
+      "published_at": "2026-04-04T12:47:03.093Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light parchment AI skincare intelligence app — warm white (#FAF7F4) bg, terracotta rose (#C46B5A) accents, sage green (#7B9B77) for positive metrics, Inter typography. Inspired by Overlay beauty-tech landing page (lapa.ninja) showing facial AR tracking and \"The Future of Beauty is Automated\", plus Superpower health intelligence editorial design (godly.website). 5 screens: Scan with AR face tracking dots, scanning frame brackets and skin score ring; Dashboard with 4 metric tiles and 7-day trend chart; Analysis with AI skin grade B+ and 3 concern cards showing cause and fix; Routine with morning step tracker, product toggles and 14-day streak; Progress with 30-day before/after comparison and improvement bars.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
