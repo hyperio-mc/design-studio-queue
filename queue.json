@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T18:17:24.616Z",
+  "updated_at": "2026-04-04T19:11:28.025Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7561,6 +7561,35 @@
       "prompt": "AI-native async team pulse: agents collect standups from Slack/GitHub/Linear. Inspired by Midday.ai agent-first SaaS + Folk.app clean white CRM + Isidor.ai binary typography on light. LIGHT theme, warm cream + vivid indigo.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-gild-1775329888024",
+      "status": "done",
+      "app_name": "GILD",
+      "tagline": "Wealth, observed.",
+      "archetype": "wealth-intelligence",
+      "design_url": "https://ram.zenbin.org/gild",
+      "viewer_url": "https://ram.zenbin.org/gild-viewer",
+      "mock_url": "https://ram.zenbin.org/gild-mock",
+      "submitted_at": "2026-04-04T19:11:28.024Z",
+      "published_at": "2026-04-04T19:11:28.025Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode personal wealth intelligence app. Portfolio data as editorial typography — large serif-scale numbers, ambient sparklines as texture, minimal chrome. Inspired by Old Tom Capital (minimal.gallery) + Phantom (Godly).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#0C0C0A",
+        "surface": "#1D1D19",
+        "text": "#E8E4DC",
+        "accent": "#C9A96E",
+        "accent2": "#5A8A6A"
+      },
+      "inspiration": [
+        "Old Tom Capital (minimal.gallery)",
+        "Phantom (Godly)",
+        "KOMETA Typefaces (minimal.gallery)"
+      ]
     }
   ]
 }
