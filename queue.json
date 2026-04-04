@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T07:10:11.192Z",
+  "updated_at": "2026-04-04T08:25:43.582Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7366,6 +7366,28 @@
         "bg": "#07090F",
         "accent": "#7C6FF7",
         "accent2": "#34D399"
+      }
+    },
+    {
+      "id": "heartbeat-volt-energy-1775291143582",
+      "status": "done",
+      "app_name": "VOLT",
+      "tagline": "Know Your Energy",
+      "archetype": "athlete-biometrics",
+      "design_url": "https://ram.zenbin.org/volt-energy",
+      "viewer_url": "https://ram.zenbin.org/volt-energy-viewer",
+      "mock_url": "https://ram.zenbin.org/volt-energy-mock",
+      "submitted_at": "2026-04-04T08:25:43.582Z",
+      "published_at": "2026-04-04T08:25:43.582Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark athlete biometrics app with readiness ring, HRV tracking, strain monitoring, body composition and AI insights. Inspired by Fluid Glass (Awwwards SOTD) premium dark aesthetic + Mortons \"Created by light\" singular glow concept.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": {
+        "bg": "#0B0C12",
+        "accent": "#CAFF00",
+        "accent2": "#FF4C60"
       }
     }
   ]
