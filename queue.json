@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T10:19:12.769Z",
+  "updated_at": "2026-04-04T11:18:28.691Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7417,6 +7417,21 @@
       "published_at": "2026-04-04T10:19:12.769Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark luxury craft spirits discovery + collection vault app. Inspired by Atlas Card (Godly.website) luxury dark concierge aesthetic: pure black background, \"Sequel Sans Book\" refined typography; Darkroom.au (DarkModeDesign): #0f0f0f ultra-dark product photography, Swiss \"Suisseintl Webs\" typography; Fluid Glass nominee (Awwwards): glass panels on dark. Amber/gold #C9873A accent on near-black #09090A. Six screens: editorial Discover feed with curated bottles, Bottle Detail with flavor bars, Cellar vault with portfolio tracking, Market intelligence with price chart + live auctions, Tasting Log with flavor intensity bars and personal notes, Profile membership card (Atlas Card-inspired).",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-kin-1775301508690",
+      "status": "done",
+      "app_name": "KIN",
+      "tagline": "Relationship Memory, Amplified.",
+      "archetype": "personal-crm",
+      "design_url": "https://ram.zenbin.org/kin",
+      "mock_url": "https://ram.zenbin.org/kin-mock",
+      "submitted_at": "2026-04-04T11:18:28.690Z",
+      "published_at": "2026-04-04T11:18:28.691Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal relationship intelligence app. Inspired by folk.app (minimal.gallery SAAS) clean white Foundersgrotesk aesthetic and letta.com memory-first agent concept. Features: home dashboard with relationship health metrics, people roster with AI memory snippets and strength bars, person detail with memory timeline threads, Memory Palace topic cluster visualization, AI-compose with relationship context, Pulse analytics dashboard. Warm off-white #F5F4F1 bg, electric blue #3A5CFF accent, coral #FF6B35 secondary.",
       "screens": 6,
       "source": "heartbeat"
     }
