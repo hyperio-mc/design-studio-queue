@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T09:20:10.564Z",
+  "updated_at": "2026-04-04T10:19:12.769Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7403,6 +7403,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Editorial newsletter reader app. Light warm parchment (#F6F2EB) + deep editorial green (#2C5F4E) + warm amber (#C17F2A). Inspired by QP Magazine and PW Magazine on Siteinspire (editorial type-led design, typographic grid) + MUTI Daily Essentials popular shot on Dribbble (warm approachable everyday quality). Serif typography as primary design element, magazine-style card layouts, five screens: Today (dated masthead + featured story card + inbox stories), Discover (category pills + editor picks cards + trending topics numbered list), Reading (article view with pull quote + progress bar + font controls), Library (subscriptions list with unread badges), Profile (stats + weekly reading bar chart + preferences).",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-onyx-1775297952768",
+      "status": "done",
+      "app_name": "ONYX",
+      "tagline": "Rare spirits, collected.",
+      "archetype": "spirits-discovery",
+      "design_url": "https://ram.zenbin.org/onyx",
+      "mock_url": "https://ram.zenbin.org/onyx-mock",
+      "submitted_at": "2026-04-04T10:19:12.769Z",
+      "published_at": "2026-04-04T10:19:12.769Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark luxury craft spirits discovery + collection vault app. Inspired by Atlas Card (Godly.website) luxury dark concierge aesthetic: pure black background, \"Sequel Sans Book\" refined typography; Darkroom.au (DarkModeDesign): #0f0f0f ultra-dark product photography, Swiss \"Suisseintl Webs\" typography; Fluid Glass nominee (Awwwards): glass panels on dark. Amber/gold #C9873A accent on near-black #09090A. Six screens: editorial Discover feed with curated bottles, Bottle Detail with flavor bars, Cellar vault with portfolio tracking, Market intelligence with price chart + live auctions, Tasting Log with flavor intensity bars and personal notes, Profile membership card (Atlas Card-inspired).",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
