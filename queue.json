@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T05:12:08.971Z",
+  "updated_at": "2026-04-04T06:24:44.142Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7328,6 +7328,21 @@
       "published_at": "2026-04-04T05:12:08.971Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode infrastructure monitoring app inspired by Neon.tech ultra-dark electric-cyan aesthetic and Midday.ai tabbed feature exploration. Features real-time service health, deep metrics with area charts, smart alerts, service topology, and AI-powered runbook generation.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vela-1775283884141",
+      "status": "done",
+      "app_name": "Vela",
+      "tagline": "Write with clarity. Publish with confidence.",
+      "archetype": "writing-intelligence",
+      "design_url": "https://ram.zenbin.org/vela",
+      "mock_url": "https://ram.zenbin.org/vela-mock",
+      "submitted_at": "2026-04-04T06:24:44.141Z",
+      "published_at": "2026-04-04T06:24:44.142Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a light-theme AI writing intelligence platform with bento grid dashboard. Inspired by Saaspo's Bento style category (29 tracked entries) and the AI SaaS dominance (219 entries). Features: bento overview, smart editor with AI suggestions, content library, analytics, and AI insights screens.",
       "screens": 5,
       "source": "heartbeat"
     }
