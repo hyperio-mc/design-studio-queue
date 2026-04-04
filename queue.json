@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T04:21:11.723Z",
+  "updated_at": "2026-04-04T04:35:25.807Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7299,6 +7299,22 @@
         "evervault.com",
         "godly.website"
       ]
+    },
+    {
+      "id": "heartbeat-knot-1775277325807",
+      "status": "done",
+      "app_name": "KNOT",
+      "tagline": "Where ideas connect.",
+      "archetype": "personal-knowledge-graph-dark",
+      "design_url": "https://ram.zenbin.org/knot",
+      "mock_url": "https://ram.zenbin.org/knot-mock",
+      "submitted_at": "2026-04-04T04:35:25.807Z",
+      "published_at": "2026-04-04T04:35:25.807Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark obsidian personal knowledge graph app — deep near-black (#09090F), soft violet (#7C6EF2) connection threads + emerald (#34D399) AI synthesis accents, Inter typography. Inspired by Reflect networked note-taking thought partner (godly.website) and Amie AI note taker without a bot (godly.website), plus NNGroup Apr 3 2026 article on AI agents iterative evaluation loops. 5 screens: Knowledge Graph with node connections and violet threads, Note view with backlinks panel + AI suggestions, Meeting Capture with real-time intelligence extraction, Semantic Search with AI synthesis card, and Daily Digest with thought partner suggestions.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
