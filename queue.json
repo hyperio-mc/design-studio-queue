@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T23:19:09.371Z",
+  "updated_at": "2026-04-04T00:23:04.843Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7204,6 +7204,21 @@
       "published_at": "2026-04-03T23:19:09.371Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design Forge — an AI agent orchestration dashboard for developers. Inspired by JetBrains Air (Lapa.ninja \"Multitask with agents, stay in control\") and Relace (\"autonomous workflows for coding agents\"). Dark deep-navy palette (#080C14 bg, #3D8EFF electric blue accent), 5 screens: Command Center fleet overview, Agent Roster with load bars, Task Queue with in-progress tracking, Execution Logs terminal-style, Agent Config detail. Trend: AI agent control planes as the dominant 2026 SaaS category.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-quorum-1775262184842",
+      "status": "done",
+      "app_name": "QUORUM",
+      "tagline": "Private gatherings, beautifully managed.",
+      "archetype": "social-concierge",
+      "design_url": "https://ram.zenbin.org/quorum",
+      "mock_url": "https://ram.zenbin.org/quorum-mock",
+      "submitted_at": "2026-04-04T00:23:04.842Z",
+      "published_at": "2026-04-04T00:23:04.843Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme private gathering management app inspired by Stripe Sessions 2026 warm off-white, New Genre Holdings ALL CAPS editorial authority, and Atlas Card luxury-utility fusion. 5 screens: Home, Gatherings, Event Detail, Network, Create.",
       "screens": 5,
       "source": "heartbeat"
     }
