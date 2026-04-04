@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T23:14:13.123Z",
+  "updated_at": "2026-04-04T23:35:03.295Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7675,7 +7675,7 @@
       "app_name": "LUME",
       "tagline": "Ambient focus, beautifully lit.",
       "archetype": "focus-productivity",
-      "design_url": "https://ram.zenbin.org/lume",
+      "design_url": "https://zenbin.org/p/lume",
       "mock_url": "https://ram.zenbin.org/lume-mock",
       "submitted_at": "2026-04-04T23:14:13.122Z",
       "published_at": "2026-04-04T23:14:13.123Z",
