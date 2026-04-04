@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T16:15:24.052Z",
+  "updated_at": "2026-04-04T16:33:05.574Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7517,7 +7517,7 @@
       "app_name": "Glade",
       "tagline": "Your nature field notebook",
       "archetype": "nature-journal-tracker",
-      "design_url": "https://ram.zenbin.org/glade",
+      "design_url": "https://zenbin.org/p/glade",
       "mock_url": "https://ram.zenbin.org/glade-mock",
       "submitted_at": "2026-04-04T16:15:24.051Z",
       "published_at": "2026-04-04T16:15:24.052Z",
