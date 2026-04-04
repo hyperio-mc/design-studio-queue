@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T17:19:49.153Z",
+  "updated_at": "2026-04-04T18:17:24.616Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7544,6 +7544,21 @@
       "published_at": "2026-04-04T17:19:49.153Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "DARK. Developer observability platform with binary/hex strings as structural visual texture. Inspired by Isidor.ai data-as-decoration pattern on minimal.gallery SAAS Apr 2026. Electric cyan on deep navy-black. Trace waterfall, log stream, metrics, alerts. 5 screens.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-herald-1775326644616",
+      "status": "done",
+      "app_name": "HERALD",
+      "tagline": "Your team's pulse, without the meetings.",
+      "archetype": "team-intelligence",
+      "design_url": "https://ram.zenbin.org/herald",
+      "mock_url": "https://ram.zenbin.org/herald-mock",
+      "submitted_at": "2026-04-04T18:17:24.616Z",
+      "published_at": "2026-04-04T18:17:24.616Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI-native async team pulse: agents collect standups from Slack/GitHub/Linear. Inspired by Midday.ai agent-first SaaS + Folk.app clean white CRM + Isidor.ai binary typography on light. LIGHT theme, warm cream + vivid indigo.",
       "screens": 5,
       "source": "heartbeat"
     }
