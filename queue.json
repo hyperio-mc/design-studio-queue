@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T20:14:04.723Z",
+  "updated_at": "2026-04-04T20:25:43.121Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7605,6 +7605,22 @@
       "prompt": "Light editorial reading tracker inspired by Litbix (minimal.gallery) editorial typography trend. Warm cream paper palette, EB Garamond serif, russet book-spine strip motif. 6 screens: Today, Book Detail, Library, Discover, Insights, Highlights.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-patch-1775334343120",
+      "status": "done",
+      "app_name": "PATCH",
+      "tagline": "Know your land.",
+      "archetype": "precision-agriculture-dark",
+      "design_url": "https://ram.zenbin.org/patch",
+      "mock_url": "https://ram.zenbin.org/patch-mock",
+      "submitted_at": "2026-04-04T20:25:43.120Z",
+      "published_at": "2026-04-04T20:25:43.121Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark precision agriculture intelligence platform — deep night-field green (#0A0F07) bg, vivid grass green (#6ED940) accent, harvest amber (#E8B233) secondary. Inspired by RonDesignLab satellite zone-selection UI (Dribbble) and Drink Mockly bold dark DTC typography (siteinspire). 5 screens: Field Map with satellite NDVI zone overlays and GPS crosshair; Farm Overview dashboard with health score ring and 7-day moisture chart; Sensor Detail with 6-metric soil grid and 30-day trend; Pest & Disease with tiered threat alerts and AI weather risk model; Yield Forecast with scenario sliders and 5-year comparison chart.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
