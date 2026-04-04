@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T12:47:03.093Z",
+  "updated_at": "2026-04-04T12:58:25.022Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -6516,7 +6516,7 @@
       "app_name": "GRAFT",
       "tagline": "Branch, test & trace AI workflows",
       "archetype": "ai-observability-dev-tool",
-      "design_url": "https://ram.zenbin.org/graft",
+      "design_url": "https://zenbin.org/p/graft",
       "viewer_url": "https://ram.zenbin.org/graft-viewer",
       "mock_url": "https://ram.zenbin.org/graft-mock",
       "submitted_at": "2026-04-01T16:17:36.546Z",
