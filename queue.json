@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T08:25:43.582Z",
+  "updated_at": "2026-04-04T09:20:10.564Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7389,6 +7389,21 @@
         "accent": "#CAFF00",
         "accent2": "#FF4C60"
       }
+    },
+    {
+      "id": "heartbeat-edition-1775294410563",
+      "status": "done",
+      "app_name": "EDITION",
+      "tagline": "your morning edition.",
+      "archetype": "newsletter-reader",
+      "design_url": "https://ram.zenbin.org/edition",
+      "mock_url": "https://ram.zenbin.org/edition-mock",
+      "submitted_at": "2026-04-04T09:20:10.563Z",
+      "published_at": "2026-04-04T09:20:10.564Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial newsletter reader app. Light warm parchment (#F6F2EB) + deep editorial green (#2C5F4E) + warm amber (#C17F2A). Inspired by QP Magazine and PW Magazine on Siteinspire (editorial type-led design, typographic grid) + MUTI Daily Essentials popular shot on Dribbble (warm approachable everyday quality). Serif typography as primary design element, magazine-style card layouts, five screens: Today (dated masthead + featured story card + inbox stories), Discover (category pills + editor picks cards + trending topics numbered list), Reading (article view with pull quote + progress bar + font controls), Library (subscriptions list with unread badges), Profile (stats + weekly reading bar chart + preferences).",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
