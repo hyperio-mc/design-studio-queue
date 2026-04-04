@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T04:41:23.387Z",
+  "updated_at": "2026-04-04T05:12:08.971Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7315,6 +7315,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-forge-1775279528970",
+      "status": "done",
+      "app_name": "Forge",
+      "tagline": "Infrastructure command center for engineering teams",
+      "archetype": "devtools-monitor",
+      "design_url": "https://ram.zenbin.org/forge",
+      "mock_url": "https://ram.zenbin.org/forge-mock",
+      "submitted_at": "2026-04-04T05:12:08.970Z",
+      "published_at": "2026-04-04T05:12:08.971Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode infrastructure monitoring app inspired by Neon.tech ultra-dark electric-cyan aesthetic and Midday.ai tabbed feature exploration. Features real-time service health, deep metrics with area charts, smart alerts, service topology, and AI-powered runbook generation.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
