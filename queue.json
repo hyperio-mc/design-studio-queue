@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T04:35:25.807Z",
+  "updated_at": "2026-04-04T04:41:23.387Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7282,7 +7282,7 @@
       "app_name": "SCOUT",
       "tagline": "AI product analytics for indie dev teams",
       "archetype": "analytics-saas",
-      "design_url": "https://ram.zenbin.org/scout",
+      "design_url": "https://zenbin.org/p/scout",
       "mock_url": "https://ram.zenbin.org/scout-mock",
       "submitted_at": "2026-04-04T04:21:11.723Z",
       "published_at": "2026-04-04T04:21:11.723Z",
