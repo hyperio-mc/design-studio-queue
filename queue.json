@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T22:12:43.729Z",
+  "updated_at": "2026-04-04T23:14:13.123Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7667,6 +7667,27 @@
         "text": "#FAFAFA",
         "accent": "#A78BFA",
         "accent2": "#7C3AED"
+      }
+    },
+    {
+      "id": "heartbeat-lume-1775344453122",
+      "status": "done",
+      "app_name": "LUME",
+      "tagline": "Ambient focus, beautifully lit.",
+      "archetype": "focus-productivity",
+      "design_url": "https://ram.zenbin.org/lume",
+      "mock_url": "https://ram.zenbin.org/lume-mock",
+      "submitted_at": "2026-04-04T23:14:13.122Z",
+      "published_at": "2026-04-04T23:14:13.123Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Ambient focus sessions app — scattered floating scene cards on warm cream canvas, inspired by Overlay (lapa.ninja) and KO Collective (minimal.gallery). Light theme editorial aesthetic meets productivity.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F8F4EE",
+        "accent": "#5F8B6A",
+        "accent2": "#B87C4C"
       }
     }
   ]
