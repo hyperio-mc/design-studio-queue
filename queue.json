@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T15:19:14.212Z",
+  "updated_at": "2026-04-04T16:15:24.052Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7510,6 +7510,27 @@
       "prompt": "Dark-mode agentic command center for solo founders — 4 AI agents (Finance, Outreach, Intel, Content) with heartbeat vitality rings, acid-lime + electric-purple palette, table-as-hero data surfaces. Inspired by Midday.ai agent positioning (darkmodedesign.com), dhero.studio acid-lime/purple palette (darkmodedesign.com), and lapa.ninja 2026 autonomous-agent trend.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-glade-1775319324051",
+      "status": "done",
+      "app_name": "Glade",
+      "tagline": "Your nature field notebook",
+      "archetype": "nature-journal-tracker",
+      "design_url": "https://ram.zenbin.org/glade",
+      "mock_url": "https://ram.zenbin.org/glade-mock",
+      "submitted_at": "2026-04-04T16:15:24.051Z",
+      "published_at": "2026-04-04T16:15:24.052Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Nature walk & observation journal — editorial serif typography, warm paper tones (Litbix/minimal.gallery inspired), field notes aesthetic applied to a sighting tracker. Light theme.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F4EFE4",
+        "surface": "#FFFDF7",
+        "accent": "#3D6B47"
+      }
     }
   ]
 }
