@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T16:33:05.574Z",
+  "updated_at": "2026-04-04T17:19:49.153Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7531,6 +7531,21 @@
         "surface": "#FFFDF7",
         "accent": "#3D6B47"
       }
+    },
+    {
+      "id": "heartbeat-datum-1775323189153",
+      "status": "done",
+      "app_name": "DATUM",
+      "tagline": "Every byte, in context.",
+      "archetype": "observability-platform",
+      "design_url": "https://ram.zenbin.org/datum",
+      "mock_url": "https://ram.zenbin.org/datum-mock",
+      "submitted_at": "2026-04-04T17:19:49.153Z",
+      "published_at": "2026-04-04T17:19:49.153Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "DARK. Developer observability platform with binary/hex strings as structural visual texture. Inspired by Isidor.ai data-as-decoration pattern on minimal.gallery SAAS Apr 2026. Electric cyan on deep navy-black. Trace waterfall, log stream, metrics, alerts. 5 screens.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
