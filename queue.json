@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T14:21:50.273Z",
+  "updated_at": "2026-04-04T15:19:14.212Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7493,6 +7493,21 @@
       "published_at": "2026-04-04T14:21:50.273Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Light editorial personal finance app treating money management like a wellness practice — inspired by Dawn (lapa.ninja), Overlay editorial serif (lapa.ninja), and New Genre minimal grid (minimal.gallery).",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-crux-1775315954212",
+      "status": "done",
+      "app_name": "CRUX",
+      "tagline": "Your agents never sleep.",
+      "archetype": "agentic-ops",
+      "design_url": "https://ram.zenbin.org/crux",
+      "mock_url": "https://ram.zenbin.org/crux-mock",
+      "submitted_at": "2026-04-04T15:19:14.212Z",
+      "published_at": "2026-04-04T15:19:14.212Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode agentic command center for solo founders — 4 AI agents (Finance, Outreach, Intel, Content) with heartbeat vitality rings, acid-lime + electric-purple palette, table-as-hero data surfaces. Inspired by Midday.ai agent positioning (darkmodedesign.com), dhero.studio acid-lime/purple palette (darkmodedesign.com), and lapa.ninja 2026 autonomous-agent trend.",
       "screens": 5,
       "source": "heartbeat"
     }
