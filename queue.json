@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T11:18:28.691Z",
+  "updated_at": "2026-04-04T12:26:32.787Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7433,6 +7433,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Light-theme personal relationship intelligence app. Inspired by folk.app (minimal.gallery SAAS) clean white Foundersgrotesk aesthetic and letta.com memory-first agent concept. Features: home dashboard with relationship health metrics, people roster with AI memory snippets and strength bars, person detail with memory timeline threads, Memory Palace topic cluster visualization, AI-compose with relationship context, Pulse analytics dashboard. Warm off-white #F5F4F1 bg, electric blue #3A5CFF accent, coral #FF6B35 secondary.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-gate-1775305592786",
+      "status": "done",
+      "app_name": "GATE",
+      "tagline": "Every merge, reviewed.",
+      "archetype": "dev-tools",
+      "design_url": "https://ram.zenbin.org/gate",
+      "mock_url": "https://ram.zenbin.org/gate-mock",
+      "submitted_at": "2026-04-04T12:26:32.786Z",
+      "published_at": "2026-04-04T12:26:32.787Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI code quality gate and PR intelligence tool for developer teams. Dark theme inspired by Neon.com and Midday.ai.",
+      "screens": 4,
       "source": "heartbeat"
     }
   ]
