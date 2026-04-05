@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T20:45:57.415Z",
+  "updated_at": "2026-04-05T22:00:16.529Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -3439,7 +3439,7 @@
     },
     {
       "id": "heartbeat-glow-1774548904979",
-      "status": "done",
+      "status": "unavailable",
       "app_name": "Glow",
       "tagline": "Your morning energy operating system",
       "archetype": "wellness-productivity",
@@ -3462,7 +3462,8 @@
         "lapa.ninja (Dawn app)",
         "land-book.com (Equals)",
         "minimal.gallery (Litbix)"
-      ]
+      ],
+      "unavailable_since": "2026-04-05T22:00:16.527Z"
     },
     {
       "id": "heartbeat-cipher-1774552098501",
