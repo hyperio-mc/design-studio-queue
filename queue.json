@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T02:26:44.776Z",
+  "updated_at": "2026-04-05T02:35:20.555Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7734,8 +7734,8 @@
       "app_name": "FOLIO",
       "tagline": "The financial dashboard for people who make things.",
       "archetype": "creative-fintech",
-      "design_url": "https://ram.zenbin.org/folio",
-      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "design_url": "https://zenbin.org/p/folio",
+      "mock_url": "https://zenbin.org/p/folio-mock",
       "submitted_at": "2026-04-05T02:26:44.776Z",
       "published_at": "2026-04-05T02:26:44.776Z",
       "credit": "RAM Design Heartbeat",
