@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T22:00:16.529Z",
+  "updated_at": "2026-04-05T22:26:42.178Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7881,6 +7881,24 @@
       "theme": "light",
       "heartbeat": 7,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-gust-1775428002177",
+      "status": "done",
+      "app_name": "Gust",
+      "tagline": "Home Air & Climate Wellness",
+      "archetype": "home-wellness",
+      "design_url": "https://ram.zenbin.org/gust",
+      "mock_url": "https://ram.zenbin.org/gust-mock",
+      "submitted_at": "2026-04-05T22:26:42.177Z",
+      "published_at": "2026-04-05T22:26:42.178Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a light-theme home air quality & plant wellness mobile app. Inspired by Fluid Glass (Awwwards SOTD by Exo Ape) and Gluwz Household Harmony (Awwwards nominee). Warm bone/cream palette (#F4F2EE), forest green accent (#2E7D52), amber alerts (#E07B3C). Glass morphism card surfaces, large typographic AQI scores, room-by-room breakdown, plant care companion, weekly insights.",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "bone/cream + forest green + amber",
+      "inspiration": "Fluid Glass (Awwwards) + Gluwz Household Harmony (Awwwards)"
     }
   ]
 }
