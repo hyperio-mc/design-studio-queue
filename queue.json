@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T10:05:57.167Z",
+  "updated_at": "2026-04-05T15:15:14.915Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7778,6 +7778,21 @@
       "theme": "light",
       "palette": "#FAFAF8 · #FF6B35 · #00B4A0 · #0D1B3E",
       "inspiration": "Vast (Awwwards) · Skylrk (siteinspire) · Dawn/Human Interest (lapa.ninja)"
+    },
+    {
+      "id": "heartbeat-dune-1775402114915",
+      "status": "done",
+      "app_name": "DUNE",
+      "tagline": "Know your money. Clearly.",
+      "archetype": "fintech-dark",
+      "design_url": "https://ram.zenbin.org/dune",
+      "mock_url": "https://ram.zenbin.org/dune-mock",
+      "submitted_at": "2026-04-05T15:15:14.915Z",
+      "published_at": "2026-04-05T15:15:14.915Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme AI personal finance app. 5 screens: net worth pulse, weekly spending breakdown with category bars, savings goals tracker, investment portfolio allocation, and AI insights feed. Warm charcoal + amber gold palette. Inspired by Midday on darkmodedesign.com and Dawn on lapa.ninja.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
