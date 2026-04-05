@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T19:26:26.716Z",
+  "updated_at": "2026-04-05T20:22:30.063Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7845,6 +7845,21 @@
       "published_at": "2026-04-05T19:26:26.716Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Daily rhythm tracker for makers — Light editorial theme inspired by Dawn (Lapa Ninja) + PW Magazine typography (Siteinspire). Warm parchment, electric blue, ember orange. 5 screens: Today, Focus, Patterns, Reflect, Library.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-keel-1775420550062",
+      "status": "done",
+      "app_name": "KEEL",
+      "tagline": "Balance your business. Own your runway.",
+      "archetype": "freelance-finance-os",
+      "design_url": "https://ram.zenbin.org/keel",
+      "mock_url": "https://ram.zenbin.org/keel-mock",
+      "submitted_at": "2026-04-05T20:22:30.062Z",
+      "published_at": "2026-04-05T20:22:30.063Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode freelance finance OS inspired by Midday.ai (darkmodedesign.com): transaction reconciliation with receipt-matching status badges, time tracking connected to invoicing, AI insight strip. Deep charcoal #0D1017 + electric indigo #4F72FF + warm amber #F5A430. 5 screens: Overview · Pipeline · Time · Cash Flow · Tax Reserve.",
       "screens": 5,
       "source": "heartbeat"
     }
