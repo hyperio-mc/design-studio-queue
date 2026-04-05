@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T16:21:02.030Z",
+  "updated_at": "2026-04-05T17:26:25.358Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7817,6 +7817,21 @@
         "accent": "#1B6B5A",
         "accent2": "#D4613A"
       }
+    },
+    {
+      "id": "heartbeat-spire-1775409985358",
+      "status": "done",
+      "app_name": "SPIRE",
+      "tagline": "Every signal, every sprint, in focus",
+      "archetype": "ai-project-intelligence",
+      "design_url": "https://ram.zenbin.org/spire",
+      "mock_url": "https://ram.zenbin.org/spire-mock",
+      "submitted_at": "2026-04-05T17:26:25.358Z",
+      "published_at": "2026-04-05T17:26:25.358Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial AI project intelligence dashboard. 5 screens: Command, Projects, Agents, Signals, Timeline. Warm near-black palette with muted indigo + terracotta accents. Inspired by Linear.app product philosophy and Salt&Bits editorial dark aesthetic.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
