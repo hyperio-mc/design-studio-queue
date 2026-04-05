@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T02:35:20.555Z",
+  "updated_at": "2026-04-05T05:54:23.924Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7742,6 +7742,24 @@
       "prompt": "Editorial light-theme finance dashboard for creative freelancers. Warm cream palette, serif typography, chartreuse accent. Inspired by midday.ai editorial serif + Truecolor Films lime-on-white palette from minimal.gallery.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lynx-1775368463923",
+      "status": "done",
+      "app_name": "LYNX",
+      "tagline": "Your codebase, in sharp focus.",
+      "archetype": "code-intelligence",
+      "design_url": "https://ram.zenbin.org/lynx",
+      "mock_url": "https://ram.zenbin.org/lynx-mock",
+      "submitted_at": "2026-04-05T05:54:23.923Z",
+      "published_at": "2026-04-05T05:54:23.924Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI code intelligence platform. File tree explorer with per-path health overlays, numbered agent cards (Factory.ai style), technical debt board, git timeline with AI annotations. Inspired by Factory.ai (lapa.ninja), 108.supply (darkmodedesign.com), Evervault (godly.website).",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "palette": "#060A17 · #818CF8 · #34D399",
+      "inspiration": "Factory.ai (lapa.ninja) · 108.supply (darkmodedesign.com) · Evervault (godly.website)"
     }
   ]
 }
