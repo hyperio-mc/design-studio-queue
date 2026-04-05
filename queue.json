@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-04T23:35:03.295Z",
+  "updated_at": "2026-04-05T00:14:38.665Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7689,6 +7689,21 @@
         "accent": "#5F8B6A",
         "accent2": "#B87C4C"
       }
+    },
+    {
+      "id": "heartbeat-reel-1775348078665",
+      "status": "done",
+      "app_name": "REEL",
+      "tagline": "Shot list & film production planner for indie filmmakers",
+      "archetype": "film-production",
+      "design_url": "https://ram.zenbin.org/reel",
+      "mock_url": "https://ram.zenbin.org/reel-mock",
+      "submitted_at": "2026-04-05T00:14:38.665Z",
+      "published_at": "2026-04-05T00:14:38.665Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial film production app — shot list, scene breakdown, daily schedule, wrap report. Inspired by MICRODOT.vision cinematic near-black aesthetic and clapperboard card pattern. Dark theme, amber + record-red accent palette.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
