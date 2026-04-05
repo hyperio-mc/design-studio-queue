@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T06:06:36.000Z",
+  "updated_at": "2026-04-05T10:05:57.167Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7760,6 +7760,24 @@
       "theme": "dark",
       "palette": "#060A17 · #818CF8 · #34D399",
       "inspiration": "Factory.ai (lapa.ninja) · 108.supply (darkmodedesign.com) · Evervault (godly.website)"
+    },
+    {
+      "id": "heartbeat-cape-1775383557167",
+      "status": "done",
+      "app_name": "CAPE",
+      "tagline": "Your launchpad for everything that matters.",
+      "archetype": "personal-productivity",
+      "design_url": "https://ram.zenbin.org/cape",
+      "mock_url": "https://ram.zenbin.org/cape-mock",
+      "submitted_at": "2026-04-05T10:05:57.167Z",
+      "published_at": "2026-04-05T10:05:57.167Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light theme personal mission-phase life tracker. Horizontal phase-timeline as primary UI navigation pattern. Warm white #FAFAF8 bg, deep navy #0D1B3E text, rocket-orange #FF6B35 accent. 6 screens: Mission Control, Mission Detail, Phase Launch Checklist, Mission Log (editorial timeline), New Mission Builder, Profile. Inspired by Vast (vastspace.com, Awwwards nominee — white editorial mission roadmap), Skylrk (siteinspire — brutalist minimal grid), Dawn/Human Interest (lapa.ninja — editorial hero sections).",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "#FAFAF8 · #FF6B35 · #00B4A0 · #0D1B3E",
+      "inspiration": "Vast (Awwwards) · Skylrk (siteinspire) · Dawn/Human Interest (lapa.ninja)"
     }
   ]
 }
