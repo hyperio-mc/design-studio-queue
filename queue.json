@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T00:14:38.665Z",
+  "updated_at": "2026-04-05T01:15:14.073Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7704,6 +7704,29 @@
       "prompt": "Dark editorial film production app — shot list, scene breakdown, daily schedule, wrap report. Inspired by MICRODOT.vision cinematic near-black aesthetic and clapperboard card pattern. Dark theme, amber + record-red accent palette.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-quill-1775351714073",
+      "status": "done",
+      "app_name": "QUILL",
+      "tagline": "Write every day. Keep what matters.",
+      "archetype": "journaling-app",
+      "design_url": "https://ram.zenbin.org/quill",
+      "viewer_url": "https://ram.zenbin.org/quill-viewer",
+      "mock_url": "https://ram.zenbin.org/quill-mock",
+      "submitted_at": "2026-04-05T01:15:14.073Z",
+      "published_at": "2026-04-05T01:15:14.073Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial typography-first journaling app; light theme; magazine grid; serif/sans pairing; copper accent",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#FAF7F0",
+        "accent": "#B5742A",
+        "text": "#1C1714"
+      },
+      "inspiration": "Siteinspire editorial typographic trend — PW Magazine, QP Magazine grid layouts"
     }
   ]
 }
