@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T20:22:30.063Z",
+  "updated_at": "2026-04-05T20:37:55.329Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7861,6 +7861,24 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark-mode freelance finance OS inspired by Midday.ai (darkmodedesign.com): transaction reconciliation with receipt-matching status badges, time tracking connected to invoicing, AI insight strip. Deep charcoal #0D1017 + electric indigo #4F72FF + warm amber #F5A430. 5 screens: Overview · Pipeline · Time · Cash Flow · Tax Reserve.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mint-1775421475328",
+      "status": "done",
+      "app_name": "MINT",
+      "tagline": "Freelance Finance, Clearly",
+      "archetype": "editorial-finance",
+      "design_url": "https://ram.zenbin.org/mint",
+      "mock_url": "https://ram.zenbin.org/mint-mock",
+      "submitted_at": "2026-04-05T20:37:55.328Z",
+      "published_at": "2026-04-05T20:37:55.329Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Freelance finance app with editorial magazine aesthetic. Giant display numerals as hero visuals inspired by QP/PW Magazine editorial layouts on Siteinspire. Warm parchment light theme, deep forest green accent, warm gold highlights. 6 screens: Overview with 88px revenue hero, Invoices editorial table, Cash Flow dual-bar chart with pull-quote annotations, Clients profile cards, Expense journal, Profile/Settings. 521 elements.",
+      "screens": 6,
+      "elements": 521,
+      "theme": "light",
+      "heartbeat": 7,
       "source": "heartbeat"
     }
   ]
