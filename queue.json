@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T15:15:14.915Z",
+  "updated_at": "2026-04-05T16:21:02.030Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7793,6 +7793,30 @@
       "prompt": "Dark-theme AI personal finance app. 5 screens: net worth pulse, weekly spending breakdown with category bars, savings goals tracker, investment portfolio allocation, and AI insights feed. Warm charcoal + amber gold palette. Inspired by Midday on darkmodedesign.com and Dawn on lapa.ninja.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-shore-1775406062029",
+      "status": "done",
+      "app_name": "SHORE",
+      "tagline": "Every meeting, turned into momentum",
+      "archetype": "ai-productivity",
+      "design_url": "https://ram.zenbin.org/shore",
+      "viewer_url": "https://ram.zenbin.org/shore-viewer",
+      "mock_url": "https://ram.zenbin.org/shore-mock",
+      "submitted_at": "2026-04-05T16:21:02.029Z",
+      "published_at": "2026-04-05T16:21:02.029Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI meeting intelligence platform. Light editorial theme, warm linen palette, deep teal accent. Inspired by NN/G \"Outcome-Oriented Design: The Era of AI Design\" (Mar 23 2026) + Minimal Gallery SaaS trend (Folk, Composio, Adaline). Outcome-focused: surfaces decisions, actions and patterns.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F5F2ED",
+        "surface": "#FFFFFF",
+        "text": "#1A1917",
+        "accent": "#1B6B5A",
+        "accent2": "#D4613A"
+      }
     }
   ]
 }
