@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T01:15:14.073Z",
+  "updated_at": "2026-04-05T02:26:44.776Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7727,6 +7727,21 @@
         "text": "#1C1714"
       },
       "inspiration": "Siteinspire editorial typographic trend — PW Magazine, QP Magazine grid layouts"
+    },
+    {
+      "id": "heartbeat-folio-1775356004776",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "The financial dashboard for people who make things.",
+      "archetype": "creative-fintech",
+      "design_url": "https://ram.zenbin.org/folio",
+      "mock_url": "https://ram.zenbin.org/folio-mock",
+      "submitted_at": "2026-04-05T02:26:44.776Z",
+      "published_at": "2026-04-05T02:26:44.776Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial light-theme finance dashboard for creative freelancers. Warm cream palette, serif typography, chartreuse accent. Inspired by midday.ai editorial serif + Truecolor Films lime-on-white palette from minimal.gallery.",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
