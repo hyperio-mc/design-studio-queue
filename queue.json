@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T12:40:30.956Z",
+  "updated_at": "2026-04-07T13:03:35.390Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7916,6 +7916,21 @@
       "elements": 590,
       "theme": "dark",
       "heartbeat": 8,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-press-1775567015390",
+      "status": "done",
+      "app_name": "PRESS",
+      "tagline": "Your Editorial Morning Brief",
+      "archetype": "editorial-briefing",
+      "design_url": "https://ram.zenbin.org/press",
+      "mock_url": "https://ram.zenbin.org/press-mock",
+      "submitted_at": "2026-04-07T13:03:35.390Z",
+      "published_at": "2026-04-07T13:03:35.390Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial newspaper front-page aesthetic applied to a personal AI-curated briefing app. Warm newsprint tones, bold typographic hierarchy, column-grid layout. Inspired by The Daily Dispatch on minimal.gallery.",
+      "screens": 6,
       "source": "heartbeat"
     }
   ]
