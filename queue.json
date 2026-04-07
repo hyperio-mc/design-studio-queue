@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T18:11:17.752Z",
+  "updated_at": "2026-04-07T19:16:19.171Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8017,6 +8017,22 @@
         "accent2": "#F59E0B"
       },
       "inspiration": "Cushion.so + lapa.ninja JetBrains Air"
+    },
+    {
+      "id": "heartbeat-folio-editorial-1775589379171",
+      "status": "done",
+      "app_name": "FOLIO",
+      "tagline": "Content intelligence for editorial teams",
+      "archetype": "editorial-analytics",
+      "design_url": "https://ram.zenbin.org/folio-editorial",
+      "mock_url": "https://ram.zenbin.org/folio-editorial-mock",
+      "submitted_at": "2026-04-07T19:16:19.171Z",
+      "published_at": "2026-04-07T19:16:19.171Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a content analytics platform with a warm editorial/archival aesthetic inspired by Stripe Sessions 2026 editorial palette and Silencio catalog reference numbering system.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
