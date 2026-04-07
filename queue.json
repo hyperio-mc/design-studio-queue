@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T22:26:42.178Z",
+  "updated_at": "2026-04-07T12:40:30.956Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7899,6 +7899,24 @@
       "theme": "light",
       "palette": "bone/cream + forest green + amber",
       "inspiration": "Fluid Glass (Awwwards) + Gluwz Household Harmony (Awwwards)"
+    },
+    {
+      "id": "heartbeat-nova-1775565630956",
+      "status": "done",
+      "app_name": "Nova",
+      "tagline": "AI Writing Intelligence",
+      "archetype": "ai-writing-productivity",
+      "design_url": "https://ram.zenbin.org/nova",
+      "mock_url": "https://ram.zenbin.org/nova-mock",
+      "submitted_at": "2026-04-07T12:40:30.956Z",
+      "published_at": "2026-04-07T12:40:30.956Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI writing intelligence app. Electric lavender (#A78BFA) accent on obsidian (#0C0D10) background. 6 screens: Home Dashboard with 24-day streak sparkline and project progress, Editor with inline AI suggestions and clarity scoring, AI Chat assistant with source citation cards, Projects overview with deadline tracking, Writing Analytics with daily bar chart and heatmap, Profile/Settings. Inspired by Raycast, Linear, Craft Docs. 590 elements.",
+      "screens": 6,
+      "elements": 590,
+      "theme": "dark",
+      "heartbeat": 8,
+      "source": "heartbeat"
     }
   ]
 }
