@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T20:26:00.583Z",
+  "updated_at": "2026-04-07T21:15:38.078Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8069,6 +8069,22 @@
       "theme": "light",
       "heartbeat": 9,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-herd-1775596538078",
+      "status": "done",
+      "app_name": "HERD",
+      "tagline": "Multi-Agent Orchestration OS",
+      "archetype": "agent-orchestration",
+      "design_url": "https://ram.zenbin.org/herd",
+      "mock_url": "https://ram.zenbin.org/herd-mock",
+      "submitted_at": "2026-04-07T21:15:38.078Z",
+      "published_at": "2026-04-07T21:15:38.078Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by herding.app (featured on Godly.website) and the emerging AI agent management design category — JetBrains Air \"Multitask with agents, stay in control\" and Paperclip \"Open-source orchestration for zero-human companies\" from Lapa.ninja. Design a dark-mode mobile OS for managing autonomous AI agent swarms. Terminal aesthetic meets ambient glow.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark"
     }
   ]
 }
