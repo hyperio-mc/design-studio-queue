@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T22:06:44.651Z",
+  "updated_at": "2026-04-07T22:17:49.406Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8085,6 +8085,23 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "dark"
+    },
+    {
+      "id": "heartbeat-pique-1775600269406",
+      "status": "done",
+      "app_name": "PIQUE",
+      "tagline": "Personal Style Intelligence",
+      "archetype": "fashion-curation",
+      "design_url": "https://ram.zenbin.org/pique",
+      "viewer_url": "https://ram.zenbin.org/pique-viewer",
+      "mock_url": "https://ram.zenbin.org/pique-mock",
+      "submitted_at": "2026-04-07T22:17:49.406Z",
+      "published_at": "2026-04-07T22:17:49.406Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial mobile app with floating annotation hotspot pins over fashion photography. Inspired by Overlay (lapa.ninja). Warm ivory palette with terracotta accent and sage green. 5 screens: Discover, Item Detail, Wardrobe, Style Profile, Outfit Builder.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
