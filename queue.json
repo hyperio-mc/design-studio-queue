@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T22:17:49.406Z",
+  "updated_at": "2026-04-07T23:18:07.083Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8102,6 +8102,21 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-trace-1775603887083",
+      "status": "done",
+      "app_name": "TRACE",
+      "tagline": "API Observability Engine",
+      "archetype": "api-observability-dashboard",
+      "design_url": "https://ram.zenbin.org/trace",
+      "mock_url": "https://ram.zenbin.org/trace-mock",
+      "submitted_at": "2026-04-07T23:18:07.083Z",
+      "published_at": "2026-04-07T23:18:07.083Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode API observability dashboard. Inspired by Evervault.com precision dark SaaS (Godly.website) and Locomotive.ca editorial number-anchor layout (Awwwards). Electric green health indicators on deep navy-black #080B14.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
