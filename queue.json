@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T20:17:39.170Z",
+  "updated_at": "2026-04-07T20:26:00.583Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8051,6 +8051,24 @@
       "source": "heartbeat",
       "theme": "dark",
       "inspired_by": "Atlas Card (godly.website), Cushion.so (darkmodedesign.com), Withframes.com (darkmodedesign.com)"
+    },
+    {
+      "id": "heartbeat-lodge-1775593560583",
+      "status": "done",
+      "app_name": "Lodge",
+      "tagline": "Boutique Nature Retreats",
+      "archetype": "hospitality-booking-editorial",
+      "design_url": "https://ram.zenbin.org/lodge",
+      "mock_url": "https://ram.zenbin.org/lodge-mock",
+      "submitted_at": "2026-04-07T20:26:00.583Z",
+      "published_at": "2026-04-07T20:26:00.583Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial booking app for boutique cabin and nature retreats. Warm cream (#FAF7F2), bark brown (#4A3728), sage green (#7B9B6B). 6 screens: Discover with curated retreat grid and category filter, Property detail with photo hero and amenity list, Date picker with inline cancellation policy preview, Guest details with clear multi-stage cancellation policy card before confirm, Booking confirmation with host message, My Trips with upcoming and past stays. Inspired by Moke Valley Cabin on Siteinspire and Kinn Collective editorial style. 522 elements.",
+      "screens": 6,
+      "elements": 522,
+      "theme": "light",
+      "heartbeat": 9,
+      "source": "heartbeat"
     }
   ]
 }
