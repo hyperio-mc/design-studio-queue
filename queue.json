@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T16:20:09.031Z",
+  "updated_at": "2026-04-07T17:12:45.694Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7980,6 +7980,21 @@
       "source": "heartbeat",
       "theme": "light",
       "palette": "#FAF4ED / #C4622D / #7B9E87 / #9B6B9A"
+    },
+    {
+      "id": "heartbeat-tempo-1775581965693",
+      "status": "done",
+      "app_name": "TEMPO",
+      "tagline": "AI Business Intelligence Radio",
+      "archetype": "intelligence-briefing",
+      "design_url": "https://ram.zenbin.org/tempo",
+      "mock_url": "https://ram.zenbin.org/tempo-mock",
+      "submitted_at": "2026-04-07T17:12:45.693Z",
+      "published_at": "2026-04-07T17:12:45.694Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by useformat.ai/podcasts (featured on Dark Mode Design): AI converts business data into personalized audio briefings. Deep midnight navy dark theme, editorial typography, waveform visualisations, category-based intelligence channels.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
