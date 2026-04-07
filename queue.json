@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T14:18:19.424Z",
+  "updated_at": "2026-04-07T15:15:46.583Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7945,6 +7945,21 @@
       "published_at": "2026-04-07T14:18:19.424Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Dark chapter-based creative sprint tracker for design studios. Inspired by Linear: Change (chapter-scroll architecture, weight-590 Inter, Redaction serif) and Lusion.co (electric cobalt #1A2FFB, massive type, lavender-white surfaces). Projects as Acts, sprints as chapters. 6 screens.",
+      "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-proof-1775574946583",
+      "status": "done",
+      "app_name": "PROOF",
+      "tagline": "Customer Impact Stories for B2B Buyers",
+      "archetype": "editorial-impact",
+      "design_url": "https://ram.zenbin.org/proof",
+      "mock_url": "https://ram.zenbin.org/proof-mock",
+      "submitted_at": "2026-04-07T15:15:46.583Z",
+      "published_at": "2026-04-07T15:15:46.583Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light editorial B2B case study platform. Warm white + deep navy. Inspired by Evervault customer stories (godly.website) — editorial layout with serif display type, stacked story cards, metric callouts, Before vs. After comparisons. Champions For Good (Awwwards) impact-forward aesthetic.",
       "screens": 6,
       "source": "heartbeat"
     }
