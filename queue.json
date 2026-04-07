@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T17:12:45.694Z",
+  "updated_at": "2026-04-07T18:11:17.752Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7995,6 +7995,28 @@
       "prompt": "Inspired by useformat.ai/podcasts (featured on Dark Mode Design): AI converts business data into personalized audio briefings. Deep midnight navy dark theme, editorial typography, waveform visualisations, category-based intelligence channels.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-draft-1775585477752",
+      "status": "done",
+      "app_name": "DRAFT",
+      "tagline": "Your AI writing companion",
+      "archetype": "productivity-ai",
+      "design_url": "https://ram.zenbin.org/draft",
+      "mock_url": "https://ram.zenbin.org/draft-mock",
+      "submitted_at": "2026-04-07T18:11:17.752Z",
+      "published_at": "2026-04-07T18:11:17.752Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme AI writing OS. Warm cream palette (#F8F5F1), cobalt blue accent (#2A5BF5). Inspired by Cushion.so clean light layout and JetBrains Air dev-tool minimalism seen on lapa.ninja. Ghost text AI canvas, session tracking, tone analysis, writing insights.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F8F5F1",
+        "accent": "#2A5BF5",
+        "accent2": "#F59E0B"
+      },
+      "inspiration": "Cushion.so + lapa.ninja JetBrains Air"
     }
   ]
 }
