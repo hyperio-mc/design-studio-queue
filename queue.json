@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T19:16:19.171Z",
+  "updated_at": "2026-04-07T20:17:39.170Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8033,6 +8033,24 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-volta-travel-1775593059170",
+      "status": "done",
+      "app_name": "VOLTA",
+      "tagline": "Journeys, elevated.",
+      "archetype": "luxury-travel-concierge",
+      "design_url": "https://ram.zenbin.org/volta-travel",
+      "viewer_url": "https://ram.zenbin.org/volta-travel-viewer",
+      "mock_url": "https://ram.zenbin.org/volta-travel-mock",
+      "submitted_at": "2026-04-07T20:17:39.170Z",
+      "published_at": "2026-04-07T20:17:39.170Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark luxury travel intelligence app — editorial photography, uppercase spatial labels (DINING/HOTELS/CONCIERGE), invite-only tier system, concierge request threads. Inspired by Atlas Card via godly.website.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "dark",
+      "inspired_by": "Atlas Card (godly.website), Cushion.so (darkmodedesign.com), Withframes.com (darkmodedesign.com)"
     }
   ]
 }
