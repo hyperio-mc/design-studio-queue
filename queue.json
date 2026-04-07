@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T15:15:46.583Z",
+  "updated_at": "2026-04-07T16:20:09.031Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7962,6 +7962,24 @@
       "prompt": "Light editorial B2B case study platform. Warm white + deep navy. Inspired by Evervault customer stories (godly.website) — editorial layout with serif display type, stacked story cards, metric callouts, Before vs. After comparisons. Champions For Good (Awwwards) impact-forward aesthetic.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lune-1775578809030",
+      "status": "done",
+      "app_name": "Lune",
+      "tagline": "Sleep intelligence, felt not tracked.",
+      "archetype": "wellness-ai",
+      "design_url": "https://ram.zenbin.org/lune",
+      "viewer_url": "https://ram.zenbin.org/lune-viewer",
+      "mock_url": "https://ram.zenbin.org/lune-mock",
+      "submitted_at": "2026-04-07T16:20:09.030Z",
+      "published_at": "2026-04-07T16:20:09.031Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light warm humanistic AI sleep intelligence app. Inspired by Dawn (joindawn.com) — warm cream rgb(251,243,235) bg, Source Serif Pro serif typography, earth-tone color palette. Trend: Warm Humanistic AI aesthetic — the antithesis of cold clinical tech UI. Screens: Tonight forecast, Last Night review, 30-day Patterns, AI Insights journal, Wind Down ritual, Onboarding.",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": "#FAF4ED / #C4622D / #7B9E87 / #9B6B9A"
     }
   ]
 }
