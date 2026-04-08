@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T00:32:30.655620Z",
+  "updated_at": "2026-04-08T01:11:11.996Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8134,6 +8134,22 @@
       "screens": 5,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-helix-1775610670799",
+      "status": "done",
+      "app_name": "HELIX",
+      "tagline": "Deep sleep intelligence. Know your cycles, own your rest.",
+      "archetype": "health",
+      "submitted_at": "2026-04-08T01:11:10.799Z",
+      "published_at": "2026-04-08T01:11:10.799Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design HELIX — a dark-themed sleep biometric tracker. Inspired by:\n\n1. Frames (withframes.com) discovered on Dark Mode Design (darkmodedesign.com) — a niche film photography notebook app with a precision instrument-panel aesthetic, dark UI, deliberate data-logging per session, tactile controls.\n\n2. Evervault customers page (godly.website) — dense enterprise card layouts on deep dark backgrounds, top-border colour coding by metric type, clean information hierarchy.\n\nChallenge: Translate the \"niche precision utility + instrument panel dark UI\" pattern from Frames into a sleep biometric context. 5 screens: Tonight (wind-down + readiness ring), Live (active session waveform tracker), Wake (morning report + cycle pie), Trends (weekly bar chart), Goals (sleep targets + toggles).\n\nTheme: DARK — near-black #070710, electric violet #7B5CFF, cool teal #2EE5C8, warm amber #F59E2B, signal red #FF4F6A. Typography: Georgia serif for large numerics (instrument readings), uppercase tracked system-ui for labels.",
+      "screens": 5,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/helix",
+      "viewer_url": "https://ram.zenbin.org/helix-viewer",
+      "mock_url": "https://ram.zenbin.org/helix-mock"
     }
   ]
 }
