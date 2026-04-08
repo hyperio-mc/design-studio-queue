@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T11:21:29.714Z",
+  "updated_at": "2026-04-08T12:18:29.581Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8298,6 +8298,30 @@
       "prompt": "Inspired by withframes.com dark film notebook + darkmodedesign.com — design a dark-mode analog photography companion app with tactile dial UI for logging exposures, film roll tracking with visual filmstrip, and warm darkroom palette.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-soleil-1775650709580",
+      "status": "done",
+      "app_name": "Soleil",
+      "tagline": "Clarity for freelancers",
+      "archetype": "freelance-dashboard",
+      "design_url": "https://ram.zenbin.org/soleil",
+      "viewer_url": "https://ram.zenbin.org/soleil-viewer",
+      "mock_url": "https://ram.zenbin.org/soleil-mock",
+      "submitted_at": "2026-04-08T12:18:29.581Z",
+      "published_at": "2026-04-08T12:18:29.581Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Cushion (darkmodedesign.com) + NNGroup \"Outcome-Oriented Design: The Era of AI Design\" — a warm light-theme AI clarity dashboard for freelance creatives with daily clarity score, project timeline, revenue forecast, and AI insights",
+      "screens": 6,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F7F3EE",
+        "surface": "#FFFFFF",
+        "text": "#1C1917",
+        "accent": "#D4622A",
+        "accent2": "#2A7A5A"
+      }
     }
   ]
 }
