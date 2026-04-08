@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T13:14:17.467Z",
+  "updated_at": "2026-04-08T14:20:51.613Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8355,6 +8355,25 @@
       "prompt": "Warm-cream editorial deep work session tracker. Inspired by Sandbar (minimal.gallery) minimal aesthetic. Focus block Gantt timeline, circular session timer with tick-mark progress ring, session log with bar chart, weekly review, morning intention setting. Light theme: warm cream #F9F7EF, sage green accent, amber secondary.",
       "screens": 6,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-aura-1775658051611",
+      "status": "done",
+      "app_name": "AURA",
+      "tagline": "Design Trend Intelligence",
+      "archetype": "design-intelligence",
+      "design_url": "https://ram.zenbin.org/aura",
+      "viewer_url": "https://ram.zenbin.org/aura-viewer",
+      "mock_url": "https://ram.zenbin.org/aura-mock",
+      "submitted_at": "2026-04-08T14:20:51.611Z",
+      "published_at": "2026-04-08T14:20:51.611Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme design trend discovery platform inspired by aurora mesh gradients (Orbi on darkmodedesign.com), editorial minimalism from minimal.gallery, and the AI design category explosion observed on Awwwards and Minimal Gallery.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette_primary": "#7B5CF0",
+      "palette_bg": "#FAF8F4"
     }
   ]
 }
