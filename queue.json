@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T19:16:12.309Z",
+  "updated_at": "2026-04-08T20:14:02.309Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8475,6 +8475,24 @@
       "screens": 6,
       "elements": 344,
       "heartbeat": 386,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-slumber-1775679242308",
+      "status": "done",
+      "app_name": "SLUMBER",
+      "tagline": "AI Sleep & Recovery",
+      "archetype": "health-wellness",
+      "design_url": "https://ram.zenbin.org/slumber",
+      "mock_url": "https://ram.zenbin.org/slumber-mock",
+      "submitted_at": "2026-04-08T20:14:02.308Z",
+      "published_at": "2026-04-08T20:14:02.309Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark AI sleep & recovery tracker — inspired by glassmorphism revival (DarkModeDesign), ambient aurora backgrounds (Godly), and AI health/wellness category rise (Saaspo). Emerald single-accent on deep midnight palette.",
+      "screens": 6,
+      "elements": 532,
+      "theme": "dark",
+      "heartbeat": 42,
       "source": "heartbeat"
     }
   ]
