@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T04:15:11.295Z",
+  "updated_at": "2026-04-08T04:27:23.451Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8201,6 +8201,24 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "AI podcast analytics platform — dark, data-dense. Inspired by Neon.com (pure black + phosphor teal, developer infra aesthetic) on darkmodedesign.com, Format Podcasts (useformat.ai/podcasts) AI podcast tooling trend, AuthKit deep dark navy from godly.website, and Folk.app AI assistant card grid from minimal.gallery.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-take-1775622443451",
+      "status": "done",
+      "app_name": "Take",
+      "tagline": "AI Video Creation Studio",
+      "archetype": "ai-video-creative-tools",
+      "design_url": "https://ram.zenbin.org/take",
+      "mock_url": "https://ram.zenbin.org/take-mock",
+      "submitted_at": "2026-04-08T04:27:23.451Z",
+      "published_at": "2026-04-08T04:27:23.451Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark cinematic AI video creation studio. Near-black cinema (#09090B), electric coral (#FF5240), teal (#2DD4BF), violet (#8B5CF6), amber (#F5B13D). 6 screens: Studio dashboard with project grid and GPU credits bar, Generate with prompt input + style presets (Cinematic/Anime/Photorealistic/Abstract/Documentary) + aspect ratio toggles, Timeline editor with three-lane track system (VIDEO/AUDIO/AI) + waveform + AI enhance toolbar, Library with video thumbnail grid and storage bar, Analytics with views chart and platform breakdown, Settings with plan/model config. Inspired by Runway ML, Pika, CapCut Pro. 672 elements.",
+      "screens": 6,
+      "elements": 672,
+      "theme": "dark",
+      "heartbeat": 10,
       "source": "heartbeat"
     }
   ]
