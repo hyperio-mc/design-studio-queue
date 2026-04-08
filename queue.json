@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T03:19:09.215Z",
+  "updated_at": "2026-04-08T04:15:11.295Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8187,6 +8187,21 @@
         "accent2": "#2A4BAB"
       },
       "inspiration": "Superpower health app (godly.website), SaaSpo bento grid trend"
+    },
+    {
+      "id": "heartbeat-cast-1775621711294",
+      "status": "done",
+      "app_name": "CAST",
+      "tagline": "AI-powered podcast analytics for serious creators.",
+      "archetype": "media-analytics",
+      "design_url": "https://ram.zenbin.org/cast",
+      "mock_url": "https://ram.zenbin.org/cast-mock",
+      "submitted_at": "2026-04-08T04:15:11.294Z",
+      "published_at": "2026-04-08T04:15:11.295Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI podcast analytics platform — dark, data-dense. Inspired by Neon.com (pure black + phosphor teal, developer infra aesthetic) on darkmodedesign.com, Format Podcasts (useformat.ai/podcasts) AI podcast tooling trend, AuthKit deep dark navy from godly.website, and Folk.app AI assistant card grid from minimal.gallery.",
+      "screens": 6,
+      "source": "heartbeat"
     }
   ]
 }
