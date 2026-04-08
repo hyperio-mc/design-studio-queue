@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T00:13:57.696Z",
+  "updated_at": "2026-04-08T00:32:30.655620Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8124,7 +8124,7 @@
       "app_name": "BALM",
       "tagline": "Calm clarity for creative freelancers",
       "archetype": "freelance-studio",
-      "design_url": "https://ram.zenbin.org/balm",
+      "design_url": "https://zenbin.org/p/balm",
       "viewer_url": "https://ram.zenbin.org/balm-viewer",
       "mock_url": "https://ram.zenbin.org/balm-mock",
       "submitted_at": "2026-04-08T00:13:57.696Z",
