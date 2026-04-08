@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T15:17:57.790Z",
+  "updated_at": "2026-04-08T16:11:16.909Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8387,6 +8387,21 @@
       "published_at": "2026-04-08T15:17:57.790Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "A literary reading journal inspired by Litbix (minimal.gallery) — books as beautiful artifacts. Editorial drop caps, warm parchment palette, book-spine shelf, heat-map reading calendar, and a Year in Books editorial poster. LIGHT THEME.",
+      "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-beacon-1775664676908",
+      "status": "done",
+      "app_name": "BEACON",
+      "tagline": "Your Signal, Live",
+      "archetype": "creator-analytics",
+      "design_url": "https://ram.zenbin.org/beacon",
+      "mock_url": "https://ram.zenbin.org/beacon-mock",
+      "submitted_at": "2026-04-08T16:11:16.908Z",
+      "published_at": "2026-04-08T16:11:16.909Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by \"Haptic\" on Godly.website and \"Neon\" on Dark Mode Design — a real-time creative metrics dashboard for indie makers with neon-mint dark UI, live signal feed, audience breakdown, milestone goals, and AI-powered anomaly alerts.",
       "screens": 5,
       "source": "heartbeat"
     }
