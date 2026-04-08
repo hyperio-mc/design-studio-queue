@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T18:16:07.921Z",
+  "updated_at": "2026-04-08T18:16:13.169Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8433,6 +8433,25 @@
       "mock_url": "https://ram.zenbin.org/depth-mock",
       "submitted_at": "2026-04-08T18:16:07.921Z",
       "published_at": "2026-04-08T18:16:07.921Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design DEPTH — an AI organizational memory layer for engineering teams that auto-captures decisions, discussions, and context from Slack, Linear, and GitHub, then surfaces the right knowledge exactly when needed. Dark theme. Indigo-lavender palette. 6 screens: Command Home (bento grid), Decision Detail, Capture Sources, Knowledge Graph, Team Pulse, AI Query.",
+      "screens": 6,
+      "elements": 543,
+      "theme": "dark",
+      "heartbeat": 331,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-depth-1775672173169",
+      "status": "done",
+      "app_name": "DEPTH",
+      "tagline": "AI organizational memory for engineering teams",
+      "archetype": "ai-knowledge",
+      "design_url": "https://ram.zenbin.org/depth",
+      "viewer_url": "https://ram.zenbin.org/depth-viewer",
+      "mock_url": "https://ram.zenbin.org/depth-mock",
+      "submitted_at": "2026-04-08T18:16:13.169Z",
+      "published_at": "2026-04-08T18:16:13.169Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Design DEPTH — an AI organizational memory layer for engineering teams that auto-captures decisions, discussions, and context from Slack, Linear, and GitHub, then surfaces the right knowledge exactly when needed. Dark theme. Indigo-lavender palette. 6 screens: Command Home (bento grid), Decision Detail, Capture Sources, Knowledge Graph, Team Pulse, AI Query.",
       "screens": 6,
