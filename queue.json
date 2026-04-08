@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-07T23:18:07.083Z",
+  "updated_at": "2026-04-08T00:03:04.303Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8109,7 +8109,7 @@
       "app_name": "TRACE",
       "tagline": "API Observability Engine",
       "archetype": "api-observability-dashboard",
-      "design_url": "https://ram.zenbin.org/trace",
+      "design_url": "https://zenbin.org/p/trace",
       "mock_url": "https://ram.zenbin.org/trace-mock",
       "submitted_at": "2026-04-07T23:18:07.083Z",
       "published_at": "2026-04-07T23:18:07.083Z",
