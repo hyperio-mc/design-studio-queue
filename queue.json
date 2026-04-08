@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T14:31:47.089Z",
+  "updated_at": "2026-04-08T15:17:57.790Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8374,6 +8374,21 @@
       "theme": "light",
       "palette_primary": "#7B5CF0",
       "palette_bg": "#FAF8F4"
+    },
+    {
+      "id": "heartbeat-vellum-1775661477790",
+      "status": "done",
+      "app_name": "Vellum",
+      "tagline": "Your reading life, beautifully kept",
+      "archetype": "lifestyle",
+      "design_url": "https://ram.zenbin.org/vellum",
+      "mock_url": "https://ram.zenbin.org/vellum-mock",
+      "submitted_at": "2026-04-08T15:17:57.790Z",
+      "published_at": "2026-04-08T15:17:57.790Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "A literary reading journal inspired by Litbix (minimal.gallery) — books as beautiful artifacts. Editorial drop caps, warm parchment palette, book-spine shelf, heat-map reading calendar, and a Year in Books editorial poster. LIGHT THEME.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
