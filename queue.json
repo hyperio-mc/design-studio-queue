@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T18:16:13.169Z",
+  "updated_at": "2026-04-08T19:16:12.309Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8458,6 +8458,23 @@
       "elements": 543,
       "theme": "dark",
       "heartbeat": 331,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-quire-1775675772309",
+      "status": "done",
+      "app_name": "Quire",
+      "tagline": "Read what matters",
+      "archetype": "editorial-reader",
+      "design_url": "https://ram.zenbin.org/quire",
+      "mock_url": "https://ram.zenbin.org/quire-mock",
+      "submitted_at": "2026-04-08T19:16:12.309Z",
+      "published_at": "2026-04-08T19:16:12.309Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Curated editorial reading app with content-driven contextual colour per topic. Inspired by Deem Journal on Siteinspire (Big Type, contextual palette) and KOMETA Typefaces on minimal.gallery.",
+      "screens": 6,
+      "elements": 344,
+      "heartbeat": 386,
       "source": "heartbeat"
     }
   ]
