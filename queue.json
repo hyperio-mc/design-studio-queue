@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T08:17:20.621Z",
+  "updated_at": "2026-04-08T09:14:27.070Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8249,6 +8249,21 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Design a light-theme personal AI research briefing app inspired by The Daily Dispatch editorial aesthetic on minimal.gallery — warm cream palette, newspaper masthead, serif typography, and AI-curated topic threads.",
       "screens": 6,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lumen-clarity-1775639667070",
+      "status": "done",
+      "app_name": "Lumen",
+      "tagline": "Know your mind. Work with it.",
+      "archetype": "ai-wellness",
+      "design_url": "https://ram.zenbin.org/lumen-clarity",
+      "mock_url": "https://ram.zenbin.org/lumen-clarity-mock",
+      "submitted_at": "2026-04-08T09:14:27.070Z",
+      "published_at": "2026-04-08T09:14:27.070Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial dark AI cognitive clarity tracker. Inspired by Skarlo (darkmodedesign.com) serif-on-black aesthetic and Dawn AI mental health (lapa.ninja). Near-black + warm amber 2-color palette. Serif typography for data display. 5 screens: Welcome, Today, Flow Session, Insights, Journal.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
