@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T20:14:02.309Z",
+  "updated_at": "2026-04-08T20:38:19.615Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8493,6 +8493,24 @@
       "elements": 532,
       "theme": "dark",
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-thesis-1775680699614",
+      "status": "done",
+      "app_name": "THESIS",
+      "tagline": "AI Research Assistant",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/thesis",
+      "mock_url": "https://ram.zenbin.org/thesis-mock",
+      "submitted_at": "2026-04-08T20:38:19.614Z",
+      "published_at": "2026-04-08T20:38:19.615Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI-powered academic research assistant for synthesizing literature across 200M+ papers. Inspired by AfterQuery academic aesthetic (CMU Serif + terracotta on lavender-white) and Stripe Sessions editorial parchment (ultra-light Söhne weight 250). Light theme, warm parchment palette.",
+      "screens": 6,
+      "elements": 535,
+      "theme": "light",
+      "heartbeat": 43,
       "source": "heartbeat"
     }
   ]
