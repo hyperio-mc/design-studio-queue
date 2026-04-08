@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T20:38:19.615Z",
+  "updated_at": "2026-04-08T21:18:39.687Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8511,6 +8511,24 @@
       "elements": 535,
       "theme": "light",
       "heartbeat": 43,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-chisel-1775683119687",
+      "status": "done",
+      "app_name": "CHISEL",
+      "tagline": "AI pull-request analytics",
+      "archetype": "dev-tools",
+      "design_url": "https://ram.zenbin.org/chisel",
+      "viewer_url": "https://ram.zenbin.org/chisel-viewer",
+      "mock_url": "https://ram.zenbin.org/chisel-mock",
+      "submitted_at": "2026-04-08T21:18:39.687Z",
+      "published_at": "2026-04-08T21:18:39.687Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark mode PR analytics dashboard inspired by Godly.website Technical Mono / Code Brutalism category (Vercel, Factory AI), Raycast single-electric-accent system from DarkModeDesign.com, and bento grid layouts from Saaspo.com. 4-level layered dark surfaces, electric amber accent #F59E0B, JetBrains Mono for metrics.",
+      "screens": 6,
+      "elements": 579,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
