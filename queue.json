@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T02:15:55.217Z",
+  "updated_at": "2026-04-08T03:19:09.215Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8165,6 +8165,28 @@
       "prompt": "Dark-themed developer monitoring dashboard for database branches. Inspired by Neon.com infrastructure UI (darkmodedesign.com) and Evervault security aesthetic (godly.website). 5 screens: Overview, Branches, Slow Queries, Connections, Alerts.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-opal-vitals-1775618349215",
+      "status": "done",
+      "app_name": "OPAL",
+      "tagline": "Creative vitals for makers",
+      "archetype": "creative-tracker",
+      "design_url": "https://ram.zenbin.org/opal-vitals",
+      "mock_url": "https://ram.zenbin.org/opal-vitals-mock",
+      "submitted_at": "2026-04-08T03:19:09.215Z",
+      "published_at": "2026-04-08T03:19:09.215Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a creative output tracker for makers — applying wellness/health app UX patterns (inspired by Superpower on godly.website) to creative professional tracking. Light theme: warm ivory + terracotta amber + deep cobalt. Bento grid dashboard, editorial hierarchy, real data metrics.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "palette": {
+        "bg": "#F8F4EE",
+        "accent": "#C85A0A",
+        "accent2": "#2A4BAB"
+      },
+      "inspiration": "Superpower health app (godly.website), SaaSpo bento grid trend"
     }
   ]
 }
