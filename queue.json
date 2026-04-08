@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T16:11:16.909Z",
+  "updated_at": "2026-04-08T17:22:01.788Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8403,6 +8403,23 @@
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by \"Haptic\" on Godly.website and \"Neon\" on Dark Mode Design — a real-time creative metrics dashboard for indie makers with neon-mint dark UI, live signal feed, audience breakdown, milestone goals, and AI-powered anomaly alerts.",
       "screens": 5,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-carte-1775668921788",
+      "status": "done",
+      "app_name": "CARTE",
+      "tagline": "Think in layers",
+      "archetype": "research-notebook",
+      "design_url": "https://ram.zenbin.org/carte",
+      "mock_url": "https://ram.zenbin.org/carte-mock",
+      "submitted_at": "2026-04-08T17:22:01.788Z",
+      "published_at": "2026-04-08T17:22:01.788Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI editorial research notebook with warm cream editorial palette, serif revival typography, and bento-style features. Inspired by minimal.gallery serif revival trend and land-book.com AI-native product category.",
+      "screens": 6,
+      "elements": 598,
+      "heartbeat": 330,
       "source": "heartbeat"
     }
   ]
