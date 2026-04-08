@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T22:14:31.594Z",
+  "updated_at": "2026-04-08T23:17:40.030Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8546,6 +8546,24 @@
       "screens": 6,
       "elements": 497,
       "heartbeat": 390,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-circuit-1775690260030",
+      "status": "done",
+      "app_name": "CIRCUIT",
+      "tagline": "Infrastructure topology, decoded",
+      "archetype": "devops-monitor",
+      "design_url": "https://ram.zenbin.org/circuit",
+      "mock_url": "https://ram.zenbin.org/circuit-mock",
+      "submitted_at": "2026-04-08T23:17:40.030Z",
+      "published_at": "2026-04-08T23:17:40.030Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Raw/blueprint wireframe aesthetic dark mobile app — devops infrastructure topology monitor with node-connector diagrams, monospace type, electric green accent, 48px grid texture. Inspired by saaspo.com Oxide/Crezco counter-trend to Linear-clone purple dominance.",
+      "screens": 6,
+      "elements": 739,
+      "theme": "dark",
+      "heartbeat": 391,
       "source": "heartbeat"
     }
   ]
