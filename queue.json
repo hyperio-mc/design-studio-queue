@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T01:11:11.996Z",
+  "updated_at": "2026-04-08T02:15:55.217Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8150,6 +8150,21 @@
       "design_url": "https://ram.zenbin.org/helix",
       "viewer_url": "https://ram.zenbin.org/helix-viewer",
       "mock_url": "https://ram.zenbin.org/helix-mock"
+    },
+    {
+      "id": "heartbeat-zeal-db-1775614555216",
+      "status": "done",
+      "app_name": "ZEAL",
+      "tagline": "Database branch intelligence",
+      "archetype": "developer-tool",
+      "design_url": "https://ram.zenbin.org/zeal-db",
+      "mock_url": "https://ram.zenbin.org/zeal-db-mock",
+      "submitted_at": "2026-04-08T02:15:55.216Z",
+      "published_at": "2026-04-08T02:15:55.217Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-themed developer monitoring dashboard for database branches. Inspired by Neon.com infrastructure UI (darkmodedesign.com) and Evervault security aesthetic (godly.website). 5 screens: Overview, Branches, Slow Queries, Connections, Alerts.",
+      "screens": 5,
+      "source": "heartbeat"
     }
   ]
 }
