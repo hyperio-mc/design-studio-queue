@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T14:20:51.613Z",
+  "updated_at": "2026-04-08T14:31:47.089Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8362,7 +8362,7 @@
       "app_name": "AURA",
       "tagline": "Design Trend Intelligence",
       "archetype": "design-intelligence",
-      "design_url": "https://ram.zenbin.org/aura",
+      "design_url": "https://zenbin.org/p/aura",
       "viewer_url": "https://ram.zenbin.org/aura-viewer",
       "mock_url": "https://ram.zenbin.org/aura-mock",
       "submitted_at": "2026-04-08T14:20:51.611Z",
