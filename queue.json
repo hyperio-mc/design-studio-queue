@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T09:14:27.070Z",
+  "updated_at": "2026-04-08T10:16:44.747Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8265,6 +8265,24 @@
       "prompt": "Editorial dark AI cognitive clarity tracker. Inspired by Skarlo (darkmodedesign.com) serif-on-black aesthetic and Dawn AI mental health (lapa.ninja). Near-black + warm amber 2-color palette. Serif typography for data display. 5 screens: Welcome, Today, Flow Session, Insights, Journal.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tide-1775643404747",
+      "status": "done",
+      "app_name": "Tide",
+      "tagline": "Your money, in motion",
+      "archetype": "finance-clarity",
+      "design_url": "https://ram.zenbin.org/tide",
+      "viewer_url": "https://ram.zenbin.org/tide-viewer",
+      "mock_url": "https://ram.zenbin.org/tide-mock",
+      "submitted_at": "2026-04-08T10:16:44.747Z",
+      "published_at": "2026-04-08T10:16:44.747Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Fluid glass finance clarity app — frosted glass cards, warm cream palette, large typographic numbers. Inspired by Fluid Glass (Awwwards SOTD 7.77/10) by Exo Ape + Atlas Card (Godly). Light theme, 5 screens: Home, Flow, Goals, History, Pulse.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light",
+      "inspiration": "Fluid Glass (Awwwards SOTD 7.77) + Atlas Card (Godly)"
     }
   ]
 }
