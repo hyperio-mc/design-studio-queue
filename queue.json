@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T21:51:08.897Z",
+  "updated_at": "2026-04-08T22:14:31.594Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8529,6 +8529,23 @@
       "screens": 6,
       "elements": 579,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-brume-1775686471593",
+      "status": "done",
+      "app_name": "BRUME",
+      "tagline": "Your creative studio, at rest",
+      "archetype": "studio-workspace",
+      "design_url": "https://ram.zenbin.org/brume",
+      "mock_url": "https://ram.zenbin.org/brume-mock",
+      "submitted_at": "2026-04-08T22:14:31.593Z",
+      "published_at": "2026-04-08T22:14:31.594Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light warm cream editorial creative studio workspace — project management, clients, timeline, finances, and insights. Inspired by Land-book warm neutral SaaS trend + minimal.gallery pastel confidence pattern.",
+      "screens": 6,
+      "elements": 497,
+      "heartbeat": 390,
       "source": "heartbeat"
     }
   ]
