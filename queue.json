@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T00:03:04.303Z",
+  "updated_at": "2026-04-08T00:13:57.696Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8117,6 +8117,23 @@
       "prompt": "Dark-mode API observability dashboard. Inspired by Evervault.com precision dark SaaS (Godly.website) and Locomotive.ca editorial number-anchor layout (Awwwards). Electric green health indicators on deep navy-black #080B14.",
       "screens": 5,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-balm-1775607237696",
+      "status": "done",
+      "app_name": "BALM",
+      "tagline": "Calm clarity for creative freelancers",
+      "archetype": "freelance-studio",
+      "design_url": "https://ram.zenbin.org/balm",
+      "viewer_url": "https://ram.zenbin.org/balm-viewer",
+      "mock_url": "https://ram.zenbin.org/balm-mock",
+      "submitted_at": "2026-04-08T00:13:57.696Z",
+      "published_at": "2026-04-08T00:13:57.696Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Warm light-themed freelance studio OS with editorial ghost date anchors, earthy terracotta/sage palette, and calm financial clarity. Inspired by Cushion App (darkmodedesign.com) peace-of-mind positioning and Awwwards editorial typography trend.",
+      "screens": 5,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
