@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T12:18:29.581Z",
+  "updated_at": "2026-04-08T12:29:18.415Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8322,6 +8322,24 @@
         "accent": "#D4622A",
         "accent2": "#2A7A5A"
       }
+    },
+    {
+      "id": "heartbeat-crew-1775651358415",
+      "status": "done",
+      "app_name": "Crew",
+      "tagline": "AI Workforce Platform",
+      "archetype": "ai-workforce-productivity",
+      "design_url": "https://ram.zenbin.org/crew",
+      "mock_url": "https://ram.zenbin.org/crew-mock",
+      "submitted_at": "2026-04-08T12:29:18.415Z",
+      "published_at": "2026-04-08T12:29:18.415Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark deep-slate AI workforce platform. Void slate (#0D0F14) + electric cyan (#06B6D4) + emerald + amber + violet. Hire AI agents with roles (Research/Writer/Analyst/Dev/Email), manage kanban task board (Queued/Running/Review/Approved), review agent deliverables with AI confidence scores, track per-agent analytics and quality scores. Inspired by Paperclip \"zero-human companies\" trend and Evervault precision dark aesthetic. 683 elements.",
+      "screens": 6,
+      "elements": 683,
+      "theme": "dark",
+      "heartbeat": 12,
+      "source": "heartbeat"
     }
   ]
 }
