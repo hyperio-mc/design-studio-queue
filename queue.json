@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T04:27:23.451Z",
+  "updated_at": "2026-04-08T05:16:12.515Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8219,6 +8219,21 @@
       "elements": 672,
       "theme": "dark",
       "heartbeat": 10,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-writ-intel-1775625372515",
+      "status": "done",
+      "app_name": "Writ",
+      "tagline": "Daily market intelligence, distilled",
+      "archetype": "editorial-intelligence",
+      "design_url": "https://ram.zenbin.org/writ-intel",
+      "mock_url": "https://ram.zenbin.org/writ-intel-mock",
+      "submitted_at": "2026-04-08T05:16:12.515Z",
+      "published_at": "2026-04-08T05:16:12.515Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark editorial market intelligence briefing app. Warm ink black + copper accent. Inspired by Compound: Membership on Godly + ultra-bold editorial typography trend from Minimal Gallery (The Daily Dispatch). 5 screens: Today briefing, Markets data, Signal detail, Watchlist, Profile.",
+      "screens": 5,
       "source": "heartbeat"
     }
   ]
