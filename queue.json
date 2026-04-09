@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T03:17:08.512Z",
+  "updated_at": "2026-04-09T04:14:33.773Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8635,6 +8635,23 @@
       "screens": 6,
       "elements": 644,
       "heartbeat": 395,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tract-1775708073773",
+      "status": "done",
+      "app_name": "TRACT",
+      "tagline": "Finance, in print",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/tract",
+      "mock_url": "https://ram.zenbin.org/tract-mock",
+      "submitted_at": "2026-04-09T04:14:33.773Z",
+      "published_at": "2026-04-09T04:14:33.773Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial personal finance tracker — typography-first design inspired by minimal.gallery's type-driven layouts and Lapa Ninja's warm cream editorial palettes. Light theme with parchment background, display serif headings, hairline rule separators, and terracotta accent.",
+      "screens": 6,
+      "elements": 517,
+      "theme": "light",
       "source": "heartbeat"
     }
   ]
