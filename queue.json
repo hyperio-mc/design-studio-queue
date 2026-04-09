@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T02:20:50.723Z",
+  "updated_at": "2026-04-09T03:17:08.512Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8618,6 +8618,23 @@
       "elements": 525,
       "theme": "light",
       "heartbeat": 394,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-hilt-1775704628512",
+      "status": "done",
+      "app_name": "HILT",
+      "tagline": "Get a grip on your wealth",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/hilt",
+      "mock_url": "https://ram.zenbin.org/hilt-mock",
+      "submitted_at": "2026-04-09T03:17:08.512Z",
+      "published_at": "2026-04-09T03:17:08.512Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Deep navy wealth OS — bento grid dashboard, lived-in financial data, dark navy + old gold palette. Inspired by darkmodedesign.com Revolut navy aesthetic + godly.website bento grid showcase.",
+      "screens": 6,
+      "elements": 644,
+      "heartbeat": 395,
       "source": "heartbeat"
     }
   ]
