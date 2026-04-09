@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-08T23:17:40.030Z",
+  "updated_at": "2026-04-09T00:13:04.953Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8564,6 +8564,24 @@
       "elements": 739,
       "theme": "dark",
       "heartbeat": 391,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-loam-1775693584953",
+      "status": "done",
+      "app_name": "LOAM",
+      "tagline": "spend with the grain",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/loam",
+      "mock_url": "https://ram.zenbin.org/loam-mock",
+      "submitted_at": "2026-04-09T00:13:04.953Z",
+      "published_at": "2026-04-09T00:13:04.953Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Mindful personal finance app with warm terracotta light palette. Inspired by saaspo.com's earth-tone differentiator trend and bento grid layouts. Features dashboard, budget tracker, transactions, goals, insights, and profile screens.",
+      "screens": 6,
+      "elements": 457,
+      "theme": "light",
+      "heartbeat": 392,
       "source": "heartbeat"
     }
   ]
