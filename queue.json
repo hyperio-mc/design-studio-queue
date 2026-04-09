@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T01:17:07.893Z",
+  "updated_at": "2026-04-09T02:20:50.723Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8600,6 +8600,24 @@
       "elements": 597,
       "theme": "dark",
       "heartbeat": 393,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-revel-1775701250723",
+      "status": "done",
+      "app_name": "REVEL",
+      "tagline": "Find what's happening around you",
+      "archetype": "event-discovery",
+      "design_url": "https://ram.zenbin.org/revel",
+      "mock_url": "https://ram.zenbin.org/revel-mock",
+      "submitted_at": "2026-04-09T02:20:50.723Z",
+      "published_at": "2026-04-09T02:20:50.723Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme event discovery app with warm editorial serif aesthetic. Inspired by Lapa Ninja serif revival trend and Land-book 1950s warm earthy advertising palette. Terracotta + forest green on warm cream. Counter-trend to dark SaaS default.",
+      "screens": 6,
+      "elements": 525,
+      "theme": "light",
+      "heartbeat": 394,
       "source": "heartbeat"
     }
   ]
