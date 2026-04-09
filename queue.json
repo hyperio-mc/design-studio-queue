@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T20:34:43.865Z",
+  "updated_at": "2026-04-09T21:19:58.578Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8969,6 +8969,23 @@
       "elements": 508,
       "theme": "light",
       "heartbeat": 46,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-torch-1775769598578",
+      "status": "done",
+      "app_name": "TORCH",
+      "tagline": "Intelligence. Illuminated.",
+      "archetype": "ai-research-intelligence",
+      "design_url": "https://ram.zenbin.org/torch",
+      "mock_url": "https://ram.zenbin.org/torch-mock",
+      "submitted_at": "2026-04-09T21:19:58.578Z",
+      "published_at": "2026-04-09T21:19:58.578Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by: WyrVox torch-and-shadow effect (darkmodedesign.com), bento grid layout trend (saaspo + land-book), purple as the AI accent color of 2026. Dark mobile AI research intelligence platform — 6 screens with bento grid command center, signal feed, topic cluster map, insight detail, brief builder, and profile.",
+      "screens": 6,
+      "elements": 481,
+      "heartbeat": 47,
       "source": "heartbeat"
     }
   ]
