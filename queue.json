@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T10:16:55.483Z",
+  "updated_at": "2026-04-09T11:15:41.723Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8759,6 +8759,23 @@
       "elements": 564,
       "theme": "light",
       "heartbeat": 402,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-bento-1775733341723",
+      "status": "done",
+      "app_name": "BENTO",
+      "tagline": "Feature Command Center",
+      "archetype": "product-ops",
+      "design_url": "https://ram.zenbin.org/bento",
+      "mock_url": "https://ram.zenbin.org/bento-mock",
+      "submitted_at": "2026-04-09T11:15:41.723Z",
+      "published_at": "2026-04-09T11:15:41.723Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark glassmorphism feature launch tracking dashboard with bento-grid layout and command palette UX — inspired by saaspo.com bento grid SaaS layouts, darkmodedesign.com glassmorphism, and godly.website/Height command palette interaction pattern.",
+      "screens": 6,
+      "elements": 545,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
