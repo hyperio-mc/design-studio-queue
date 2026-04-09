@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T15:15:20.319Z",
+  "updated_at": "2026-04-09T16:15:09.961Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8864,6 +8864,23 @@
       "screens": 6,
       "elements": 595,
       "theme": "light",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-drip-1775751309961",
+      "status": "done",
+      "app_name": "DRIP",
+      "tagline": "Developer Release Intelligence Platform",
+      "archetype": "devops-monitoring",
+      "design_url": "https://ram.zenbin.org/drip",
+      "mock_url": "https://ram.zenbin.org/drip-mock",
+      "submitted_at": "2026-04-09T16:15:09.961Z",
+      "published_at": "2026-04-09T16:15:09.961Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "CI/CD pipeline monitoring tool. Dark theme. Linear design precision (obsessive spacing, indigo accent, Inter font, zero decoration) + Pellonium dot-grid motif (minimal.gallery). 6 screens: Dashboard, Build Detail, Deploy Timeline, Metrics, Team Activity, Integrations.",
+      "screens": 6,
+      "elements": 867,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
