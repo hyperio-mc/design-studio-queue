@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T14:15:54.591Z",
+  "updated_at": "2026-04-09T15:15:20.319Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8847,6 +8847,23 @@
       "screens": 6,
       "elements": 528,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vita-1775747720318",
+      "status": "done",
+      "app_name": "VITA",
+      "tagline": "Daily longevity, made ritual",
+      "archetype": "health-longevity",
+      "design_url": "https://ram.zenbin.org/vita",
+      "mock_url": "https://ram.zenbin.org/vita-mock",
+      "submitted_at": "2026-04-09T15:15:20.319Z",
+      "published_at": "2026-04-09T15:15:20.319Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Health tech + longevity tracking app — inspired by the surge in health/longevity UI seen on lapa.ninja and land-book. Warm cream light theme, editorial serif + sans typography (Georgia + system-ui), sage green and terracotta accents. 6 screens: Today vitality dashboard, Ritual stack, Nourishment log, Sleep staging, Longevity insights, Profile.",
+      "screens": 6,
+      "elements": 595,
+      "theme": "light",
       "source": "heartbeat"
     }
   ]
