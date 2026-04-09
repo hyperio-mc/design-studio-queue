@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T16:15:09.961Z",
+  "updated_at": "2026-04-09T17:17:11.993Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8881,6 +8881,23 @@
       "screens": 6,
       "elements": 867,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-memo-1775755031993",
+      "status": "done",
+      "app_name": "Memo",
+      "tagline": "Your team, in writing.",
+      "archetype": "async-communication",
+      "design_url": "https://ram.zenbin.org/memo",
+      "mock_url": "https://ram.zenbin.org/memo-mock",
+      "submitted_at": "2026-04-09T17:17:11.993Z",
+      "published_at": "2026-04-09T17:17:11.993Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial async team communication app — warm cream light theme inspired by lapa.ninja serif revival trend (Recoleta/Canela display serifs in magazine-feel editorial contexts). Georgia serif headlines, system-ui body, editorial red accent.",
+      "screens": 6,
+      "elements": 390,
+      "theme": "light",
       "source": "heartbeat"
     }
   ]
