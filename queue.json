@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T17:17:11.993Z",
+  "updated_at": "2026-04-09T18:17:25.706Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8898,6 +8898,24 @@
       "screens": 6,
       "elements": 390,
       "theme": "light",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-kira-1775758645705",
+      "status": "done",
+      "app_name": "KIRA",
+      "tagline": "creator intelligence, amplified",
+      "archetype": "creator-analytics",
+      "design_url": "https://ram.zenbin.org/kira",
+      "mock_url": "https://ram.zenbin.org/kira-mock",
+      "submitted_at": "2026-04-09T18:17:25.705Z",
+      "published_at": "2026-04-09T18:17:25.706Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Creator analytics dashboard — deep navy dark palette inspired by QASE on darkmodedesign.com, bento grid metrics from land-book, glassmorphism cards from godly.website. 6 screens: Dashboard, Content, Audience, Revenue, Insights, Profile.",
+      "screens": 6,
+      "elements": 565,
+      "theme": "dark",
+      "heartbeat": 18,
       "source": "heartbeat"
     }
   ]
