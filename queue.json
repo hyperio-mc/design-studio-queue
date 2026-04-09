@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T22:12:48.319Z",
+  "updated_at": "2026-04-09T23:13:55.185Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9004,6 +9004,24 @@
       "elements": 460,
       "theme": "light",
       "heartbeat": 415,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-auric-1775776435185",
+      "status": "done",
+      "app_name": "AURIC",
+      "tagline": "Premium Wealth Intelligence",
+      "archetype": "fintech-wealth",
+      "design_url": "https://ram.zenbin.org/auric",
+      "viewer_url": "https://ram.zenbin.org/auric-viewer",
+      "mock_url": "https://ram.zenbin.org/auric-mock",
+      "submitted_at": "2026-04-09T23:13:55.185Z",
+      "published_at": "2026-04-09T23:13:55.185Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Warm Charcoal + Gold premium wealth intelligence platform. Inspired by DarkModeDesign.com luxury palette, Land-book bento grid SaaS layouts, and minimal.gallery typography scale contrast.",
+      "screens": 6,
+      "elements": 823,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
