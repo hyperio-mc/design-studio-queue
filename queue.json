@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T12:43:40.803Z",
+  "updated_at": "2026-04-09T13:15:02.476Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8812,6 +8812,24 @@
       "elements": 641,
       "theme": "dark",
       "heartbeat": 45,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pave-1775740502476",
+      "status": "done",
+      "app_name": "PAVE",
+      "tagline": "wealth, made clear",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/pave",
+      "mock_url": "https://ram.zenbin.org/pave-mock",
+      "submitted_at": "2026-04-09T13:15:02.476Z",
+      "published_at": "2026-04-09T13:15:02.476Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal wealth intelligence app inspired by Old Tom Capital finance-minimal aesthetic (minimal.gallery) and Sparkles warm multi-hue palette (lapa.ninja). Light theme with warm cream BG, deep teal accent, terracotta secondary. 6 screens: portfolio overview, holdings, insights, goals, transactions, profile.",
+      "screens": 6,
+      "elements": 455,
+      "theme": "light",
+      "heartbeat": 406,
       "source": "heartbeat"
     }
   ]
