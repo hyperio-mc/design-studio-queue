@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T04:42:59.872Z",
+  "updated_at": "2026-04-09T05:15:01.182Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8670,6 +8670,24 @@
       "elements": 608,
       "theme": "dark",
       "heartbeat": 44,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-chalk-1775711701182",
+      "status": "done",
+      "app_name": "CHALK",
+      "tagline": "Think in long form",
+      "archetype": "editorial-knowledge",
+      "design_url": "https://ram.zenbin.org/chalk",
+      "mock_url": "https://ram.zenbin.org/chalk-mock",
+      "submitted_at": "2026-04-09T05:15:01.182Z",
+      "published_at": "2026-04-09T05:15:01.182Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Editorial knowledge app inspired by minimal.gallery Kinfolk-effect editorial pacing + lapa.ninja serif typography revival + saaspo.com bento grid feature trend. Light theme: warm cream, terracotta single accent, Georgia serif headlines.",
+      "screens": 6,
+      "elements": 926,
+      "theme": "light",
+      "heartbeat": "chalk",
       "source": "heartbeat"
     }
   ]
