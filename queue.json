@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T09:14:01.722Z",
+  "updated_at": "2026-04-09T10:16:55.483Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8741,6 +8741,24 @@
       "screens": 6,
       "elements": 562,
       "heartbeat": 401,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-spine-1775729815483",
+      "status": "done",
+      "app_name": "SPINE",
+      "tagline": "your reading life, beautifully tracked",
+      "archetype": "reading-tracker",
+      "design_url": "https://ram.zenbin.org/spine",
+      "mock_url": "https://ram.zenbin.org/spine-mock",
+      "submitted_at": "2026-04-09T10:16:55.483Z",
+      "published_at": "2026-04-09T10:16:55.483Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a reading life tracker app inspired by minimal.gallery editorial serif revival, lapa.ninja warm parchment backgrounds, and saaspo bento-grid feature cards. Light theme.",
+      "screens": 6,
+      "elements": 564,
+      "theme": "light",
+      "heartbeat": 402,
       "source": "heartbeat"
     }
   ]
