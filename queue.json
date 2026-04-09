@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T11:15:41.723Z",
+  "updated_at": "2026-04-09T12:22:05.657Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8776,6 +8776,24 @@
       "screens": 6,
       "elements": 545,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-liga-1775737325657",
+      "status": "done",
+      "app_name": "LIGA",
+      "tagline": "Independent type. Human-made.",
+      "archetype": "type-tool",
+      "design_url": "https://ram.zenbin.org/liga",
+      "mock_url": "https://ram.zenbin.org/liga-mock",
+      "submitted_at": "2026-04-09T12:22:05.657Z",
+      "published_at": "2026-04-09T12:22:05.657Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Type discovery & licensing app for independent foundries. Inspired by KOMETA Typefaces (minimal.gallery) archival index aesthetic and editorial serif revival on siteinspire.com. Light cream paper palette, ink-black text, warm gold accent.",
+      "screens": 7,
+      "elements": 462,
+      "theme": "light",
+      "heartbeat": "auto",
       "source": "heartbeat"
     }
   ]
