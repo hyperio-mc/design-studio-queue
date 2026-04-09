@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T13:15:02.476Z",
+  "updated_at": "2026-04-09T14:15:54.591Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8830,6 +8830,23 @@
       "elements": 455,
       "theme": "light",
       "heartbeat": 406,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-grav-1775744154590",
+      "status": "done",
+      "app_name": "GRAV",
+      "tagline": "AI Relationship Intelligence",
+      "archetype": "network-intelligence",
+      "design_url": "https://ram.zenbin.org/grav",
+      "mock_url": "https://ram.zenbin.org/grav-mock",
+      "submitted_at": "2026-04-09T14:15:54.590Z",
+      "published_at": "2026-04-09T14:15:54.591Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark-mode AI relationship intelligence app inspired by Reflect.app's cosmic deep navy palette (#030014) seen on Godly.website — featuring bento feature grid, glassmorphic cards, gradient text headings, orbital contact visualizations, and a gravitational scoring system.",
+      "screens": 6,
+      "elements": 528,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
