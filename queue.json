@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T05:15:01.182Z",
+  "updated_at": "2026-04-09T06:16:38.783Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8688,6 +8688,24 @@
       "elements": 926,
       "theme": "light",
       "heartbeat": "chalk",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-fend-1775715398783",
+      "status": "done",
+      "app_name": "FEND",
+      "tagline": "See every threat before it lands",
+      "archetype": "security-intelligence",
+      "design_url": "https://ram.zenbin.org/fend",
+      "viewer_url": "https://ram.zenbin.org/fend-viewer",
+      "mock_url": "https://ram.zenbin.org/fend-mock",
+      "submitted_at": "2026-04-09T06:16:38.783Z",
+      "published_at": "2026-04-09T06:16:38.783Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Developer-minimal dark UI for a threat intelligence platform. Inspired by darkmodedesign.com (Linear/Vercel/Raycast aesthetic), land-book.com oversized stat hero pattern, and saaspo.com bento grid feature sections. Amber-orange accent deliberately avoiding the clichéd AI purple gradient.",
+      "screens": 6,
+      "elements": 521,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
