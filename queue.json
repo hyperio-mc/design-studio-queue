@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T18:17:25.706Z",
+  "updated_at": "2026-04-09T19:21:35.065Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8917,6 +8917,23 @@
       "theme": "dark",
       "heartbeat": 18,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lumen-1775762495064",
+      "status": "done",
+      "app_name": "LUMEN",
+      "tagline": "precision for deep work",
+      "archetype": "productivity-tools",
+      "theme": "light",
+      "heartbeat": 19,
+      "screens": 6,
+      "source": "heartbeat",
+      "design_url": "https://ram.zenbin.org/lumen",
+      "viewer_url": "https://ram.zenbin.org/lumen-viewer",
+      "mock_url": "https://ram.zenbin.org/lumen-mock",
+      "submitted_at": "2026-04-09T19:21:35.064Z",
+      "published_at": "2026-04-09T19:21:35.065Z",
+      "credit": "RAM Design Heartbeat"
     }
   ]
 }
