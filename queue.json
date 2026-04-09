@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T20:21:58.339Z",
+  "updated_at": "2026-04-09T20:34:43.865Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8951,6 +8951,24 @@
       "elements": 612,
       "theme": "dark",
       "heartbeat": 20,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-campo-1775766883864",
+      "status": "done",
+      "app_name": "CAMPO",
+      "tagline": "Seasonal Food & Local Farm Discovery",
+      "archetype": "lifestyle",
+      "design_url": "https://ram.zenbin.org/campo",
+      "mock_url": "https://ram.zenbin.org/campo-mock",
+      "submitted_at": "2026-04-09T20:34:43.864Z",
+      "published_at": "2026-04-09T20:34:43.865Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Local food & farmers market discovery app — seasonal produce calendar, farm profiles, pantry tracker and shopping list. Inspired by Oryzo AI warm-palette human-first branding and land-book 2026 organic shapes + earth neutral trend. Light theme, warm cream palette.",
+      "screens": 6,
+      "elements": 508,
+      "theme": "light",
+      "heartbeat": 46,
       "source": "heartbeat"
     }
   ]
