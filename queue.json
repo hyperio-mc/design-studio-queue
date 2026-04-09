@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T21:51:31.561Z",
+  "updated_at": "2026-04-09T22:12:48.319Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8986,6 +8986,24 @@
       "screens": 6,
       "elements": 481,
       "heartbeat": 47,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-petal-1775772768318",
+      "status": "done",
+      "app_name": "Petal",
+      "tagline": "Your daily wellness garden",
+      "archetype": "wellness-habits",
+      "design_url": "https://ram.zenbin.org/petal",
+      "mock_url": "https://ram.zenbin.org/petal-mock",
+      "submitted_at": "2026-04-09T22:12:48.318Z",
+      "published_at": "2026-04-09T22:12:48.319Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Calm micro-wellness habit tracker inspired by lapa.ninja earthy palette trend, bento grid layouts from saaspo, and Minimal Gallery typography-first approach. Light theme: warm cream + sage green + amber.",
+      "screens": 6,
+      "elements": 460,
+      "theme": "light",
+      "heartbeat": 415,
       "source": "heartbeat"
     }
   ]
