@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T12:22:05.657Z",
+  "updated_at": "2026-04-09T12:43:40.803Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8794,6 +8794,24 @@
       "elements": 462,
       "theme": "light",
       "heartbeat": "auto",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ridge-1775738620803",
+      "status": "done",
+      "app_name": "RIDGE",
+      "tagline": "Trail Running & Mountain Performance",
+      "archetype": "health",
+      "design_url": "https://ram.zenbin.org/ridge",
+      "mock_url": "https://ram.zenbin.org/ridge-mock",
+      "submitted_at": "2026-04-09T12:43:40.803Z",
+      "published_at": "2026-04-09T12:43:40.803Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Trail running and mountain performance tracker. Inspired by Mertana ski brand (Dribbble 13.5k saves) editorial full-viewport-width bold type on deep black #030404, and Nixtio beauty booking counterintuitive terracotta on near-black. 6 screens: Today dashboard, Routes, Route Detail, Stats, Kit/Gear, Profile. Dark theme, rust accent.",
+      "screens": 6,
+      "elements": 641,
+      "theme": "dark",
+      "heartbeat": 45,
       "source": "heartbeat"
     }
   ]
