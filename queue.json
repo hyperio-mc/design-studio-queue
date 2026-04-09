@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T04:14:33.773Z",
+  "updated_at": "2026-04-09T04:42:59.872Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8652,6 +8652,24 @@
       "screens": 6,
       "elements": 517,
       "theme": "light",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-splice-1775709779871",
+      "status": "done",
+      "app_name": "SPLICE",
+      "tagline": "Motion Design Review",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/splice",
+      "mock_url": "https://ram.zenbin.org/splice-mock",
+      "submitted_at": "2026-04-09T04:42:59.871Z",
+      "published_at": "2026-04-09T04:42:59.872Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Real-time motion design review platform with frame-accurate annotations, threaded feedback, and timeline editor. Inspired by Jitter (Mobbin Site of the Year) multi-color accent palette (cyan + acid yellow + violet + coral on dark) and Mobbin floating pill glassmorphism nav pattern.",
+      "screens": 6,
+      "elements": 608,
+      "theme": "dark",
+      "heartbeat": 44,
       "source": "heartbeat"
     }
   ]
