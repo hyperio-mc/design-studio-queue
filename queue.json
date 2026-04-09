@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T06:16:38.783Z",
+  "updated_at": "2026-04-09T07:14:40.072Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -8706,6 +8706,24 @@
       "screens": 6,
       "elements": 521,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-velo-1775718880072",
+      "status": "done",
+      "app_name": "VELO",
+      "tagline": "Your ride. Perfected.",
+      "archetype": "fitness-cycling",
+      "design_url": "https://ram.zenbin.org/velo",
+      "mock_url": "https://ram.zenbin.org/velo-mock",
+      "submitted_at": "2026-04-09T07:14:40.072Z",
+      "published_at": "2026-04-09T07:14:40.072Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Premium cycling training companion — editorial light theme inspired by minimal.gallery \"Paper\" restraint and Saaspo component-grid collage trend. Warm paper palette, forest green accent, serif/sans typographic hierarchy, 6 screens.",
+      "screens": 6,
+      "elements": 438,
+      "theme": "light",
+      "heartbeat": 400,
       "source": "heartbeat"
     }
   ]
