@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T04:29:30.649Z",
+  "updated_at": "2026-04-10T05:12:10.931Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9128,6 +9128,24 @@
       "elements": 502,
       "theme": "dark",
       "heartbeat": 47,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-parch-1775797930931",
+      "status": "done",
+      "app_name": "PARCH",
+      "tagline": "Your reading life, beautifully kept",
+      "archetype": "reading-tracker",
+      "design_url": "https://ram.zenbin.org/parch",
+      "mock_url": "https://ram.zenbin.org/parch-mock",
+      "submitted_at": "2026-04-10T05:12:10.931Z",
+      "published_at": "2026-04-10T05:12:10.931Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Heartbeat #48: Light-theme reading tracker / personal library companion. Warm parchment editorial palette with book spine library, reading session tracker, highlights collection, curated reading lists, year-in-books stats, and reader profile. Inspired by Litbix (minimal.gallery) and Stripe Sessions 2026 (godly.website) large-type editorial aesthetic.",
+      "screens": 6,
+      "elements": 454,
+      "theme": "light",
+      "heartbeat": 48,
       "source": "heartbeat"
     }
   ]
