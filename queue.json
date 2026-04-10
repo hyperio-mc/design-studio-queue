@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T21:51:25.182Z",
+  "updated_at": "2026-04-10T22:21:45.521Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9487,6 +9487,23 @@
       "elements": 482,
       "theme": "light",
       "heartbeat": 39,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-dial-1775859705521",
+      "status": "done",
+      "app_name": "DIAL",
+      "tagline": "Market intelligence, terminal-grade.",
+      "archetype": "fintech-ai-terminal",
+      "design_url": "https://ram.zenbin.org/dial",
+      "mock_url": "https://ram.zenbin.org/dial-mock",
+      "submitted_at": "2026-04-10T22:21:45.521Z",
+      "published_at": "2026-04-10T22:21:45.521Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Bloomberg Terminal × AI glow bento — dark navy + electric cyan real-time market intelligence. Inspired by godly.website sci-fi terminal aesthetic + saaspo.com AI SaaS glow + darkmodedesign.com parallel dark systems.",
+      "screens": 6,
+      "elements": 2028,
+      "heartbeat": 40,
       "source": "heartbeat"
     }
   ]
