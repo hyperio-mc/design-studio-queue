@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T17:13:52.983Z",
+  "updated_at": "2026-04-10T18:16:50.550Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9398,6 +9398,23 @@
       "elements": 1274,
       "theme": "dark",
       "heartbeat": 21,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vale-1775845010550",
+      "status": "done",
+      "app_name": "Vale",
+      "tagline": "Your money, journalled daily",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/vale",
+      "mock_url": "https://ram.zenbin.org/vale-mock",
+      "submitted_at": "2026-04-10T18:16:50.550Z",
+      "published_at": "2026-04-10T18:16:50.550Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal finance journal app. Inspired by minimal.gallery editorial whitespace and land-book warm-neutral serif renaissance. Warm cream light theme, barely-there UI, 6 screens.",
+      "screens": 6,
+      "elements": 544,
+      "heartbeat": 22,
       "source": "heartbeat"
     }
   ]
