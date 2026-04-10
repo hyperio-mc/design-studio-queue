@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T10:13:38.650Z",
+  "updated_at": "2026-04-10T11:16:31.739Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9253,6 +9253,24 @@
       "elements": 583,
       "theme": "dark",
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lode-1775819791739",
+      "status": "done",
+      "app_name": "LODE",
+      "tagline": "Codebase Intelligence",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/lode",
+      "mock_url": "https://ram.zenbin.org/lode-mock",
+      "submitted_at": "2026-04-10T11:16:31.739Z",
+      "published_at": "2026-04-10T11:16:31.739Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Spaceship manual aesthetic from Godly.website — technical documentation UI for codebase debt tracking, warm parchment light theme, terracotta accent as anti-purple AI challenger, monospace throughout",
+      "screens": 6,
+      "elements": 620,
+      "theme": "light",
+      "heartbeat": 43,
       "source": "heartbeat"
     }
   ]
