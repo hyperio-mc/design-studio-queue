@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T08:13:42.155Z",
+  "updated_at": "2026-04-10T08:13:47.085Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9194,6 +9194,24 @@
       "mock_url": "https://ram.zenbin.org/nura-mock",
       "submitted_at": "2026-04-10T08:13:42.155Z",
       "published_at": "2026-04-10T08:13:42.155Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by Godly.website electric bioluminescence trend — acid green + violet on deep black. Cognitive performance tracker with neural state dashboard, focus session timer with HRV tracking, sleep recovery scoring, and AI flow intelligence. Dark theme, floating card system with gleam-edge cards.",
+      "screens": 6,
+      "elements": 556,
+      "theme": "dark",
+      "heartbeat": "Apr-10-2026",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nura-1775808827085",
+      "status": "done",
+      "app_name": "NURA",
+      "tagline": "Neural state, in focus",
+      "archetype": "cognitive-performance",
+      "design_url": "https://ram.zenbin.org/nura",
+      "mock_url": "https://ram.zenbin.org/nura-mock",
+      "submitted_at": "2026-04-10T08:13:47.085Z",
+      "published_at": "2026-04-10T08:13:47.085Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Inspired by Godly.website electric bioluminescence trend — acid green + violet on deep black. Cognitive performance tracker with neural state dashboard, focus session timer with HRV tracking, sleep recovery scoring, and AI flow intelligence. Dark theme, floating card system with gleam-edge cards.",
       "screens": 6,
