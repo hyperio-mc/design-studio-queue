@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T12:31:43.394Z",
+  "updated_at": "2026-04-10T13:22:10.883Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9307,6 +9307,24 @@
       "elements": 500,
       "theme": "light",
       "heartbeat": 48,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pulsar-1775827330883",
+      "status": "done",
+      "app_name": "PULSAR",
+      "tagline": "Real-time API pulse monitor",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/pulsar",
+      "mock_url": "https://ram.zenbin.org/pulsar-mock",
+      "submitted_at": "2026-04-10T13:22:10.883Z",
+      "published_at": "2026-04-10T13:22:10.883Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark luxury API monitoring app — pure black base with aurora violet/cyan/green palette inspired by Orbi (darkmodedesign.com) multicolor light-streak gradient and Neon DB terminal green aesthetic. 6 screens: Dashboard, Endpoint Detail, Alert Center, Log Stream, Integrations, Settings.",
+      "screens": 6,
+      "elements": 711,
+      "theme": "dark",
+      "heartbeat": 49,
       "source": "heartbeat"
     }
   ]
