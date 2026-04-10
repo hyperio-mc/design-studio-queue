@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T20:27:38.913Z",
+  "updated_at": "2026-04-10T21:11:29.467Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9469,6 +9469,24 @@
       "elements": 521,
       "theme": "dark",
       "heartbeat": 49,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-stacks-1775855489467",
+      "status": "done",
+      "app_name": "STACKS",
+      "tagline": "Read deeply, track beautifully",
+      "archetype": "reading-tracker",
+      "design_url": "https://ram.zenbin.org/stacks",
+      "mock_url": "https://ram.zenbin.org/stacks-mock",
+      "submitted_at": "2026-04-10T21:11:29.467Z",
+      "published_at": "2026-04-10T21:11:29.467Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal reading stack & book intelligence app — warm editorial light inspired by Litbix and KOMETA Typefaces on minimal.gallery. Serif-forward, terracotta accent, parchment palette.",
+      "screens": 6,
+      "elements": 482,
+      "theme": "light",
+      "heartbeat": 39,
       "source": "heartbeat"
     }
   ]
