@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T16:13:55.885Z",
+  "updated_at": "2026-04-10T17:13:52.983Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9380,6 +9380,24 @@
       "screens": 6,
       "elements": 410,
       "heartbeat": true,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-sonar-1775841232983",
+      "status": "done",
+      "app_name": "SONAR",
+      "tagline": "Voice intelligence, decoded",
+      "archetype": "voice-ai-ops",
+      "design_url": "https://ram.zenbin.org/sonar",
+      "mock_url": "https://ram.zenbin.org/sonar-mock",
+      "submitted_at": "2026-04-10T17:13:52.983Z",
+      "published_at": "2026-04-10T17:13:52.983Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI voice agent monitoring platform with a \"spaceship manual\" / engineering diagram aesthetic — inspired by Godly.website's labeled callout-line, hairline technical grid trend and Saaspo's AI voice agent SaaS category.",
+      "screens": 6,
+      "elements": 1274,
+      "theme": "dark",
+      "heartbeat": 21,
       "source": "heartbeat"
     }
   ]
