@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-09T23:13:55.185Z",
+  "updated_at": "2026-04-10T00:18:48.199Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9022,6 +9022,23 @@
       "screens": 6,
       "elements": 823,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vell-1775780328199",
+      "status": "done",
+      "app_name": "VELL",
+      "tagline": "Your money, clearly annotated",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/vell",
+      "mock_url": "https://ram.zenbin.org/vell-mock",
+      "submitted_at": "2026-04-10T00:18:48.199Z",
+      "published_at": "2026-04-10T00:18:48.199Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal finance app inspired by Minimal Gallery warm off-white palettes and Land-Book annotation-style UI (hand-drawn underlines on key numbers, Ellipsus influence). Persimmon accent on vellum backgrounds. 6 screens: Dashboard, Spending, Budget, Goals, Insights, Profile.",
+      "screens": 6,
+      "elements": 698,
+      "theme": "light",
       "source": "heartbeat"
     }
   ]
