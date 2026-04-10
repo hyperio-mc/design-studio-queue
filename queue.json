@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T05:12:10.931Z",
+  "updated_at": "2026-04-10T06:14:29.391Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9146,6 +9146,24 @@
       "elements": 454,
       "theme": "light",
       "heartbeat": 48,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-sloe-1775801669391",
+      "status": "done",
+      "app_name": "SLOE",
+      "tagline": "Align with your body clock",
+      "archetype": "health-circadian",
+      "design_url": "https://ram.zenbin.org/sloe",
+      "mock_url": "https://ram.zenbin.org/sloe-mock",
+      "submitted_at": "2026-04-10T06:14:29.391Z",
+      "published_at": "2026-04-10T06:14:29.391Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Circadian health & sleep intelligence mobile app — warm amber dark palette inspired by \"Warm Terminal\" trend from Saaspo/DarkModeDesign research. Uses amber/brown on near-black, almost unused in mobile wellness. Irony: a sleep app that avoids the cold-blue palette that disrupts melatonin.",
+      "screens": 6,
+      "elements": 563,
+      "theme": "dark",
+      "heartbeat": 49,
       "source": "heartbeat"
     }
   ]
