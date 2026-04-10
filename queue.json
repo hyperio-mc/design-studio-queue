@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T15:13:39.298Z",
+  "updated_at": "2026-04-10T16:13:55.885Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9363,6 +9363,23 @@
       "elements": 629,
       "theme": "dark",
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-plinth-1775837635885",
+      "status": "done",
+      "app_name": "PLINTH",
+      "tagline": "Your financial foundation",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/plinth",
+      "mock_url": "https://ram.zenbin.org/plinth-mock",
+      "submitted_at": "2026-04-10T16:13:55.885Z",
+      "published_at": "2026-04-10T16:13:55.885Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a personal finance OS using asymmetric bento grid cards inspired by Saaspo bento category and minimal.gallery warm cream aesthetic, with serif display typography as a counter to the Inter monoculture",
+      "screens": 6,
+      "elements": 410,
+      "heartbeat": true,
       "source": "heartbeat"
     }
   ]
