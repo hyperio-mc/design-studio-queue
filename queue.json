@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T01:19:10.812Z",
+  "updated_at": "2026-04-10T02:12:49.011Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9057,6 +9057,24 @@
       "elements": 846,
       "theme": "dark",
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-kelp-1775787169010",
+      "status": "done",
+      "app_name": "KELP",
+      "tagline": "grow quietly, one habit at a time",
+      "archetype": "habit-tracker",
+      "design_url": "https://ram.zenbin.org/kelp",
+      "mock_url": "https://ram.zenbin.org/kelp-mock",
+      "submitted_at": "2026-04-10T02:12:49.010Z",
+      "published_at": "2026-04-10T02:12:49.011Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a mindful habit tracker inspired by the bento grid layout trend (land-book.com) and the earth-tone + typographic restraint seen on minimal.gallery. Light theme with warm linen palette and single deep teal accent.",
+      "screens": 6,
+      "elements": 586,
+      "theme": "light",
+      "heartbeat": 22,
       "source": "heartbeat"
     }
   ]
