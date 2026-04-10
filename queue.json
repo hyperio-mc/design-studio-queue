@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T09:13:10.854Z",
+  "updated_at": "2026-04-10T10:13:38.650Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9235,6 +9235,24 @@
       "screens": 6,
       "elements": 435,
       "heartbeat": 46,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-zest-1775816018650",
+      "status": "done",
+      "app_name": "ZEST",
+      "tagline": "AI pipeline intelligence",
+      "archetype": "revenue-intelligence",
+      "design_url": "https://ram.zenbin.org/zest",
+      "mock_url": "https://ram.zenbin.org/zest-mock",
+      "submitted_at": "2026-04-10T10:13:38.650Z",
+      "published_at": "2026-04-10T10:13:38.650Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI-native pipeline intelligence app · dark cinema · warm amber accents · inspired by Attio/Clay on saaspo.com",
+      "screens": 6,
+      "elements": 583,
+      "theme": "dark",
+      "heartbeat": 42,
       "source": "heartbeat"
     }
   ]
