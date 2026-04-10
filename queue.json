@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T13:22:10.883Z",
+  "updated_at": "2026-04-10T14:18:30.712Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9325,6 +9325,25 @@
       "elements": 711,
       "theme": "dark",
       "heartbeat": 49,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-slab-1775830710712",
+      "status": "done",
+      "app_name": "SLAB",
+      "tagline": "The independent publisher's studio",
+      "archetype": "content-publishing",
+      "design_url": "https://ram.zenbin.org/slab",
+      "viewer_url": "https://ram.zenbin.org/slab-viewer",
+      "mock_url": "https://ram.zenbin.org/slab-mock",
+      "submitted_at": "2026-04-10T14:18:30.712Z",
+      "published_at": "2026-04-10T14:18:30.712Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Independent publisher content studio — editorial serif typography, bento analytics grid, warm cream palette with single terracotta accent. Inspired by Lapa Ninja serif revival, minimal.gallery typography-as-layout, Saaspo bento grid sections.",
+      "screens": 6,
+      "elements": 593,
+      "theme": "light",
+      "heartbeat": 50,
       "source": "heartbeat"
     }
   ]
