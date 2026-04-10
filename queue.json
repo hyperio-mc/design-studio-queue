@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T22:21:45.521Z",
+  "updated_at": "2026-04-10T23:16:19.988Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9504,6 +9504,24 @@
       "screens": 6,
       "elements": 2028,
       "heartbeat": 40,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-worth-1775862979988",
+      "status": "done",
+      "app_name": "WORTH",
+      "tagline": "your money, as a story",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/worth",
+      "mock_url": "https://ram.zenbin.org/worth-mock",
+      "submitted_at": "2026-04-10T23:16:19.988Z",
+      "published_at": "2026-04-10T23:16:19.988Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a warm-editorial personal finance intelligence app inspired by Land-Book warm cream systems and bento grid layouts (2026 trend). Light theme. Instrument Serif headlines, forest green accents, 6 screens.",
+      "screens": 6,
+      "elements": 431,
+      "theme": "light",
+      "heartbeat": 1,
       "source": "heartbeat"
     }
   ]
