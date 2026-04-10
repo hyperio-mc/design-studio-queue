@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T04:15:54.962Z",
+  "updated_at": "2026-04-10T04:29:30.649Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9110,6 +9110,24 @@
       "elements": 539,
       "theme": "light",
       "heartbeat": 421,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-hook-1775795370649",
+      "status": "done",
+      "app_name": "HOOK",
+      "tagline": "Webhook Inspector & Debugger",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/hook",
+      "mock_url": "https://ram.zenbin.org/hook-mock",
+      "submitted_at": "2026-04-10T04:29:30.649Z",
+      "published_at": "2026-04-10T04:29:30.649Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Webhook delivery inspector and debugger for developers. Real-time event feed, request/response inspection with JSON syntax highlighting, per-endpoint health monitoring, alert rules, and delivery timeline. Inspired by Linear's spatial elevation model (no shadows, luminance-only depth), Awwwards SOTD Darknode two-accent minimalism, and Orbit ML monitoring aesthetic. Dark theme, near-black + indigo + teal semantic status system.",
+      "screens": 6,
+      "elements": 502,
+      "theme": "dark",
+      "heartbeat": 47,
       "source": "heartbeat"
     }
   ]
