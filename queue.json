@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T08:13:47.085Z",
+  "updated_at": "2026-04-10T09:13:10.854Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9218,6 +9218,23 @@
       "elements": 556,
       "theme": "dark",
       "heartbeat": "Apr-10-2026",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-veld-1775812390854",
+      "status": "done",
+      "app_name": "VELD",
+      "tagline": "Know your footprint. Own your future.",
+      "archetype": "sustainability-tracker",
+      "design_url": "https://ram.zenbin.org/veld",
+      "mock_url": "https://ram.zenbin.org/veld-mock",
+      "submitted_at": "2026-04-10T09:13:10.854Z",
+      "published_at": "2026-04-10T09:13:10.854Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light theme sustainability / carbon footprint tracker. Inspired by minimal.gallery muted pastel earth tones and land-book.com bento grid layouts. Warm cream palette with sage green and ochre accents. Serif headline typography. Bento-grid feature sections.",
+      "screens": 6,
+      "elements": 435,
+      "heartbeat": 46,
       "source": "heartbeat"
     }
   ]
