@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T02:12:49.011Z",
+  "updated_at": "2026-04-10T03:16:03.832Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9075,6 +9075,23 @@
       "elements": 586,
       "theme": "light",
       "heartbeat": 22,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-plex-1775790963832",
+      "status": "done",
+      "app_name": "PLEX",
+      "tagline": "Developer team intelligence",
+      "archetype": "developer-tooling",
+      "design_url": "https://ram.zenbin.org/plex",
+      "mock_url": "https://ram.zenbin.org/plex-mock",
+      "submitted_at": "2026-04-10T03:16:03.832Z",
+      "published_at": "2026-04-10T03:16:03.832Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark developer analytics dashboard inspired by DarkModeDesign.com B2B SaaS palette (Deep Navy + Cyan) and Saaspo bento grid layouts. 6 screens: Dashboard (bento grid), Pull Requests, Team, Code Quality, Deployments, Settings.",
+      "screens": 6,
+      "elements": 707,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
