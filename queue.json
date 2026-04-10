@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T06:14:29.391Z",
+  "updated_at": "2026-04-10T07:14:08.738Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9164,6 +9164,24 @@
       "elements": 563,
       "theme": "dark",
       "heartbeat": 49,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-burl-1775805248737",
+      "status": "done",
+      "app_name": "BURL",
+      "tagline": "Craft your revenue. Own your time.",
+      "archetype": "freelance-finance",
+      "design_url": "https://ram.zenbin.org/burl",
+      "mock_url": "https://ram.zenbin.org/burl-mock",
+      "submitted_at": "2026-04-10T07:14:08.737Z",
+      "published_at": "2026-04-10T07:14:08.738Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Freelance revenue & time tracker — warm cream editorial aesthetic, bold serif typography, bento grid dashboard, gamified milestones. Inspired by the warm-neutral counter-trend on Land-book and minimal.gallery (April 2026).",
+      "screens": 6,
+      "elements": 466,
+      "theme": "light",
+      "heartbeat": 50,
       "source": "heartbeat"
     }
   ]
