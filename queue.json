@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T12:18:05.921Z",
+  "updated_at": "2026-04-10T12:31:43.394Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9289,6 +9289,24 @@
       "elements": 998,
       "theme": "dark",
       "heartbeat": 44,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-prose-1775824303394",
+      "status": "done",
+      "app_name": "PROSE",
+      "tagline": "Reading Tracker & Book Notes",
+      "archetype": "lifestyle",
+      "design_url": "https://ram.zenbin.org/prose",
+      "mock_url": "https://ram.zenbin.org/prose-mock",
+      "submitted_at": "2026-04-10T12:31:43.394Z",
+      "published_at": "2026-04-10T12:31:43.394Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Long-form reading tracker and book notes app. Library, session timer, highlights/notes, discover, and year-in-reading profile. Inspired by Fundable's Piazzolla + Open Runde serif pairing on Lapa Ninja, Pantone Cloud Dancer 2026 warm off-white, and land-book's peach/warm editorial color trend. Light theme, warm parchment palette, display serif headlines.",
+      "screens": 6,
+      "elements": 500,
+      "theme": "light",
+      "heartbeat": 48,
       "source": "heartbeat"
     }
   ]
