@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T03:16:03.832Z",
+  "updated_at": "2026-04-10T04:15:54.962Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9092,6 +9092,24 @@
       "screens": 6,
       "elements": 707,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mote-1775794554962",
+      "status": "done",
+      "app_name": "MOTE",
+      "tagline": "moments, distilled",
+      "archetype": "micro-journaling",
+      "design_url": "https://ram.zenbin.org/mote",
+      "mock_url": "https://ram.zenbin.org/mote-mock",
+      "submitted_at": "2026-04-10T04:15:54.962Z",
+      "published_at": "2026-04-10T04:15:54.962Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a micro-journaling mobile app inspired by minimal.gallery's barely-there editorial UI and lapa.ninja's bento grid layout trend. Light theme, warm cream palette, editorial serif typography, 6 screens.",
+      "screens": 6,
+      "elements": 539,
+      "theme": "light",
+      "heartbeat": 421,
       "source": "heartbeat"
     }
   ]
