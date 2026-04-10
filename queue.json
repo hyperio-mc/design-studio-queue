@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T20:13:15.261Z",
+  "updated_at": "2026-04-10T20:27:38.913Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9451,6 +9451,24 @@
       "screens": 6,
       "elements": 393,
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vitals-1775852858912",
+      "status": "done",
+      "app_name": "VITALS",
+      "tagline": "Personal Health Dashboard",
+      "archetype": "health",
+      "design_url": "https://ram.zenbin.org/vitals",
+      "mock_url": "https://ram.zenbin.org/vitals-mock",
+      "submitted_at": "2026-04-10T20:27:38.912Z",
+      "published_at": "2026-04-10T20:27:38.913Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal health dashboard with per-metric hue ownership model. Today readiness ring, Heart Rate (coral), Sleep (purple), HRV (teal), Insights (amber), Recovery (green). Inspired by Reflect's #030014 purple-black substrate, Phantom's per-section hue model, and Augen's four-accent signal system. Dark theme, opacity-based text hierarchy, AI provenance disclosure (Cosmos Show/Blur/Hide pattern).",
+      "screens": 6,
+      "elements": 521,
+      "theme": "dark",
+      "heartbeat": 49,
       "source": "heartbeat"
     }
   ]
