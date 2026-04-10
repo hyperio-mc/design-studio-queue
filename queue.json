@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T14:18:30.712Z",
+  "updated_at": "2026-04-10T15:13:39.298Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9344,6 +9344,25 @@
       "elements": 593,
       "theme": "light",
       "heartbeat": 50,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-wick-1775834019298",
+      "status": "done",
+      "app_name": "WICK",
+      "tagline": "read the market, feel the move",
+      "archetype": "fintech-trading",
+      "design_url": "https://ram.zenbin.org/wick",
+      "viewer_url": "https://ram.zenbin.org/wick-viewer",
+      "mock_url": "https://ram.zenbin.org/wick-mock",
+      "submitted_at": "2026-04-10T15:13:39.298Z",
+      "published_at": "2026-04-10T15:13:39.298Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by darkmodedesign.com monochromatic accent discipline and godly.website oversized display typography — dark candlestick trading mobile companion app with amber glow CTAs and per-asset sparklines.",
+      "screens": 6,
+      "elements": 629,
+      "theme": "dark",
+      "heartbeat": 42,
       "source": "heartbeat"
     }
   ]
