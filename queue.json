@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T11:16:31.739Z",
+  "updated_at": "2026-04-10T12:18:05.921Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9271,6 +9271,24 @@
       "elements": 620,
       "theme": "light",
       "heartbeat": 43,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-cron-1775823485921",
+      "status": "done",
+      "app_name": "CRON",
+      "tagline": "Job Scheduling & Observability",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/cron",
+      "mock_url": "https://ram.zenbin.org/cron-mock",
+      "submitted_at": "2026-04-10T12:18:05.921Z",
+      "published_at": "2026-04-10T12:18:05.921Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI-powered cron job scheduling & observability platform. Inspired by Railway.app circuit-board connector lines (saaspo.com) and the \"Linear Look\" bento grid with ambient glow aesthetic (darkmodedesign.com). Dark theme with neon mint accent (#3BFF8C), 6 screens: Dashboard, Job List, Job Detail, Log Stream, Monitor, Alerts.",
+      "screens": 6,
+      "elements": 998,
+      "theme": "dark",
+      "heartbeat": 44,
       "source": "heartbeat"
     }
   ]
