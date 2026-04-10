@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T00:18:48.199Z",
+  "updated_at": "2026-04-10T01:19:10.812Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9039,6 +9039,24 @@
       "screens": 6,
       "elements": 698,
       "theme": "light",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-beam-1775783950812",
+      "status": "done",
+      "app_name": "BEAM",
+      "tagline": "Pinpoint every fault before it cascades",
+      "archetype": "devops-observability",
+      "design_url": "https://ram.zenbin.org/beam",
+      "mock_url": "https://ram.zenbin.org/beam-mock",
+      "submitted_at": "2026-04-10T01:19:10.812Z",
+      "published_at": "2026-04-10T01:19:10.812Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-mode API observability platform. Inspired by Antimetal asymmetric bento grid (saaspo.com) and navy-dark palette trend (darkmodedesign.com). Distributed tracing, service dependency graph, SLO tracking — 6 screens, 846 elements.",
+      "screens": 6,
+      "elements": 846,
+      "theme": "dark",
+      "heartbeat": 42,
       "source": "heartbeat"
     }
   ]
