@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T08:16:57.853Z",
+  "updated_at": "2026-04-11T09:17:32.278Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9699,6 +9699,25 @@
       "elements": 492,
       "theme": "light",
       "heartbeat": 43,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-orion-1775899052278",
+      "status": "done",
+      "app_name": "ORION",
+      "tagline": "See every signal. Miss nothing.",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/orion",
+      "mock_url": "https://ram.zenbin.org/orion-mock",
+      "viewer_url": "https://ram.zenbin.org/orion-viewer",
+      "submitted_at": "2026-04-11T09:17:32.278Z",
+      "published_at": "2026-04-11T09:17:32.278Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Infrastructure observability & alerting dashboard. Dark theme with bento grid services board, engineering-first monospace metrics, and three-layer calibrated dark palette. Inspired by Saaspo bento-grid SaaS trend + DarkModeDesign daytona.io aesthetic.",
+      "screens": 6,
+      "elements": 635,
+      "theme": "dark",
+      "heartbeat": 44,
       "source": "heartbeat"
     }
   ]
