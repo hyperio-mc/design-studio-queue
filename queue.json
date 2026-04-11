@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T20:26:09.827Z",
+  "updated_at": "2026-04-11T21:15:49.199Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9971,6 +9971,23 @@
       "elements": 565,
       "theme": "light",
       "heartbeat": 467,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-klara-1775942149199",
+      "status": "done",
+      "app_name": "KLARA",
+      "tagline": "surface what you know",
+      "archetype": "developer-knowledge-base",
+      "design_url": "https://ram.zenbin.org/klara",
+      "mock_url": "https://ram.zenbin.org/klara-mock",
+      "submitted_at": "2026-04-11T21:15:49.199Z",
+      "published_at": "2026-04-11T21:15:49.199Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Developer knowledge base with surveillance/HUD terminal aesthetic. Neon green + cyan accent, corner brackets on every card, tracking reticle motifs, monospace metadata layer, grid overlay. Inspired by Godly.website surveillance HUD aesthetic + darkmodedesign.com developer tool dashboards.",
+      "screens": 6,
+      "elements": 810,
+      "heartbeat": 468,
       "source": "heartbeat"
     }
   ]
