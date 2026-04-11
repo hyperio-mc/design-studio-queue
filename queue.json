@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T06:34:48.839Z",
+  "updated_at": "2026-04-11T07:13:53.423Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9663,6 +9663,24 @@
       "screens": 6,
       "elements": 510,
       "heartbeat": "Apr-11-2026",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-camo-1775891633423",
+      "status": "done",
+      "app_name": "CAMO",
+      "tagline": "Go dark. Stay invisible.",
+      "archetype": "privacy-security",
+      "design_url": "https://ram.zenbin.org/camo",
+      "mock_url": "https://ram.zenbin.org/camo-mock",
+      "submitted_at": "2026-04-11T07:13:53.423Z",
+      "published_at": "2026-04-11T07:13:53.423Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark-theme personal privacy & digital exposure monitor. Inspired by Orbit ML Monitoring warm dark clinical aesthetic (Godly/Muzli research) + grotesque+monospace data precision pairing. Warm dark teal palette, semantic green/coral for safe/threat states, bento grid overview, 6 screens.",
+      "screens": 6,
+      "elements": 458,
+      "theme": "dark",
+      "heartbeat": 42,
       "source": "heartbeat"
     }
   ]
