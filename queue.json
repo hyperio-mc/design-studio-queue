@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T04:18:35.898Z",
+  "updated_at": "2026-04-11T04:36:19.178Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9609,6 +9609,24 @@
       "screens": 6,
       "elements": 685,
       "heartbeat": 447,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mark-1775882179178",
+      "status": "done",
+      "app_name": "MARK",
+      "tagline": "Freelance Time & Billing",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/mark",
+      "mock_url": "https://ram.zenbin.org/mark-mock",
+      "submitted_at": "2026-04-11T04:36:19.178Z",
+      "published_at": "2026-04-11T04:36:19.178Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Freelance time tracking and billing app. Light theme — Land-book deep teal #017C6E on warm cream #FAF9F6. Mobbin's floating glassmorphic pill tab bar pattern. Siteinspire editorial restraint (no shadows, depth via bg shifts). Project color-coded left borders. Screens: Today (active timer + project cards), Projects (budget progress), Timer (large display + controls), Log (timeline view), Invoice (full invoice builder), Reports (weekly bar chart + by-project breakdown).",
+      "screens": 6,
+      "elements": 500,
+      "theme": "light",
+      "heartbeat": 50,
       "source": "heartbeat"
     }
   ]
