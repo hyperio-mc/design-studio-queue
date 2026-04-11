@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T22:18:36.495Z",
+  "updated_at": "2026-04-11T23:27:32.114Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10007,6 +10007,24 @@
       "elements": 672,
       "theme": "light",
       "heartbeat": 469,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vela2-1775950052113",
+      "status": "done",
+      "app_name": "VELA",
+      "tagline": "Query the edge. Instantly.",
+      "archetype": "edge-analytics",
+      "design_url": "https://ram.zenbin.org/vela2",
+      "mock_url": "https://ram.zenbin.org/vela2-mock",
+      "submitted_at": "2026-04-11T23:27:32.113Z",
+      "published_at": "2026-04-11T23:27:32.114Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Edge analytics SaaS for AI applications. Dark: off-black #111111 + electric teal #00E599. Inspired by Neon.com palette restraint and 108 Supply condensed type architecture.",
+      "screens": 6,
+      "elements": 509,
+      "theme": "dark",
+      "heartbeat": 470,
       "source": "heartbeat"
     }
   ]
