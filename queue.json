@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T07:13:53.423Z",
+  "updated_at": "2026-04-11T08:16:57.853Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9681,6 +9681,24 @@
       "elements": 458,
       "theme": "dark",
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-haul-1775895417853",
+      "status": "done",
+      "app_name": "HAUL",
+      "tagline": "Freelance income & project tracker",
+      "archetype": "freelance-finance",
+      "design_url": "https://ram.zenbin.org/haul",
+      "mock_url": "https://ram.zenbin.org/haul-mock",
+      "submitted_at": "2026-04-11T08:16:57.853Z",
+      "published_at": "2026-04-11T08:16:57.853Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme neubrutalist freelance income tracker. Inspired by Land-book neubrutalism trend (thick borders, offset shadows, flat fills) + Lapa Ninja/Saaspo research identifying orange as 2026 breakout brand color. Warm cream palette, bold orange accent, heavy grotesque typography, zero gradients. 6 screens: Dashboard, Projects, Timer, Invoices, Earnings, Profile.",
+      "screens": 6,
+      "elements": 492,
+      "theme": "light",
+      "heartbeat": 43,
       "source": "heartbeat"
     }
   ]
