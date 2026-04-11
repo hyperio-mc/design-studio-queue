@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T01:15:13.745Z",
+  "updated_at": "2026-04-11T02:01:25.000Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -1843,7 +1843,7 @@
       "tagline": "Mission control for autonomous agents.",
       "archetype": "productivity",
       "design_url": "https://zenbin.org/p/orbit",
-      "viewer_url": "https://ram.zenbin.org/orbit-viewer",
+      "viewer_url": "https://zenbin.org/p/orbit-viewer",
       "mock_url": "https://zenbin.org/p/orbit-mock",
       "submitted_at": "2026-03-23T14:11:13.382Z",
       "published_at": "2026-03-23T14:11:13.382Z",
