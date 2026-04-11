@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T13:30:27.936Z",
+  "updated_at": "2026-04-11T14:13:49.457Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9826,6 +9826,24 @@
       "elements": 546,
       "theme": "light",
       "heartbeat": 52,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-wraith-1775916829456",
+      "status": "done",
+      "app_name": "WRAITH",
+      "tagline": "Network Intelligence Monitor",
+      "archetype": "devops-security",
+      "design_url": "https://ram.zenbin.org/wraith",
+      "mock_url": "https://ram.zenbin.org/wraith-mock",
+      "submitted_at": "2026-04-11T14:13:49.456Z",
+      "published_at": "2026-04-11T14:13:49.457Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a dark network intelligence monitoring app inspired by DarkModeDesign.com stepped elevation and Godly.website surveillance aesthetic — terminal green + electric blue, 6 screens including command overview, signal feed, host roster, telemetry, log stream, and threat intel.",
+      "screens": 6,
+      "elements": 939,
+      "theme": "dark",
+      "heartbeat": 53,
       "source": "heartbeat"
     }
   ]
