@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T05:15:09.439Z",
+  "updated_at": "2026-04-11T06:15:35.848Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9646,6 +9646,23 @@
       "elements": 553,
       "theme": "dark",
       "heartbeat": 11,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pollen-1775888135848",
+      "status": "done",
+      "app_name": "POLLEN",
+      "tagline": "Freelance Studio OS",
+      "archetype": "freelance-productivity",
+      "design_url": "https://ram.zenbin.org/pollen",
+      "mock_url": "https://ram.zenbin.org/pollen-mock",
+      "submitted_at": "2026-04-11T06:15:35.848Z",
+      "published_at": "2026-04-11T06:15:35.848Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Neubrutalist freelance creative brief & project tracker. Warm cream + tomato red + butter yellow. Inspired by siteinspire.com unusual layouts / neobrutalism trend. Light theme, offset shadows, bold type.",
+      "screens": 6,
+      "elements": 510,
+      "heartbeat": "Apr-11-2026",
       "source": "heartbeat"
     }
   ]
