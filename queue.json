@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T02:01:25.000Z",
+  "updated_at": "2026-04-11T02:14:08.693Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9556,6 +9556,23 @@
       "screens": 6,
       "elements": 615,
       "heartbeat": 99,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pull-1775873648692",
+      "status": "done",
+      "app_name": "PULL",
+      "tagline": "AI code review, at team velocity",
+      "archetype": "developer-productivity",
+      "design_url": "https://ram.zenbin.org/pull",
+      "mock_url": "https://ram.zenbin.org/pull-mock",
+      "submitted_at": "2026-04-11T02:14:08.692Z",
+      "published_at": "2026-04-11T02:14:08.693Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Heartbeat #100 — DARK theme. AI-powered code review dashboard inspired by Linear's minimal dark aesthetic (darkmodedesign.com) and bento grid layouts from saaspo.com. Features: bento dashboard, PR queue, AI diff analysis, live review feed, team leaderboard, integrations.",
+      "screens": 6,
+      "elements": 538,
+      "heartbeat": 100,
       "source": "heartbeat"
     }
   ]
