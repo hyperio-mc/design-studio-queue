@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T11:16:00.387Z",
+  "updated_at": "2026-04-11T12:15:27.849Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9754,6 +9754,24 @@
       "screens": 6,
       "elements": 708,
       "heartbeat": 46,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-gleam-1775909727849",
+      "status": "done",
+      "app_name": "GLEAM",
+      "tagline": "Creator analytics for independent voices",
+      "archetype": "creator-analytics",
+      "design_url": "https://ram.zenbin.org/gleam",
+      "mock_url": "https://ram.zenbin.org/gleam-mock",
+      "submitted_at": "2026-04-11T12:15:27.849Z",
+      "published_at": "2026-04-11T12:15:27.849Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "A warm editorial analytics dashboard for independent newsletter creators, inspired by minimal.gallery soft brutalism and saaspo warm productivity palettes — amber/cream palette as deliberate counter to purple AI SaaS aesthetic.",
+      "screens": 6,
+      "elements": 511,
+      "theme": "light",
+      "heartbeat": 42,
       "source": "heartbeat"
     }
   ]
