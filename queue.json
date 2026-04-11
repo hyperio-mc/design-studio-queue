@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T00:19:54.834Z",
+  "updated_at": "2026-04-11T01:15:13.745Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9539,6 +9539,23 @@
       "screens": 6,
       "elements": 627,
       "heartbeat": 50,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-field-1775870113745",
+      "status": "done",
+      "app_name": "FIELD",
+      "tagline": "Document everything. Forget nothing.",
+      "archetype": "fieldwork-journal",
+      "design_url": "https://ram.zenbin.org/field",
+      "mock_url": "https://ram.zenbin.org/field-mock",
+      "submitted_at": "2026-04-11T01:15:13.745Z",
+      "published_at": "2026-04-11T01:15:13.745Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Biophilic light-theme fieldwork journal app. Inspired by Minimal Gallery barely-there UI trend and Land-book Big Type pattern. Warm cream palette, bold serif headlines, visible border structure, 6 screens.",
+      "screens": 6,
+      "elements": 615,
+      "heartbeat": 99,
       "source": "heartbeat"
     }
   ]
