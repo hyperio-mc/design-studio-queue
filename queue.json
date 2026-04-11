@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T04:36:19.178Z",
+  "updated_at": "2026-04-11T05:15:09.439Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9627,6 +9627,25 @@
       "elements": 500,
       "theme": "light",
       "heartbeat": 50,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-specter-1775884509439",
+      "status": "done",
+      "app_name": "SPECTER",
+      "tagline": "AI threat intelligence, real-time",
+      "archetype": "cybersecurity-secops",
+      "design_url": "https://ram.zenbin.org/specter",
+      "viewer_url": "https://ram.zenbin.org/specter-viewer",
+      "mock_url": "https://ram.zenbin.org/specter-mock",
+      "submitted_at": "2026-04-11T05:15:09.439Z",
+      "published_at": "2026-04-11T05:15:09.439Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI-powered cybersecurity threat intelligence platform — bento grid dashboard, threat feeds, hunt query interface, nation-state APT profiles, incident chain view, and ops console. Inspired by Panther/Vapi on darkmodedesign.com and bento grid trend from Saaspo. Dark + neon green #00FF88 secops aesthetic.",
+      "screens": 6,
+      "elements": 553,
+      "theme": "dark",
+      "heartbeat": 11,
       "source": "heartbeat"
     }
   ]
