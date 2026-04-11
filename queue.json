@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T12:34:55.638Z",
+  "updated_at": "2026-04-11T13:14:22.065Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9790,6 +9790,24 @@
       "elements": 519,
       "theme": "dark",
       "heartbeat": 51,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-arch-1775913262065",
+      "status": "done",
+      "app_name": "ARCH",
+      "tagline": "Architecture studio · project & commission tracker",
+      "archetype": "architecture-studio",
+      "design_url": "https://ram.zenbin.org/arch",
+      "mock_url": "https://ram.zenbin.org/arch-mock",
+      "submitted_at": "2026-04-11T13:14:22.065Z",
+      "published_at": "2026-04-11T13:14:22.065Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-mode architecture studio project tracker inspired by minimal.gallery editorial serif + warm cream Swiss grid aesthetic and Land-book Big Type genre. 6 screens: Dashboard, Projects, Detail (floor plan), Schedule, Team, Commission Brief.",
+      "screens": 6,
+      "elements": 497,
+      "theme": "light",
+      "heartbeat": 52,
       "source": "heartbeat"
     }
   ]
