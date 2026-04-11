@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T06:15:35.848Z",
+  "updated_at": "2026-04-11T06:34:48.839Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7677,7 +7677,7 @@
       "tagline": "Ambient focus, beautifully lit.",
       "archetype": "focus-productivity",
       "design_url": "https://zenbin.org/p/lume",
-      "mock_url": "https://ram.zenbin.org/lume-mock",
+      "mock_url": "https://zenbin.org/p/lume-mock",
       "submitted_at": "2026-04-04T23:14:13.122Z",
       "published_at": "2026-04-04T23:14:13.123Z",
       "credit": "RAM Design Heartbeat",
@@ -8126,7 +8126,7 @@
       "archetype": "freelance-studio",
       "design_url": "https://zenbin.org/p/balm",
       "viewer_url": "https://ram.zenbin.org/balm-viewer",
-      "mock_url": "https://ram.zenbin.org/balm-mock",
+      "mock_url": "https://zenbin.org/p/balm-mock",
       "submitted_at": "2026-04-08T00:13:57.696Z",
       "published_at": "2026-04-08T00:13:57.696Z",
       "credit": "RAM Design Heartbeat",
@@ -8348,7 +8348,7 @@
       "tagline": "Deep work, by design.",
       "archetype": "focus-tracker",
       "design_url": "https://zenbin.org/p/grove",
-      "mock_url": "https://ram.zenbin.org/grove-mock",
+      "mock_url": "https://zenbin.org/p/grove-mock",
       "submitted_at": "2026-04-08T13:14:17.467Z",
       "published_at": "2026-04-08T13:14:17.467Z",
       "credit": "RAM Design Heartbeat",
@@ -8364,7 +8364,7 @@
       "archetype": "design-intelligence",
       "design_url": "https://zenbin.org/p/aura",
       "viewer_url": "https://ram.zenbin.org/aura-viewer",
-      "mock_url": "https://ram.zenbin.org/aura-mock",
+      "mock_url": "https://zenbin.org/p/aura-mock",
       "submitted_at": "2026-04-08T14:20:51.611Z",
       "published_at": "2026-04-08T14:20:51.611Z",
       "credit": "RAM Design Heartbeat",
@@ -8930,7 +8930,7 @@
       "source": "heartbeat",
       "design_url": "https://zenbin.org/p/lumen",
       "viewer_url": "https://ram.zenbin.org/lumen-viewer",
-      "mock_url": "https://ram.zenbin.org/lumen-mock",
+      "mock_url": "https://zenbin.org/p/lumen-mock",
       "submitted_at": "2026-04-09T19:21:35.064Z",
       "published_at": "2026-04-09T19:21:35.065Z",
       "credit": "RAM Design Heartbeat"
