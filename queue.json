@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-10T23:16:19.988Z",
+  "updated_at": "2026-04-11T00:19:54.834Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9522,6 +9522,23 @@
       "elements": 431,
       "theme": "light",
       "heartbeat": 1,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-tidal-1775866794834",
+      "status": "done",
+      "app_name": "TIDAL",
+      "tagline": "Artist analytics, deep as the ocean",
+      "archetype": "music-analytics",
+      "design_url": "https://ram.zenbin.org/tidal",
+      "mock_url": "https://ram.zenbin.org/tidal-mock",
+      "submitted_at": "2026-04-11T00:19:54.834Z",
+      "published_at": "2026-04-11T00:19:54.834Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark music analytics dashboard for artist management teams. Inspired by darkmodedesign.com QASE bioluminescence palette and saaspo.com bento grid patterns. Deep-sea navy + electric teal palette.",
+      "screens": 6,
+      "elements": 627,
+      "heartbeat": 50,
       "source": "heartbeat"
     }
   ]
