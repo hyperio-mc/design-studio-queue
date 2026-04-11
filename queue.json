@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T17:15:03.119Z",
+  "updated_at": "2026-04-11T18:15:43.375Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9899,6 +9899,24 @@
       "elements": 600,
       "theme": "light",
       "heartbeat": 13,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-sprout-1775931343374",
+      "status": "done",
+      "app_name": "SPROUT",
+      "tagline": "Your herbs, thriving",
+      "archetype": "home-gardening",
+      "design_url": "https://ram.zenbin.org/sprout",
+      "mock_url": "https://ram.zenbin.org/sprout-mock",
+      "submitted_at": "2026-04-11T18:15:43.374Z",
+      "published_at": "2026-04-11T18:15:43.375Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark warm-botanical herb garden tracker app. Inspired by DarkModeDesign.com warm dark palette trend (Format Podcasts burgundy + Frames Apple-style layered surfaces) and the analog creative hobby app niche. 6 screens: Dashboard, Plant Detail, Watering Log, Grow Journal, Harvest Tracker, Discover.",
+      "screens": 6,
+      "elements": 581,
+      "theme": "dark",
+      "heartbeat": 464,
       "source": "heartbeat"
     }
   ]
