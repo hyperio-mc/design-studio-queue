@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T18:15:43.375Z",
+  "updated_at": "2026-04-11T19:14:25.914Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9917,6 +9917,24 @@
       "elements": 581,
       "theme": "dark",
       "heartbeat": 464,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-coffer-1775934865914",
+      "status": "done",
+      "app_name": "Coffer",
+      "tagline": "your personal treasury",
+      "archetype": "finance-tracker",
+      "design_url": "https://ram.zenbin.org/coffer",
+      "viewer_url": "https://ram.zenbin.org/coffer-viewer",
+      "mock_url": "https://ram.zenbin.org/coffer-mock",
+      "submitted_at": "2026-04-11T19:14:25.914Z",
+      "published_at": "2026-04-11T19:14:25.914Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme personal wealth tracker inspired by NoGood (minimal.gallery) warm off-white retro aesthetic and Old Tom Capital monospace-in-finance branding. 6 screens: dashboard, portfolio, transactions, goals, analytics, settings.",
+      "screens": 6,
+      "elements": 483,
+      "heartbeat": 465,
       "source": "heartbeat"
     }
   ]
