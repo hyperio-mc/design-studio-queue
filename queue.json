@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T12:15:27.849Z",
+  "updated_at": "2026-04-11T12:34:55.638Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9772,6 +9772,24 @@
       "elements": 511,
       "theme": "light",
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-hum-1775910895638",
+      "status": "done",
+      "app_name": "HUM",
+      "tagline": "Music for the way you feel",
+      "archetype": "media",
+      "design_url": "https://ram.zenbin.org/hum",
+      "mock_url": "https://ram.zenbin.org/hum-mock",
+      "submitted_at": "2026-04-11T12:34:55.638Z",
+      "published_at": "2026-04-11T12:34:55.638Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Zune-inspired dark music streaming app. Warm charcoal canvas #111209 (not cold black), single lime accent #A3E635, magenta #E535B7 for social moments. Album art colors bleed into background as atmospheric gradient. Typography is the hero element — artist/track names at 32-52px weight 900. Waveform scrubber with sine-generated bars. Screens: Now Playing (album atmosphere + waveform), Library (bold text-first grid), Radio (genre stations + live), Artist (giant name text + popular tracks), Playlist (mosaic art + track list), Listening Party (real-time shared session + reactions + chat). Inspired by r/UI_Design Zune revival thread, awwwards Bricolage Grotesque tag, reflect.app chromatic near-black.",
+      "screens": 6,
+      "elements": 519,
+      "theme": "dark",
+      "heartbeat": 51,
       "source": "heartbeat"
     }
   ]
