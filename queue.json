@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T09:17:32.278Z",
+  "updated_at": "2026-04-11T10:18:23.578Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9718,6 +9718,25 @@
       "elements": 635,
       "theme": "dark",
       "heartbeat": 44,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-saffron-1775902703578",
+      "status": "done",
+      "app_name": "SAFFRON",
+      "tagline": "Recipe & Meal Planning",
+      "archetype": "food-lifestyle",
+      "design_url": "https://ram.zenbin.org/saffron",
+      "viewer_url": "https://ram.zenbin.org/saffron-viewer",
+      "mock_url": "https://ram.zenbin.org/saffron-mock",
+      "submitted_at": "2026-04-11T10:18:23.578Z",
+      "published_at": "2026-04-11T10:18:23.578Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme recipe and meal planning app inspired by Land-book earthy/sustainable palette trend (sage green, terracotta, warm cream) and Minimal.gallery typography-as-brand trend from KOMETA Typefaces — editorial color blocks replace stock photography",
+      "screens": 6,
+      "elements": 500,
+      "theme": "light",
+      "heartbeat": 45,
       "source": "heartbeat"
     }
   ]
