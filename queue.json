@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T02:14:08.693Z",
+  "updated_at": "2026-04-11T03:15:20.173Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9573,6 +9573,24 @@
       "screens": 6,
       "elements": 538,
       "heartbeat": 100,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-roman-1775877320172",
+      "status": "done",
+      "app_name": "ROMAN",
+      "tagline": "Your reading life, beautifully kept",
+      "archetype": "editorial-reader",
+      "design_url": "https://ram.zenbin.org/roman",
+      "mock_url": "https://ram.zenbin.org/roman-mock",
+      "submitted_at": "2026-04-11T03:15:20.172Z",
+      "published_at": "2026-04-11T03:15:20.173Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a literary reading tracker app inspired by the Kinfolk editorial aesthetic from minimal.gallery — warm paper palette, Instrument Serif-style typography, generous whitespace, print-magazine layout grid applied to mobile. Counter to the dark/animation-heavy trend documented on saaspo.com. Light theme.",
+      "screens": 6,
+      "elements": 523,
+      "theme": "light",
+      "heartbeat": 99,
       "source": "heartbeat"
     }
   ]
