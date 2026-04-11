@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T13:14:22.065Z",
+  "updated_at": "2026-04-11T13:30:27.936Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9806,6 +9806,24 @@
       "prompt": "Light-mode architecture studio project tracker inspired by minimal.gallery editorial serif + warm cream Swiss grid aesthetic and Land-book Big Type genre. 6 screens: Dashboard, Projects, Detail (floor plan), Schedule, Team, Commission Brief.",
       "screens": 6,
       "elements": 497,
+      "theme": "light",
+      "heartbeat": 52,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-lobster-1775914227936",
+      "status": "done",
+      "app_name": "LOBSTER",
+      "tagline": "Agent Fleet Manager",
+      "archetype": "productivity",
+      "design_url": "https://ram.zenbin.org/lobster",
+      "mock_url": "https://ram.zenbin.org/lobster-mock",
+      "submitted_at": "2026-04-11T13:30:27.936Z",
+      "published_at": "2026-04-11T13:30:27.936Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Agent fleet management app where individual AI agents are called \"claws\". LOBSTER is the coordinator UI. Light theme: warm off-white canvas #FAF8F5, lobster coral accent #E85D2F, teal #0D7377 for running state, amber #D4820A for queued, red #C94040 for failed. Status color system throughout. Fleet health bar: segmented strip showing running/queued/failed proportionally. Monospace font for log lines. 6 screens: Fleet (overview, health bar, agent list), Spawn (configure new claw, task prompt, tool budget), Tasks (queue with priority and progress), Agent Detail (resource meters, turn log), Logs (live stream, color-coded by level), Config (fleet settings, danger zone).",
+      "screens": 6,
+      "elements": 546,
       "theme": "light",
       "heartbeat": 52,
       "source": "heartbeat"
