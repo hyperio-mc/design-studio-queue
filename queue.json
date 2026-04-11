@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T03:15:20.173Z",
+  "updated_at": "2026-04-11T04:18:35.898Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -9591,6 +9591,24 @@
       "elements": 523,
       "theme": "light",
       "heartbeat": 99,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-kova-1775881115897",
+      "status": "done",
+      "app_name": "KOVA",
+      "tagline": "Wealth Intelligence",
+      "archetype": "finance-wealth",
+      "design_url": "https://ram.zenbin.org/kova",
+      "viewer_url": "https://ram.zenbin.org/kova-viewer",
+      "mock_url": "https://ram.zenbin.org/kova-mock",
+      "submitted_at": "2026-04-11T04:18:35.897Z",
+      "published_at": "2026-04-11T04:18:35.897Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark theme premium wealth intelligence platform. Inspired by DarkModeDesign.com luxury Warm Charcoal + Gold palette and Saaspo bento-grid hegemony trend. Portfolio overview, markets watchlist, AI insights, activity log, account settings, equity detail — 6 screens.",
+      "screens": 6,
+      "elements": 685,
+      "heartbeat": 447,
       "source": "heartbeat"
     }
   ]
