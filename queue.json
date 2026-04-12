@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T08:02:55.539Z",
+  "updated_at": "2026-04-12T08:23:42.989Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11592,6 +11592,24 @@
       "_mockPath": "/workspace/group/design-studio/knoll-mock.html",
       "_heroExists": false,
       "_mockExists": false
+    },
+    {
+      "id": "heartbeat-spline-1775982222989",
+      "status": "done",
+      "app_name": "SPLINE",
+      "tagline": "deployment intelligence, in real time",
+      "archetype": "devops-observability",
+      "design_url": "https://ram.zenbin.org/spline",
+      "mock_url": "https://ram.zenbin.org/spline-mock",
+      "submitted_at": "2026-04-12T08:23:42.989Z",
+      "published_at": "2026-04-12T08:23:42.989Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Deployment intelligence platform — real-time monitoring, error tracking, performance metrics, and team activity feed for engineering teams. Inspired by Godly.website developer tools trend (Height, AuthKit, Superpower).",
+      "screens": 6,
+      "elements": 568,
+      "theme": "dark",
+      "heartbeat": 475,
+      "source": "heartbeat"
     }
   ]
 }
