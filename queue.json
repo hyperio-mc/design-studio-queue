@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T01:12:59.666Z",
+  "updated_at": "2026-04-12T02:21:54.002Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10060,6 +10060,24 @@
       "elements": 805,
       "theme": "dark",
       "heartbeat": 42,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-floe-1775960514002",
+      "status": "done",
+      "app_name": "FLOE",
+      "tagline": "Read Slower. Think Deeper.",
+      "archetype": "reading-focus",
+      "design_url": "https://ram.zenbin.org/floe",
+      "mock_url": "https://ram.zenbin.org/floe-mock",
+      "submitted_at": "2026-04-12T02:21:54.002Z",
+      "published_at": "2026-04-12T02:21:54.002Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Slow-reading companion app with editorial serif typography, warm cream palette, focus mode, highlights/notes, and curated long-read discovery. Inspired by lapa.ninja's 290+ curated serif examples showing editorial reading tools using large serif typography and ink-on-paper colour palettes.",
+      "screens": 6,
+      "elements": 500,
+      "theme": "light",
+      "heartbeat": 43,
       "source": "heartbeat"
     }
   ]
