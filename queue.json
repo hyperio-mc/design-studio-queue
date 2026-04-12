@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T09:13:49.771Z",
+  "updated_at": "2026-04-12T10:17:08.781Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11627,6 +11627,24 @@
       "elements": 399,
       "theme": "light",
       "heartbeat": 481,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-gloam-1775989028781",
+      "status": "done",
+      "app_name": "GLOAM",
+      "tagline": "sleep where the light goes soft",
+      "archetype": "health-sleep",
+      "design_url": "https://ram.zenbin.org/gloam",
+      "viewer_url": "https://ram.zenbin.org/gloam-viewer",
+      "mock_url": "https://ram.zenbin.org/gloam-mock",
+      "submitted_at": "2026-04-12T10:17:08.781Z",
+      "published_at": "2026-04-12T10:17:08.781Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Sleep & circadian rhythm tracker — dark UI inspired by darkmodedesign.com ambient glow + component-level spotlight lighting trends. Deep blue-tinted near-black (#090B12) + warm amber (#F59E0B) accent.",
+      "screens": 6,
+      "elements": 530,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
