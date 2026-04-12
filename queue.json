@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T20:14:22.647Z",
+  "updated_at": "2026-04-12T20:26:07.794Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11843,6 +11843,24 @@
       "elements": 555,
       "theme": "light",
       "heartbeat": 22,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-vane-1776025567794",
+      "status": "done",
+      "app_name": "VANE",
+      "tagline": "Hyper-local Weather Intelligence",
+      "archetype": "weather-outdoor",
+      "design_url": "https://ram.zenbin.org/vane",
+      "mock_url": "https://ram.zenbin.org/vane-mock",
+      "submitted_at": "2026-04-12T20:26:07.794Z",
+      "published_at": "2026-04-12T20:26:07.794Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Hyper-local weather intelligence for outdoor athletes (surfers, trail runners, kitesurfers). Dark theme — electric cobalt #1E6EFF on deep navy near-black #06091A. Single-hue monochrome buildout (no secondary palette) inspired by Godly.website avant-garde trend: one pushed color, tone-on-tone texture, maximum discipline. JetBrains Mono for all data values (temperature, wind speed, pressure, swell period), Inter Tight for all labels — two-register type system. Outcome-oriented Insights screen inspired by NNGroup March 2026 article on outcome-oriented vs task-oriented design: surfaces \"Best day for surfing this week\" and per-sport condition scores rather than raw weather logs. 6 screens: Now (current conditions, wind compass, surf height, AQI), Forecast (hourly strip + 7-day bar chart + wind bars), Alerts (severity-tiered warnings with amber/red functional color), Locations (5 saved spots with mini condition cards), Radar (precipitation map with layer controls + storm tracking), Insights (outcome-driven recommendations + activity score grids).",
+      "screens": 6,
+      "elements": 551,
+      "theme": "dark",
+      "heartbeat": 492,
       "source": "heartbeat"
     }
   ]
