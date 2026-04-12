@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T12:16:00.818Z",
+  "updated_at": "2026-04-12T12:32:22.670Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11681,6 +11681,24 @@
       "elements": 793,
       "theme": "dark",
       "heartbeat": 18,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pause-1775997142670",
+      "status": "done",
+      "app_name": "PAUSE",
+      "tagline": "Daily Reflection & Journaling",
+      "archetype": "wellness",
+      "design_url": "https://ram.zenbin.org/pause",
+      "mock_url": "https://ram.zenbin.org/pause-mock",
+      "submitted_at": "2026-04-12T12:32:22.670Z",
+      "published_at": "2026-04-12T12:32:22.670Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Daily reflection and journaling app. Light theme — Cloud Dancer warm off-white base #F8F6F1 (Lapa Ninja anti-purple revolt signal: Pantone-adjacent warm neutrals replacing cold whites in wellness). Desaturated sage green #5A8A6E accent (not electric — calm). Georgia/Lora serif for all prompts and pull quotes, Inter sans for body. Anti-gamification design: no streaks, no badges, no rings — week rhythm shows which days you wrote with neutral language (\"You wrote 5 of 7 days\"). Inspired by Dribbble calm-UI signal, Land-book Instrument Serif editorial wellness trend, Mobbin bottom-centric onboarding pattern. 6 screens: Today (big serif prompt + mood selector), Journal (entry archive + search + stats), Reflect (weekly synthesis + pull quote + themes + recurring word), Prompts (saved prompts + category filter + prompt list), Onboarding (editorial single-question, anti-gamification feature list), Write (full entry, ruled paper, distraction-free, collapsing toolbar).",
+      "screens": 6,
+      "elements": 500,
+      "theme": "light",
+      "heartbeat": 469,
       "source": "heartbeat"
     }
   ]
