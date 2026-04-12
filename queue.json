@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T02:21:54.002Z",
+  "updated_at": "2026-04-12T03:18:03.627Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10078,6 +10078,24 @@
       "elements": 500,
       "theme": "light",
       "heartbeat": 43,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-glare-1775963883626",
+      "status": "done",
+      "app_name": "GLARE",
+      "tagline": "Creator intelligence, amplified",
+      "archetype": "creator-analytics",
+      "design_url": "https://ram.zenbin.org/glare",
+      "mock_url": "https://ram.zenbin.org/glare-mock",
+      "submitted_at": "2026-04-12T03:18:03.626Z",
+      "published_at": "2026-04-12T03:18:03.627Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Creator analytics OS: true-black dark UI with electric chartreuse glowing data visualizations, inspired by Neon on darkmodedesign.com. 6 screens: Command dashboard, Reach analytics, Revenue intelligence, Content performance, Signals, Profile.",
+      "screens": 6,
+      "elements": 461,
+      "theme": "dark",
+      "heartbeat": 474,
       "source": "heartbeat"
     }
   ]
