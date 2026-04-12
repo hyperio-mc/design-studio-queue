@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T00:21:24.647Z",
+  "updated_at": "2026-04-12T01:12:59.666Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10042,6 +10042,24 @@
       "screens": 6,
       "elements": 516,
       "heartbeat": 471,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-synth-1775956379665",
+      "status": "done",
+      "app_name": "SYNTH",
+      "tagline": "Voice Intelligence Platform",
+      "archetype": "ai-analytics",
+      "design_url": "https://ram.zenbin.org/synth",
+      "mock_url": "https://ram.zenbin.org/synth-mock",
+      "submitted_at": "2026-04-12T01:12:59.665Z",
+      "published_at": "2026-04-12T01:12:59.666Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI voice conversation analytics dashboard. Inspired by Synthflow AI interactive demo playground (Godly.website) + layered dark glassmorphism aesthetic (Dark Mode Design). Dark theme with AI-purple (#7C5CFC) + electric cyan (#22D3EE) palette.",
+      "screens": 6,
+      "elements": 805,
+      "theme": "dark",
+      "heartbeat": 42,
       "source": "heartbeat"
     }
   ]
