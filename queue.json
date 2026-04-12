@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T12:32:22.670Z",
+  "updated_at": "2026-04-12T13:17:25.551Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11699,6 +11699,24 @@
       "elements": 500,
       "theme": "light",
       "heartbeat": 469,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-surge-1775999845550",
+      "status": "done",
+      "app_name": "SURGE",
+      "tagline": "Every API call, accounted for",
+      "archetype": "developer-tool",
+      "design_url": "https://ram.zenbin.org/surge",
+      "mock_url": "https://ram.zenbin.org/surge-mock",
+      "submitted_at": "2026-04-12T13:17:25.550Z",
+      "published_at": "2026-04-12T13:17:25.551Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark developer-tool dark: AI API observability command center. Bento-grid overview with Mortons-inspired glow cards, endpoint health matrix, incident command, and cost attribution. Inspired by Neon.com minimalism (DarkModeDesign.com) and Mortons cursor-glow card treatment.",
+      "screens": 6,
+      "elements": 509,
+      "theme": "dark",
+      "heartbeat": 99,
       "source": "heartbeat"
     }
   ]
