@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T20:26:07.794Z",
+  "updated_at": "2026-04-12T21:17:44.293Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11861,6 +11861,23 @@
       "elements": 551,
       "theme": "dark",
       "heartbeat": 492,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mast-1776028664293",
+      "status": "done",
+      "app_name": "MAST",
+      "tagline": "Studio OS for creative freelancers",
+      "archetype": "freelance-studio-os",
+      "design_url": "https://ram.zenbin.org/mast",
+      "mock_url": "https://ram.zenbin.org/mast-mock",
+      "submitted_at": "2026-04-12T21:17:44.293Z",
+      "published_at": "2026-04-12T21:17:44.293Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a studio OS for creative freelancers — inspired by Siteinspire architecture studio aesthetic (warm cream backgrounds, restrained serif-led design, single bold accent) and Land-book's bento card grids. Light theme with deep Klein blue accent.",
+      "screens": 6,
+      "elements": 491,
+      "theme": "light",
       "source": "heartbeat"
     }
   ]
