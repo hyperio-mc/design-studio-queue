@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T23:27:32.114Z",
+  "updated_at": "2026-04-12T00:21:24.647Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10025,6 +10025,23 @@
       "elements": 509,
       "theme": "dark",
       "heartbeat": 470,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-silo-1775953284646",
+      "status": "done",
+      "app_name": "SILO",
+      "tagline": "Pantry intelligence. Meals made effortless.",
+      "archetype": "food-kitchen",
+      "design_url": "https://ram.zenbin.org/silo",
+      "mock_url": "https://ram.zenbin.org/silo-mock",
+      "submitted_at": "2026-04-12T00:21:24.646Z",
+      "published_at": "2026-04-12T00:21:24.647Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Pantry management + meal planning app inspired by OWO's per-word pill typography (lapa.ninja) and Overlay's warm editorial light palette. Light theme, terracotta + forest green accents, 6 screens.",
+      "screens": 6,
+      "elements": 516,
+      "heartbeat": 471,
       "source": "heartbeat"
     }
   ]
