@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T17:15:02.680Z",
+  "updated_at": "2026-04-12T18:17:47.652Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11789,6 +11789,24 @@
       "elements": 499,
       "theme": "dark",
       "heartbeat": 489,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-hale-1776017867652",
+      "status": "done",
+      "app_name": "HALE",
+      "tagline": "Mindful health, beautifully kept",
+      "archetype": "health-wellness",
+      "design_url": "https://ram.zenbin.org/hale",
+      "mock_url": "https://ram.zenbin.org/hale-mock",
+      "submitted_at": "2026-04-12T18:17:47.652Z",
+      "published_at": "2026-04-12T18:17:47.652Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Mindful health journaling app inspired by Aesop / Kinfolk editorial aesthetic — warm ivory, expressive serif, museum whitespace. Light theme. 6 screens: Welcome, Today, Log, Trends, Journal, Profile.",
+      "screens": 6,
+      "elements": 465,
+      "theme": "light",
+      "heartbeat": 490,
       "source": "heartbeat"
     }
   ]
