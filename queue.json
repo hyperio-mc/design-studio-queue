@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T15:15:40.677Z",
+  "updated_at": "2026-04-12T16:20:51.382Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11753,6 +11753,24 @@
       "elements": 607,
       "theme": "dark",
       "heartbeat": 101,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-pared-1776010851381",
+      "status": "done",
+      "app_name": "PARED",
+      "tagline": "personal finance, stripped bare",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/pared",
+      "mock_url": "https://ram.zenbin.org/pared-mock",
+      "submitted_at": "2026-04-12T16:20:51.381Z",
+      "published_at": "2026-04-12T16:20:51.382Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Minimal personal finance tracker inspired by Minimal Gallery / ProtoEditions — warm off-white, single lime accent, editorial restraint, barely-there UI philosophy",
+      "screens": 6,
+      "elements": 409,
+      "theme": "light",
+      "heartbeat": 102,
       "source": "heartbeat"
     }
   ]
