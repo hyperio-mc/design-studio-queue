@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T22:12:34.745Z",
+  "updated_at": "2026-04-12T23:16:17.023Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11896,6 +11896,25 @@
       "screens": 6,
       "elements": 587,
       "heartbeat": 26,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-deed-1776035777023",
+      "status": "done",
+      "app_name": "DEED",
+      "tagline": "Contract Intelligence",
+      "archetype": "legal-tech",
+      "design_url": "https://ram.zenbin.org/deed",
+      "viewer_url": "https://ram.zenbin.org/deed-viewer",
+      "mock_url": "https://ram.zenbin.org/deed-mock",
+      "submitted_at": "2026-04-12T23:16:17.023Z",
+      "published_at": "2026-04-12T23:16:17.023Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme legal-tech contract management app. Inspired by Land-Book Stripe-style SaaS minimalism, Lapa Ninja serif renaissance, and Minimal Gallery purposeful asymmetry. 6 screens: Dashboard, Contracts, Contract Detail, Signing Flow, Analytics, Templates.",
+      "screens": 6,
+      "elements": 510,
+      "theme": "light",
+      "heartbeat": 18,
       "source": "heartbeat"
     }
   ]
