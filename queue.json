@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T21:51:38.997Z",
+  "updated_at": "2026-04-12T22:12:34.745Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11878,6 +11878,24 @@
       "screens": 6,
       "elements": 491,
       "theme": "light",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-gavel-1776031954745",
+      "status": "done",
+      "app_name": "GAVEL",
+      "tagline": "AI Legal Co-Pilot",
+      "archetype": "legal-ai",
+      "design_url": "https://ram.zenbin.org/gavel",
+      "viewer_url": "https://ram.zenbin.org/gavel-viewer",
+      "mock_url": "https://ram.zenbin.org/gavel-mock",
+      "submitted_at": "2026-04-12T22:12:34.745Z",
+      "published_at": "2026-04-12T22:12:34.745Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark violet AI legal co-pilot — contract risk detection, precedent research, case timeline, and AI insights. Inspired by saaspo.com purple AI SaaS aesthetic and darkmodedesign.com glassmorphism patterns.",
+      "screens": 6,
+      "elements": 587,
+      "heartbeat": 26,
       "source": "heartbeat"
     }
   ]
