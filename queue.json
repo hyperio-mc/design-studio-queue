@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T11:14:15.650Z",
+  "updated_at": "2026-04-12T12:16:00.818Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11663,6 +11663,24 @@
       "elements": 498,
       "theme": "light",
       "heartbeat": "tine",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-meld-1775996160817",
+      "status": "done",
+      "app_name": "MELD",
+      "tagline": "Privacy-first data pipeline monitor",
+      "archetype": "developer-monitoring",
+      "design_url": "https://ram.zenbin.org/meld",
+      "mock_url": "https://ram.zenbin.org/meld-mock",
+      "submitted_at": "2026-04-12T12:16:00.817Z",
+      "published_at": "2026-04-12T12:16:00.818Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Dark glassmorphism data pipeline monitor — ambient orb backgrounds, bento-grid dashboard, inner-glow interactions, monospace event log. Inspired by darkmodedesign.com (Qase cosmic-navy, Cosmos Studio orbs, Darkroom glows) and saaspo.com (Betterstack bento grids).",
+      "screens": 6,
+      "elements": 793,
+      "theme": "dark",
+      "heartbeat": 18,
       "source": "heartbeat"
     }
   ]
