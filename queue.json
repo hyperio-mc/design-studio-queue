@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T04:17:26.831Z",
+  "updated_at": "2026-04-12T04:31:33.009Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10115,6 +10115,24 @@
       "elements": 521,
       "source": "heartbeat",
       "theme": "light"
+    },
+    {
+      "id": "heartbeat-kiln-1775968293009",
+      "status": "done",
+      "app_name": "KILN",
+      "tagline": "Build & Deploy Pipeline Monitor",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/kiln",
+      "mock_url": "https://ram.zenbin.org/kiln-mock",
+      "submitted_at": "2026-04-12T04:31:33.009Z",
+      "published_at": "2026-04-12T04:31:33.009Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Build and deploy pipeline CI/CD monitor. Dark theme — warm near-black base #120F0A (smouldering brown undertone, counter to ubiquitous cool-dark dashboards) with amber accent #F59E0B. Inter Tight (condensed grotesque) for UI labels, JetBrains Mono for all values. Inspired by Awwwards finding that warm-tone dark palettes are entirely absent from dashboards; MICRODOT clinical reference code aesthetic (build IDs, commit hashes as data identity); NNGroup AI Agents as Users research (semantic labels, agent-legible interactive elements). 6 screens: Pipeline overview (build list with stage dots), Build detail (stage timeline + log tail), Live logs (terminal stream with level badges), Deployments (environment tabs + history), Metrics (success rate bars + failure breakdown), Config (settings toggles + danger zone).",
+      "screens": 6,
+      "elements": 647,
+      "theme": "dark",
+      "heartbeat": 468,
+      "source": "heartbeat"
     }
   ]
 }
