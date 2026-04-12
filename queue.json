@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T03:18:03.627Z",
+  "updated_at": "2026-04-12T04:17:26.831Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10097,6 +10097,24 @@
       "theme": "dark",
       "heartbeat": 474,
       "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-cedar-1775967446831",
+      "status": "done",
+      "app_name": "Cedar",
+      "tagline": "A place for slow reflection",
+      "archetype": "slow-living-journal",
+      "design_url": "https://ram.zenbin.org/cedar",
+      "viewer_url": "https://ram.zenbin.org/cedar-viewer",
+      "mock_url": "https://ram.zenbin.org/cedar-mock",
+      "submitted_at": "2026-04-12T04:17:26.831Z",
+      "published_at": "2026-04-12T04:17:26.831Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Light-theme mindful life-logging app. Inspired by minimal.gallery Aesop editorial warmth — warm ivory, single forest-green accent, asymmetric bento daily view, single typeface (Georgia serif).",
+      "screens": 7,
+      "elements": 521,
+      "source": "heartbeat",
+      "theme": "light"
     }
   ]
 }
