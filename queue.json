@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T08:23:42.989Z",
+  "updated_at": "2026-04-12T09:13:49.771Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11609,6 +11609,24 @@
       "elements": 568,
       "theme": "dark",
       "heartbeat": 475,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-graze-1775985229770",
+      "status": "done",
+      "app_name": "GRAZE",
+      "tagline": "Eat with intention",
+      "archetype": "food-lifestyle",
+      "design_url": "https://ram.zenbin.org/graze",
+      "mock_url": "https://ram.zenbin.org/graze-mock",
+      "submitted_at": "2026-04-12T09:13:49.770Z",
+      "published_at": "2026-04-12T09:13:49.771Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Inspired by minimal.gallery warm neutral palette trend (2026) and land-book asymmetric bento grid layouts. Meal discovery app with editorial serif typography, linen-tone backgrounds (#FAF7F2), terracotta/sage accent pair, and bento meal cards.",
+      "screens": 6,
+      "elements": 399,
+      "theme": "light",
+      "heartbeat": 481,
       "source": "heartbeat"
     }
   ]
