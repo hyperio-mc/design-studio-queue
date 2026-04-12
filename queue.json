@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T23:16:17.023Z",
+  "updated_at": "2026-04-12T23:33:44.757Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -7781,7 +7781,7 @@
       "app_name": "DISPATCH",
       "tagline": "Your AI agent orchestration layer.",
       "archetype": "ai-agent-orchestration-dark",
-      "design_url": "https://ram.zenbin.org/dispatch",
+      "design_url": "https://zenbin.org/p/dispatch",
       "mock_url": "https://ram.zenbin.org/dispatch-mock",
       "submitted_at": "2026-04-03T20:23:37.145Z",
       "published_at": "2026-04-03T20:23:37.146Z",
@@ -7802,7 +7802,7 @@
       "app_name": "RAFT",
       "tagline": "Sprint intelligence for healthy teams",
       "archetype": "sprint-intelligence",
-      "design_url": "https://ram.zenbin.org/raft",
+      "design_url": "https://zenbin.org/p/raft",
       "mock_url": "https://ram.zenbin.org/raft-mock",
       "submitted_at": "2026-04-03T21:16:48.754Z",
       "published_at": "2026-04-03T21:16:48.755Z",
@@ -7849,7 +7849,7 @@
       "app_name": "Forge",
       "tagline": "Command your AI fleet.",
       "archetype": "ai-agent-orchestration",
-      "design_url": "https://ram.zenbin.org/forge",
+      "design_url": "https://zenbin.org/p/forge",
       "mock_url": "https://ram.zenbin.org/forge-mock",
       "submitted_at": "2026-04-03T23:19:09.371Z",
       "published_at": "2026-04-03T23:19:09.371Z",
@@ -7962,7 +7962,7 @@
       "app_name": "KNOT",
       "tagline": "Where ideas connect.",
       "archetype": "personal-knowledge-graph-dark",
-      "design_url": "https://ram.zenbin.org/knot",
+      "design_url": "https://zenbin.org/p/knot",
       "mock_url": "https://ram.zenbin.org/knot-mock",
       "submitted_at": "2026-04-04T04:35:25.807Z",
       "published_at": "2026-04-04T04:35:25.807Z",
