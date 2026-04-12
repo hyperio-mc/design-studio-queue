@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T04:31:33.009Z",
+  "updated_at": "2026-04-12T05:15:00.554Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -10132,6 +10132,24 @@
       "elements": 647,
       "theme": "dark",
       "heartbeat": 468,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-breve-1775970900553",
+      "status": "done",
+      "app_name": "BREVE",
+      "tagline": "Creative briefs, client sign-off, done.",
+      "archetype": "creative-workflow",
+      "design_url": "https://ram.zenbin.org/breve",
+      "mock_url": "https://ram.zenbin.org/breve-mock",
+      "submitted_at": "2026-04-12T05:15:00.554Z",
+      "published_at": "2026-04-12T05:15:00.554Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a creative brief & client collaboration platform — inspired by bento-grid card layouts from land-book.com 2026 and warm Mocha Mousse cream palette from siteinspire.com. Light theme, editorial typography, asymmetric card hierarchy.",
+      "screens": 6,
+      "elements": 361,
+      "theme": "light",
+      "heartbeat": 467,
       "source": "heartbeat"
     }
   ]
