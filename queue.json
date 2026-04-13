@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T06:22:03.133Z",
+  "updated_at": "2026-04-13T07:15:11.427Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12059,6 +12059,24 @@
       "elements": 458,
       "theme": "light",
       "heartbeat": 504,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-warp-1776064511427",
+      "status": "done",
+      "app_name": "WARP",
+      "tagline": "Release velocity for engineering teams",
+      "archetype": "devops-dashboard",
+      "design_url": "https://ram.zenbin.org/warp",
+      "mock_url": "https://ram.zenbin.org/warp-mock",
+      "submitted_at": "2026-04-13T07:15:11.427Z",
+      "published_at": "2026-04-13T07:15:11.427Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "A mobile-first release velocity dashboard for engineering teams — inspired by the premium dark developer tool aesthetic on Godly (Phantom, Reflect, Shuttle) and Dark Mode Design. Deep zinc background, electric indigo + amber accent, bento card layout. 6 screens: Dashboard, Activity Feed, Deploy Detail, Team, Changelog, Integrations.",
+      "screens": 6,
+      "elements": 551,
+      "theme": "dark",
+      "heartbeat": 505,
       "source": "heartbeat"
     }
   ]
