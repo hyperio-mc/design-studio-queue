@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T04:25:13.384Z",
+  "updated_at": "2026-04-13T05:14:25.636Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12023,6 +12023,24 @@
       "elements": 774,
       "theme": "light",
       "heartbeat": 502,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-loop-1776057265636",
+      "status": "done",
+      "app_name": "LOOP",
+      "tagline": "close the feedback loop",
+      "archetype": "analytics-platform",
+      "design_url": "https://ram.zenbin.org/loop",
+      "mock_url": "https://ram.zenbin.org/loop-mock",
+      "submitted_at": "2026-04-13T05:14:25.636Z",
+      "published_at": "2026-04-13T05:14:25.636Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "AI-powered user behavior analytics platform. Inspired by godly.website Spaceship Instruction Manual aesthetic (hairlines, monospace precision) + darkmodedesign.com zinc bento grids + saaspo.com AI SaaS category. Dark theme with orange (#F97316) + violet (#8B5CF6) palette.",
+      "screens": 6,
+      "elements": 507,
+      "theme": "dark",
+      "heartbeat": 503,
       "source": "heartbeat"
     }
   ]
