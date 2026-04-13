@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T12:33:44.714Z",
+  "updated_at": "2026-04-13T13:15:34.689Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12184,6 +12184,25 @@
       "elements": 733,
       "theme": "dark",
       "heartbeat": 503,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-type-1776086134689",
+      "status": "done",
+      "app_name": "TYPE",
+      "tagline": "Font discovery, specimen & pairing studio",
+      "archetype": "design-tools",
+      "design_url": "https://ram.zenbin.org/type",
+      "viewer_url": "https://ram.zenbin.org/type-viewer",
+      "mock_url": "https://ram.zenbin.org/type-mock",
+      "submitted_at": "2026-04-13T13:15:34.689Z",
+      "published_at": "2026-04-13T13:15:34.689Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "A font discovery & type specimen companion app. Inspired by KOMETA Typefaces on minimal.gallery, the Big Type layout pattern on land-book.com, and the monospace-as-branding trend (Departure Mono on lapa.ninja). Light editorial theme — warm cream, terracotta accent, serif + mono pairing.",
+      "screens": 6,
+      "elements": 637,
+      "theme": "light",
+      "heartbeat": 512,
       "source": "heartbeat"
     }
   ]
