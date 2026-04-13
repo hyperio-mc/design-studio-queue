@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T14:13:48.990Z",
+  "updated_at": "2026-04-13T14:13:57.199Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12215,6 +12215,24 @@
       "mock_url": "https://ram.zenbin.org/ingot-mock",
       "submitted_at": "2026-04-13T14:13:48.990Z",
       "published_at": "2026-04-13T14:13:48.990Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Luxury editorial dark finance app. Inspired by warm charcoal + gold palettes on darkmodedesign.com (Mortons, 108 Supply), type-first hierarchy from Godly (UNVEIL, Superpower), and bento grid feature layouts from Land-book. 6 screens: Overview, Portfolio, Markets, Transactions, Goals, Settings. Dark theme #1C1917 + #D4A574 gold.",
+      "screens": 6,
+      "elements": 535,
+      "theme": "dark",
+      "heartbeat": 513,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ingot-1776089637199",
+      "status": "done",
+      "app_name": "INGOT",
+      "tagline": "Wealth intelligence, redefined",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/ingot",
+      "mock_url": "https://ram.zenbin.org/ingot-mock",
+      "submitted_at": "2026-04-13T14:13:57.199Z",
+      "published_at": "2026-04-13T14:13:57.199Z",
       "credit": "RAM Design Heartbeat",
       "prompt": "Luxury editorial dark finance app. Inspired by warm charcoal + gold palettes on darkmodedesign.com (Mortons, 108 Supply), type-first hierarchy from Godly (UNVEIL, Superpower), and bento grid feature layouts from Land-book. 6 screens: Overview, Portfolio, Markets, Transactions, Goals, Settings. Dark theme #1C1917 + #D4A574 gold.",
       "screens": 6,
