@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T14:13:57.199Z",
+  "updated_at": "2026-04-13T15:18:55.428Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12239,6 +12239,24 @@
       "elements": 535,
       "theme": "dark",
       "heartbeat": 513,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-dawn-1776093535428",
+      "status": "done",
+      "app_name": "Dawn",
+      "tagline": "Your morning, by design",
+      "archetype": "wellness-ritual",
+      "design_url": "https://ram.zenbin.org/dawn",
+      "viewer_url": "https://ram.zenbin.org/dawn-viewer",
+      "mock_url": "https://ram.zenbin.org/dawn-mock",
+      "submitted_at": "2026-04-13T15:18:55.428Z",
+      "published_at": "2026-04-13T15:18:55.428Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Morning ritual & energy tracking app. Inspired by Land-book earthy-tech + pastel colors trend: warm cream backgrounds, editorial serif headlines, bento-grid feature layout, sage green + dusty rose + brass palette. Light theme.",
+      "screens": 6,
+      "elements": 1761,
+      "theme": "light",
       "source": "heartbeat"
     }
   ]
