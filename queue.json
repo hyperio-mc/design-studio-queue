@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T04:13:17.566Z",
+  "updated_at": "2026-04-13T04:25:13.384Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12005,6 +12005,24 @@
       "elements": 852,
       "theme": "dark",
       "heartbeat": 501,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-ease-1776054313384",
+      "status": "done",
+      "app_name": "EASE",
+      "tagline": "Recovery-Aware Training Companion",
+      "archetype": "fitness-recovery",
+      "design_url": "https://ram.zenbin.org/ease",
+      "mock_url": "https://ram.zenbin.org/ease-mock",
+      "submitted_at": "2026-04-13T04:25:13.384Z",
+      "published_at": "2026-04-13T04:25:13.384Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Recovery-aware training companion app. Light theme — warm parchment #F6F3EE base, terracotta #C4623C accent. Warm mineral editorial palette from Siteinspire curation aesthetic (Apr 2026). Rest is the primary metric: every screen leads with readiness score, not performance targets. Rest days displayed as data points, not blank gaps. Inspired by Gentler Streak (Apple Design Award 2026 — Mobbin), Siteinspire warm mineral palette, NNGroup \"Handmade Designs: The New Trust Signal\" (Apr 2026). Georgia/Lora serif for all scores and pull quotes — signals craftsmanship. One-question-at-a-time check-in (Ada Health pattern from Mobbin). Body screen shows per-muscle-group recovery map. Insights screen surfaces 30-day behavioral patterns. 6 screens: Today (readiness score 72/100, recovery signals, plan), Log (one-question check-in, 5 steps), Trends (7-day load vs recovery chart, HRV sparkline, sleep bars), Train (adjusted workout suggestions based on readiness), Body (muscle recovery map, per-group status), Insights (pattern recognition — sleep < 7h drops HRV, 3-week overtraining cycle).",
+      "screens": 6,
+      "elements": 774,
+      "theme": "light",
+      "heartbeat": 502,
       "source": "heartbeat"
     }
   ]
