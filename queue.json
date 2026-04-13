@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T08:16:31.266Z",
+  "updated_at": "2026-04-13T09:13:29.685Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12095,6 +12095,23 @@
       "elements": 626,
       "theme": "light",
       "heartbeat": 506,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-solv-1776071609684",
+      "status": "done",
+      "app_name": "SOLV",
+      "tagline": "Know when you'll get paid",
+      "archetype": "freelance-finance",
+      "design_url": "https://ram.zenbin.org/solv",
+      "mock_url": "https://ram.zenbin.org/solv-mock",
+      "submitted_at": "2026-04-13T09:13:29.684Z",
+      "published_at": "2026-04-13T09:13:29.685Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Freelance cash flow intelligence app with payment risk scoring, runway forecasting, and client reliability scores. Dark elevation-based UI inspired by DarkModeDesign.com Cushion feature and trust-first design from Land-book.",
+      "screens": 6,
+      "elements": 532,
+      "heartbeat": 507,
       "source": "heartbeat"
     }
   ]
