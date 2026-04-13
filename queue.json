@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-12T23:33:44.757Z",
+  "updated_at": "2026-04-13T00:14:56.182Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11915,6 +11915,23 @@
       "elements": 510,
       "theme": "light",
       "heartbeat": 18,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-crag-1776039296182",
+      "status": "done",
+      "app_name": "CRAG",
+      "tagline": "Every endpoint, every second",
+      "archetype": "developer-tools",
+      "design_url": "https://ram.zenbin.org/crag",
+      "mock_url": "https://ram.zenbin.org/crag-mock",
+      "submitted_at": "2026-04-13T00:14:56.182Z",
+      "published_at": "2026-04-13T00:14:56.182Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "API health monitor with OLED-black Carbon Dark palette, cyberpunk instrument-panel gauge, bento grid endpoints, latency charts, and incident timeline. Inspired by Arrow Dynamics on Godly.website + DarkModeDesign.com Carbon Dark palette.",
+      "screens": 6,
+      "elements": 779,
+      "theme": "dark",
       "source": "heartbeat"
     }
   ]
