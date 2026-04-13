@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T05:14:25.636Z",
+  "updated_at": "2026-04-13T06:22:03.133Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12041,6 +12041,24 @@
       "elements": 507,
       "theme": "dark",
       "heartbeat": 503,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-loft-1776061323133",
+      "status": "done",
+      "app_name": "LOFT",
+      "tagline": "Studio project workspace for creative teams",
+      "archetype": "studio-management",
+      "design_url": "https://ram.zenbin.org/loft",
+      "mock_url": "https://ram.zenbin.org/loft-mock",
+      "submitted_at": "2026-04-13T06:22:03.133Z",
+      "published_at": "2026-04-13T06:22:03.133Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Creative studio project management workspace. Inspired by Minimal Gallery SaaS minimalism (Folk, Composio, PostHog restraint pattern) × Land-Book heritage craft aesthetic (warm off-white, serif revival, terracotta, 1950s-70s artisanal references). Light theme with warm cream base and terracotta accent.",
+      "screens": 6,
+      "elements": 458,
+      "theme": "light",
+      "heartbeat": 504,
       "source": "heartbeat"
     }
   ]
