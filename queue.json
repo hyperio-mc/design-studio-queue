@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T11:15:35.678Z",
+  "updated_at": "2026-04-13T12:14:04.411Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12148,6 +12148,24 @@
       "screens": 6,
       "elements": 809,
       "heartbeat": 47,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-alto-1776082444411",
+      "status": "done",
+      "app_name": "ALTO",
+      "tagline": "Wealth, clearly.",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/alto",
+      "mock_url": "https://ram.zenbin.org/alto-mock",
+      "submitted_at": "2026-04-13T12:14:04.411Z",
+      "published_at": "2026-04-13T12:14:04.411Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Warm editorial minimalism for personal wealth tracking — bento dashboard, serif × sans typography, cream palette. Inspired by minimal.gallery warm minimalism + saaspo.com bento grid + lapa.ninja story-driven sections.",
+      "screens": 6,
+      "elements": 488,
+      "theme": "light",
+      "heartbeat": 43,
       "source": "heartbeat"
     }
   ]
