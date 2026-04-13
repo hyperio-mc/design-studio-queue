@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T12:14:04.411Z",
+  "updated_at": "2026-04-13T12:33:44.714Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12166,6 +12166,24 @@
       "elements": 488,
       "theme": "light",
       "heartbeat": 43,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-koji-1776083624714",
+      "status": "done",
+      "app_name": "KOJI",
+      "tagline": "Fermentation Culture Companion",
+      "archetype": "fermentation-lifestyle",
+      "design_url": "https://ram.zenbin.org/koji",
+      "mock_url": "https://ram.zenbin.org/koji-mock",
+      "submitted_at": "2026-04-13T12:33:44.714Z",
+      "published_at": "2026-04-13T12:33:44.714Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Fermentation culture companion app. Dark theme — deep forest-black #0A1208 base (warm green undertone), warm amber #D97706 accent. Organic bubble scatter motifs on each screen — subtle imperfection as trust signal (NNGroup \"Handmade Designs: The New Trust Signal\", Apr 2026). Culture as protagonist: Timeline screen tells the culture's story as a narrative arc, not a data log. Inspired by Dribbble warm amber/honey on dark organic palette trend (Apr 2026), WGSN Transformative Teal 2026 (consumer appetite for understanding natural processes), Reddit r/UI_Design via Muzli \"non-quantified living systems\" category gap. JetBrains Mono for all pH values and data readings — precision signal. Activity glow strips on culture cards (amber intensity = activity level). Science screen: pH trend chart with optimal zone band (3.5–4.5), rise timeline bars, plain-language biological context note. Diagnose screen: symptom selector → narrative diagnosis (not error codes). Bake screen: recipe suggestions matched to culture readiness state. 6 screens: Cultures (overview + activity glow), Timeline (14-day narrative), Feed (ratio selector, flour type, sensory notes), Science (pH chart + rise bars + biology note), Diagnose (symptom → narrative), Bake (readiness-matched recipes).",
+      "screens": 6,
+      "elements": 733,
+      "theme": "dark",
+      "heartbeat": 503,
       "source": "heartbeat"
     }
   ]
