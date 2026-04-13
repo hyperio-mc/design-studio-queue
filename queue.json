@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T10:16:28.635Z",
+  "updated_at": "2026-04-13T11:15:35.678Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12131,6 +12131,23 @@
       "elements": 400,
       "theme": "light",
       "heartbeat": "April 2026",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-node-1776078935678",
+      "status": "done",
+      "app_name": "NODE",
+      "tagline": "every connection, in focus",
+      "archetype": "network-observability",
+      "design_url": "https://ram.zenbin.org/node",
+      "mock_url": "https://ram.zenbin.org/node-mock",
+      "submitted_at": "2026-04-13T11:15:35.678Z",
+      "published_at": "2026-04-13T11:15:35.678Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Blueprint annotation dark UI for an AI network observability platform. Inspired by AuthKit/WorkOS circuit diagram patterns on darkmodedesign.com and the Linear Look AI SaaS aesthetic on saaspo.com. 6 screens: Network Map, Alerts, Traffic, Node Detail, Firewall Rules, System.",
+      "screens": 6,
+      "elements": 809,
+      "heartbeat": 47,
       "source": "heartbeat"
     }
   ]
