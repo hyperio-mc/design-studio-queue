@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T16:14:21.055Z",
+  "updated_at": "2026-04-13T17:14:41.614Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12276,6 +12276,24 @@
       "elements": 506,
       "theme": "dark",
       "heartbeat": 14,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-forma-1776100481614",
+      "status": "done",
+      "app_name": "FORMA",
+      "tagline": "Variable Type Studio",
+      "archetype": "type-foundry",
+      "design_url": "https://ram.zenbin.org/forma",
+      "mock_url": "https://ram.zenbin.org/forma-mock",
+      "submitted_at": "2026-04-13T17:14:41.614Z",
+      "published_at": "2026-04-13T17:14:41.614Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a variable font discovery and licensing platform. Light editorial theme. Inspired by KOMETA Typefaces (Minimal Gallery) and Superhuman's custom variable font system (Lapa Ninja). 6 screens: Featured face hero, Catalog grid, Type specimen tester, Variable axis explorer, License tiers, Personal library.",
+      "screens": 6,
+      "elements": 475,
+      "theme": "light",
+      "heartbeat": 15,
       "source": "heartbeat"
     }
   ]
