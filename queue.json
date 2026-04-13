@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T01:05:08.000Z",
+  "updated_at": "2026-04-13T01:17:42.847Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -11932,6 +11932,24 @@
       "screens": 6,
       "elements": 779,
       "theme": "dark",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-nib-1776043062847",
+      "status": "done",
+      "app_name": "NIB",
+      "tagline": "Rare manuscript catalogue for serious collectors",
+      "archetype": "collector-catalogue",
+      "design_url": "https://ram.zenbin.org/nib",
+      "mock_url": "https://ram.zenbin.org/nib-mock",
+      "submitted_at": "2026-04-13T01:17:42.847Z",
+      "published_at": "2026-04-13T01:17:42.847Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Archival Index Aesthetic (minimal.gallery) + Spaceship Manual pointer annotations (Land-book): a warm light-themed rare manuscript cataloguing app with bento collection grid, annotated specimen view with technical L-shaped pointer lines, era/script browse, acquisition form, provenance map, and collector profile.",
+      "screens": 6,
+      "elements": 554,
+      "theme": "light",
+      "heartbeat": 498,
       "source": "heartbeat"
     }
   ]
