@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T15:18:55.428Z",
+  "updated_at": "2026-04-13T16:14:21.055Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12257,6 +12257,25 @@
       "screens": 6,
       "elements": 1761,
       "theme": "light",
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-mono-1776096861055",
+      "status": "done",
+      "app_name": "MONO",
+      "tagline": "numbers stripped bare",
+      "archetype": "personal-finance",
+      "design_url": "https://ram.zenbin.org/mono",
+      "viewer_url": "https://ram.zenbin.org/mono-viewer",
+      "mock_url": "https://ram.zenbin.org/mono-mock",
+      "submitted_at": "2026-04-13T16:14:21.055Z",
+      "published_at": "2026-04-13T16:14:21.055Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Personal finance tracker — pure monochromatic dark palette, zero color accent, alternating solid/hollow typography (Uptec on DarkModeDesign.com), geometric grid scaffolding, ghost oversized numbers as background texture.",
+      "screens": 6,
+      "elements": 506,
+      "theme": "dark",
+      "heartbeat": 14,
       "source": "heartbeat"
     }
   ]
