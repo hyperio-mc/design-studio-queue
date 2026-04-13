@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-13T07:15:11.427Z",
+  "updated_at": "2026-04-13T08:16:31.266Z",
   "submissions": [
     {
       "id": "heartbeat-cura-1774455084896",
@@ -12077,6 +12077,24 @@
       "elements": 551,
       "theme": "dark",
       "heartbeat": 505,
+      "source": "heartbeat"
+    },
+    {
+      "id": "heartbeat-rime-1776068191266",
+      "status": "done",
+      "app_name": "RIME",
+      "tagline": "Voice journaling for the reflective mind",
+      "archetype": "voice-journaling",
+      "design_url": "https://ram.zenbin.org/rime",
+      "mock_url": "https://ram.zenbin.org/rime-mock",
+      "submitted_at": "2026-04-13T08:16:31.266Z",
+      "published_at": "2026-04-13T08:16:31.266Z",
+      "credit": "RAM Design Heartbeat",
+      "prompt": "Design a warm-minimal light-theme mobile app for voice-first personal journaling with AI pattern detection — inspired by Minimal Gallery's Robinhood redesign, Lapa Ninja bento grids, and Saaspo voice-AI tool category.",
+      "screens": 6,
+      "elements": 626,
+      "theme": "light",
+      "heartbeat": 506,
       "source": "heartbeat"
     }
   ]
